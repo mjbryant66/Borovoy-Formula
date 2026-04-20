@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Borovoy Coefficient — System Architecture</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --cream: #F5F1E8;
+  --paper: #FEFBF5;
+  --sage: #7A8471;
+  --forest: #2C3A2C;
+  --rust: #A66B4A;
+  --ink: #2A2824;
+  --ink-soft: #5A544C;
+  --mist: #E8E2D3;
+}
+body { background: var(--cream); font-family: 'Inter', sans-serif; color: var(--ink); margin: 0; padding: 48px 24px; }
+.wrap { max-width: 1100px; margin: 0 auto; }
+h1 { font-family: 'Fraunces', serif; font-weight: 400; font-size: 42px; color: var(--forest); margin-bottom: 8px; }
+.sub { color: var(--ink-soft); font-style: italic; margin-bottom: 40px; }
+.layer {
+  background: var(--paper);
+  border: 1px solid var(--mist);
+  padding: 24px 28px;
+  margin-bottom: 14px;
+  position: relative;
+}
+.layer-kicker { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--sage); font-weight: 600; }
+.layer-title { font-family: 'Fraunces', serif; font-size: 22px; color: var(--forest); font-weight: 500; margin: 6px 0 14px; }
+.layer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; }
+.component {
+  background: var(--cream);
+  border-left: 3px solid var(--sage);
+  padding: 14px 18px;
+  font-size: 14px;
+}
+.component strong { font-family: 'Fraunces', serif; color: var(--forest); display: block; margin-bottom: 4px; }
+.component span { color: var(--ink-soft); font-size: 13px; }
+.arrow { text-align: center; font-family: 'JetBrains Mono', monospace; color: var(--rust); padding: 4px 0; font-size: 14px; }
+.legend { margin-top: 48px; padding: 24px; background: var(--mist); font-size: 14px; }
+.legend h3 { font-family: 'Fraunces', serif; font-weight: 500; font-size: 18px; color: var(--forest); margin-bottom: 10px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Borovoy Coefficient — System Architecture</h1>
+<p class="sub">From law text to coefficient to dashboard, five layers.</p>
+
+<div class="layer" style="border-left: 4px solid var(--rust);">
+  <div class="layer-kicker">Layer 1 · Inputs</div>
+  <div class="layer-title">What we feed the system</div>
+  <div class="layer-grid">
+    <div class="component"><strong>Statute text</strong><span>Preamble, purpose clause, operative sections</span></div>
+    <div class="component"><strong>Stated purpose</strong><span>Hansard, regulatory impact analysis, preamble</span></div>
+    <div class="component"><strong>Observed effects</strong><span>Reports, empirical studies, enforcement data</span></div>
+    <div class="component"><strong>Rights impacts</strong><span>Charter jurisprudence, scholarly critique</span></div>
+    <div class="component"><strong>Enforcement record</strong><span>Disaggregated enforcement patterns</span></div>
+  </div>
+</div>
+
+<div class="arrow">↓</div>
+
+<div class="layer" style="border-left: 4px solid var(--sage);">
+  <div class="layer-kicker">Layer 2 · Scoring engine</div>
+  <div class="layer-title">The Borovoy Scorer</div>
+  <div class="layer-grid">
+    <div class="component"><strong>Claude (Opus/Sonnet)</strong><span>Temperature 0 · structured reasoning</span></div>
+    <div class="component"><strong>Scoring prompt v1.0</strong><span>Canonical prompt, dimensions, schema</span></div>
+    <div class="component"><strong>Doctrine anchors</strong><span>Vavilov · Oakes · Heywood · Charter · R v Le</span></div>
+    <div class="component"><strong>Alignment anchors</strong><span>Hubinger · Goodhart · Krakovna · Cohen-Hutter</span></div>
+  </div>
+</div>
+
+<div class="arrow">↓</div>
+
+<div class="layer" style="border-left: 4px solid var(--forest);">
+  <div class="layer-kicker">Layer 3 · Outputs</div>
+  <div class="layer-title">Structured JSON per law</div>
+  <div class="layer-grid">
+    <div class="component"><strong>Composite coefficient</strong><span>0-100 weighted score</span></div>
+    <div class="component"><strong>Dimension breakdown</strong><span>5 individual scores</span></div>
+    <div class="component"><strong>Drift vectors</strong><span>Goodhart-variant-tagged</span></div>
+    <div class="component"><strong>Evidence citations</strong><span>Cases + scholarly sources</span></div>
+    <div class="component"><strong>Design reforms</strong><span>Prospective drafting proposals</span></div>
+    <div class="component"><strong>Lay summary</strong><span>Three plain-English sentences</span></div>
+  </div>
+</div>
+
+<div class="arrow">↓</div>
+
+<div class="layer" style="border-left: 4px solid var(--rust);">
+  <div class="layer-kicker">Layer 4 · Presentation</div>
+  <div class="layer-title">Dashboard &amp; publication</div>
+  <div class="layer-grid">
+    <div class="component"><strong>Leaderboard</strong><span>Ranked by coefficient, filterable</span></div>
+    <div class="component"><strong>Per-law detail card</strong><span>Radar chart · drift vectors · evidence · reforms</span></div>
+    <div class="component"><strong>Cross-jurisdiction heatmap</strong><span>All laws × all dimensions</span></div>
+    <div class="component"><strong>Paper + spec + scoring prompt</strong><span>Scholarly publication</span></div>
+  </div>
+</div>
+
+<div class="arrow">↓</div>
+
+<div class="layer" style="border-left: 4px solid var(--sage);">
+  <div class="layer-kicker">Layer 5 · Feedback &amp; drafting reform</div>
+  <div class="layer-title">The rebuttable-presumption loop</div>
+  <div class="layer-grid">
+    <div class="component"><strong>Judicial findings</strong><span>New cases update scores</span></div>
+    <div class="component"><strong>Empirical studies</strong><span>New data updates D₃, D₄, D₅</span></div>
+    <div class="component"><strong>Legislative amendments</strong><span>Narrowing/broadening triggers re-score</span></div>
+    <div class="component"><strong>Drafting principles</strong><span>Sunset clauses · reporting · oversight · narrowing</span></div>
+  </div>
+</div>
+
+<div class="legend">
+  <h3>Legend</h3>
+  <p><strong>Permissionless demo path:</strong> pre-scored corpus.json ships with the dashboard; no API key required to view. Scoring new laws requires Claude API credentials via the Next.js API route (optional productionization).</p>
+  <p><strong>Versioning:</strong> formula spec + scoring prompt are versioned (v1.0). Weight tuning requires a version bump and published changelog.</p>
+</div>
+</div>
+</body>
+</html>

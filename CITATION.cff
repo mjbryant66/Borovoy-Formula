@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "The Borovoy Coefficient: A Civil-Liberties Measure of Legislative Alignment"
+message: "If you use this Code or its measurement methodology, please cite it as below."
+type: software
+authors:
+  - family-names: "Bryant"
+    given-names: "Michael"
+    affiliation: "Justack.ai"
+    orcid: ""
+repository-code: "https://github.com/mjbryant66/borovoy-coefficient"
+url: "https://github.com/mjbryant66/borovoy-coefficient"
+license: MPL-2.0
+version: "1.0.0"
+date-released: "2026-04-16"
+keywords:
+  - civil liberties
+  - legislative alignment
+  - AI alignment
+  - Canadian constitutional law
+  - Borovoy
+  - Goodhart's Law
+  - measurement
+  - legal technology
+abstract: >-
+  A 0-to-100 composite measure of the gap between a law's stated purpose and
+  its observed rights-respecting performance, scored across five dimensions each
+  grounded in a recognized Canadian constitutional doctrine (Vavilov, Oakes,
+  Heywood/Bedford, Charter, R v Le) and in the machine-learning alignment
+  taxonomy (outer/inner alignment, Goodhart variants, mesa-optimization, reward
+  tampering). In honour of Alfred Alan Borovoy, O.C. (1932-2015), General
+  Counsel of the Canadian Civil Liberties Association 1968-2009.
+preferred-citation:
+  type: article
+  title: "The Borovoy Coefficient: A Civil-Liberties Measure of Legislative Alignment"
+  authors:
+    - family-names: "Bryant"
+      given-names: "Michael"
+  year: 2026
+  version: "1.0"
