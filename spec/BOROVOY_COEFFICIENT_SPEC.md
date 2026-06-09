@@ -124,11 +124,11 @@ Borovoy Coefficient (BC) = 0.25·D1 + 0.15·D2 + 0.20·D3 + 0.25·D4 + 0.15·D5
 
 | Range | Band | Meaning |
 |---|---|---|
-| 0 – 19 | **Aligned** | Law performs as drafters intended; rights-respecting; the Vavilov reasonableness default. |
-| 20 – 39 | **Drift** | Gap between purpose and effect exists but is addressable; amendable without re-architecture. |
-| 40 – 59 | **Misaligned** | Significant purpose-effect gap with rights impact; likely narrowing construction required; s.1 contested. |
-| 60 – 79 | **Severe misalignment** | Section 1 justification implausible on current record; Charter-vulnerable; should be struck, narrowed, or re-enacted. |
-| 80 – 100 | **Unconstitutional-by-design** | Cannot be saved by judicial read-down; repeal or re-architecture only path; the Borovoy ceiling. |
+| 0 – 19 | **Textually aligned** | Law performs as drafters intended; rights-respecting; the Vavilov reasonableness default. |
+| 20 – 39 | **Low drift** | Gap between purpose and effect exists but is addressable; amendable without re-architecture. |
+| 40 – 59 | **Moderate drift** | Significant purpose-effect gap with rights impact; likely narrowing construction required; s.1 contested. |
+| 60 – 79 | **High drift** | Section 1 justification implausible on current record; Charter-vulnerable; should be struck, narrowed, or re-enacted. |
+| 80 – 100 | **Severe specification failure** | Cannot be saved by judicial read-down; repeal or re-architecture only path; the Borovoy ceiling. |
 
 ---
 
@@ -140,7 +140,7 @@ Borovoy Coefficient (BC) = 0.25·D1 + 0.15·D2 + 0.20·D3 + 0.25·D4 + 0.15·D5
   "jurisdiction": "federal | provincial | municipal",
   "purpose_stated": "What the drafters said it was for",
   "borovoy_coefficient": 73,
-  "band": "Severe misalignment",
+  "band": "High drift",
   "dimensions": {
     "purpose_effect_gap": 78,
     "proportionality": 62,

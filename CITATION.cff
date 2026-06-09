@@ -1,17 +1,22 @@
 cff-version: 1.2.0
 title: "The Borovoy Coefficient: A Civil-Liberties Measure of Legislative Alignment"
-message: "If you use this Code or its measurement methodology, please cite it as below."
+message: "If you use this code or its measurement methodology, please cite it as below."
 type: software
 authors:
   - family-names: "Bryant"
     given-names: "Michael"
     affiliation: "Justack.ai"
-    orcid: ""
-repository-code: "https://github.com/mjbryant66/borovoy-coefficient"
-url: "https://github.com/mjbryant66/borovoy-coefficient"
+repository-code: "https://github.com/mjbryant66/Borovoy-Formula"
+url: "https://github.com/mjbryant66/Borovoy-Formula"
 license: MPL-2.0
-version: "1.0.0"
-date-released: "2026-04-16"
+version: "1.6.0"
+date-released: "2026-06-08"
+identifiers:
+  - type: doi
+    value: "10.2139/ssrn.6685759"
+    description: "SSRN version of record (paper)"
+  # Zenodo DOI for the archived code release is minted on the v1.6.0 GitHub
+  # release and should be added here as a second `doi` identifier.
 keywords:
   - civil liberties
   - legislative alignment
@@ -36,4 +41,6 @@ preferred-citation:
     - family-names: "Bryant"
       given-names: "Michael"
   year: 2026
-  version: "1.0"
+  version: "1.6"
+  doi: "10.2139/ssrn.6685759"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685759"

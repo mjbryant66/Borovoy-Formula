@@ -25,7 +25,7 @@ A published method for measuring the gap between what a law promises and what it
 ## What this folder contains
 
 - **Published formulas** — [spec/MTM_FORMULAS.md](./spec/MTM_FORMULAS.md) — all three tiers with math, inputs, intermediate quantities, and a worked example
-- **The paper** — [paper/PAPER_v1.5.md](./paper/PAPER_v1.5.md) — ~10,800 words; cross-jurisdictional (Canada / US / UK) bridge between Borovoy's fifty-year civil-liberties diagnosis and the AI-alignment literature
+- **The paper** — [paper/The_Borovoy_Coefficient_v1.6.pdf](./paper/The_Borovoy_Coefficient_v1.6.pdf) (v1.6, 25 pp) — cross-jurisdictional (Canada / US / UK) bridge between Borovoy's fifty-year civil-liberties diagnosis and the AI-alignment literature Public homes: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685759) and arXiv (cs.CY, forthcoming).
 - **Original 5-dimension spec** — [spec/BOROVOY_COEFFICIENT_SPEC.md](./spec/BOROVOY_COEFFICIENT_SPEC.md) — superseded by `MTM_FORMULAS.md` but retained for reference
 - **Scorer backend** — [scorer/](./scorer/) — Bun TypeScript CLI that calls Gemini to score laws on MTM-L
 - **15-law prototype corpus** — [corpus/corpus.json](./corpus/corpus.json) — scored
@@ -75,6 +75,16 @@ The "laws miss their mark" insight is not proprietary. Borovoy advocated it thro
 
 Bryant, M. (2026). *The Borovoy Coefficient — Missing the Mark: A Published Method for Measuring Legislative Alignment*. Justack.ai. MPL-2.0.
 
+## Code and data availability
+
+This repository is one component of a cross-linked publication package. The same work lives in three places, each citable:
+
+- **Paper** — preprint on **arXiv** (cs.CY, forthcoming) and version of record on **SSRN**: [10.2139/ssrn.6685759](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685759). Paper text licensed **CC BY 4.0**.
+- **Code, corpus, and scorer** — this repository, [github.com/mjbryant66/Borovoy-Formula](https://github.com/mjbryant66/Borovoy-Formula), archived at a **Zenodo DOI** (minted on the `v1.6.0` release — *DOI to be added here*). Code licensed **MPL-2.0**; corpus and calibration data licensed **CC0**.
+- **Live tool** — the open dashboard at [justack.ai/borovoy](https://justack.ai/borovoy).
+
+The corpus scores are unchanged from the v1.0 prototype run; the v1.6 interpretation-band labels (Textually aligned / Low drift / Moderate drift / High drift / Severe specification failure) are applied throughout.
+
 ## Version
 
 - **v1.0** (2026-04-17) — MTM-Literal live; MTM-F + MTM-C specifications published.
@@ -83,3 +93,4 @@ Bryant, M. (2026). *The Borovoy Coefficient — Missing the Mark: A Published Me
 - **v1.3** (2026-04-18) — Chat Claude organizational pass: Section I alignment-primer material moved to Section II; cross-jurisdictional catalogues moved to Section III; Section VII A/B/C/D sub-sections added; Section IV Merton-defense opener removed; italicized "Misalignment arises…" pull-quote removed as redundant.
 - **v1.4** (2026-04-18) — Michael hand-edits incorporated (abstract paragraph rewrite; seven Section I refinements). *Power-hoarding fallacy* removed as hallucinated. Section I error-rates paragraph compressed from 459 words + 8 footnotes to 145 words + 1 consolidated footnote. Five substantive citation corrections (Fehr publication status; Guha first-name; Hennessy first-name; Siegel title confusion; McGill 9th ed normalization throughout).
 - **v1.5** (2026-04-19) — methodological honesty pass: §V rewritten to frame MTM-L as shipped and MTM-F / MTM-C as roadmap; presumption-of-constitutionality paragraph added; interpretation bands relabelled as specification-failure severity (dropping "Unconstitutional-by-design" as a label a scorer is not entitled to claim); calibration evidence (AUC 0.54 / Brier 0.23) reported in-paper; Part VI vignette BC numbers explicitly labelled as illustrative hand-scores pending automated rescoring.
+- **v1.6** (2026-06-08) — publication-package release: interpretation-band labels updated across corpus, spec, scorer prompt, and dashboard to the final v1.6 scheme (Textually aligned / Low drift / Moderate drift / High drift / Severe specification failure); numeric scores unchanged. Repository reconciled to the final paper (intermediate drafts removed; single v1.6 PDF retained); README "Code and data availability" section added cross-linking arXiv, SSRN, Zenodo, and the dashboard.

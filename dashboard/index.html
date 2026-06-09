@@ -442,7 +442,7 @@ section.alt { background: var(--paper); }
     <h2 class="sec-title">Five dimensions. Each one <em>falsifiable</em>, each one anchored.</h2>
     <div class="sec-body">
       <p>The Coefficient does not ask whether a law is good. It asks, precisely: does the language do what the preamble says? Are the rights-affecting effects proportionate to the salutary objective? Is the conduct captured the conduct drafters targeted? Is the severity of intrusion survivable? Is the bureaucracy administering the law optimizing something different than what the statute chartered?</p>
-      <p>These are Borovoy's questions from five decades of civil-liberties practice. They are also — with no stretching required — the inner-alignment, outer-alignment, and Goodhart-variant questions that machine-learning researchers ask of learned systems. <a href="../paper/PAPER.md" style="color: var(--rust); border-bottom: 1px dotted var(--rust); text-decoration: none;">The paper</a> makes that structural identity explicit, with Hennessy &amp; Goodhart (2023) as the mathematical bridge.</p>
+      <p>These are Borovoy's questions from five decades of civil-liberties practice. They are also — with no stretching required — the inner-alignment, outer-alignment, and Goodhart-variant questions that machine-learning researchers ask of learned systems. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685759" style="color: var(--rust); border-bottom: 1px dotted var(--rust); text-decoration: none;">The paper</a> makes that structural identity explicit, with Hennessy &amp; Goodhart (2023) as the mathematical bridge.</p>
     </div>
     <div class="formula-box">
       <div class="formula-line"><strong>BC = 0.25 · D₁ + 0.15 · D₂ + 0.20 · D₃ + 0.25 · D₄ + 0.15 · D₅</strong></div>
@@ -483,11 +483,11 @@ section.alt { background: var(--paper); }
     <div style="margin-top: 48px; padding: 24px; background: var(--mist); border-left: 3px solid var(--rust);">
       <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--sage); font-weight: 600; margin-bottom: 10px;">Interpretation bands</div>
       <div style="display: flex; flex-wrap: wrap; gap: 18px;">
-        <span><span class="band-pill aligned">0-19 Aligned</span></span>
-        <span><span class="band-pill drift">20-39 Drift</span></span>
-        <span><span class="band-pill misaligned">40-59 Misaligned</span></span>
-        <span><span class="band-pill severe">60-79 Severe</span></span>
-        <span><span class="band-pill unconstitutional">80-100 Unconstitutional-by-design</span></span>
+        <span><span class="band-pill aligned">0-19 Textually aligned</span></span>
+        <span><span class="band-pill drift">20-39 Low drift</span></span>
+        <span><span class="band-pill misaligned">40-59 Moderate drift</span></span>
+        <span><span class="band-pill severe">60-79 High drift</span></span>
+        <span><span class="band-pill unconstitutional">80-100 Severe specification failure</span></span>
       </div>
     </div>
   </div>
@@ -659,7 +659,7 @@ section.alt { background: var(--paper); }
       <div>
         <h5>Documents</h5>
         <ul>
-          <li><a href="../paper/PAPER.md">The paper</a></li>
+          <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685759">The paper</a></li>
           <li><a href="../spec/MTM_FORMULAS.md">Missing-the-Mark formulas</a></li>
           <li><a href="../spec/BOROVOY_COEFFICIENT_SPEC.md">Five-dimension spec</a></li>
           <li><a href="../corpus/corpus.json">Corpus (JSON)</a></li>
@@ -703,11 +703,11 @@ async function loadCorpus() {
 }
 
 function bandClass(band) {
-  if (band === 'Aligned') return 'aligned';
-  if (band === 'Drift') return 'drift';
-  if (band === 'Misaligned') return 'misaligned';
-  if (band === 'Severe misalignment') return 'severe';
-  if (band === 'Unconstitutional-by-design') return 'unconstitutional';
+  if (band === 'Textually aligned') return 'aligned';
+  if (band === 'Low drift') return 'drift';
+  if (band === 'Moderate drift') return 'misaligned';
+  if (band === 'High drift') return 'severe';
+  if (band === 'Severe specification failure') return 'unconstitutional';
   return 'drift';
 }
 function bandColor(score) {

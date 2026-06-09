@@ -240,6 +240,6 @@ Before quoting any MTM-L number in a publication:
 ## 10. Questions / contact
 
 - Issues: GitHub Issues (this repo)
-- Paper: `paper/PAPER_v1.5.md`
+- Paper: `paper/The_Borovoy_Coefficient_v1.6.pdf` (v1.6); public: SSRN 10.2139/ssrn.6685759, arXiv cs.CY (forthcoming)
 - Live dashboard: **https://justack.ai/borovoy**
 - Author: Michael Bryant — founder, justack.ai; former General Counsel and Executive Director, CCLA (2018–2022)
