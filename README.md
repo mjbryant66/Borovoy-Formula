@@ -2,6 +2,8 @@
 
 **A civil-liberties measure of legislative alignment**
 
+[![DOI](https://zenodo.org/badge/1215522186.svg)](https://doi.org/10.5281/zenodo.20612533)
+
 *In honour of Alfred Alan Borovoy, O.C. (1932-2015), General Counsel, Canadian Civil Liberties Association 1968-2009 — whose insight that laws miss their mark this tool attempts to measure. The insight is his contribution to Canadian civil-liberties thought; the attribution is tribute, not appropriation.*
 
 ---
@@ -80,7 +82,7 @@ Bryant, M. (2026). *The Borovoy Coefficient — Missing the Mark: A Published Me
 This repository is one component of a cross-linked publication package. The same work lives in three places, each citable:
 
 - **Paper** — preprint on **arXiv** (cs.CY, forthcoming) and version of record on **SSRN**: [10.2139/ssrn.6685759](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685759). Paper text licensed **CC BY 4.0**.
-- **Code, corpus, and scorer** — this repository, [github.com/mjbryant66/Borovoy-Formula](https://github.com/mjbryant66/Borovoy-Formula), archived at a **Zenodo DOI** (minted on the `v1.6.0` release — *DOI to be added here*). Code licensed **MPL-2.0**; corpus and calibration data licensed **CC0**.
+- **Code, corpus, and scorer** — this repository, [github.com/mjbryant66/Borovoy-Formula](https://github.com/mjbryant66/Borovoy-Formula), archived on **Zenodo**: concept DOI [10.5281/zenodo.20612533](https://doi.org/10.5281/zenodo.20612533) (always resolves to the latest version); the `v1.6.0` release is [10.5281/zenodo.20612534](https://doi.org/10.5281/zenodo.20612534). Code licensed **MPL-2.0**; corpus and calibration data licensed **CC0**.
 - **Live tool** — the open dashboard at [justack.ai/borovoy](https://justack.ai/borovoy).
 
 The corpus scores are unchanged from the v1.0 prototype run; the v1.6 interpretation-band labels (Textually aligned / Low drift / Moderate drift / High drift / Severe specification failure) are applied throughout.

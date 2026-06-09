@@ -13,10 +13,14 @@ version: "1.6.0"
 date-released: "2026-06-08"
 identifiers:
   - type: doi
+    value: "10.5281/zenodo.20612533"
+    description: "Zenodo concept DOI (archived code, all versions)"
+  - type: doi
+    value: "10.5281/zenodo.20612534"
+    description: "Zenodo DOI for the v1.6.0 release"
+  - type: doi
     value: "10.2139/ssrn.6685759"
     description: "SSRN version of record (paper)"
-  # Zenodo DOI for the archived code release is minted on the v1.6.0 GitHub
-  # release and should be added here as a second `doi` identifier.
 keywords:
   - civil liberties
   - legislative alignment
