@@ -54,7 +54,7 @@ bun ground-truth.ts
 bun calibrate.ts
 ```
 
-Requires `GOOGLE_API_KEY` in `~/.claude/.env` (Gemini 2.5 Pro at temperature 0).
+Requires `GOOGLE_API_KEY` in `~/.claude/.env` (Gemini 3.8 Flash at temperature 1.0; the published v1.6 extractions used Gemini 2.5 Pro at temperature 0).
 
 ## The MTM-L finding, honestly reported (v1.0, n=15 corpus, 33-case ground truth)
 

@@ -1,7 +1,9 @@
 import { GoogleGenerativeAI, type GenerationConfig } from "@google/generative-ai";
 import { requireEnv } from "./env.ts";
 
-export const DEFAULT_MODEL = "gemini-2.5-pro";
+export const DEFAULT_MODEL = "gemini-3.8-flash";
+// Google advises temperature 1.0 for Gemini 3 models. v1.6 extractions used gemini-2.5-pro at 0.
+export const DEFAULT_TEMPERATURE = 1.0;
 
 export const MTM_L_EXTRACTION_PROMPT = `You are extracting structured data from a Canadian statute to compute the MTM-Literal ("Missing the Mark, Literally") score. You DO NOT assess the law. You extract structure.
 
@@ -35,7 +37,7 @@ export async function callGeminiJSON<T>(opts: {
   });
 
   const generationConfig: GenerationConfig = {
-    temperature: 0,
+    temperature: DEFAULT_TEMPERATURE,
     responseMimeType: "application/json",
     // @ts-expect-error — responseSchema is supported at runtime by Gemini SDK
     responseSchema: opts.responseSchema,

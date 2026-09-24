@@ -1,6 +1,6 @@
 # scorer — Missing the Mark CLI (v1.0)
 
-Bun TypeScript scorer for MTM-Literal. Calls Gemini 2.5 Pro at temperature 0 with a structured response schema, then computes the published formula in TypeScript (no LLM-in-the-loop for math).
+Bun TypeScript scorer for MTM-Literal. Calls Gemini 3.8 Flash at temperature 1.0 with a structured response schema, then computes the published formula in TypeScript (no LLM-in-the-loop for math).
 
 ## Setup
 

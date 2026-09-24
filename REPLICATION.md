@@ -64,8 +64,7 @@ Optional flags:
 ```bash
 --alpha 0.5    # weight on (1 − F), Faithfulness penalty
 --beta  0.5    # weight on X, Excess penalty
---model gemini-2.5-pro   # override the default extraction model
---temperature 0          # default; deterministic extraction
+--model gemini-3.8-flash # override the default extraction model
 ```
 
 The output (`scored/fed-06.json`) is an `MTMLResult` per `scorer/lib/schema.ts`:
@@ -157,6 +156,8 @@ console.log(`${bad} mismatches`);
 Run from the repository root. At v1.6 it reports 0 mismatches.
 
 Re-running the extraction itself is a different matter. The stored extractions were made with `gemini-2.5-pro` at temperature 0, and every stored provision is marked "(from training data)", meaning the model supplied it from its own knowledge of the statute rather than from text in the input. Google has announced a retirement date for `gemini-2.5-pro` on Vertex AI and has limited Gemini API access to existing users, so that model may stop being available. A fresh extraction on any other model is a new measurement, not a replication of v1.6, and should be reported with the model version it used.
+
+From this release the scorer defaults to `gemini-3.8-flash` on the Gemini API at temperature 1.0 (`DEFAULT_MODEL` and `DEFAULT_TEMPERATURE` in `scorer/lib/gemini.ts`), because Google advises temperature 1.0 for Gemini 3 models. The temperature is set in code, not by a command-line flag. At temperature 1.0 two runs on the same law can list different provisions, so report the run date and the `model` field with any fresh score.
 
 ---
 
