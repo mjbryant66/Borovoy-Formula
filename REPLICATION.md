@@ -126,6 +126,38 @@ Fitted β = 0.5021 [95% CI 0.4995, 0.5069]
 
 This null result is reported openly in the paper (§V) and dashboard.
 
+### Reproducing the v1.6 results without calling a model
+
+The published v1.6 scores reproduce from the stored extractions alone. Each `scored/*.json` file holds the full extraction (`purposes`, `provisions`, `serves_matrix`) along with α and β, and the score is arithmetic on that matrix:
+
+```
+MTM-L = 100 · [α·(1 − F) + β·X]
+  F = fraction of purposes with at least one 1 in their serves_matrix column
+  X = fraction of provisions whose serves_matrix row is all 0
+```
+
+To check all 15 published scores against the stored extractions, with no API key and no model call:
+
+```bash
+bun -e '
+import { readdirSync, readFileSync } from "fs";
+import { computeMTMLiteral } from "./scorer/lib/math.ts";
+let bad = 0;
+for (const f of readdirSync("scored").filter((f) => /^[a-z]+-\d+\.json$/.test(f))) {
+  const r = JSON.parse(readFileSync(`scored/${f}`, "utf8"));
+  const { score } = computeMTMLiteral(r, r.alpha, r.beta);
+  const ok = Math.abs(score - r.mtm_l) < 0.005;
+  if (!ok) bad++;
+  console.log(f, r.mtm_l, score.toFixed(2), ok ? "OK" : "MISMATCH");
+}
+console.log(`${bad} mismatches`);
+'
+```
+
+Run from the repository root. At v1.6 it reports 0 mismatches.
+
+Re-running the extraction itself is a different matter. The stored extractions were made with `gemini-2.5-pro` at temperature 0, and every stored provision is marked "(from training data)", meaning the model supplied it from its own knowledge of the statute rather than from text in the input. Google has announced a retirement date for `gemini-2.5-pro` on Vertex AI and has limited Gemini API access to existing users, so that model may stop being available. A fresh extraction on any other model is a new measurement, not a replication of v1.6, and should be reported with the model version it used.
+
 ---
 
 ## 5. Sensitivity analysis — varying α, β
