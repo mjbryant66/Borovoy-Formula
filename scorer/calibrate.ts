@@ -4,12 +4,14 @@ import { resolve } from "node:path";
 import { Command } from "commander";
 import type { MTMLResult, GroundTruthRecord } from "./lib/schema.ts";
 import { auc, brier, reliabilityDiagram, fitWeights, bootstrapWeights } from "./lib/math.ts";
+import { repoPath, guardPublished } from "./lib/paths.ts";
 
 const program = new Command();
 program
-  .option("-s, --scored <dir>", "scored dir", "../scored")
-  .option("-g, --ground-truth <path>", "ground-truth json", "../corpus/ground-truth.json")
-  .option("-o, --out <dir>", "output dir", "../calibration");
+  .option("-s, --scored <dir>", "scored dir (default: the published v1.6 extractions)", repoPath("scored"))
+  .option("-g, --ground-truth <path>", "ground-truth json", repoPath("corpus", "ground-truth.json"))
+  .option("-o, --out <dir>", "output dir (the published report is calibration/)", repoPath("runs", "calibration"))
+  .option("--overwrite-published", "allow --out to point into calibration/", false);
 program.parse();
 const opts = program.opts();
 
@@ -50,6 +52,7 @@ interface CalibrationRow {
 function main() {
   const scoredDir = resolve(opts.scored);
   const outDir = resolve(opts.out);
+  guardPublished(outDir, opts.overwritePublished);
   mkdirSync(outDir, { recursive: true });
 
   const rows: CalibrationRow[] = [];
@@ -137,7 +140,9 @@ function interpret(aucScore: number, brierScore: number, rows: CalibrationRow[])
   } else {
     lines.push(`AUC = ${aucScore.toFixed(2)} indicates MTM-L alone has limited discriminative power on this corpus.`);
   }
-  lines.push(`Brier score = ${brierScore.toFixed(3)} (lower is better; baseline of always-predicting-mean ≈ ${(Math.min(...rows.map(r=>r.outcome)) * 0.5).toFixed(2)}).`);
+  const meanOutcome = rows.reduce((s, r) => s + r.outcome, 0) / rows.length;
+  const baselineBrier = rows.reduce((s, r) => s + (r.outcome - meanOutcome) ** 2, 0) / rows.length;
+  lines.push(`Brier score = ${brierScore.toFixed(3)} (lower is better; baseline of always-predicting-mean ≈ ${baselineBrier.toFixed(3)}).`);
   lines.push(`${(fraction_zero * 100).toFixed(0)}% of laws scored MTM-L = 0, reflecting that most struck-down Canadian statutes are NOT literally misaligned on face — they fail at the purposive/contextual level (MTM-F, MTM-C).`);
   lines.push("Implication: MTM-L is a conservative, narrow test. It flags textually-broken statutes, but many Charter-invalid laws pass MTM-L because their pathology is purposive, not literal. The MTM-F and MTM-C tiers (coming soon) are where the remaining predictive signal should live.");
   return lines.join(" ");

@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
-import { writeFileSync, mkdirSync } from "node:fs";
-import { resolve } from "node:path";
+import { writeFileSync, mkdirSync, readFileSync, existsSync } from "node:fs";
+import { repoPath } from "./lib/paths.ts";
 import { GroundTruthRecordSchema, type GroundTruthRecord } from "./lib/schema.ts";
 
 // 23 Perplexity-verified Charter cases 2000-2025 (all s.52 strikes or read-downs except Bykovets)
@@ -50,13 +50,20 @@ const UPHELD: GroundTruthRecord[] = [
 function main() {
   const all = [...STRIKES, ...UPHELD];
   for (const r of all) GroundTruthRecordSchema.parse(r);
-  const outDir = resolve("../corpus");
+  const outDir = repoPath("corpus");
   mkdirSync(outDir, { recursive: true });
   const outPath = `${outDir}/ground-truth.json`;
+  // Keep the compiled date unless the records themselves changed, so validating
+  // an unchanged set leaves the published file untouched.
+  let compiled = new Date().toISOString().slice(0, 10);
+  if (existsSync(outPath)) {
+    const prev = JSON.parse(readFileSync(outPath, "utf8"));
+    if (JSON.stringify(prev.records) === JSON.stringify(all)) compiled = prev.metadata?.compiled ?? compiled;
+  }
   writeFileSync(outPath, JSON.stringify({
     metadata: {
       version: "v1.0",
-      compiled: new Date().toISOString().slice(0,10),
+      compiled,
       total: all.length,
       included_in_calibration: all.filter(r => r.include_in_calibration).length,
       note: "23 Perplexity-verified Charter cases 2000-2025 + 11 upheld/reversed for class balance. Bykovets excluded from calibration (s.8 remedy, not s.52). All citations verified against SCC/ONCA/FC reporters.",
@@ -65,8 +72,11 @@ function main() {
   }, null, 2));
   console.error(`[ground-truth] wrote ${outPath}`);
   console.error(`  total: ${all.length}   calibratable: ${all.filter(r => r.include_in_calibration).length}`);
-  console.error(`  strikes: ${STRIKES.filter(r => r.disposition === "struck").length}   read-downs: ${STRIKES.filter(r => r.disposition === "read_down").length}   declared-invalid: ${STRIKES.filter(r => r.disposition === "declared_invalid").length}`);
-  console.error(`  upheld: ${UPHELD.filter(r => r.disposition === "upheld").length + STRIKES.filter(r => r.disposition === "upheld_on_appeal").length}`);
+  // Counted over the calibratable records by disposition, not by which array holds them.
+  const cal = all.filter(r => r.include_in_calibration);
+  const n = (d: string) => cal.filter(r => r.disposition === d).length;
+  console.error(`  struck: ${n("struck")}   read-down: ${n("read_down")}   declared-invalid: ${n("declared_invalid")}`);
+  console.error(`  upheld: ${n("upheld") + n("upheld_on_appeal")}`);
 }
 
 main();

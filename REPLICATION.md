@@ -56,7 +56,7 @@ bun install   # first time only
 bun mtm-literal.ts \
   --corpus ../corpus/corpus.json \
   --id fed-06 \
-  --out ../scored/fed-06.json
+  --out ../runs/fed-06.json
 ```
 
 Optional flags:
@@ -67,7 +67,7 @@ Optional flags:
 --model gemini-3.8-flash # override the default extraction model
 ```
 
-The output (`scored/fed-06.json`) is an `MTMLResult` per `scorer/lib/schema.ts`:
+The output (`runs/fed-06.json`) is an `MTMLResult` per `scorer/lib/schema.ts`:
 
 ```json
 {
@@ -98,20 +98,25 @@ The `derivation` string is human-readable and reproduces the arithmetic step by 
 ```bash
 cd scorer
 
-# Score all laws in corpus/corpus.json → scored/*.json
+# Score all laws in corpus/corpus.json → runs/scored/*.json
 bun score-corpus.ts
 
-# Run retrospective calibration against corpus/ground-truth.json
+# Calibrate that fresh run → runs/calibration/
+bun calibrate.ts --scored ../runs/scored
+
+# Or recalibrate the published v1.6 extractions in scored/ (the default input)
 bun calibrate.ts
 ```
 
 The calibration pass:
-1. Loads every `scored/*.json`.
+1. Loads every scored JSON in the `--scored` folder (default: the published `scored/`).
 2. Joins to the ground-truth disposition for each law (if present in `ground-truth.json`).
 3. Maps disposition to numeric outcome: `struck | declared_invalid = 1.0`; `read_down = 0.5`; `upheld | upheld_on_appeal = 0.0`.
 4. Computes AUC (binary `outcome ≥ 0.5` against continuous `MTM-L / 100`) and Brier score.
 5. Fits α and β via gradient descent with L2 regularization; reports bootstrapped 95% CIs.
-6. Writes `calibration/report.json` with the full reliability diagram and per-row detail.
+6. Writes `report.json` and `index.html` to `runs/calibration/`. The published report in `calibration/` is only replaced if you pass `--out ../calibration --overwrite-published`.
+
+The scripts never write into `scored/` or `calibration/` unless you pass `--overwrite-published`, so a fresh run cannot overwrite the published record by accident.
 
 Output (current v1.0 run, n = 15):
 
@@ -189,7 +194,7 @@ import { ExtractionSchema } from "./lib/schema";
 const client = new Anthropic();
 
 const result = await client.messages.create({
-  model: "claude-opus-4-7",
+  model: "claude-opus-5-5",
   max_tokens: 4096,
   system: `
 You extract the structure of a statute for MTM-Literal scoring.
@@ -238,13 +243,13 @@ Run the ground-truth validator:
 bun run scorer/ground-truth.ts
 ```
 
-Then rerun calibration to see the impact:
+Then rerun calibration to see the impact (output goes to `runs/calibration/`):
 
 ```bash
 bun run scorer/calibrate.ts
 ```
 
-Commit the updated `calibration/report.json` alongside the data change so reviewers can see the diff.
+To publish the change, regenerate the report in place with `bun run scorer/calibrate.ts --out calibration --overwrite-published` and commit the updated `calibration/report.json` alongside the data change so reviewers can see the diff.
 
 ---
 

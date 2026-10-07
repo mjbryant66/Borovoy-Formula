@@ -42,19 +42,24 @@ cd scorer
 bun install
 
 # Score one law from the corpus
-bun mtm-literal.ts --corpus ../corpus/corpus.json --id fed-04 --out ../scored/fed-04.json
+bun mtm-literal.ts --corpus ../corpus/corpus.json --id fed-04 --out ../runs/fed-04.json
 
-# Score the entire corpus
+# Score the entire corpus (writes to runs/scored/)
 bun score-corpus.ts
 
-# Generate canonical ground-truth file
+# Validate the ground-truth file (rewrites it only if the records change)
 bun ground-truth.ts
 
-# Run retrospective calibration (requires scored/ + ground-truth.json)
+# Calibrate the published v1.6 extractions (writes to runs/calibration/)
 bun calibrate.ts
+
+# Calibrate your own fresh run instead
+bun calibrate.ts --scored ../runs/scored
 ```
 
-Requires `GOOGLE_API_KEY` in `~/.claude/.env` (Gemini 3.8 Flash at temperature 1.0; the published v1.6 extractions used Gemini 2.5 Pro at temperature 0).
+Set `GOOGLE_API_KEY` in your shell before scoring (`export GOOGLE_API_KEY="<your key>"`). The scorer also reads `~/.claude/.env` if that file exists. Extraction uses Gemini 3.8 Flash at temperature 1.0; the published v1.6 extractions used Gemini 2.5 Pro at temperature 0.
+
+`scored/` and `calibration/` hold the published v1.6 record. Every command writes fresh output under `runs/` (ignored by git) and refuses to write into those two folders unless you pass `--overwrite-published`.
 
 ## The MTM-L finding, honestly reported (v1.0, n=15 corpus, 33-case ground truth)
 

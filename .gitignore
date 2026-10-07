@@ -7,3 +7,6 @@ Plans/
 node_modules/
 .env
 .env.local
+
+# Fresh scoring and calibration runs; scored/ and calibration/ hold the published record
+runs/

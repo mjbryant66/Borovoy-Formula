@@ -5,15 +5,17 @@ import { Command } from "commander";
 import { ExtractionSchema, GEMINI_EXTRACTION_SCHEMA, StatuteInputSchema } from "./lib/schema.ts";
 import { callGeminiJSON, MTM_L_EXTRACTION_PROMPT, stripCaseLaw, DEFAULT_MODEL } from "./lib/gemini.ts";
 import { computeMTMLiteral, toResult } from "./lib/math.ts";
+import { repoPath, guardPublished } from "./lib/paths.ts";
 
 const program = new Command();
 program
-  .option("-c, --corpus <path>", "corpus JSON", "../corpus/corpus.json")
-  .option("-o, --out <dir>", "output dir", "../scored")
+  .option("-c, --corpus <path>", "corpus JSON", repoPath("corpus", "corpus.json"))
+  .option("-o, --out <dir>", "output dir (fresh runs; the published record is scored/)", repoPath("runs", "scored"))
   .option("--alpha <n>", "alpha", "0.5")
   .option("--beta <n>", "beta", "0.5")
   .option("--model <name>", "Gemini model", DEFAULT_MODEL)
-  .option("--skip-existing", "skip laws already scored", false);
+  .option("--skip-existing", "skip laws already scored", false)
+  .option("--overwrite-published", "allow --out to point into scored/ or calibration/", false);
 program.parse();
 const opts = program.opts();
 
@@ -21,6 +23,7 @@ async function main() {
   const corpus = JSON.parse(readFileSync(resolve(opts.corpus), "utf8"));
   const laws: any[] = corpus.laws ?? corpus;
   const outDir = resolve(opts.out);
+  guardPublished(outDir, opts.overwritePublished);
   mkdirSync(outDir, { recursive: true });
   const alpha = parseFloat(opts.alpha);
   const beta = parseFloat(opts.beta);

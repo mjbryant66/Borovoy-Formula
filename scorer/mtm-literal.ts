@@ -2,9 +2,10 @@
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { Command } from "commander";
-import { StatuteInputSchema, ExtractionSchema, GEMINI_EXTRACTION_SCHEMA, type MTMLResult } from "./lib/schema.ts";
+import { StatuteInputSchema, ExtractionSchema, GEMINI_EXTRACTION_SCHEMA, type MTMLResult, type StatuteInput } from "./lib/schema.ts";
 import { callGeminiJSON, MTM_L_EXTRACTION_PROMPT, stripCaseLaw, DEFAULT_MODEL } from "./lib/gemini.ts";
 import { computeMTMLiteral, toResult } from "./lib/math.ts";
+import { guardPublished } from "./lib/paths.ts";
 
 const program = new Command();
 program
@@ -17,13 +18,15 @@ program
   .option("--beta <n>", "beta weight", "0.5")
   .option("--model <name>", "Gemini model", DEFAULT_MODEL)
   .option("-o, --out <path>", "write result JSON to file (else stdout)")
-  .option("--no-strip", "disable case-law stripping");
+  .option("--no-strip", "disable case-law stripping")
+  .option("--overwrite-published", "allow --out to point into scored/ or calibration/", false);
 
 program.parse();
 const opts = program.opts();
 
 async function main() {
-  let input;
+  if (opts.out) guardPublished(opts.out, opts.overwritePublished);
+  let input: StatuteInput | undefined;
   if (opts.input) {
     const raw = JSON.parse(readFileSync(resolve(opts.input), "utf8"));
     input = StatuteInputSchema.parse(raw);
@@ -42,9 +45,8 @@ async function main() {
         ? row.evidence.map((e: any) => e.quote).join("\n\n")
         : (row.purpose_stated ?? row.law),
     });
-  } else {
-    program.error("Must provide --input PATH or --corpus PATH --id ID");
   }
+  if (!input) return program.error("Must provide --input PATH or --corpus PATH --id ID");
 
   const alpha = parseFloat(opts.alpha);
   const beta = parseFloat(opts.beta);

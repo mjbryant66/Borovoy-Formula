@@ -9,9 +9,7 @@
     "score": "bun mtm-literal.ts",
     "score:corpus": "bun score-corpus.ts",
     "ground-truth": "bun ground-truth.ts",
-    "verify": "bun verify-cases.ts",
-    "calibrate": "bun calibrate.ts",
-    "reliability": "bun reliability.ts"
+    "calibrate": "bun calibrate.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
