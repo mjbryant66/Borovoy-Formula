@@ -3,8 +3,9 @@
     "version": "v1.0",
     "scored_at": "2026-04-16",
     "scorer": "Borovoy Coefficient v1.0 prototype scoring (Opus 4.7 reasoning, temperature 0)",
-    "corpus_size": 15,
-    "note": "Prototype corpus for demonstration. Scores are provisional and subject to the rebuttable-presumption protocol. This is a sample, not a census of Canadian law."
+    "corpus_size": 14,
+    "note": "Prototype corpus for demonstration. Scores are provisional and subject to the rebuttable-presumption protocol. This is a sample, not a census of Canadian law.",
+    "v1_7_changes": "v1.7: muni-04 (Calgary Streets Bylaw 20M88, 'aggressive solicitation provisions') dropped, because no Calgary bylaw contains an aggressive-solicitation provision; prov-04 re-cited from SBC 2005, c 29 to RSBC 2024, c 1, ss. 18-26, the revision whose text is in corpus/statute-text/prov-04.txt. The v1.6 extractions in scored/ still include muni-04 and are kept unchanged as the published record."
   },
   "laws": [
     {
@@ -298,7 +299,7 @@
     },
     {
       "id": "prov-04",
-      "law": "Civil Forfeiture Act, SBC 2005, c 29 (BC — unexplained wealth order provisions)",
+      "law": "Civil Forfeiture Act, RSBC 2024, c 1, ss. 18-26 (BC — unexplained wealth order provisions)",
       "jurisdiction": "provincial",
       "purpose_stated": "To provide civil remedies to deprive persons of property that is the proceeds or instruments of unlawful activity, including through unexplained wealth orders.",
       "borovoy_coefficient": 38,
@@ -464,40 +465,6 @@
       ],
       "lay_summary": "Montreal's Bylaw P-6 required protesters to hand police their itineraries and prohibited masks at demonstrations. Courts found that the bylaw restricted the core of peaceful assembly and struck it down in 2018. The Coefficient rates it at the ceiling — the kind of misalignment that cannot be saved by narrowing interpretation.",
       "limitations": "Bylaw has been repealed/replaced; score applies to the pre-strike regime."
-    },
-    {
-      "id": "muni-04",
-      "law": "Calgary Streets Bylaw 20M88 (aggressive solicitation provisions)",
-      "jurisdiction": "municipal",
-      "purpose_stated": "To regulate use of streets including prohibition of aggressive solicitation that threatens public safety.",
-      "borovoy_coefficient": 28,
-      "band": "Low drift",
-      "dimensions": {
-        "purpose_effect_gap": 32,
-        "proportionality": 28,
-        "overbreadth": 32,
-        "rights_intrusion": 22,
-        "enforcement_asymmetry": 28
-      },
-      "drift_vectors": [
-        {
-          "from": "Preventing aggressive solicitation",
-          "to": "Enforcement against peaceful panhandling in high-traffic zones",
-          "evidence": "CCLA, Report on Municipal Anti-Panhandling Bylaws (2021)",
-          "goodhart_variant": "regressional"
-        }
-      ],
-      "evidence": [
-        {"quote": "Municipal bylaws targeting 'aggressive' solicitation are often enforced against peaceful panhandlers in circumstances indistinguishable from protected Charter-expression.", "source": "CCLA, Report on Municipal Anti-Panhandling Bylaws (2021)"}
-      ],
-      "design_reforms": [
-        "Narrow definition to specific threatening conduct",
-        "Front-line outreach alternatives before ticketing",
-        "Disparate-impact reporting on enforcement",
-        "Fine-waiver mechanisms for unhoused individuals"
-      ],
-      "lay_summary": "Calgary's bylaw regulates aggressive solicitation. The text is narrower than Ontario's Safe Streets Act and the enforcement record is less severe, but the definition of 'aggressive' remains elastic and ticket enforcement continues to fall mostly on unhoused people. Addressable by refinement rather than repeal.",
-      "limitations": "Calgary enforcement patterns less documented than Toronto/Vancouver; score may be revised with more empirical data."
     },
     {
       "id": "muni-05",

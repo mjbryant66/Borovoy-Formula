@@ -30,7 +30,7 @@ A published method for measuring the gap between what a law promises and what it
 - **The paper** — [paper/The_Borovoy_Coefficient_v1.6.pdf](./paper/The_Borovoy_Coefficient_v1.6.pdf) (v1.6, 25 pp) — cross-jurisdictional (Canada / US / UK) bridge between Borovoy's fifty-year civil-liberties diagnosis and the AI-alignment literature Public homes: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6685759) and arXiv (cs.CY, forthcoming).
 - **Original 5-dimension spec** — [spec/BOROVOY_COEFFICIENT_SPEC.md](./spec/BOROVOY_COEFFICIENT_SPEC.md) — superseded by `MTM_FORMULAS.md` but retained for reference
 - **Scorer backend** — [scorer/](./scorer/) — Bun TypeScript CLI that calls Gemini to score laws on MTM-L
-- **15-law prototype corpus** — [corpus/corpus.json](./corpus/corpus.json) — scored
+- **14-law prototype corpus** — [corpus/corpus.json](./corpus/corpus.json), with the official text of each law in [corpus/statute-text/](./corpus/statute-text/). v1.6 scored 15; v1.7 drops the Calgary entry, which described a provision no Calgary bylaw contains
 - **Ground-truth set** — [corpus/ground-truth.json](./corpus/ground-truth.json) — 33 verified Charter dispositions, 1990–2024 (23 struck / read-down / declared invalid; 10 upheld)
 - **Calibration report** — [calibration/index.html](./calibration/index.html) — AUC, Brier, reliability diagram, fitted weights
 - **Dashboard** — [dashboard/index.html](./dashboard/index.html) — interactive visualization
