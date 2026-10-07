@@ -12,7 +12,7 @@ This document describes the reproducibility protocol for the shipped tier of the
 |---|---|
 | **Bun** (v1.1+) | Runtime for the scorer CLI (`scorer/mtm-literal.ts`, `scorer/calibrate.ts`) |
 | **A Google AI Studio API key** | Gemini does the structured extraction step (purposes, provisions, serves_matrix). The scoring math does not require an LLM. |
-| **The statute text** | Preferably an authoritative source — CanLII, justice.gc.ca, CanLII federal office consolidations, legislation.gov.uk, or an official US code repository. Include the preamble, purpose clause (if present), and the operative provisions. Exclude schedules unless they contain operative duties, definitions unless they constitute offences, and coming-into-force provisions. |
+| **The statute text** | For the bundled corpus it is already in `corpus/statute-text/<id>.txt`; for a new law, add a file there in the same format (see `corpus/statute-text/README.md`). Preferably an authoritative source — CanLII, justice.gc.ca, CanLII federal office consolidations, legislation.gov.uk, or an official US code repository. Include the preamble, purpose clause (if present), and the operative provisions. Exclude schedules unless they contain operative duties, definitions unless they constitute offences, and coming-into-force provisions. |
 
 Environment variable expected by the scorer:
 
@@ -43,7 +43,9 @@ The scorer reads statutes from `corpus/corpus.json`. Append a new entry that val
 Rules:
 - `id` must be unique and follow the convention `<jurisdiction>-<nn>` (e.g., `fed-06`, `prov-06`, `muni-06`, or `us-01`, `uk-01` if you're extending beyond Canada).
 - `jurisdiction` must be one of `federal`, `provincial`, `municipal` in v1.0 (the US and UK enumeration is planned for v1.1).
-- `text` is the field the extractor reads; it must include both the purposes (via preamble / purpose clause / short title) and the operative provisions.
+- `text` is the field the extractor reads when you score a standalone file with `--input`; it must include both the purposes (via preamble / purpose clause / short title) and the operative provisions.
+- When you score a corpus entry with `--corpus … --id …`, the scorer reads the operative text from `corpus/statute-text/<id>.txt` and refuses if that file is missing. `--allow-no-text` restores the v1.6 behaviour of scoring from the critics' quotations, in which the model supplies sections from memory; results scored that way are marked `"input_source": "evidence_quotes"` and should not be relied on.
+- Each result carries a `grounding` object. `not_found_ids` lists any cited provision whose wording and section number cannot be found in the supplied text; check those against the source before relying on the score.
 
 ---
 

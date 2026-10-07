@@ -1,0 +1,216 @@
+SOURCE_URL: https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10n15 (rendered at https://www.ontario.ca/laws/statute/10n15)
+VERSION: Current consolidation, in force from 2025-10-01 (per the API's "dateFrom" field); API record last updated 2026-04-15T16:56:52Z; e-Laws source elaws 10n15
+RETRIEVED: 2026-09-23
+SCOPE: This is a long Act (Not-for-Profit Corporations Act, 2010, S.O. 2010, c. 15, "ONCA" — Parts I-XV plus repealed Parts XVI-XVIII); only the following sections were retrieved and included, verbatim from the e-Laws API content, to stay within the length budget:
+  - Part I (Interpretation, Application and Administration): s.1 (Definitions, subsections (1)-(3), IN FULL) and s.4 (Application, subsections (1), (1.1), (2), IN FULL).
+  - Part II (Incorporation): ss.7-9 (who may incorporate; form and contents of articles, including the purposes provision at s.8(2)-(3); certificate of incorporation).
+  - Part IV (Directors and Officers): s.21 (directors manage the corporation) and ss.43-44 (standard of care owed by directors/officers, duty to comply with the Act, and the reasonable-diligence defence).
+  - Part V (Members): s.48 (conditions of membership, classes, voting rights), s.52(1)-(2) (annual and special meetings), s.60(1) and (6) (members' right to requisition a meeting), s.62 (no waiver of members' rights).
+  - Part XV (General): s.207 (Transition, subsections (1)-(5)) — the provision carrying forward pre-ONCA letters patent, by-laws and special resolutions and deeming them amended into conformity with this Act; this is the transition-from-the-old-Corporations-Act provision.
+GAPS: Not retrieved (omitted for length, not because they are unimportant): the rest of Part I (ss.2, 3, 4.1, 5, 6 — period-of-days interpretation, subsidiary-body-corporate interpretation, execution of documents, conflict-of-laws priority, appointment of the Director); the rest of Part II (ss.10-20 — corporation numbers, name rules, corporate seal, registered office, articles of amendment/amalgamation/continuance/revival, etc.); all of Part III (Capacity and Powers, ss. in the low 20s range before Part IV); the rest of Part IV (ss.22-42, 45-47 — director qualification/election/removal/vacancies, meetings of directors, liability for improper distributions and wages, conflict-of-interest disclosure at s.41, indemnification, remuneration); the rest of Part V (ss.49-51, 53-62 minus what is listed above — issuance/termination/discipline of memberships, meeting mechanics, notice, proxies-related voting detail, requisitioned-meeting mechanics beyond (1)/(6)); all of Parts VI-XIV (proxies, auditors, financial disclosure, corporate finance, records, fundamental changes, liquidation and dissolution, investigation, remedies/offences/penalties); the rest of Part XV apart from s.207 (ss.199-206.3, 207.1, 208+ — Director's powers, forms, service of documents, regulation-making). Parts XVI-XVIII are themselves repealed in the current consolidation (2023, c. 9, Sched. 22, s. 17), so nothing was omitted there.
+---
+Not-for-Profit Corporations Act, 2010
+S.O. 2010, CHAPTER 15
+
+===== PART I INTERPRETATION, APPLICATION and Administration =====
+
+Definitions
+1 (1) In this Act,
+“affairs” means the relationships among a corporation, its affiliates and the members, directors and officers of a corporation and its affiliates, but does not include the activities carried on by a corporation and its affiliates; (“affaires internes”)
+“affiliate” means an affiliated body corporate within the meaning of subsection 3 (3); (“membre du même groupe”)
+“articles” means any instrument that incorporates a corporation or modifies its incorporating instrument, including articles of incorporation, restated articles of incorporation, articles of amendment, articles of amalgamation, articles of arrangement, articles of continuance, articles of dissolution, articles of reorganization, articles of revival, letters patent, supplementary letters patent or a special Act; (“statuts”)
+“auditor” includes a partnership of auditors or an auditor that is incorporated; (“vérificateur”)
+“body corporate” means any body corporate, with or without share capital and whether or not this Act applies to it; (“personne morale”)
+“certified copy” means,
+(a) in relation to a document of a corporation, a copy of the document certified to be a true copy by an officer of the corporation,
+(b) in relation to a document issued by the court, a copy of the document certified to be a true copy under the seal of the court and signed by the registrar of the court,
+(c) in relation to a document in the custody of the Director, a copy of the document certified to be a true copy by the Director and signed by the Director or by a public servant employed under Part III of the Public Service of Ontario Act, 2006 and designated by the regulations; (“copie certifiée conforme”)
+“charitable corporation” means a corporation incorporated for the relief of poverty, the advancement of education, the advancement of religion or other charitable purpose, and “non-charitable corporation” means a corporation that is not a charitable corporation; (“organisation caritative”, “organisation non caritative”)
+“corporation” means a body corporate without share capital to which this Act applies; (“organisation”)
+“court” means the Superior Court of Justice except where the context requires otherwise; (“tribunal”)
+“day” means a clear day; (“jour”)
+“debt obligation” means a bond, debenture, note or other similar obligation or guarantee of such an obligation of a body corporate, whether secured or unsecured; (“titre de créance”)
+“Director” means the Director appointed under section 6; (“directeur”)
+“director” means an individual occupying the position of director of a corporation by whatever name he or she is called; (“administrateur”)
+“electronic signature” means an identifying mark or process that is,
+(a) created or communicated using telephonic or electronic means,
+(b) attached to or associated with a document or other information, and
+(c) made or adopted by a person to associate the person with the document or other information, as the case may be; (“signature électronique”)
+“endorse” includes,
+(a) imprinting a stamp on the face of articles or other document sent to the Director, and
+(b) electronically producing an equivalent to a stamp in respect of articles or other documents sent to the Director; (“produire”)
+“financial year”, in respect of a corporation, means the annual period that the corporation establishes for accounting purposes; (“exercice”)
+“incorporator” means a person who signs or otherwise authorizes articles of incorporation; (“fondateur”)
+“individual” means a natural person, other than a natural person in his or her capacity as trustee, executor, administrator or other legal representative; (“particulier”)
+“liability” includes a debt of a corporation arising under subsection 187 (25); (“passif”)
+“Minister” means the member of the Executive Council to whom responsibility for the administration of this Act is assigned or transferred under the Executive Council Act ; (“ministre”)
+“officer”, in respect of a corporation, means an officer of the corporation appointed under clause 42 (1) (a), including,
+(a) the chair of the board of directors of the corporation and a vice-chair of the board of directors of the corporation,
+(b) the president, a vice-president, the secretary, an assistant secretary, the treasurer, an assistant treasurer and the general manager of the corporation, and
+(c) any other individual who performs functions for the corporation similar to those normally performed by an individual listed in clause (a) or (b); (“dirigeant”)
+“ordinary resolution” means a resolution that,
+(a) is submitted to a meeting of the members of a corporation and passed at the meeting, with or without amendment, by at least a majority of the votes cast, or
+(b) is consented to by each member of the corporation entitled to vote at a meeting of the members of the corporation or the member’s attorney; (“résolution ordinaire”)
+“person” includes an individual, sole proprietorship, partnership, unincorporated association, unincorporated syndicate, unincorporated organization, trust, body corporate and a natural person in his or her capacity as trustee, executor, administrator, or other legal representative; (“personne”)
+“prescribed” means prescribed by the regulations made under this Act; (“prescrit”)
+“public benefit corporation” means,
+(a) a charitable corporation, or
+(b) a non-charitable corporation that receives more than $10,000 or other prescribed amount in a financial year,
+(i) in the form of donations or gifts from persons who are not members, directors, officers or employees of the corporation, or
+(ii) in the form of grants or similar financial assistance from the federal government or a provincial or municipal government or an agency of any such government; (“organisation d’intérêt public”)
+“registered office” means the registered office of a corporation at the address set out in its articles or as specified in the notice or return most recently filed by the corporation under the Corporations Information Act , whichever is more current; (“siège”)
+“regulations” means the regulations made under this Act; (“règlements”)
+“special resolution” means a resolution that,
+(a) is submitted to a special meeting of the members of a corporation duly called for the purpose of considering the resolution and passed at the meeting, with or without amendment, by at least two-thirds of the votes cast, or
+(b) consented to by each member of the corporation entitled to vote at a meeting of the members of the corporation or the member’s attorney; (“résolution extraordinaire”)
+“spouse” means a person to whom the person is married or with whom the person is living in a conjugal relationship outside marriage; (“conjoint”)
+“telephonic or electronic means” means any means that uses the telephone or any other electronic or other technological means to transmit information or data, including telephone calls, voice mail, fax, email, an automated touch-tone telephone system, computer or computer networks. (“moyen de communication téléphonique ou électronique”) 2010. c. 15, s. 1 (1); 2016, c. 23, s. 60 ; 2017, c. 20, Sched. 8, s. 1 (1-8) ; 2023, c. 9, Sched. 22, s. 1.
+Deeming re public benefit corporation
+(2) Despite the definition of “public benefit corporation” in subsection (1), if a non-charitable corporation that is not a public benefit corporation at the beginning of a financial year receives donations, gifts, grants or similar financial assistance as described in that definition in that financial year,
+(a) the non-charitable corporation is deemed to not be a public benefit corporation in that financial year; and
+(b) the non-charitable corporation is deemed to be a public benefit corporation in the next financial year, as of the date of the first annual meeting of members in that next financial year. 2010, c. 15, s. 1 (2).
+Predecessor Act
+(3) In this or any other Act, a reference to a predecessor of the Not-for-Profit Corporations Act, 2010 is a reference to the Corporations Act , and any predecessor of the Corporations Act , as they applied to a body corporate without share capital that was not governed by Part V of the Corporations Act or any predecessor of Part V of the Corporations Act . 2017, c. 20, Sched. 8, s. 1 (9).
+Section Amendments with date in force (d/m/y)
+2016, c. 23, s. 60 (1-3) - 19/10/2021
+2017, c. 20, Sched. 8, s. 1 (1-9) - 19/10/2021
+
+===== PART I - Application =====
+
+4 (1) This Act applies, except where it is otherwise expressly provided, to,
+(a) every body corporate without share capital incorporated by or under a general or special Act of the Parliament of the late Province of Upper Canada;
+(b) every body corporate without share capital incorporated by or under a general or special Act of the Parliament of the late Province of Canada that has its registered office and carries on its activities in Ontario and that was incorporated with purposes that are within the legislative authority of the Province of Ontario; and
+(c) every body corporate without share capital incorporated by or under a general or special Act of the Legislature. 2010, c. 15, s. 4 (1).
+Same, corporations sole
+(1.1) This Act does not apply, except as is prescribed, to,
+(a) a body corporate incorporated by or under a general or special Act of the Parliament of the late Province of Upper Canada as a corporation sole;
+(b) a body corporate incorporated by or under a general or special Act of the Parliament of the late Province of Canada that has its registered office and carries on its activities in Ontario and that was incorporated with purposes that are within the legislative authority of the Province of Ontario as a corporation sole; or
+(c) a body corporate incorporated by or under a general or special Act of the Legislature as a corporation sole. 2017, c. 20, Sched. 8, s. 2 (1).
+Non-application
+(2) This Act does not apply to,
+(a) a body corporate without share capital to which the Co-operative Corporations Act or Part V of the Corporations Act applies; or
+(b) a body corporate incorporated for the construction and working of a railway, an incline railway or a street railway. 2017, c. 20, Sched. 8, s. 2 (2).
+Section Amendments with date in force (d/m/y)
+2017, c. 20, Sched. 8, s. 2 (1, 2) - 19/10/2021
+
+===== PART II - INCORPORATION (ss.7-9) =====
+
+
+Articles of incorporation
+7 (1) One or more individuals or bodies corporate, or any combination of them, may incorporate a corporation by filing articles of incorporation and any other required documents and information with the Director. 2017, c. 20, Sched. 8, s. 6.
+Limitation
+(2) An individual cannot incorporate a corporation if he or she,
+(a) is under 18 years old;
+(b) has been found under the Substitute Decisions Act, 1992 or the Mental Health Act to be incapable of managing property;
+(c) has been found to be incapable by any court in Canada or elsewhere; or
+(d) has the status of bankrupt. 2010, c. 15, s. 7 (2).
+Section Amendments with date in force (d/m/y)
+2017, c. 20, Sched. 8, s. 6 - 19/10/2021
+Form and contents of articles
+8 (1) Articles of incorporation must set out the name of the corporation, its purposes and any other information required by this Act or the regulations or by the Director. 2010, c. 15, s. 8 (1).
+Purposes of a corporation
+(2) Subject to any restrictions in the regulations, the purposes of a corporation may be any purposes within the legislative authority of the Province of Ontario. 2010, c. 15, s. 8 (2).
+Same
+(3) If any of the purposes of a corporation are of a commercial nature, the articles must state that the commercial purpose is intended only to advance or support one or more of the non-profit purposes of the corporation. 2010, c. 15, s. 8 (3).
+Provisions in articles
+(4) The articles may set out any provisions permitted by this Act or other law to be set out in the by-laws of the corporation. 2010, c. 15, s. 8 (4).
+Articles inconsistent with Act
+(5) Subject to subsection (6), if a provision in a corporation’s articles that were endorsed under this Act is inconsistent with a provision in this Act or the regulations, the provision in this Act or the regulations prevails and the articles are deemed to be amended accordingly. 2010, c. 15, s. 8 (5) ; 2017, c. 20, Sched. 8, s. 7.
+Where articles prevail over Act
+(6) If a corporation’s articles require a greater number of votes of directors or members of the corporation to effect any action than are required by this Act, the provisions of the articles prevail, but this subsection does not apply to a provision in the articles that requires a greater number of votes to remove a director than the number required by section 26. 2010, c. 15, s. 8 (6).
+Section Amendments with date in force (d/m/y)
+2017, c. 20, Sched. 8, s. 7 - 19/10/2021
+Certificate of incorporation
+9 (1) Upon receipt of the articles of incorporation, together with any required documents and information and the required fee, the Director shall issue a certificate of incorporation by endorsing the articles in accordance with section 201, and the endorsed articles constitute the certificate of incorporation. 2017, c. 20, Sched. 8, s. 8.
+Same
+(2) A certificate of incorporation is conclusive proof that the corporation has been incorporated under this Act on the date set out in the certificate, unless the certificate of incorporation is cancelled under section 169 as of the same date. 2010, c. 15, s. 9 (2).
+Section Amendments with date in force (d/m/y)
+2017, c. 20, Sched. 8, s. 8 - 19/10/2021
+
+===== PART IV - DIRECTORS AND OFFICERS (s.21, ss.43-44) =====
+
+21 Subject to this Act, the directors of a corporation shall manage or supervise the management of the activities and affairs of the corporation. 2010, c. 15, s. 21.
+
+Standard of care
+43 (1) Every director and officer in exercising his or her powers and discharging his or her duties to the corporation shall,
+(a) act honestly and in good faith with a view to the best interests of the corporation; and
+(b) exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances. 2010, c. 15, s. 43 (1).
+Duty to comply with Act, etc.
+(2) Every director and officer shall comply with,
+(a) this Act and the regulations; and
+(b) the corporation’s articles and by-laws. 2010, c. 15, s. 43 (2).
+Cannot contract out of statutory duty
+(3) No provision in a contract, the articles, the by-laws or a resolution relieves a director or officer from the duty to act in accordance with this Act and the regulations or relieves him or her from liability for a breach of this Act or the regulations. 2010, c. 15, s. 43 (3).
+Reasonable diligence defence
+44 A director is not liable under section 39 and has complied with his or her duties under subsection 43 (2) if the director exercised the care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances, including reliance in good faith on,
+(a) financial statements of the corporation represented to him or her by an officer of the corporation or in a report of the auditor of the corporation or of a person who conducted a review engagement of the corporation to present fairly the financial position of the corporation in accordance with generally accepted accounting principles;
+(b) an interim or other financial report of the corporation represented to him or her by an officer of the corporation to present fairly the financial position of the corporation in accordance with generally accepted accounting principles;
+(c) a report or advice of an officer or employee of the corporation, if it is reasonable in the circumstances to rely on the report or advice; or
+(d) a report of a lawyer, accountant, engineer, appraiser or other person whose profession lends credibility to a statement made by them. 2010, c. 15, s. 44.
+
+===== PART V - MEMBERS (s.48, s.52(1)-(2), s.60(1)/(6), s.62) =====
+
+48 (1) The by-laws of a corporation must set out the conditions required for being a member of the corporation, including whether a corporation or other entity may be a member. 2010, c. 15, s. 48 (1).
+Members by virtue of office
+(2) The by-laws may provide for persons to be members by virtue of their office. 2010, c. 15, s. 48 (2).
+Classes or groups of members
+(3) If the articles provide for two or more classes or groups of members, the by-laws must provide,
+(a) the conditions for membership in each class or group;
+(b) the manner of withdrawing from a class or group or transferring membership to another class or group and any conditions of transfer; and
+(c) the conditions on which membership in a class or group ends. 2010, c. 15, s. 48 (3).
+Voting rights — one class or group
+(4) The members of a corporation that has only one class or group of members have the right to vote at any meeting of the members. 2010, c. 15, s. 48 (4).
+Same — two or more classes or groups
+(5) If the articles provide for two or more classes or groups of members, the articles must provide the members of at least one class or group with the right to vote at meetings of the members. 2010, c. 15, s. 48 (5).
+One vote per member
+(6) Unless the articles provide otherwise, each member is entitled to one vote at a meeting of the members. 2010, c. 15, s. 48 (6).
+Representative of non-human member
+(7) The corporation shall recognize any individual authorized by a member corporation or other entity to represent the member at meetings and the individual may exercise all the powers of that corporation or entity on its behalf. 2010, c. 15, s. 48 (7).
+Transfer of membership
+(8) Unless the articles or by-laws provide otherwise, a membership may be transferred only to the corporation. 2010, c. 15, s. 48 (8).
+
+52 (1) The directors of a corporation shall call an annual meeting of the members of the corporation,
+(a) within 18 months after the corporation comes into existence; and
+(b) subsequently, not later than 15 months after holding the preceding annual meeting. 2010, c. 15, s. 52 (1).
+Special meeting
+(2) The directors of a corporation may at any time call a special meeting of the members. 2010, c. 15, s. 52 (2).
+
+60 (1) The members of a corporation who hold at least 10 per cent of votes that may be cast at a meeting of the members sought to be held, or a lower percentage that is set out in the by-laws, may requisition the directors to call the meeting for the purposes stated in the requisition. 2010, c. 15, s. 60 (1).
+Form
+(2) The requisition, which may consist of several documents of similar form each signed by one or more members, must state the business to be transacted at the meeting and must be sent to each director and to the registered office of the corporation. 2010, c. 15, s. 60 (2).
+Directors to call requisitioned meeting
+(3) On receiving a requisition, the directors shall call a meeting of the members to transact the business stated in the requisition unless,
+(a) a record date has been fixed under clause 54 (1) (a);
+(b) the directors have called a meeting of the members and have given notice of the meeting under section 55; or
+(c) the business of the meeting as stated in the requisition includes a matter described in clause 56 (6) (b), (c), (d), (e) or (f). 2010, c. 15, s. 60 (3).
+Member may call meeting
+(4) If the directors do not call a meeting within 21 days after receiving the requisition, any member who signed the requisition may call the meeting. 2010, c. 15, s. 60 (4).
+Procedure
+(5) A meeting called under this section shall be called as nearly as possible in the manner in which meetings are to be called under the by-laws and this Part. 2010, c. 15, s. 60 (5).
+Reimbursement
+(6) Unless the members resolve otherwise at a meeting called under subsection (4), the corporation shall reimburse the members for the expenses reasonably incurred by them in requisitioning, calling and holding the meeting. 2010, c. 15, s. 60 (6).
+
+62 No waiver of the rights of a member is valid unless otherwise provided for in this Act. 2010, c. 15, s. 62.
+
+===== PART XV - GENERAL (s.207 Transition) =====
+
+207 (1) Except as provided in subsection (3), any provision in letters patent, supplementary letters patent, by-laws or any special resolution of a corporation that was valid immediately before the day this section comes into force and that is not in conformity with this Act continues to be valid and in effect until the third anniversary of the day this section comes into force. 2017, c. 20, Sched. 8, s. 52.
+Deemed amendment after three years
+(2) Except as provided in subsection (3), a provision described in subsection (1) that has not been amended to bring it into conformity with this Act is deemed to be amended to the extent necessary to bring it into conformity with this Act on the third anniversary of the day this section comes into force. 2017, c. 20, Sched. 8, s. 52.
+Extended period of validity, certain by-laws and special resolutions
+(3) The following provisions contained in a corporation’s by-laws or a special resolution that were valid immediately before the day this section comes into force and that are not, on or after the day this section comes into force, removed and added to its articles to bring them into conformity with this Act, continue to be valid and in effect until the day articles of amendment are endorsed, whether before, on or after the third anniversary of the day this section comes into force, to add the provision to the articles with any amendments necessary to bring it into conformity with this Act:
+1. A provision respecting the number of directors of the corporation.
+2. A provision providing for two or more classes or groups of members.
+3. A provision respecting voting rights of members.
+4. A provision respecting delegates made pursuant to section 130 of the Corporations Act .
+5. A provision respecting the distribution of the remaining property of a corporation that is not a public benefit corporation on winding up or dissolution. 2017, c. 20, Sched. 8, s. 52.
+Amendment of letters patent, etc.
+(4) For greater certainty, a corporation may, to come into conformity with this Act,
+(a) amend, by articles of amendment, a provision in its letters patent or supplementary letters patent; and
+(b) amend, remove or replace, under this Act, a provision in its by-laws or a special resolution, including the revocation of a provision required by this Act to be contained in the articles and not in the by-laws or special resolution. 2017, c. 20, Sched. 8, s. 52.
+Restated articles
+(5) A corporation shall not restate its articles under section 109 unless,
+(a) the articles of the corporation are in conformity with this Act and the regulations; and
+(b) if the articles have been deemed to be amended under subsection (2) or under subsection 167 (5.1), the corporation has amended its articles to bring them into conformity with this Act and the regulations in accordance with this section. 2017, c. 20, Sched. 8, s. 52.
+Section Amendments with date in force (d/m/y)
+2017, c. 20, Sched. 8, s. 52 - 19/10/2021

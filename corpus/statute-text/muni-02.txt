@@ -1,0 +1,313 @@
+SOURCE_URL: https://bylaws.vancouver.ca/2849c.pdf (fetched via Wayback Machine snapshot, bylaws.vancouver.ca returns a Cloudflare bot-detection block to direct curl requests: https://web.archive.org/web/20260913083926id_/https://bylaws.vancouver.ca/2849c.PDF)
+VERSION: Consolidated for convenience only to May 19, 2026 (amended to include By-law No. 14704, effective May 19, 2026), per the document's own title page and cover text
+RETRIEVED: 2026-09-23
+SCOPE: Citation clause (s.1-2); selected definitions from s.3 ("Street", "Street Furniture", "Structure"); s.9 (interference with traffic-control devices, an obstruction-adjacent provision, included for context but see GAPS); s.70 (standing/loitering obstruction); ss.71A-71F (STRUCTURES ON STREETS / STRUCTURES CONVEYING POLITICAL EXPRESSION / TERM OF PERMIT / EXPIRY OR CANCELLATION OF PERMIT / TABLES CONVEYING POLITICAL EXPRESSION / EMERGENCIES ON STREETS - the erecting-tents-or-structures-on-streets provisions); s.72(1)-(2) (IMPEDING TRAFFIC ON STREET PROHIBITED); s.102 (general offence clause) and s.103(1)-(2) (PENAL CLAUSE, general fine range and the schedule of specified fines).
+GAPS: The by-law's full definitions section (s.3, several hundred terms covering Parts I-III) was not reproduced in full - only the three terms actually used in the tent/structure/obstruction provisions were pulled. Sections 71G-71K (sidewalk construction, debris, water on streets, containers, electronic signs) were omitted as adjacent but not squarely "tents, structures or shelters" or general obstruction. Section 103(3), covering vehicle-weight fines, was omitted as not relevant to obstruction/tents.
+---
+CITY OF VANCOUVER
+BRITISH COLUMBIA
+
+BY-LAW NO. 2849
+
+A By-law to Regulate Traffic and the Use of Streets
+in the City of Vancouver
+
+[Consolidated for convenience only,
+amended to including By-law No. 14704
+effective May 19, 2026]
+______________________________________
+
+The Council of the City of Vancouver, in open meeting assembled, enacts as
+follows:
+
+1.    This by-law may be cited as the "Street and Traffic By-law".
+
+2.    This by-law is divided into three parts, dealing with the following subjects:
+
+      Part I--Regulating Traffic.
+      Part II--Regulating Use of Streets.
+      Part III--Regulating Size and Weight of Vehicles.
+
+DEFINITIONS
+
+3.    In this By-law, and unless the context otherwise requires:
+
+      ...
+
+      "Street" includes public road, highway, bridge, viaduct, lane and sidewalk, and any
+      other way normally open to the use of the public, but does not include a private right-of-
+      way on private property.
+
+      "Street Furniture" includes waste receptacles, benches, bus shelters, traffic signs and
+      any similar work, structure or equipment.
+
+      "Structure" in sections 71A, 71B, 71F, and 85A of this By-law means something that is
+      built, constructed or assembled and that is placed on a street permanently, semi-
+      permanently or for a specified period of time.
+
+9.    Interference with Traffic-Control Devices.
+
+      No person shall move, remove, deface, damage or alter, nor obstruct the view of, nor
+      otherwise interfere with any authorized traffic-control signal or traffic sign, nor drive, nor
+      walk on or over any newly painted line, the presence of which is indicated on any
+      roadway by red flags, traffic cones, or other suitable warning devices.
+
+70.    No person shall stand or loiter on any street in such a manner as to obstruct or impede
+       or interfere with traffic thereon.
+
+                               STRUCTURES ON STREETS
+
+71A.         A person must not build, construct, place, maintain, occupy, or cause to be built,
+             constructed, placed, maintained or occupied in any street, any structure, object,
+             or substance which is an obstruction to the free use of such street, or which may
+             encroach thereon, without having first obtained a permit issued by the City
+             Engineer, in accordance with this By-law, except that this section does not apply
+             to a person:
+
+       (a)   installing signs authorized by the City Engineer on or over City streets, and
+             intended to control traffic or parking, or to provide directions or street
+             identification;
+
+       (b)   putting up or installing street decorations authorized by the City Engineer;
+
+       (c)   putting up or installing any other temporary sign or structure which is authorized
+             by by-law, or by provincial or federal legislation;
+
+       (d)   installing advertising devices which are integral with public conveniences, as
+             covered by special agreements with the City, such as bus shelter advertising,
+             map stand advertising or automated public toilet advertising; or
+
+       (e)   placing a sign or notice on a free standing kiosk or other structure on a street,
+             which is provided by and in a location designated by the City Engineer,
+             specifically for free public use for the purpose of political expression.
+
+                   STRUCTURES CONVEYING POLITICAL EXPRESSION
+
+71B.   (1)   A person seeking a permit under section 71A for any structure, object or
+             substance which conveys political expression, must apply for the permit in the
+             form prescribed by the City Engineer.
+
+       (2)   The applicant for a permit under section 71A must submit with the application
+             drawings indicating the construction methods, materials and dimensions of any
+             proposed structure for which a permit has not been previously issued.
+
+       (3)   The City Engineer must grant a permit under section 71A, except that the City
+             Engineer must not grant a permit if the structure, object or substance:
+
+             (a)     obstructs or interferes with pedestrian or vehicular traffic;
+
+             (b)     obstructs or interferes with any utility, postal or similar installation;
+
+             (c)     obstructs or interferes with any other structure, object, substance or
+                     construction works which occupy the street pursuant to a permit;
+
+             (d)   obstructs or interferes with the use of street furniture;
+
+             (e)   obstructs or interferes with City works, on or adjacent to the street;
+
+             (f)   has a width greater than 25% of the width of an adjacent business
+                   frontage;
+
+             (g)   is located on street frontage abutting a site which:
+
+                   (i)     contains only dwelling uses,
+
+                   (ii)    in the case of mixed uses, contains ground floor dwelling uses, or
+
+                   (iii)   is located in a zoning district listed in Schedule F, except that
+                           subsection (g) does not apply to any Consulate which is listed with
+                           the Government of Canada as a Consular Office;
+
+             (h)   is within 5 meters of a building entrance or exit;
+
+             (i)   is within 5 meters of a bus stop, street intersection, driveway crossing,
+                   loading zone, taxi zone, or wheelchair ramp;
+
+             (j)   is within 0.5 meters of a curb;
+
+             (k)   is attached or affixed to cement, asphalt or other hard surface on the
+                   street;
+
+             (l)   measures more than 1.6 meters in height at the highest point;
+
+             (m)   measures more than 1.6 meters in width at the widest point;
+
+             (n)   measures more than 1.0 meter in depth at the deepest point;
+
+             (o)   has a base area larger than 1.6 square meters;
+
+             (p)   contains moving parts, electrical or electronic components or lights;
+
+             (q)   is structurally unsafe or unstable; or
+
+             (r)   was at the same location or in the same city block applied for, within the
+                   previous sixty days.
+
+       (4)   The holder of a permit granted under section 71A, or their authorized
+             representative, must:
+
+             (a)   attend at the structure, object, or substance for a minimum of six non-
+                   consecutive hours between the hours of 8 a.m. and 8 p.m. daily;
+
+             (b)   remove the structure, object or substance from the street between the
+                   hours of 8 p.m. and 8 a.m. daily; and
+
+             (c)   keep the structure, object, or substance safe and in good repair at all
+                   times.
+
+       (5)   The holder of a permit granted under section 71A must not use or permit the use
+             of:
+
+             (a)   electronic signs;
+
+             (b)   electric or gas lighting or appliances;
+
+             (c)   extension cords; or
+
+             (d)   open flames, propane tanks, gas or electric heaters, or barbeques
+
+             at or near the structure, object or substance authorized by the permit.
+
+       (6)   The holder of a permit granted under section 71A must not use or promote the
+             use of expression which:
+
+             (a)   is obscene;
+
+             (b)   promotes hatred or violence;
+
+             (c)   is defamatory; or
+
+             (d)   contains commercial content.
+
+                                          TERM OF PERMIT
+
+71C.         A permit granted under section 71A is valid for thirty days from the date of
+             issuance, except that the City Engineer must not issue:
+
+             (a)    a permit for a term greater than thirty days;
+
+             (b)    more than six non-consecutive permits per year, for any city block or
+                    location;
+
+             (c)    more than one permit every sixty days, for any city block or location; or
+
+             (d)    a permit to an applicant who is the current holder of such a permit.
+
+                    EXPIRY OR CANCELLATION OF PERMIT
+
+71D.         The City Engineer must cancel a permit issued under section 71A, if the holder of
+             the permit fails to comply with any of the provisions in section 71B.
+
+               TABLES CONVEYING POLITICAL EXPRESSION
+
+71E.   Despite section 71A of the By-law, a table which conveys political expression
+       does not require a permit under section 71B of this By-law if:
+
+       (a) it is no larger than 1 meter in depth by 1.8 meters in width by .75 meters in
+           height;
+
+       (b) it is placed on the street for no more than thirty consecutive days;
+
+       (c) it is removed from the street between the hours of 8 p.m. and 8 a.m. daily;
+
+       (d) it is attended at all times;
+
+       (e) no more than one table is placed on any city block at any time;
+
+       (f) the name of the sponsoring organization or person is clearly displayed on the
+           table;
+
+       (g) it does not obstruct or interfere with pedestrian or vehicular traffic;
+
+       (h) it does not obstruct or interfere with any utility, postal or similar installation;
+
+       (i) it does not obstruct or interfere with any other structure, object, substance or
+           construction works which occupy the street pursuant to a permit;
+
+       (j) it does not obstruct or interfere with the use of street furniture;
+
+       (k) it does not obstruct or interfere with City works, on or adjacent to the street;
+
+       (l) it is more than 5 meters from any building entrance or exit;
+
+       (m) it is more than 5 meters from any bus stop, street intersection, driveway
+           crossing, loading zone, taxi zone, or wheelchair ramp;
+
+       (n) it is more than 0.5 meters from any curb;
+
+       (o) it contains no moving parts, electrical or electronic components or lights;
+
+       (p) it is structurally safe and stable;
+
+       (q) it is not used in association with any electronic signs, electric or gas lighting
+           or appliances, extension cords, open flames, propane tanks, gas or electric
+           heaters, barbeques; and
+
+       (r) it does not contain obscene or defamatory content and does not promote
+           hatred or violence.
+
+                                 EMERGENCIES ON STREETS
+
+71F.   In the case of an emergency, the City Engineer may temporarily remove a
+       structure or table that is permitted on a street.
+
+                    IMPEDING TRAFFIC ON STREET PROHIBITED
+
+72.   (1)   No person shall cut, saw, break, split, place or pile firewood, lumber, blocks, rock,
+            stone, debris or other material, or mix mortar, or do any other act upon any street
+            which will obstruct or impede traffic thereon or deface or injure such street.
+
+       (2)   No owner or occupier of any premises or any other person purchasing or
+             delivering firewood, lumber, blocks, rock, stone or other material shall permit
+             such firewood, lumber, blocks, stone or material to remain or to be placed on any
+             street in such a manner as to obstruct or impede traffic thereon.
+
+102.   Every person who offends against any of the provisions of this by-law, or who suffers or
+       permits any act or thing to be done in contravention or in violation of any of the
+       provisions of this by-law, or who neglects to do or refrains from doing anything required
+       to be done by any of the provisions of this by-law, or who does any act or thing which
+       violates any of the provisions of this by-law, shall be deemed to be guilty of an infraction
+       of this by-law, and shall be liable to the penalties hereby imposed.
+
+       (1)       The owner or lessee of a vehicle shall incur the penalties provided for any
+                 violation of this by-law with respect to the vehicle unless at the time of such
+                 violation the vehicle was in the possession of some person other than the owner
+                 or lessee without the consent of the owner or lessee; but nothing in this section
+                 shall relieve an operator of a vehicle who is not the owner or lessee from
+                 incurring the penalties provided for any violation.
+
+                                                     PENAL CLAUSE
+
+103.   (1)       Except where any special penalty is provided for, every person who commits an
+                 offence against this by-law is liable to a fine and penalty not less than $250.00
+                 and not exceeding $2,000.00.
+
+       (2)       Every person who commits an offence against one of the following provisions of
+                 this By-law is liable to a fine of not less than the amount set out opposite each
+                 provision:
+
+                 17.6(e)……………………………………………………………………………$90.00
+
+                 17.6(f) and 65……………………………………………………………………$90.00
+
+                 64 ............................................................................................................ $75.00
+
+                 17.1(b), 17.2(a)(ii), 17.2(b), 17.2(c), 17.2(d)(ii), 17.2(e) through (j) inclusive,
+                 17.4(e)(ii), 17.4(f)(ii), 17.5(a)(ii), 17.5(c)(ii), 17.5(d)(ii), 17.6(a) through (d)
+                 inclusive, 17.6(g), 17.6A, 17.7, 18.1(a), 18.1(b)(ii), 18.1(c)(ii), 18.2, 18.3, 19.1,
+                 21.1    to    21.7      inclusive,    22.1,   22.4,    23.1,     23.1A    and    23.3
+                 ……………………………………………………………………………...$150.00
+
+                 6, 11, 12, 14, 15, 20.1, 20.2, 32 to 46 inclusive, 50, 52, 53, 54, 56, 57, 60, 60A to
+                 60F inclusive, 63A, and 65A(2) ..................................................................... $150.00
+
+                 17.1(a), 17.2(a)(i). 17.2(d)(i), 17.2(k) through (m) inclusive,17.3, 17.4(a) through
+                 (d) inclusive, 17.4(e)(i), 17.4(f)(i), 17.5(a)(i), 17.5(b), 17.5(c)(i), 17.5(d)(i),
+                 18.1(b)(i), 18.1(c)(i), and 48…..……………………………………………..............................................$200.00
+
+                 21.7A ........................................................................................................... .$400.00
+
+                 58, 87, 88, 94(1)(a), 94(1)(d), 94(1)(e), 94(7), 99(1)(b),
+                 99(2)(a) ................................................................................................. $500.00
+
+                 76B……………………………………………………………………$499.00

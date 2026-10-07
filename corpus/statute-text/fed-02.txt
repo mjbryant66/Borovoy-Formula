@@ -1,0 +1,197 @@
+SOURCE_URL: https://laws-lois.justice.gc.ca/eng/annualstatutes/2015_20/FullText.html
+VERSION: as enacted (Anti-terrorism Act, 2015, SC 2015, c 20; assented to 2015-06-18) -- this is the Department of Justice's Annual Statutes full text of the Act as passed by Parliament, not a later consolidated/amended version.
+RETRIEVED: 2026-09-23
+SCOPE: (1) the short title and the enacting clause; (2) Part 1 -- the full text of the Security of Canada Information Sharing Act as enacted, including its own preamble and operative sections 1-10 (definitions, purpose, guiding principles, disclosure of information, no civil proceedings, and Governor in Council powers); the "Related Amendments" to seven other Acts (Excise Tax Act, Department of Fisheries and Oceans Act, Customs Act, Income Tax Act, Chemical Weapons Convention Implementation Act, Excise Act 2001) that also appear within Part 1 of the Bill are omitted as outside the "Part 1 (SCISA)" scope requested; (3) Part 3 -- new Criminal Code s. 83.221, "Advocating or promoting commission of terrorism offences" (the offence of knowingly advocating or promoting terrorism offences in general), in full; the related s. 83.222 (warrant of seizure for terrorist propaganda) and s. 83.223 are not included, as the task specified only the s. 83.221 offence; (4) Part 4 -- the core CSIS Act threat-reduction and warrant-power amendments: new ss. 12.1 and 12.2 (measures to reduce threats to the security of Canada, limits, prohibited conduct), new s. 21.1 (application for and issuance of a warrant to take threat-reduction measures), new ss. 22.1-22.3 (renewal, limits on execution, assistance orders) and s. 23 as replaced (warrant authorizing removal), and new s. 24.1 (authorization to request assistance), all in full.
+GAPS: Part 4's more administrative/consequential amendments (to CSIS Act ss. 6-7 reporting and Deputy Minister consultation, s. 21(2)(h), and ss. 25-28, 38, 53 dealing with interception exclusions, hearing procedure, regulation-making and reporting) are omitted as secondary to the threat-reduction and warrant powers the task asked for; Parts 2 (Secure Air Travel Act) and 5 (IRPA special-advocate amendments) are omitted entirely as outside the task's scope. No other gaps.
+---
+
+SHORT TITLE
+
+Marginal note: Short title
+1. This Act may be cited as the Anti-terrorism Act, 2015.
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+PART 1 SECURITY OF CANADA INFORMATION SHARING ACT
+
+Enactment of Act
+
+Marginal note: Enactment
+2. The Security of Canada Information Sharing Act, whose text is as follows and whose Schedules 1 to 3 are set out in the schedule to this Act, is enacted:
+
+Preamble
+
+Whereas the people of Canada are entitled to live free from threats to their lives and their security;
+Whereas activities that undermine the security of Canada are often carried out in a clandestine, deceptive or hostile manner, are increasingly global, complex and sophisticated, and often emerge and evolve rapidly;
+Whereas there is no more fundamental role for a government than protecting its country and its people;
+Whereas Canada is not to be used as a conduit for the carrying out of activities that threaten the security of another state;
+Whereas protecting Canada and its people against activities that undermine the security of Canada often transcends the mandate and capability of any one Government of Canada institution;
+Whereas Parliament recognizes that information needs to be shared -- and disparate information needs to be collated -- in order to enable the Government to protect Canada and its people against activities that undermine the security of Canada;
+Whereas information in respect of activities that undermine the security of Canada is to be shared in a manner that is consistent with the Canadian Charter of Rights and Freedoms and the protection of privacy;
+And whereas Government of Canada institutions are accountable for the effective and responsible sharing of information;
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+SHORT TITLE
+
+Marginal note: Short title
+1. This Act may be cited as the Security of Canada Information Sharing Act.
+
+INTERPRETATION
+
+Marginal note: Definitions
+2. The following definitions apply in this Act.
+"activity that undermines the security of Canada" means any activity, including any of the following activities, if it undermines the sovereignty, security or territorial integrity of Canada or the lives or the security of the people of Canada:
+(a) interference with the capability of the Government of Canada in relation to intelligence, defence, border operations, public safety, the administration of justice, diplomatic or consular relations, or the economic or financial stability of Canada;
+(b) changing or unduly influencing a government in Canada by force or unlawful means;
+(c) espionage, sabotage or covert foreign-influenced activities;
+(d) terrorism;
+(e) proliferation of nuclear, chemical, radiological or biological weapons;
+(f) interference with critical infrastructure;
+(g) interference with the global information infrastructure, as defined in section 273.61 of the National Defence Act;
+(h) an activity that causes serious harm to a person or their property because of that person's association with Canada; and
+(i) an activity that takes place in Canada and undermines the security of another state.
+For greater certainty, it does not include advocacy, protest, dissent and artistic expression. ( activite portant atteinte a la securite du Canada )
+"Government of Canada institution" means
+(a) a government institution -- as defined in section 3 of the Privacy Act -- other than one that is listed in Schedule 1; or
+(b) an institution that is listed in Schedule 2. ( institution federale )
+"people of Canada" means
+(a) the people in Canada; or
+(b) any citizen, as defined in subsection 2(1) of the Citizenship Act -- or any permanent resident, as defined in subsection 2(1) of the Immigration and Refugee Protection Act -- who is outside Canada. ( population du Canada )
+
+PURPOSE AND PRINCIPLES
+
+Marginal note: Purpose
+3. The purpose of this Act is to encourage and facilitate the sharing of information among Government of Canada institutions in order to protect Canada against activities that undermine the security of Canada.
+Marginal note: Guiding principles
+4. Information sharing under this Act is to be guided by the following principles:
+(a) effective and responsible information sharing protects Canada and Canadians;
+(b) respect for caveats on and originator control over shared information is consistent with effective and responsible information sharing;
+(c) entry into information-sharing arrangements is appropriate when Government of Canada institutions share information regularly;
+(d) the provision of feedback as to how shared information is used and as to whether it is useful in protecting against activities that undermine the security of Canada facilitates effective and responsible information sharing; and
+(e) only those within an institution who exercise its jurisdiction or carry out its responsibilities in respect of activities that undermine the security of Canada ought to receive information that is disclosed under this Act.
+
+DISCLOSURE OF INFORMATION
+
+Marginal note: Disclosure of information
+5. (1) Subject to any provision of any other Act of Parliament, or of any regulation made under such an Act, that prohibits or restricts the disclosure of information, a Government of Canada institution may, on its own initiative or on request, disclose information to the head of a recipient Government of Canada institution whose title is listed in Schedule 3, or their delegate, if the information is relevant to the recipient institution's jurisdiction or responsibilities under an Act of Parliament or another lawful authority in respect of activities that undermine the security of Canada, including in respect of their detection, identification, analysis, prevention, investigation or disruption.
+Marginal note: Further disclosure under subsection (1)
+(2) Information received under subsection (1) may be further disclosed under that subsection.
+Marginal note: Further disclosure -- other than under this Act
+6. For greater certainty, the use and further disclosure, other than under this Act, of information that is disclosed under subsection 5(1) are neither authorized nor prohibited by this Act, but must be done in accordance with the law, including any legal requirements, restrictions and prohibitions.
+Marginal note: No presumption
+7. The act of disclosing information under this Act does not create a presumption
+(a) that the disclosing institution is conducting a joint investigation or decision-making process with the recipient institution and therefore has the same obligations, if any, as the recipient institution to disclose or produce information for the purposes of a proceeding; or
+(b) that there has been a waiver of any privilege, or of any requirement to obtain consent, for the purposes of any other disclosure of that information either in a proceeding or to an institution that is not a Government of Canada institution.
+Marginal note: Non-derogation
+8. Nothing in this Act limits or affects any authority to disclose information under another Act of Parliament or a provincial Act, at common law or under the royal prerogative.
+
+PROTECTION FROM CIVIL PROCEEDINGS
+
+Marginal note: No civil proceedings
+9. No civil proceedings lie against any person for their disclosure in good faith of information under this Act.
+
+POWERS OF GOVERNOR IN COUNCIL
+
+Marginal note: Regulations
+10. (1) The Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations for carrying out the purposes and provisions of this Act, including regulations
+(a) respecting the manner of disclosure under section 5;
+(b) requiring records to be kept and retained in respect of that disclosure; and
+(c) respecting the manner in which those records are kept and retained.
+Marginal note: Amendments to Schedules 1 and 2
+(2) The Governor in Council may make an order adding the name of an institution to Schedule 1 or 2 or deleting one from either of those Schedules.
+Marginal note: Amendments to Schedule 3
+(3) The Governor in Council may make an order adding the name of a Government of Canada institution and the title of its head to Schedule 3, deleting the name of an institution and the title of its head from that Schedule or amending the name of an institution or the title of a head that is listed in that Schedule. An addition is authorized only if the institution has jurisdiction or responsibilities under an Act of Parliament or another lawful authority in respect of activities that undermine the security of Canada, including in respect of their detection, identification, analysis, prevention, investigation or disruption.
+
+[End of the text of the Security of Canada Information Sharing Act as enacted by section 2 of the Anti-terrorism Act, 2015. The "Related Amendments" to seven other federal Acts that immediately follow in Part 1 of the Bill, and Schedules 1-3 to the Act, are omitted here as outside the requested scope; see SOURCE_URL for the full text.]
+
+PART 3 R.S., c. C-46 CRIMINAL CODE
+
+16. The Act is amended by adding the following after section 83.22:
+
+Marginal note: Advocating or promoting commission of terrorism offences
+83.221 (1) Every person who, by communicating statements, knowingly advocates or promotes the commission of terrorism offences in general -- other than an offence under this section -- while knowing that any of those offences will be committed or being reckless as to whether any of those offences may be committed, as a result of such communication, is guilty of an indictable offence and is liable to imprisonment for a term of not more than five years.
+Marginal note: Definitions
+(2) The following definitions apply in this section.
+"communicating" has the same meaning as in subsection 319(7).
+"statements" has the same meaning as in subsection 319(7).
+
+PART 4 R.S., c. C-23 CANADIAN SECURITY INTELLIGENCE SERVICE ACT
+
+42. The Act is amended by adding the following after section 12:
+
+Marginal note: Measures to reduce threats to the security of Canada
+12.1 (1) If there are reasonable grounds to believe that a particular activity constitutes a threat to the security of Canada, the Service may take measures, within or outside Canada, to reduce the threat.
+Marginal note: Limits
+(2) The measures shall be reasonable and proportional in the circumstances, having regard to the nature of the threat, the nature of the measures and the reasonable availability of other means to reduce the threat.
+Marginal note: Warrant
+(3) The Service shall not take measures to reduce a threat to the security of Canada if those measures will contravene a right or freedom guaranteed by the Canadian Charter of Rights and Freedoms or will be contrary to other Canadian law, unless the Service is authorized to take them by a warrant issued under section 21.1.
+Marginal note: Clarification
+(4) For greater certainty, nothing in subsection (1) confers on the Service any law enforcement power.
+Marginal note: Prohibited conduct
+12.2 (1) In taking measures to reduce a threat to the security of Canada, the Service shall not
+(a) cause, intentionally or by criminal negligence, death or bodily harm to an individual;
+(b) wilfully attempt in any manner to obstruct, pervert or defeat the course of justice; or
+(c) violate the sexual integrity of an individual.
+Definition of "bodily harm"
+(2) In subsection (1), "bodily harm" has the same meaning as in section 2 of the Criminal Code.
+
+44. The Act is amended by adding the following after section 21:
+
+Marginal note: Application for warrant -- measures to reduce threats to the security of Canada
+21.1 (1) If the Director or any employee who is designated by the Minister for the purpose believes on reasonable grounds that a warrant under this section is required to enable the Service to take measures, within or outside Canada, to reduce a threat to the security of Canada, the Director or employee may, after having obtained the Minister's approval, make an application in accordance with subsection (2) to a judge for a warrant under this section.
+Marginal note: Matters to be specified in application
+(2) An application to a judge under subsection (1) shall be made in writing and be accompanied by the applicant's affidavit deposing to the following matters:
+(a) the facts relied on to justify the belief on reasonable grounds that a warrant under this section is required to enable the Service to take measures to reduce a threat to the security of Canada;
+(b) the measures proposed to be taken;
+(c) the reasonableness and proportionality, in the circumstances, of the proposed measures, having regard to the nature of the threat, the nature of the measures and the reasonable availability of other means to reduce the threat;
+(d) the identity of the persons, if known, who are directly affected by the proposed measures;
+(e) the persons or classes of persons to whom the warrant is proposed to be directed;
+(f) a general description of the place where the warrant is proposed to be executed, if a general description of that place can be given;
+(g) the period, not exceeding 60 days or 120 days, as the case may be, for which the warrant is requested to be in force that is applicable by virtue of subsection (6); and
+(h) any previous application made under subsection (1) in relation to a person who is identified in the affidavit in accordance with paragraph (d), the date on which each such application was made, the name of the judge to whom it was made and the judge's decision on it.
+Marginal note: Issuance of warrant
+(3) Despite any other law but subject to the Statistics Act, if the judge to whom an application under subsection (1) is made is satisfied of the matters referred to in paragraphs (2)(a) and (c) that are set out in the affidavit accompanying the application, the judge may issue a warrant authorizing the persons to whom it is directed to take the measures specified in it and, for that purpose,
+(a) to enter any place or open or obtain access to any thing;
+(b) to search for, remove or return, or examine, take extracts from or make copies of or record in any other manner the information, record, document or thing;
+(c) to install, maintain or remove any thing; or
+(d) to do any other thing that is reasonably necessary to take those measures.
+Marginal note: Measures taken outside Canada
+(4) Without regard to any other law, including that of any foreign state, a judge may, in a warrant issued under subsection (3), authorize the measures specified in it to be taken outside Canada.
+Marginal note: Matters to be specified in warrant
+(5) There shall be specified in a warrant issued under subsection (3)
+(a) the measures authorized to be taken;
+(b) the identity of the persons, if known, who are directly affected by the measures;
+(c) the persons or classes of persons to whom the warrant is directed;
+(d) a general description of the place where the warrant may be executed, if a general description of that place can be given;
+(e) the period for which the warrant is in force; and
+(f) any terms and conditions that the judge considers advisable in the public interest.
+Marginal note: Maximum duration of warrant
+(6) A warrant shall not be issued under subsection (3) for a period exceeding
+(a) 60 days if the warrant is issued to enable the Service to take measures to reduce a threat to the security of Canada within the meaning of paragraph (d) of the definition "threats to the security of Canada" in section 2; or
+(b) 120 days in any other case.
+
+45. Section 23 of the Act is replaced by the following:
+
+Marginal note: Renewal of warrant -- measures to reduce threats to the security of Canada
+22.1 (1) On application in writing to a judge for the renewal of a warrant issued under subsection 21.1(3) made by a person who is entitled, after having obtained the Minister's approval, to apply for such a warrant and who believes on reasonable grounds that the warrant continues to be required to enable the Service to take the measures specified in it to reduce a threat to the security of Canada, the judge may renew the warrant if the judge is satisfied by evidence on oath of the following matters:
+(a) the facts relied on to justify the belief on reasonable grounds that the warrant continues to be required to enable the Service to take the measures specified in it to reduce a threat to the security of Canada; and
+(b) the continued reasonableness and proportionality, in the circumstances, of the measures specified in the warrant, having regard to the nature of the threat, the nature of the measures and the reasonable availability of other means to reduce the threat.
+Marginal note: Limits on renewal
+(2) A warrant issued under subsection 21.1(3) may be renewed only twice, with each renewal being for a period not exceeding the period for which it may be issued under subsection 21.1(6).
+Marginal note: Limits on execution of warrant
+22.2 A person to whom -- or a person who is included in a class of persons to whom -- a warrant issued under section 21.1 is directed may take the measures specified in it only if, at the time that they take them, they believe on reasonable grounds that the measures are reasonable and proportional in the circumstances, having regard to the nature of the threat to the security of Canada, the nature of the measures and the reasonable availability of other means to reduce the threat.
+Marginal note: Assistance order
+22.3 (1) A judge may order any person to provide assistance if the person's assistance may reasonably be considered to be required to give effect to a warrant issued under section 21 or 21.1.
+Marginal note: Confidentiality
+(2) The judge may include in the order any measure that the judge considers necessary in the public interest to ensure the confidentiality of the order, including the identity of any person who is required to provide assistance under the order and any other information concerning the provision of the assistance.
+Marginal note: Warrant authorizing removal
+23. (1) On application in writing by the Director or any employee who is designated by the Minister for the purpose, a judge may, if the judge thinks fit, issue a warrant authorizing the persons to whom the warrant is directed to remove from any place any thing installed in accordance with a warrant issued under subsection 21(3) or 21.1(3) and, for that purpose, to enter any place or open or obtain access to any thing.
+Marginal note: Matters to be specified in warrant
+(2) There shall be specified in a warrant issued under subsection (1) the matters referred to in paragraphs 21(4)(c) to (f) or 21.1(5)(c) to (f), as the case may be.
+
+46. The Act is amended by adding the following after section 24:
+
+Marginal note: Authorization to request assistance
+24.1 (1) A person to whom -- or a person who is included in a class of persons to whom -- a warrant issued under section 21.1 is directed may request that another person assist them in taking any measure that the requester is authorized to take under the warrant if the requester believes on reasonable grounds that the measure is reasonable and proportional in the circumstances, having regard to the nature of the threat to the security of Canada, the nature of the measure and the reasonable availability of other means to reduce the threat.
+Marginal note: Person giving assistance
+(2) A person to whom a request is made under subsection (1) is justified in assisting the requester in taking the measure if the person believes on reasonable grounds that the requester has the authority to take the measure.

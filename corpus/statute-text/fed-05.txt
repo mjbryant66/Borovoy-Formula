@@ -1,0 +1,26 @@
+SOURCE_URL: https://laws-lois.justice.gc.ca/eng/acts/C-46/20141216/P1TT3xt3.html
+VERSION: point-in-time consolidation "From 2014-12-16 to 2015-02-24" (Justice Laws Website), i.e. the version in force immediately before R v Nur, 2015 SCC 15 (decided 14 April 2015). This reflects s. 95 as amended by SC 2008, c 6, s. 8 (in force 2008), the three-year/five-year mandatory-minimum version at issue in Nur; no amendment to s. 95 occurred between this point-in-time date and the Nur decision.
+RETRIEVED: 2026-09-23
+SCOPE: Criminal Code, RSC 1985, c C-46, s. 95 in full (subsections (1)-(3)).
+GAPS: none. There is no purpose clause in the Criminal Code applicable to s. 95; Part III (Firearms and Other Weapons) has no preamble or stated purpose provision.
+---
+
+Marginal note: Possession of prohibited or restricted firearm with ammunition
+95 (1) Subject to subsection (3), every person commits an offence who, in any place, possesses a loaded prohibited firearm or restricted firearm, or an unloaded prohibited firearm or restricted firearm together with readily accessible ammunition that is capable of being discharged in the firearm, without being the holder of
+(a) an authorization or a licence under which the person may possess the firearm in that place; and
+(b) the registration certificate for the firearm.
+Marginal note: Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of
+(i) in the case of a first offence, three years, and
+(ii) in the case of a second or subsequent offence, five years; or
+(b) is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding one year.
+Marginal note: Exception
+(3) Subsection (1) does not apply to a person who is using the firearm under the direct and immediate supervision of another person who is lawfully entitled to possess it and is using the firearm in a manner in which that other person may lawfully use it.
+
+R.S., 1985, c. C-46, s. 95
+1991, c. 28, s. 8, c. 40, ss. 9, 37
+1993, c. 25, s. 93
+1995, c. 39, s. 139
+2008, c. 6, s. 8
+2012, c. 6, s. 5(E)

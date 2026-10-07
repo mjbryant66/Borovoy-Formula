@@ -1,0 +1,283 @@
+SOURCE_URL: https://laws-lois.justice.gc.ca/eng/acts/A-1/FullText.html
+VERSION: current consolidation as of 2026-09-23 (Act current to 2026-09-03, last amended 2026-06-14, per the page's own dateline)
+RETRIEVED: 2026-09-23
+SCOPE: s. 2 (purpose); s. 4 (right of access); ss. 6-10 (request/response duties and time limits, excluding s. 5 (publication), s. 6.1 (vexatious-request provision) and s. 11 (fees), which are outside the requested range); ss. 13-24 (main exemption sections, including s. 23.1, which falls within that numeric range) -- the chapeau/operative text of every section and subsection is included in full; three sub-lists that are long enumerations of essentially parallel examples (s. 13(3)'s list of named Indigenous self-government Acts; s. 15(1)(d)-(i)'s further categories of injurious international-affairs/defence information; s. 18(d)(iii)-(vi)'s further examples of financial/economic information) are truncated after 2-3 illustrative items with an inline bracketed note, per the task instruction to avoid reproducing every paragraph of long lists; s. 30 (complaints to the Information Commissioner); s. 41 (review by the Federal Court). Statutory citation/amendment-history lines (e.g. "R.S., 1985, c. A-1, s. X", "2019, c. 18, s. Y") and "Previous Version" links are stripped throughout as non-substantive provenance markers.
+GAPS: s. 5, s. 6.1 and s. 11 omitted (outside requested ss. 6-10 range, see above); three long enumerations trimmed as described in SCOPE, each marked inline with an omission note; no other gaps.
+---
+
+PURPOSE (SECTION 2)
+Purpose of Act
+Marginal note: Purpose of Act
+2 (1) The purpose of this Act is to enhance the accountability and transparency of federal institutions in order to promote an open and democratic society and to enable public debate on the conduct of those institutions.
+Marginal note: Specific purposes of Parts 1 and 2
+(2) In furtherance of that purpose,
+(a) Part 1 extends the present laws of Canada to provide a right of access to information in records under the control of a government institution in accordance with the principles that government information should be available to the public, that necessary exceptions to the right of access should be limited and specific and that decisions on the disclosure of government information should be reviewed independently of government; and
+
+RIGHT OF ACCESS (SECTION 4)
+Right of Access
+Marginal note: Right to access to records
+4 (1) Subject to this Part, but notwithstanding any other Act of Parliament, every person who is
+(a) a Canadian citizen, or
+(b) a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act ,
+has a right to and shall, on request, be given access to any record under the control of a government institution.
+Marginal note: Extension of right by order
+(2) The Governor in Council may, by order, extend the right to be given access to records under subsection (1) to include persons not referred to in that subsection and may set such conditions as the Governor in Council deems appropriate.
+Marginal note: Responsibility of government institutions
+(2.1) The head of a government institution shall, without regard to the identity of a person making a request for access to a record under the control of the institution, make every reasonable effort to assist the person in connection with the request, respond to the request accurately and completely and, subject to the regulations, provide timely access to the record in the format requested.
+Marginal note: Records produced from machine readable records
+(3) For the purposes of this Part, any record requested under this Part that does not exist but can, subject to such limitations as may be prescribed by regulation, be produced from a machine readable record under the control of a government institution using computer hardware and software and technical expertise normally used by the government institution shall be deemed to be a record under the control of the government institution.
+
+REQUEST AND RESPONSE DUTIES AND TIME LIMITS (SECTIONS 6-10)
+Requests for Access
+Marginal note: Request for access to record
+6 A request for access to a record under this Part shall be made in writing to the government institution that has control of the record and shall provide sufficient detail to enable an experienced employee of the institution to identify the record with a reasonable effort.
+Marginal note: Notice where access requested
+7 Where access to a record is requested under this Part, the head of the government institution to which the request is made shall, subject to sections 8 and 9, within 30 days after the request is received,
+(a) give written notice to the person who made the request as to whether or not access to the record or a part thereof will be given; and
+(b) if access is to be given, give the person who made the request access to the record or part thereof.
+Marginal note: Transfer of request
+8 (1) Where a government institution receives a request for access to a record under this Part and the head of the institution considers that another government institution has a greater interest in the record, the head of the institution may, subject to such conditions as may be prescribed by regulation, within fifteen days after the request is received, transfer the request and, if necessary, the record to the other government institution, in which case the head of the institution transferring the request shall give written notice of the transfer to the person who made the request.
+Marginal note: Deeming provision
+(2) For the purposes of section 7, where a request is transferred under subsection (1), the request shall be deemed to have been made to the government institution to which it was transferred on the day the government institution to which the request was originally made received it.
+Marginal note: Meaning of greater interest
+(3) For the purpose of subsection (1), a government institution has a greater interest in a record if
+(a) the record was originally produced in or for the institution; or
+(b) in the case of a record not originally produced in or for a government institution, the institution was the first government institution to receive the record or a copy thereof.
+Marginal note: Extension of time limits
+9 (1) The head of a government institution may extend the time limit set out in section 7 or subsection 8(1) in respect of a request under this Part for a reasonable period of time, having regard to the circumstances, if
+(a) the request is for a large number of records or necessitates a search through a large number of records and meeting the original time limit would unreasonably interfere with the operations of the government institution,
+(b) consultations are necessary to comply with the request that cannot reasonably be completed within the original time limit, or
+(c) notice of the request is given pursuant to subsection 27(1)
+by giving notice of the extension and, in the circumstances set out in paragraph (a) or (b), the length of the extension, to the person who made the request within thirty days after the request is received, which notice shall contain a statement that the person has a right to make a complaint to the Information Commissioner about the extension.
+Marginal note: Notice of extension to Information Commissioner
+(2) Where the head of a government institution extends a time limit under subsection (1) for more than thirty days, the head of the institution shall give notice of the extension to the Information Commissioner at the same time as notice is given under subsection (1).
+Marginal note: Where access is refused
+10 (1) Where the head of a government institution refuses to give access to a record requested under this Part or a part thereof, the head of the institution shall state in the notice given under paragraph 7(a)
+(a) that the record does not exist, or
+(b) the specific provision of this Part on which the refusal was based or, where the head of the institution does not indicate whether a record exists, the provision on which a refusal could reasonably be expected to be based if the record existed,
+and shall state in the notice that the person who made the request has a right to make a complaint to the Information Commissioner about the refusal.
+Marginal note: Existence of a record not required to be disclosed
+(2) The head of a government institution may but is not required to indicate under subsection (1) whether a record exists.
+Marginal note: Deemed refusal to give access
+(3) Where the head of a government institution fails to give access to a record requested under this Part or a part thereof within the time limits set out in this Part, the head of the institution shall, for the purposes of this Part, be deemed to have refused to give access.
+
+MAIN EXEMPTION SECTIONS (SECTIONS 13-24)
+[Note: statutory citation/amendment-history lines following each section, and 'Previous Version' links, are omitted throughout this excerpt for length; they do not affect the operative text.]
+Responsibilities of Government
+Marginal note: Information obtained in confidence
+13 (1) Subject to subsection (2), the head of a government institution shall refuse to disclose any record requested under this Part that contains information that was obtained in confidence from
+(a) the government of a foreign state or an institution thereof;
+(b) an international organization of states or an institution thereof;
+(c) the government of a province or an institution thereof;
+(d) a municipal or regional government established by or pursuant to an Act of the legislature of a province or an institution of such a government; or
+(e) an aboriginal government.
+Marginal note: Where disclosure authorized
+(2) The head of a government institution may disclose any record requested under this Part that contains information described in subsection (1) if the government, organization or institution from which the information was obtained
+(a) consents to the disclosure; or
+(b) makes the information public.
+Marginal note: Definition of aboriginal government
+(3) The expression aboriginal government in paragraph (1)(e) means
+(a) Nisga’a Government, as defined in the Nisga’a Final Agreement given effect by the Nisga’a Final Agreement Act ;
+(b) the council, as defined in the Westbank First Nation Self-Government Agreement given effect by the Westbank First Nation Self-Government Act ;
+(c) the Tlicho Government, as defined in section 2 of the Tlicho Land Claims and Self-Government Act ;
+[paragraphs (d) through (j) omitted for length: each names a further Indigenous self-government agreement/Act falling within the definition of "aboriginal government"; see SOURCE_URL for the full list.]
+Marginal note: Federal-provincial affairs
+14 The head of a government institution may refuse to disclose any record requested under this Part that contains information the disclosure of which could reasonably be expected to be injurious to the conduct by the Government of Canada of federal-provincial affairs, including, without restricting the generality of the foregoing, any such information
+(a) on federal-provincial consultations or deliberations; or
+(b) on strategy or tactics adopted or to be adopted by the Government of Canada relating to the conduct of federal-provincial affairs.
+Marginal note: International affairs and defence
+15 (1) The head of a government institution may refuse to disclose any record requested under this Part that contains information the disclosure of which could reasonably be expected to be injurious to the conduct of international affairs, the defence of Canada or any state allied or associated with Canada or the detection, prevention or suppression of subversive or hostile activities, including, without restricting the generality of the foregoing, any such information
+(a) relating to military tactics or strategy, or relating to military exercises or operations undertaken in preparation for hostilities or in connection with the detection, prevention or suppression of subversive or hostile activities;
+(b) relating to the quantity, characteristics, capabilities or deployment of weapons or other defence equipment or of anything being designed, developed, produced or considered for use as weapons or other defence equipment;
+(c) relating to the characteristics, capabilities, performance, potential, deployment, functions or role of any defence establishment, of any military force, unit or personnel or of any organization or person responsible for the detection, prevention or suppression of subversive or hostile activities;
+[paragraphs (d) through (i) omitted for length: further categories of injurious-disclosure information (intelligence sources/methods, negotiating positions, diplomatic correspondence, cryptographic/communications systems); see SOURCE_URL for the full list.]
+Marginal note: Definitions
+(2) In this section,
+defence of Canada or any state allied or associated with Canada includes the efforts of Canada and of foreign states toward the detection, prevention or suppression of activities of any foreign state directed toward actual or potential attack or other acts of aggression against Canada or any state allied or associated with Canada; ( défense du Canada ou d’États alliés ou associés avec le Canada )
+subversive or hostile activities means
+(a) espionage against Canada or any state allied or associated with Canada,
+(b) sabotage,
+(c) activities directed toward the commission of terrorist acts, including hijacking, in or against Canada or foreign states,
+(d) activities directed toward accomplishing government change within Canada or foreign states by the use of or the encouragement of the use of force, violence or any criminal means,
+(e) activities directed toward gathering information used for intelligence purposes that relates to Canada or any state allied or associated with Canada, and
+(f) activities directed toward threatening the safety of Canadians, employees of the Government of Canada or property of the Government of Canada outside Canada. ( activités hostiles ou subversives )
+Marginal note: Law enforcement and investigations
+16 (1) The head of a government institution may refuse to disclose any record requested under this Part that contains
+(a) information obtained or prepared by any government institution, or part of any government institution, that is an investigative body specified in the regulations in the course of lawful investigations pertaining to
+(i) the detection, prevention or suppression of crime,
+(ii) the enforcement of any law of Canada or a province, or
+(iii) activities suspected of constituting threats to the security of Canada within the meaning of the Canadian Security Intelligence Service Act ,
+if the record came into existence less than twenty years prior to the request;
+(b) information relating to investigative techniques or plans for specific lawful investigations;
+(c) information the disclosure of which could reasonably be expected to be injurious to the enforcement of any law of Canada or a province or the conduct of lawful investigations, including, without restricting the generality of the foregoing, any such information
+(i) relating to the existence or nature of a particular investigation,
+(ii) that would reveal the identity of a confidential source of information, or
+(iii) that was obtained or prepared in the course of an investigation; or
+(d) information the disclosure of which could reasonably be expected to be injurious to the security of penal institutions.
+Marginal note: Security
+(2) The head of a government institution may refuse to disclose any record requested under this Part that contains information that could reasonably be expected to facilitate the commission of an offence, including, without restricting the generality of the foregoing, any such information
+(a) on criminal methods or techniques;
+(b) that is technical information relating to weapons or potential weapons; or
+(c) on the vulnerability of particular buildings or other structures or systems, including computer or communication systems, or methods employed to protect such buildings or other structures or systems.
+Marginal note: Policing services for provinces or municipalities
+(3) The head of a government institution shall refuse to disclose any record requested under this Part that contains information that was obtained or prepared by the Royal Canadian Mounted Police while performing policing services for a province or municipality pursuant to an arrangement made under section 20 of the Royal Canadian Mounted Police Act , where the Government of Canada has, on the request of the province or municipality agreed not to disclose such information.
+Definition of investigation
+(4) For the purposes of paragraphs (1)(b) and (c), investigation means an investigation that
+(a) pertains to the administration or enforcement of an Act of Parliament;
+(b) is authorized by or pursuant to an Act of Parliament; or
+(c) is within a class of investigations specified in the regulations.
+Marginal note: Records relating to investigations, examinations and audits
+16.1 (1) The following heads of government institutions shall refuse to disclose any record requested under this Part that contains information that was obtained or created by them or on their behalf in the course of an investigation, examination or audit conducted by them or under their authority:
+(a) the Auditor General of Canada;
+(b) the Commissioner of Official Languages for Canada;
+(c) the Information Commissioner; and
+(d) the Privacy Commissioner.
+Marginal note: Exception
+(2) However, the head of a government institution referred to in paragraph (1)(c) or (d) shall not refuse under subsection (1) to disclose any record that contains information that was created by or on behalf of the head of the government institution in the course of an investigation or audit conducted by or under the authority of the head of the government institution once the investigation or audit and all related proceedings, if any, are finally concluded.
+Marginal note: Records relating to investigations
+16.2 (1) The Commissioner of Lobbying shall refuse to disclose any record requested under this Part that contains information that was obtained or created by the Commissioner or on the Commissioner’s behalf in the course of an investigation conducted by or under the authority of the Commissioner.
+Marginal note: Exception
+(2) However, the Commissioner shall not refuse under subsection (1) to disclose any record that contains information that was created by the Commissioner or on the Commissioner’s behalf in the course of an investigation conducted by, or under the authority of, the Commissioner once the investigation and all related proceedings, if any, are finally concluded.
+Marginal note: Investigations, examinations and reviews under the Canada Elections Act
+16.3 Subject to section 541 of the Canada Elections Act , the Chief Electoral Officer may refuse to disclose any record requested under this Part that contains information that was obtained or created by or on behalf of a person who conducts an investigation, examination or review in the performance of their functions under the Canada Elections Act .
+16.31 [Repealed, 2018, c. 31, s. 391]
+Marginal note: Public Sector Integrity Commissioner
+16.4 (1) The Public Sector Integrity Commissioner shall refuse to disclose any record requested under this Part that contains information
+(a) obtained or created by him or her or on his or her behalf in the course of an investigation into a disclosure made under the Public Servants Disclosure Protection Act or an investigation commenced under section 33 of that Act; or
+(b) received by a conciliator in the course of attempting to reach a settlement of a complaint filed under subsection 19.1(1) of that Act.
+Marginal note: Exception
+(2) Subsection (1) does not apply in respect of a record that contains information referred to in paragraph (1)(b) if the person who gave the information to the conciliator consents to the record being disclosed.
+Marginal note: Public Servants Disclosure Protection Act
+16.5 The head of a government institution shall refuse to disclose any record requested under this Part that contains information created for the purpose of making a disclosure under the Public Servants Disclosure Protection Act or in the course of an investigation into a disclosure under that Act.
+Marginal note: Secretariat of National Security and Intelligence Committee of Parliamentarians
+16.6 The Secretariat of the National Security and Intelligence Committee of Parliamentarians shall refuse to disclose any record requested under this Part that contains information obtained or created by it or on its behalf in the course of assisting the National Security and Intelligence Committee of Parliamentarians in fulfilling its mandate.
+Marginal note: Safety of individuals
+17 The head of a government institution may refuse to disclose any record requested under this Part that contains information the disclosure of which could reasonably be expected to threaten the safety of individuals.
+Marginal note: Economic interests of Canada
+18 The head of a government institution may refuse to disclose any record requested under this Part that contains
+(a) trade secrets or financial, commercial, scientific or technical information that belongs to the Government of Canada or a government institution and has substantial value or is reasonably likely to have substantial value;
+(b) information the disclosure of which could reasonably be expected to prejudice the competitive position of a government institution or to interfere with contractual or other negotiations of a government institution;
+(c) scientific or technical information obtained through research by an officer or employee of a government institution, the disclosure of which could reasonably be expected to deprive the officer or employee of priority of publication; or
+(d) information the disclosure of which could reasonably be expected to be materially injurious to the financial interests of a government institution or to the ability of the Government of Canada to manage the economy of Canada or could reasonably be expected to result in an undue benefit to any person, including such information that relates to
+(d) information the disclosure of which could reasonably be expected to be materially injurious to the financial interests of a government institution or to the ability of the Government of Canada to manage the economy of Canada or could reasonably be expected to result in an undue benefit to any person, including such information that relates to
+(i) the currency, coinage or legal tender of Canada,
+(ii) a contemplated change in the rate of bank interest or in government borrowing,
+[subparagraphs (iii) through (vi) omitted for length: further examples of financial/economic information; see SOURCE_URL.]
+Marginal note: Economic interests of certain government institutions
+18.1 (1) The head of a government institution may refuse to disclose a record requested under this Part that contains trade secrets or financial, commercial, scientific or technical information that belongs to, and has consistently been treated as confidential by,
+(a) the Canada Post Corporation;
+(b) Export Development Canada;
+(c) the Public Sector Pension Investment Board; or
+(d) VIA Rail Canada Inc.
+Marginal note: Exceptions
+(2) However, the head of a government institution shall not refuse under subsection (1) to disclose a part of a record that contains information that relates to
+(a) the general administration of an institution referred to in any of paragraphs (1)(a) to (d); or
+(b) any activity of the Canada Post Corporation that is fully funded out of moneys appropriated by Parliament.
+Personal Information
+Marginal note: Personal information
+19 (1) Subject to subsection (2), the head of a government institution shall refuse to disclose any record requested under this Part that contains personal information.
+Marginal note: Where disclosure authorized
+(2) The head of a government institution may disclose any record requested under this Part that contains personal information if
+(a) the individual to whom it relates consents to the disclosure;
+(b) the information is publicly available; or
+(c) the disclosure is in accordance with section 8 of the Privacy Act .
+Third Party Information
+Marginal note: Third party information
+20 (1) Subject to this section, the head of a government institution shall refuse to disclose any record requested under this Part that contains
+(a) trade secrets of a third party;
+(b) financial, commercial, scientific or technical information that is confidential information supplied to a government institution by a third party and is treated consistently in a confidential manner by the third party;
+(b.1) information that is supplied in confidence to a government institution by a third party for the preparation, maintenance, testing or implementation by the government institution of emergency management plans within the meaning of section 2 of the Emergency Management Act and that concerns the vulnerability of the third party’s buildings or other structures, its networks or systems, including its computer or communications networks or systems, or the methods used to protect any of those buildings, structures, networks or systems;
+(c) information the disclosure of which could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, a third party; or
+(d) information the disclosure of which could reasonably be expected to interfere with contractual or other negotiations of a third party.
+Marginal note: Product or environmental testing
+(2) The head of a government institution shall not, pursuant to subsection (1), refuse to disclose a part of a record if that part contains the results of product or environmental testing carried out by or on behalf of a government institution unless the testing was done as a service to a person, a group of persons or an organization other than a government institution and for a fee.
+Marginal note: Methods used in testing
+(3) Where the head of a government institution discloses a record requested under this Part, or a part thereof, that contains the results of product or environmental testing, the head of the institution shall at the same time as the record or part thereof is disclosed provide the person who requested the record with a written explanation of the methods used in conducting the tests.
+Marginal note: Preliminary testing
+(4) For the purposes of this section, the results of product or environmental testing do not include the results of preliminary testing conducted for the purpose of developing methods of testing.
+Marginal note: Disclosure if a supplier consents
+(5) The head of a government institution may disclose any record that contains information described in subsection (1) with the consent of the third party to whom the information relates.
+Marginal note: Disclosure authorized if in public interest
+(6) The head of a government institution may disclose all or part of a record requested under this Part that contains information described in any of paragraphs (1)(b) to (d) if
+(a) the disclosure would be in the public interest as it relates to public health, public safety or protection of the environment; and
+(b) the public interest in disclosure clearly outweighs in importance any financial loss or gain to a third party, any prejudice to the security of its structures, networks or systems, any prejudice to its competitive position or any interference with its contractual or other negotiations.
+Marginal note: Public Sector Pension Investment Board
+20.1 The head of the Public Sector Pension Investment Board shall refuse to disclose a record requested under this Part that contains advice or information relating to investment that the Board has obtained in confidence from a third party if the Board has consistently treated the advice or information as confidential.
+Marginal note: Canada Pension Plan Investment Board
+20.2 The head of the Canada Pension Plan Investment Board shall refuse to disclose a record requested under this Part that contains advice or information relating to investment that the Board has obtained in confidence from a third party if the Board has consistently treated the advice or information as confidential.
+Marginal note: National Arts Centre Corporation
+20.4 The head of the National Arts Centre Corporation shall refuse to disclose a record requested under this Part if the disclosure would reveal the terms of a contract for the services of a performing artist or the identity of a donor who has made a donation in confidence and if the Corporation has consistently treated the information as confidential.
+Operations of Government
+Marginal note: Advice, etc.
+21 (1) The head of a government institution may refuse to disclose any record requested under this Part that contains
+(a) advice or recommendations developed by or for a government institution or a minister of the Crown,
+(b) an account of consultations or deliberations in which directors, officers or employees of a government institution, a minister of the Crown or the staff of a minister participate,
+(c) positions or plans developed for the purpose of negotiations carried on or to be carried on by or on behalf of the Government of Canada and considerations relating thereto, or
+(d) plans relating to the management of personnel or the administration of a government institution that have not yet been put into operation,
+if the record came into existence less than twenty years prior to the request.
+Marginal note: Exercise of a discretionary power or an adjudicative function
+(2) Subsection (1) does not apply in respect of a record that contains
+(a) an account of, or a statement of reasons for, a decision that is made in the exercise of a discretionary power or an adjudicative function and that affects the rights of a person; or
+(b) a report prepared by a consultant or an adviser who was not a director, an officer or an employee of a government institution or a member of the staff of a minister of the Crown at the time the report was prepared.
+Marginal note: Testing procedures, tests and audits
+22 The head of a government institution may refuse to disclose any record requested under this Part that contains information relating to testing or auditing procedures or techniques or details of specific tests to be given or audits to be conducted if the disclosure would prejudice the use or results of particular tests or audits.
+Marginal note: Internal audits
+22.1 (1) The head of a government institution may refuse to disclose any record requested under this Part that contains a draft report of an internal audit of a government institution or any related audit working paper if the record came into existence less than fifteen years before the request was made.
+Marginal note: Exception
+(2) However, the head of a government institution shall not refuse under subsection (1) to disclose a draft report of an internal audit of a government institution if a final report of the audit has been published or if a final report of the audit is not delivered to the institution within two years after the day on which the audit was first commenced.
+Marginal note: Protected information — solicitors, advocates and notaries
+23 The head of a government institution may refuse to disclose any record requested under this Part that contains information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
+Marginal note: Protected information — patents and trademarks
+23.1 The head of a government institution may refuse to disclose any record requested under this Part that contains information that is subject to the privilege set out in section 16.1 of the Patent Act or section 51.13 of the Trademarks Act .
+Statutory Prohibitions
+Marginal note: Statutory prohibitions against disclosure
+24 (1) The head of a government institution shall refuse to disclose any record requested under this Part that contains information the disclosure of which is restricted by or pursuant to any provision set out in Schedule II.
+(2) [Repealed, 2019, c. 18, s. 11]
+Marginal note: Severability
+
+COMPLAINTS TO THE INFORMATION COMMISSIONER (SECTION 30)
+30 (1) Subject to this Part, the Information Commissioner shall receive and investigate complaints
+(a) from persons who have been refused access to a record requested under this Part or a part thereof;
+(b) from persons who have been required to pay an amount under section 11 that they consider unreasonable;
+(c) from persons who have requested access to records in respect of which time limits have been extended pursuant to section 9 where they consider the extension unreasonable;
+(d) from persons who have not been given access to a record or a part thereof in the official language requested by the person under subsection 12(2), or have not been given access in that language within a period of time that they consider appropriate;
+(d.1) from persons who have not been given access to a record or a part thereof in an alternative format pursuant to a request made under subsection 12(3), or have not been given such access within a period of time that they consider appropriate;
+(e) in respect of any publication or bulletin referred to in section 5; or
+(f) in respect of any other matter relating to requesting or obtaining access to records under this Part.
+Marginal note: Complaints submitted on behalf of complainants
+(2) Nothing in this Part precludes the Information Commissioner from receiving and investigating complaints of a nature described in subsection (1) that are submitted by a person authorized by the complainant to act on behalf of the complainant, and a reference to a complainant in any other section includes a reference to a person so authorized.
+Marginal note: Information Commissioner may initiate complaint
+(3) Where the Information Commissioner is satisfied that there are reasonable grounds to investigate a matter relating to requesting or obtaining access to records under this Part, the Commissioner may initiate a complaint in respect thereof.
+Marginal note: Reasons for refusing or ceasing to investigate
+(4) The Information Commissioner may refuse or cease to investigate a complaint if, in the Commissioner’s opinion,
+(a) the complaint is trivial, frivolous or vexatious or is made in bad faith; or
+(b) an investigation or any further investigation is unnecessary having regard to all the circumstances of the complaint, including that the complaint is already the subject of an investigation or that the subject matter of the complaint has already been the subject of a report by the Commissioner.
+Marginal note: Notice
+(5) If the Information Commissioner refuses or ceases to investigate a complaint, he or she shall give a written notice to
+(a) the complainant, stating the reasons for refusing or ceasing to investigate the complaint;
+(b) the head of the government institution concerned, if the Commissioner provided the head of the institution with a notice under section 32;
+(c) any third party that was entitled under paragraph 35(2)(c) to make and that made representations to the Commissioner in respect of the complaint; and
+(d) the Privacy Commissioner, if the Information Commissioner consulted him or her under subsection 36(1.1) or section 36.2.
+Marginal note: Written complaint
+
+REVIEW BY THE FEDERAL COURT (SECTION 41)
+41 (1) A person who makes a complaint described in any of paragraphs 30(1)(a) to (e) and who receives a report under subsection 37(2) in respect of the complaint may, within 30 business days after the day on which the head of the government institution receives the report, apply to the Court for a review of the matter that is the subject of the complaint.
+Marginal note: Review by Federal Court — government institution
+(2) The head of a government institution who receives a report under subsection 37(2) may, within 30 business days after the day on which they receive it, apply to the Court for a review of any matter that is the subject of an order set out in the report.
+Marginal note: Review by Federal Court — third parties
+(3) If neither the person who made the complaint nor the head of the government institution makes an application under this section within the period for doing so, a third party who receives a report under subsection 37(2) may, within 10 business days after the expiry of the period referred to in subsection (1), apply to the Court for a review of the application of any exemption provided for under this Part that may apply to a record that might contain information described in subsection 20(1) and that is the subject of the complaint in respect of which the report is made.
+Marginal note: Review by Federal Court — Privacy Commissioner
+(4) If neither the person who made the complaint nor the head of the institution makes an application under this section within the period for doing so, the Privacy Commissioner, if he or she receives a report under subsection 37(2), may, within 10 business days after the expiry of the period referred to in subsection (1), apply to the Court for a review of any matter in relation to the disclosure of a record that might contain personal information and that is the subject of the complaint in respect of which the report is made.
+Marginal note: Respondents
+(5) The person who applies for a review under subsection (1), (3) or (4) may name only the head of the government institution concerned as the respondent to the proceedings. The head of the government institution who applies for a review under subsection (2) may name only the Information Commissioner as the respondent to the proceedings.
+Marginal note: Deemed date of receipt
+(6) For the purposes of this section, the head of the government institution is deemed to have received the report on the fifth business day after the date of the report.
+Marginal note: Operation of order stayed
+41.1 (1) Subject to subsection (2), the making of an application under section 41 operates as a stay of any order set out in a report received under subsection 37(2) by the person who made the application until the proceedings are finally concluded.
+Marginal note: Part of order operative
+(2) If all of the persons who received the report agree in writing, any part of the order that relates to a matter that is not the subject of the proceedings becomes operative.
+Marginal note: Parties to review
+41.2 (1) If a person who receives a report under subsection 37(2) applies to the Court for a review under section 41, any other person who received the report under that subsection has the right to appear as a party to the review.
+Marginal note: Scope of proceedings
+(2) If a complainant, a third party or the Privacy Commissioner files notice of their intention to appear as a party to a review with the Court within 10 business days after the expiry of the period referred to in subsection 41(1), they may raise for determination by the Court any matter in respect of which they may make an application under section 41.
+Marginal note: Burden of proof – party

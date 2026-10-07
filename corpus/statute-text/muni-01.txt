@@ -1,0 +1,122 @@
+SOURCE_URL: https://www.toronto.ca/legdocs/municode/1184_608.pdf
+VERSION: June 3, 2024 (consolidation date shown on each page footer of the PDF)
+RETRIEVED: 2026-09-23
+SCOPE: § 608-1 Definitions (PARK and PERMIT only, the two defined terms used in §§ 608-13/608-14); Article III §§ 608-13 (Camping and lodging) and 608-14 (Tents and structures); Article X §§ 608-53 (Enforcement) and 608-54 (Penalties and administrative penalties).
+GAPS: none for the requested provisions. The chapter's full definitions list (about 40 other terms) and the remaining ~50 sections of the chapter (access, fires, sports, animals, vehicles, trees, watercraft, commercial enterprises, etc.) were omitted as outside the requested scope.
+---
+TORONTO MUNICIPAL CODE
+CHAPTER 608, PARKS
+
+ARTICLE I
+Definitions
+
+§ 608-1. Definitions.
+
+As used in this chapter, the following terms shall have the meanings indicated:
+
+PARK - Land and land covered by water and all portions of it owned by or made available by
+lease, agreement, or otherwise to the City, that is or may be established, dedicated, set apart or
+made available for use as public open space or golf course, and that has been or may be placed
+under the jurisdiction of the General Manager, including any and all buildings, structures, facilities,
+erections, and improvements located in or on the land, save and except where the land is governed
+by other by-laws of the City. [Amended 2012-02-07 by By-law 144-2012]
+
+PERMIT - A City-issued permit, parks access agreement, lease, licence, letter of authorization,
+parking permit or any other written authorization issued by the City to allow for the use of any area
+located within the boundaries of a park, granted in accordance with this chapter. [Amended
+2017-12-08 by By-law 1411-2017]
+
+ARTICLE III
+Parks Use
+
+§ 608-13. Camping and lodging.
+
+Unless authorized by permit, no person shall dwell, camp or lodge in a park.
+
+§ 608-14. Tents and structures.
+
+Unless authorized by permit, no person shall place, install, attach or erect a temporary or
+permanent tent, structure or shelter at, in or to a park.
+
+ARTICLE X
+Regulation and Enforcement
+
+§ 608-53. Enforcement.
+
+[Amended 2012-02-07 by By-law 144-2012]
+
+A.        Any officer is authorized to inform a person of the provisions of this chapter and request
+          compliance with it.
+
+B.        Any officer is authorized to order a person believed by the officer to be contravening or
+          who has contravened any provision of this chapter to:
+
+          (1)        Stop the activity constituting or contributing to the contravention;
+
+          (2)        Remove from the park to a pound or storage facility any animal or thing owned by
+                     or in control of the person who the officer believes is or was involved in the
+                     contravention; or
+
+          (3)        Leave the park.
+
+C.        With the exception of §§ 608-27A, B, C, D, E.1, F and 608-30.1 which will be enforced
+          by an enforcement officer, any provincial offences officer may enforce the provisions of
+          this chapter. [Amended 2017-07-07 by By-law 798-2017]
+
+D.        Where a person contravenes any of the provisions of this chapter, or fails to comply with
+          any order referred to in Subsection B, the permission and licence of the person to remain
+          in that park is revoked.
+
+E.        If a person encroaches upon a park and fails to comply with a notice given under
+          Subsection F, the General Manager, or persons acting upon his instructions, may remove
+          the encroachment, install appropriate fencing and recover all expenses associated with the
+          removal, including, but not limited to, soil testing, disposal fees, park restoration and
+          fence installation.
+
+F.        Notice to comply.
+
+          (1)        The notice to comply shall require compliance with this chapter within a specified
+                     time period but no sooner than 72 hours after the notice is given.
+
+          (2)        Notice to remove the encroachment may be served personally on the person to
+                     whom it is directed or sent by registered mail to the last known address of that
+                     person, in which case it shall be deemed to have been given on the third day after
+                     it is mailed.
+
+          (3)        If there is evidence that the person in possession of the land is not the registered
+                     property owner, the notice shall be served on both the registered property owner
+                     and the person in possession of the land.
+
+          (4)        If the address of the owner or occupant is unknown or the City is unable to effect
+                     service on the owner or occupant under Subsection F(2), a placard stating the
+                     terms of the notice and placed in a conspicuous place upon the property shall be
+                     deemed to be sufficient notice.
+
+G.        Costs incurred by the City in doing the work required to be done by notice may be
+          recovered by action or adding the costs to the tax roll and collecting them in the same
+          manner as taxes.
+
+§ 608-54. Penalties and administrative penalties.
+
+[Amended 2012-07-13 by By-law 978-2012; 2017-03-29 by By-law 309-2017; 2017-07-07
+by By-law 798-2017]
+
+A.          Any person who contravenes any of the provisions of this chapter, other than § 608-32
+            resulting from the operation of a motor vehicle, is guilty of an offence or is liable to an
+            administrative penalty.
+
+B.          Any person who contravenes the provision contained in § 608-32 of this chapter, resulting
+            from the operation of a motor vehicle, is guilty of an offence under the Highway Traffic
+            Act.
+
+C.          Unless at the time of the contravention the vehicle was in the possession of another
+            person without the vehicle owner's consent, if a vehicle has been left parked, standing or
+            stopped in contravention of §§ 608-27A, B, C, D, E.1, F or 608-30.1, the vehicle owner
+            shall, upon issuance of a penalty notice, be liable to an administrative penalty.
+
+D.          Every vehicle owner who contravenes § 608-27D is liable to an administrative penalty of
+            not less than $300.00 for each contravention.
+
+E.          Every person convicted of an offence under this chapter, other than an administrative
+            penalty under §§ 608-27A, B, C, D, E.1, F or 608-30.1 or an offence under § 608-32, is
+            liable to a fine as provided for in the Provincial Offences Act.

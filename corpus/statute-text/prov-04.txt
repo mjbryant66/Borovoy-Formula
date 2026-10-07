@@ -1,0 +1,278 @@
+SOURCE_URL: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/24001 (the SBC 2005, c 29 version cited in the task was re-published in the 2024 statute revision as RSBC 2024, c 1, effective 17 June 2024, per B.C. Reg. 151/2024; the old id https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/05029_01 now just carries a redirect notice to the revised chapter)
+VERSION: Current to September 15, 2026 (per the "This Act is current to..." banner on the BC Laws page); short title still "Civil Forfeiture Act"; now cited as RSBC 2024, c 1 (was SBC 2005, c 29 before the 2024 revision)
+RETRIEVED: 2026-09-23
+SCOPE: Part 1 - Interpretation in full (s.1 definitions, s.2 application); Part 2 - Forfeiture Orders, core operative sections only (s.3 application for forfeiture order, s.6 forfeiture order, s.8 effective date of forfeiture order) - ss.4, 5, 7 and 7.1 (procedural: parties/notification, response requirements, relief from forfeiture, default judgment) omitted for length, noted in place; Part 3, Division 3 - Unexplained Wealth Orders, in FULL (ss.18-26: definitions, meaning of "affiliated"/"beneficial owner"/"connected", application for a UWO, service and hearing, the UWO itself, contents of a UWO, and costs).
+GAPS: ss. 4, 5, 7, 7.1 of Part 2 omitted for length (procedural, not core to the forfeiture power itself); Parts 4 through 9 (administrative forfeiture, proceedings/presumptions/proof, interests in property, administration, distribution of proceeds, general provisions) not retrieved - out of scope for this comparison. UNEXPLAINED WEALTH ORDERS CONFIRMED: BC's Civil Forfeiture Act DOES contain unexplained wealth order provisions, at Part 3, Division 3, ss.18-26 (added, per the Division heading position in the current consolidation, by the Civil Forfeiture Amendment Act, 2023 (Bill 21); the Act's own text does not carry a coming-into-force date on these sections in the extract retrieved here, so verify the exact in-force date against the Tables of Legislative Changes link on the BC Laws page before relying on it).
+---
+Civil Forfeiture Act
+[RSBC 2024] CHAPTER								1
+
+PART 1 — INTERPRETATION
+
+1 (1) In this Act:
+"business day" means a day on which the court registries are open for business;
+"corporation" means a corporation as defined in section 1 of the Business Corporations Act ;
+"court" means the Supreme Court;
+"director" means a person who is designated as director under section 66 (1);
+"financed vehicle" means personal property that is serial numbered goods and that is subject to a specified security interest in the whole or a portion of an interest in the personal property;
+"forfeiture order" means a court order made under section 6 (1) or (2);
+"instrument of unlawful activity" means any of the following:
+(a) property that has been used to engage in unlawful activity that, in turn,
+(i) resulted in or was likely to result in the acquisition of property or an interest in property,
+(ii) caused serious bodily harm to a person, or
+(iii) could have resulted in serious bodily harm to a person;
+(b) property that is likely to be used to engage in unlawful activity that may
+(i) result in the acquisition of property or an interest in property, or
+(ii) cause serious bodily harm to a person;
+(c) property that is realized from the disposition of property described in paragraph (a) or (b);
+"interest in property" or "interest in the property" means a right, a title, an interest, an estate or a claim to or in property;
+"interim preservation order" means a court order made under section 9 (4);
+"limited partnership" means a limited partnership
+(a) formed under section 51 [formation of limited partnership] of the Partnership Act , or
+(b) registered under section 80 [limited partnerships formed outside British Columbia] of the Partnership Act ;
+"personal property registry" means the personal property registry established under the Personal Property Security Act ;
+"proceeds of unlawful activity" means any of the following:
+(a) the whole or a portion of an interest in property if the whole or the portion of the interest, as the case may be, is acquired directly or indirectly as a result of unlawful activity;
+(b) the whole or a portion of an interest in property that is equivalent in value to the amount of an increase in value of the whole or the portion of the interest in property if the increase in value results directly or indirectly from unlawful activity;
+(c) the whole or a portion of an interest in property that is equivalent in value to the amount of a decrease in a debt obligation secured against the interest or the portion of the interest in property, if the decrease in debt obligation results directly or indirectly from unlawful activity;
+(d) property that is realized from the disposition of the whole or a portion of an interest in property described in paragraph (a), (b) or (c);
+"property" means a parcel of real property or tangible or intangible personal property and, for greater certainty, includes cash;
+"protection order" means an order made by a court under section 27 (1);
+"public body" , except in section 67 [powers, duties and functions of director] and Division 1 of Part 6 [Interests in Property and Financed Vehicles] , means any of the following:
+(a) Canada, a province or another jurisdiction in or outside Canada with which the director has entered into an information-sharing agreement under section 67 (4) (a);
+(b) a public body as defined in the Freedom of Information and Protection of Privacy Act ;
+"receiver manager" means a person who is appointed as a receiver manager under section 9 (4) (c) [interim preservation order] ;
+"respondent" means a person in respect of whom an unexplained wealth order is sought or made, other than a responsible officer;
+"responsible officer" means the following:
+(a) in the case of a respondent that is a corporation, an individual who is a director, as defined in section 1 of the Business Corporations Act , or senior officer of the corporation;
+(b) in the case of a respondent that is a limited partnership,
+(i) an individual who is a general partner in the limited partnership, or
+(ii) an individual who is a responsible officer in relation to a corporation or a partnership that is a general partner in the limited partnership;
+(c) in the case of a respondent that is a partnership other than a limited partnership,
+(i) an individual who is a partner in the partnership, or
+(ii) an individual who is a responsible officer in relation to a corporation or a partnership that is a partner in the partnership;
+(d) a prescribed individual or an individual in a prescribed class;
+"security interest" means security interest as defined in the Personal Property Security Act ;
+"senior officer" , in relation to a corporation, means a senior officer as defined in section 1 of the Business Corporations Act ;
+"serial numbered goods" means a motor vehicle, manufactured home, boat, outboard motor, trailer or aircraft;
+"specified interest holder" , in relation to a financed vehicle, means a person who
+(a) at the time forfeiture is initiated in relation to the vehicle or the whole or a portion of an interest in the vehicle under section 32 [notice of forfeiture under Part 4] , holds a specified security interest in the vehicle or the whole or the portion of the interest in the vehicle, and
+(b) did not directly or indirectly engage in the unlawful activity that is the basis of forfeiture under this Act;
+"specified security interest" , in relation to a financed vehicle, means a security interest
+(a) taken in the vehicle or the whole or a portion of an interest in the vehicle for one or more of the following purposes:
+(i) to secure payment of all or part of the purchase price of the vehicle;
+(ii) to secure payment of a financed debt obligation;
+(iii) a prescribed purpose, and
+(b) in respect of which a financing statement containing a description of the vehicle by serial number is registered in the personal property registry,
+and does not include
+(c) an interest under a lease for a term of more than one year, within the meaning of the Personal Property Security Act , that does not secure payment or performance of an obligation, or
+(d) a prescribed security interest;
+"unexplained wealth order" means a court order made under section 24;
+"uninvolved interest holder" means a person who
+(a) owns, at the time of application for an order under section 3 [application for forfeiture order] , the whole or a portion of an interest in property that is an instrument of unlawful activity, and
+(b) did not directly or indirectly engage in the unlawful activity that is the basis of the application referred to in paragraph (a);
+"unlawful activity" means an act or omission described in one of the following paragraphs:
+(a) if an act or omission occurs in British Columbia, the act or omission, at the time of occurrence, is an offence under an Act of Canada or British Columbia;
+(b) if an act or omission occurs in another province of Canada, the act or omission, at the time of occurrence,
+(i) is an offence under an Act of Canada or the other province, as applicable, and
+(ii) would be an offence in British Columbia, if the act or omission had occurred in British Columbia;
+(c) if an act or omission occurs in a jurisdiction outside of Canada, the act or omission, at the time of occurrence,
+(i) is an offence under an Act of the jurisdiction, and
+(ii) would be an offence in British Columbia, if the act or omission had occurred in British Columbia,
+but does not include an act or omission that is an offence
+(d) under a regulation of a corporation, or
+(e) under an enactment of any jurisdiction if the enactment or the jurisdiction is prescribed under this Act.
+(2) For the purpose of the definition of "proceeds of unlawful activity", "equivalent in value" means equivalent in value as determined or established by the regulations.
+(3) A person who indirectly engaged in the unlawful activity that is the basis of the application referred to in paragraph (a) of the definition of "uninvolved interest holder" includes, without limitation, a person who had knowledge of the unlawful activity and received a financial benefit from the unlawful activity.
+2 (1) This Act applies to an unlawful activity occurring before, on or after the date this section comes into force.
+(2) This Act applies to proceeds of unlawful activity, whether or not
+(a) the acquisition of the whole or the portion of an interest,
+(b) the increase in the value of the whole or the portion of an interest, or
+(c) the decrease in the debt obligation,
+as referred to in the definition of "proceeds of unlawful activity", occurred before, on or after the coming into force of this Act.
+
+PART 2 — FORFEITURE ORDERS
+
+3 (1) The director may apply to the court for an order forfeiting to the government
+(a) the whole of an interest in property that is proceeds of unlawful activity, or
+(b) the portion of an interest in property that is proceeds of unlawful activity.
+(2) The director may apply to the court for an order forfeiting to the government property that is an instrument of unlawful activity.
+
+[Sections 4 (Parties and notification), 5 (Response must identify interest in property) omitted here for length.]
+
+6 (1) Subject to section 7, if proceedings are commenced under section 3 (1), the court must make an order forfeiting to the government the whole or the portion of an interest in property that the court finds is proceeds of unlawful activity.
+(2) Subject to section 7 and section 27 (1) [protection order] , if proceedings are commenced under section 3 (2), the court must make an order forfeiting to the government property that the court finds is an instrument of unlawful activity.
+
+[Sections 7 (Relief from forfeiture) and 7.1 (Default judgment) omitted here for length.]
+
+8 (1) A forfeiture order made with respect to property or the whole or a portion of an interest in property, as applicable, is effective as follows:
+(a) in the case of real property or an interest in real property registered in the land title office,
+(i) at the time a notice is filed under section 72 (1) [filing notice in land title office] with respect to the property or the whole or a portion of an interest in the property, or
+(ii) at the time the forfeiture order is filed in the land title office with respect to the property or the whole or a portion of an interest in the property, if no notice is filed under section 72 (1);
+(b) in the case of property that is realized from the disposition of real property or an interest in real property registered in the land title office, if a notice was filed under section 72 (1) with respect to the real property or the whole or a portion of an interest in the real property, at the time the notice was filed;
+(c) subject to paragraph (b), in the case of personal property or the whole or a portion of an interest in personal property, at the earliest of the following dates, as applicable:
+(i) if notice of interest published under section 76 in relation to the property or the whole or the portion of the interest in property has not, at the time the forfeiture order is made, been withdrawn, the date the notice of interest was published;
+(ii) if notice of forfeiture was registered under section 32 (1) (a) [notice of forfeiture under Part 4] in relation to personal property that is serial numbered goods, the date the notice of forfeiture was registered;
+(iii) if forfeiture was initiated under section 32 (1) in relation to the property or the whole or the portion of the interest in property, the date on which forfeiture was initiated;
+(iv) the date proceedings were commenced under section 3 [application for forfeiture order] in relation to the property.
+(2) A forfeiture order is retroactive to the extent necessary to give it force and effect on and after the date or time referred to in subsection (1) (a), (b) or (c), as applicable.
+
+
+Division 3 — Unexplained Wealth Orders
+
+18 In this Division:
+"affiliated" , in relation to persons, means a person who is affiliated with another person within the meaning of section 19;
+"beneficial owner" , in relation to an interest in property held by a trustee of a trust, means a person who is, in respect of the interest in property, a beneficial owner within the meaning of section 20;
+"connected" , in relation to persons, means a person who is connected to a corporation, partnership or a trustee of a trust within the meaning of section 21;
+"relative" means all of the following:
+(a) a parent;
+(b) a sibling;
+(c) a child;
+(d) a sibling of a parent;
+(e) a child of a sibling;
+(f) a prescribed individual or an individual in a prescribed class;
+"settlor" , in relation to a trust, means a person who contributed any property to the trust estate, whether or not that person is the creator of the trust;
+"spouse" means an individual who
+(a) is married to another individual, or
+(b) is living with another individual in a marriage-like relationship, and
+(i) has done so for a continuous period of at least 2 years, or
+(ii) has a child with the other individual.
+19 (1) A person is affiliated with another person as follows:
+(a) an individual is affiliated with all of the following:
+(i) the individual's spouse;
+(ii) a relative of the individual;
+(iii) a relative of the individual's spouse;
+(iv) if the individual is connected to a corporation or partnership, any person that is connected to the corporation or partnership;
+(v) a person who is affiliated with a person who is referred to in subparagraph (iv);
+(vi) a spouse of an individual who is a person referred to in subparagraph (ii), (iii), (iv) or (v);
+(vii) a prescribed person or a person in a prescribed class;
+(b) a corporation is affiliated with all of the following:
+(i) a person who is connected to the corporation;
+(ii) a person who is affiliated with a person referred to in subparagraph (i);
+(iii) a prescribed person or a person in a prescribed class;
+(c) a partner in a partnership is affiliated with all of the following:
+(i) a person who is connected to the partnership;
+(ii) a person who is affiliated with a person referred to in subparagraph (i);
+(iii) a prescribed person or a person in a prescribed class;
+(d) a trustee of a trust is affiliated with all of the following:
+(i) a person who is another trustee of the trust;
+(ii) a person who is a beneficial owner in respect of the whole or a portion of an interest in property held by the trustee of the trust;
+(iii) a person who is a settlor in relation to the trust;
+(iv) a person who has the power to do any of the following:
+(v) a person whose approval, consent or acquiescence is required under the terms of the trust for any act or decision of a trustee of the trust;
+(vi) a person who is affiliated with a person referred to in subparagraph (i), (ii), (iii), (iv) or (v);
+(vii) a prescribed person or a person in a prescribed class;
+(e) a person is affiliated with another person if one of them is affiliated with the other.
+(2) Subsection (1) (a), (b), (c), (d) and (e) does not limit any other paragraph in that subsection.
+20 A person is a beneficial owner in respect of the whole or a portion of an interest in property held by a trustee of a trust if any of the following apply:
+(a) the person has, in respect of the whole or the portion of the interest in property, a beneficial interest, other than an interest that is contingent on the death of an individual other than the person;
+(b) the person has the power to revoke the trust and receive the whole or the portion of the interest in property;
+(c) the person is connected to a corporation that has
+(i) a beneficial interest in respect of the whole or the portion of the interest in property, or
+(ii) the power to revoke the trust and receive the whole or the portion of the interest in property;
+(d) the person has a prescribed interest in respect of the whole or the portion of the interest in property.
+21 (1) A person is connected to a corporation if any of the following apply:
+(a) the person is a legal or beneficial owner or has control, directly or indirectly, of
+(i) shares of the corporation representing 10% or more of the value of the equity of that corporation, or
+(ii) 10% or more of the voting rights in respect of the corporation;
+(b) the person has the right, directly or indirectly, to appoint or remove from office the majority of the board of directors of the corporation;
+(c) the person, directly or indirectly, has the right to exercise or does exercise significant influence or control over the corporation;
+(d) without limiting paragraph (c), the person is a director, as defined in section 1 of the Business Corporations Act , of the corporation;
+(e) the person has a prescribed interest, power or right in relation to the corporation.
+(2) For the purposes of subsection (1) (a), (b) or (c), a direct or indirect interest, power or right includes an interest, power or right that a person has
+(a) alone,
+(b) together with one or more persons with common interests, or
+(c) through
+(i) a corporation,
+(ii) a trustee of a trust,
+(iii) a personal or legal representative,
+(iv) an agent, or
+(v) any other intermediary.
+(3) A person is connected to a partnership if any of the following apply:
+(a) the person is a partner in the partnership;
+(b) the person is a beneficial owner in respect of the whole or a portion of an interest in property held by a trustee of a trust that is a partner in the partnership;
+(c) the person is connected to a trustee of a trust, a corporation or a partnership, that is a partner in the partnership;
+(d) prescribed circumstances.
+(4) A person is connected to a trustee of a trust if any of the following apply:
+(a) the person is another trustee of the trust;
+(b) the person is a beneficial owner in respect of the whole or a portion of an interest in property held by the trustee of the trust;
+(c) the person is a settlor in relation to the trust.
+22 (1) The director may apply to the court for an unexplained wealth order in relation to property requiring a respondent or a responsible officer to provide a statement that includes all of the following:
+(a) particulars of the nature of the interest or the portion of the interest in the property held by the respondent, including the extent of the interest or the portion of the interest in the property;
+(b) particulars of the respondent's acquisition and maintenance of the property or the interest or the portion of the interest in the property, including how any costs incurred in acquiring and maintaining the property or the interest or the portion of the interest in the property have been met;
+(c) if any of the circumstances listed in section 24 (3) (b) to (e) apply, the information or particulars with respect to those circumstances as specified by the court;
+(d) without limiting paragraph (c), in the case of property held by a trustee of a trust, the information or particulars with respect to the trust as specified by the court;
+(e) any other information or particulars as specified by the court.
+(2) The director may apply for an unexplained wealth order before, at the time of or subsequent to
+(a) an application for another order under this Part, or
+(b) commencing proceedings under section 3 [application for forfeiture order] in relation to the property.
+(3) An application for an unexplained wealth order
+(a) applies only in relation to property or an interest in property located in British Columbia, and
+(b) may be made whether or not,
+(i) at the time of the application, more than one person holds an interest or a portion of an interest in the property, and
+(ii) the respondent acquired or held the property or the whole or the portion of the interest in the property, or proceedings were commenced under Part 2 [Forfeiture Orders] or 3 [Court Orders] in relation to the property, before or after the date this section comes into force.
+(4) An application for an unexplained wealth order must
+(a) specify the property to which the order relates,
+(b) set out the factual basis for the application, including the following, as applicable:
+(i) the factual basis for the matters referred to in section 24 (2) (a) and (b);
+(ii) in the case of an application that specifies a person as a responsible officer in relation to a respondent, the factual basis for doing so, and
+(c) be supported by an affidavit of the director.
+23 (1) The director must serve a copy of the notice of application for an unexplained wealth order and each supporting affidavit on
+(a) the respondent, and
+(b) the responsible officer, if any.
+(2) The director is not required to serve the documents referred to in subsection (1) on, or otherwise give notice of the application to, any person other than a respondent or responsible officer.
+(3) Unless the court orders otherwise, the director must serve the documents referred to in subsection (1) at least 14 business days before the date set for the hearing of the application.
+(4) A respondent or responsible officer may file and serve a response to the application and any supporting materials at least 5 business days or, subject to subsection (6), any shorter period that the court may order, before the date set for the hearing of the application.
+(5) Unless the court orders otherwise, an application for an unexplained wealth order must
+(a) be scheduled for a hearing of not more than 2 days in length, and
+(b) be heard within 180 days after the date on which the director files the notice of application or as soon as practicable after that period.
+(6) An application under subsection (4) to shorten the period for filing and serving a response to the application for an unexplained wealth order, or an application to adjourn the hearing of the application, must be supported by an affidavit setting out
+(a) the factual basis for the application, and
+(b) in the case of an application under subsection (4), why the person is unable to file a response at least 5 business days before the date set for the hearing of the application.
+(7) The court may shorten the period for filing and serving a response to the application for an unexplained wealth order or adjourn the hearing of the application only if
+(a) the director consents to the order, or
+(b) the court is satisfied that
+(i) the order is reasonable in the circumstances, and
+(ii) in the case of an application to adjourn the hearing of the application, the respondent or responsible officer is acting diligently and expeditiously to have the application heard.
+(8) No person, other than a respondent or responsible officer, may oppose the relief sought on the application for an unexplained wealth order.
+24 (1) In this section, "politically exposed foreign person" has the same meaning as in section 9.3 (3) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (Canada).
+(2) Unless it is clearly not in the interests of justice, the court must make an unexplained wealth order in relation to property if the court is satisfied that
+(a) the director has reasonable grounds to suspect that
+(i) the respondent, or a person affiliated with the respondent, directly or indirectly engaged in unlawful activity, or
+(ii) the respondent is a politically exposed foreign person or is affiliated with a politically exposed foreign person,
+(b) the director has reason to believe that
+(i) one or more of the circumstances listed in subsection (3) apply, and
+(ii) the fair market value of the property is greater than $75 000, and
+(c) one or more of the following constitutes a serious question to be tried:
+(i) whether the known sources of the respondent's lawfully obtained income would have been insufficient for the purpose of enabling the respondent to acquire or maintain the property or the whole or the portion of the interest in the property held by the respondent;
+(ii) the property has been used to engage in unlawful activity;
+(iii) the property or the whole or a portion of an interest in the property was acquired or is maintained directly or indirectly as a result of unlawful activity.
+(3) The following circumstances are listed for the purposes of subsection (2) (b) (i):
+(a) the respondent is a registered or unregistered owner of the property or the whole or a portion of an interest in the property;
+(b) the respondent is connected to a trustee of a trust that holds the whole or a portion of an interest in the property;
+(c) the respondent is connected to a corporation that holds the whole or a portion of an interest in the property;
+(d) both of the following apply:
+(i) a partner in a partnership holds, as partnership property, the whole or a portion of an interest in the property;
+(ii) the respondent is connected to the partnership referred to in subparagraph (i);
+(e) prescribed circumstances.
+(4) For the purposes of subsection (2) (c) (i),
+(a) the respondent is deemed to have acquired the property or the whole or the portion of the interest in the property at a price equivalent to its fair market value,
+(b) the known sources of the respondent's income are the sources reasonably ascertainable from the information that is available at the time the director files the notice of application, and
+(c) the court may consider any mortgage, charge or other kind of security that may reasonably have been available to the respondent for the purpose of acquiring or maintaining the property or the whole or the portion of the interest in the property.
+(5) The court must make an unexplained wealth order if the court is satisfied the respondent or responsible officer has been served with notice of the application, whether or not the respondent or responsible officer attends the hearing of the application.
+25 (1) In addition to addressing the matters referred to in section 22 (1) [application for unexplained wealth order] , as applicable, an unexplained wealth order must do all of the following:
+(a) require a respondent or responsible officer to disclose to the director copies of the following:
+(i) any information or records in the custody or control of the respondent or responsible officer that are related to the statement referred to in section 22 (1);
+(ii) any other information or records as specified in the order;
+(b) require that the statement referred to in section 22 (1) specify the location of the originals of any information or records required under paragraph (a) of this subsection;
+(c) require that the statement referred to in section 22 (1) and any information or records required under paragraph (a) of this subsection are to be provided by solemn declaration;
+(d) require that the solemn declaration be delivered to the director as soon as reasonably practicable after the date on which the order is made and, in any case, on or before a date specified in the order;
+(e) specify the manner in which the solemn declaration is to be delivered to the director.
+(2) Without limiting section 22, an unexplained wealth order may include any other terms, conditions or directions that the court considers appropriate in the circumstances.
+(3) Subsection (1) (a) does not apply to information or records that are privileged.
+(4) If a respondent or responsible officer claims that any information or records required under subsection (1) (a) of this section are privileged, Rule 7-1 (6), (7), (17) and (20) [Discovery and Inspection of Documents] of the Supreme Court Civil Rules applies in relation to the claim, and for that purpose
+(a) a reference to a document in Rule 7-1 is to be read as a reference to the information or records, and
+(b) a reference to a list of documents in Rule 7-1 is to be read as a reference to the statement referred to in section 22 (1).
+(5) A respondent or responsible officer must allow the director to inspect and copy, during normal business hours and at the location specified in the statement referred to in section 22 (1), the originals of any records of which copies were disclosed to the director.
+26 Section 37 (1), (2) and (3) [costs] of the Class Proceedings Act applies in relation to an application for an unexplained wealth order and an appeal arising from an application.
+

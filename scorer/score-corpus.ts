@@ -2,10 +2,11 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
 import { Command } from "commander";
-import { ExtractionSchema, GEMINI_EXTRACTION_SCHEMA, StatuteInputSchema } from "./lib/schema.ts";
+import { ExtractionSchema, GEMINI_EXTRACTION_SCHEMA } from "./lib/schema.ts";
 import { callGeminiJSON, MTM_L_EXTRACTION_PROMPT, stripCaseLaw, DEFAULT_MODEL } from "./lib/gemini.ts";
 import { computeMTMLiteral, toResult } from "./lib/math.ts";
 import { repoPath, guardPublished } from "./lib/paths.ts";
+import { corpusRowToInput, buildUserPrompt, groundProvisions } from "./lib/corpus.ts";
 
 const program = new Command();
 program
@@ -15,6 +16,7 @@ program
   .option("--beta <n>", "beta", "0.5")
   .option("--model <name>", "Gemini model", DEFAULT_MODEL)
   .option("--skip-existing", "skip laws already scored", false)
+  .option("--allow-no-text", "score laws that lack corpus/statute-text/<id>.txt from the evidence quotes (unreliable)", false)
   .option("--overwrite-published", "allow --out to point into scored/ or calibration/", false);
 program.parse();
 const opts = program.opts();
@@ -47,20 +49,18 @@ async function main() {
       continue;
     }
 
-    const input = StatuteInputSchema.parse({
-      id: row.id,
-      law: row.law,
-      jurisdiction: row.jurisdiction,
-      citation: row.law,
-      purpose_clause: row.purpose_stated,
-      text: row.evidence
-        ? row.evidence.map((e: any) => e.quote).join("\n\n")
-        : (row.purpose_stated ?? row.law),
-    });
+    let prepared;
+    try {
+      prepared = corpusRowToInput(row, opts.allowNoText);
+    } catch (err) {
+      console.error(`[score-corpus]   SKIP ${row.id}: ${(err as Error).message}`);
+      continue;
+    }
+    const { input, source, statute } = prepared;
 
     console.error(`[score-corpus] scoring ${input.id} — ${input.law}`);
     const text = stripCaseLaw(input.text);
-    const userPrompt = buildPrompt(input, text);
+    const userPrompt = buildUserPrompt(input, text);
 
     try {
       const raw = await callGeminiJSON({
@@ -71,7 +71,13 @@ async function main() {
       });
       const extraction = ExtractionSchema.parse(raw);
       const comp = computeMTMLiteral(extraction, alpha, beta);
-      const result = toResult(input, extraction, comp, alpha, beta, opts.model);
+      const result = {
+        ...toResult(input, extraction, comp, alpha, beta, opts.model),
+        input_source: source,
+        ...(statute ? { statute_text_sha256: statute.sha256, statute_text_source_url: statute.sourceUrl } : {}),
+        grounding: groundProvisions(extraction.provisions, input.text),
+      };
+      if (result.grounding.not_found) console.error(`[score-corpus]   WARN ${input.id}: not in text: ${result.grounding.not_found_ids.join(", ")}`);
       writeFileSync(outPath, JSON.stringify(result, null, 2));
       summary.push({
         id: input.id,
@@ -91,16 +97,6 @@ async function main() {
   writeFileSync(`${outDir}/_summary.json`, JSON.stringify(summary, null, 2));
   console.error(`\n[score-corpus] scored ${summary.length}/${laws.length}; summary at ${outDir}/_summary.json`);
   for (const r of summary) console.log(`  ${r.id.padEnd(8)} MTM-L=${String(r.mtm_l).padStart(6)}  F=${r.F.toFixed(3)}  X=${r.X.toFixed(3)}  ${r.law}`);
-}
-
-function buildPrompt(input: any, text: string): string {
-  return [
-    `LAW: ${input.law}`,
-    `JURISDICTION: ${input.jurisdiction}`,
-    input.purpose_clause ? `STATED PURPOSE:\n${input.purpose_clause}` : "",
-    `AVAILABLE TEXT:\n${text}`,
-    `Extract purposes, operative provisions (from training data if input is thin), and serves_matrix. Return JSON only.`,
-  ].filter(Boolean).join("\n\n");
 }
 
 main().catch((err) => { console.error(err); process.exit(1); });

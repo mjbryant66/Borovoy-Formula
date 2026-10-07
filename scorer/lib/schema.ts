@@ -50,6 +50,18 @@ export const MTMLResultSchema = z.object({
   scored_at: z.string(),
   model: z.string(),
   version: z.literal("v1.0"),
+  // Added for v1.7: where the extraction's input came from, and whether its sections can be found in it.
+  input_source: z.enum(["statute_text", "evidence_quotes", "input_file"]).optional(),
+  statute_text_sha256: z.string().optional(),
+  statute_text_source_url: z.string().nullable().optional(),
+  grounding: z
+    .object({
+      verbatim: z.number().int(),
+      section_in_text: z.number().int(),
+      not_found: z.number().int(),
+      not_found_ids: z.array(z.string()),
+    })
+    .optional(),
 });
 export type MTMLResult = z.infer<typeof MTMLResultSchema>;
 

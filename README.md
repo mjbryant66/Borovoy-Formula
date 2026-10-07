@@ -59,6 +59,8 @@ bun calibrate.ts --scored ../runs/scored
 
 Set `GOOGLE_API_KEY` in your shell before scoring (`export GOOGLE_API_KEY="<your key>"`). The scorer also reads `~/.claude/.env` if that file exists. Extraction uses Gemini 3.8 Flash at temperature 1.0; the published v1.6 extractions used Gemini 2.5 Pro at temperature 0.
 
+Each corpus law is scored from its official text in `corpus/statute-text/<id>.txt`, not from memory. A law with no text file is refused unless you pass `--allow-no-text`. Every result records `input_source`, the text's SHA-256 and source URL, and a `grounding` count of cited provisions found verbatim, found by section number only, or not found in the text; any not-found provision is printed as a warning.
+
 `scored/` and `calibration/` hold the published v1.6 record. Every command writes fresh output under `runs/` (ignored by git) and refuses to write into those two folders unless you pass `--overwrite-published`.
 
 ## The MTM-L finding, honestly reported (v1.0, n=15 corpus, 33-case ground truth)
