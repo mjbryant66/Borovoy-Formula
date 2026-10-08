@@ -13,15 +13,15 @@
   ],
   "provisions": [
     {
-      "id": "s. 23(1)",
+      "id": "s. 43(1)",
       "text": "Every director and officer of a corporation in exercising their powers and discharging their duties shall (a) act honestly and in good faith with a view to the best interests of the corporation; and (b) exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances. (from training data)"
     },
     {
-      "id": "s. 55(1)",
+      "id": "s. 48(6)",
       "text": "Unless the articles or by-laws otherwise provide, each member is entitled to one vote on each matter voted on at a meeting of members. (from training data)"
     },
     {
-      "id": "s. 84(1)",
+      "id": "s. 68(1)",
       "text": "The members of a corporation shall, by ordinary resolution, at each annual meeting, appoint one or more auditors to hold office until the close of the next annual meeting. (from training data)"
     }
   ],

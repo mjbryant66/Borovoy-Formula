@@ -12,15 +12,15 @@
   ],
   "provisions": [
     {
-      "id": "s. 22.02(1)",
+      "id": "s. 22(1)",
       "text": "The director may apply to the Supreme Court for an unexplained wealth order against property if the director has reason to believe that the total value of the property is greater than $75 000 and there are reasonable grounds to suspect that the owner's known authorized income is insufficient to have acquired the property. (from training data)"
     },
     {
-      "id": "s. 22.04(1)",
+      "id": "s. 25(1)",
       "text": "An unexplained wealth order must require the respondent to provide to the director, within the time specified in the order, information respecting the respondent's interest in the specified property, how the respondent acquired the specified property, and any other information or record specified by the court. (from training data)"
     },
     {
-      "id": "s. 22.07(1)",
+      "id": "s. 58(1)",
       "text": "If a respondent fails to comply with an unexplained wealth order respecting specified property, the court may, in a forfeiture proceeding respecting the specified property, draw an adverse inference against the respondent. (from training data)"
     }
   ],
