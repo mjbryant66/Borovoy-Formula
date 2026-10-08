@@ -159,6 +159,9 @@ Division 3 — Unexplained Wealth Orders
 (ii) a person who is a beneficial owner in respect of the whole or a portion of an interest in property held by the trustee of the trust;
 (iii) a person who is a settlor in relation to the trust;
 (iv) a person who has the power to do any of the following:
+(A) remove or appoint a trustee of the trust;
+(B) add or remove a beneficiary of the trust;
+(C) veto a decision of a trustee of the trust;
 (v) a person whose approval, consent or acquiescence is required under the terms of the trust for any act or decision of a trustee of the trust;
 (vi) a person who is affiliated with a person referred to in subparagraph (i), (ii), (iii), (iv) or (v);
 (vii) a prescribed person or a person in a prescribed class;
