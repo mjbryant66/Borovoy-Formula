@@ -1,0 +1,6390 @@
+{
+ "schema": "borovoy/purposes-provisions",
+ "schema_version": "0.1.0-proposed",
+ "status": "DRAFT for Michael Bryant's review (9 Oct 2026). Not read by the scorer. Nothing has been scored against it.",
+ "rule": {
+  "purposes": "Taken word for word from the law's purpose clause or, failing that, its preamble, split at each \"and\" or semicolon that introduces a separate object. Applied as: split where \"and\" introduces a new verb clause (\"and to enable\", \"and affirm\") or a semicolon-separated item; nouns sharing one verb are not split. Where there is no purpose clause or preamble, one purpose is written by hand and marked source=\"hand-written\".",
+  "provisions": "Every section that creates an offence, duty, power or right, listed once per law. Definitions, application and interpretation rules, deeming and evidence rules, immunities, defences, repealed or omitted sections and coming-into-force provisions are excluded, each with a stated reason in \"excluded\".",
+  "text": "The whole Act, or the whole of each Part the entry names; never a hand-trimmed excerpt. Where the entry names sections rather than a Part, the text is the Part that contains them and the provisions are limited to the entry."
+ },
+ "scorer_contract_proposed": "The scorer would read purposes[].id/text and provisions[].id/section/label as fixed inputs, give the model the statute text at text.file, and ask it only for serves_matrix[provision][purpose] (true/false with a quoted reason). F and X are then computed in code from that matrix. Unknown, duplicate or missing ids are rejected, not zero-filled.",
+ "fields": {
+  "purposes[].source": "verbatim | hand-written",
+  "provisions[].creates": "one or more of offence, duty, power, right; assigned from the operative verb (shall/must, may, offence wording, right/entitled) and to be read as orientation",
+  "provisions[].label_source": "heading/headnote/marginal note (verbatim) or opening words (verbatim, truncated with …)"
+ },
+ "laws": [
+  {
+   "id": "fed-01",
+   "law": "Access to Information Act, RSC 1985, c A-1",
+   "text": {
+    "file": "corpus/statute-text/fed-01.txt",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/A-1/FullText.html",
+    "version": "Justice Laws current consolidation (page dated 2026-09-28)",
+    "retrieved": "2026-10-09",
+    "scope": "Whole Act: ss. 1-101 and Schedules I and II. Related provisions and amendments not in force are left out.",
+    "sha256": "d15d25624546784b40083b77ea38b3a49f8a84a1e5185cb648ad7017c8ee9705",
+    "chars": 188502
+   },
+   "purposes": [
+    {
+     "text": "to enhance the accountability and transparency of federal institutions in order to promote an open and democratic society",
+     "pinpoint": "s. 2(1)",
+     "source": "verbatim",
+     "note": "Split at \"and to enable\". \"accountability and transparency\" share one verb, so they stay together.",
+     "id": "P1"
+    },
+    {
+     "text": "to enable public debate on the conduct of those institutions",
+     "pinpoint": "s. 2(1)",
+     "source": "verbatim",
+     "id": "P2"
+    },
+    {
+     "text": "Part 1 extends the present laws of Canada to provide a right of access to information in records under the control of a government institution in accordance with the principles that government information should be available to the public, that necessary exceptions to the right of access should be limited and specific and that decisions on the disclosure of government information should be reviewed independently of government",
+     "pinpoint": "s. 2(2)(a)",
+     "source": "verbatim",
+     "note": "The three \"that\" principles qualify the right of access, so they are not split out.",
+     "id": "P3"
+    },
+    {
+     "text": "Part 2 sets out requirements for the proactive publication of information",
+     "pinpoint": "s. 2(2)(b)",
+     "source": "verbatim",
+     "id": "P4"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "3.2",
+     "label": "Power to designate Minister",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V1"
+    },
+    {
+     "section": "4",
+     "label": "Right to access to records",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "5",
+     "label": "Publication on government institutions",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V3"
+    },
+    {
+     "section": "6",
+     "label": "Request for access to record",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V4"
+    },
+    {
+     "section": "6.1",
+     "label": "Reasons for declining to act on request",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V5"
+    },
+    {
+     "section": "7",
+     "label": "Notice where access requested",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V6"
+    },
+    {
+     "section": "8",
+     "label": "Transfer of request",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V7"
+    },
+    {
+     "section": "9",
+     "label": "Extension of time limits",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V8"
+    },
+    {
+     "section": "10",
+     "label": "Where access is refused",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V9"
+    },
+    {
+     "section": "11",
+     "label": "Application fee",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V10"
+    },
+    {
+     "section": "12",
+     "label": "Access to record",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V11"
+    },
+    {
+     "section": "13",
+     "label": "Information obtained in confidence",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V12"
+    },
+    {
+     "section": "14",
+     "label": "Federal-provincial affairs",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V13"
+    },
+    {
+     "section": "15",
+     "label": "International affairs and defence",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V14"
+    },
+    {
+     "section": "16",
+     "label": "Law enforcement and investigations",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V15"
+    },
+    {
+     "section": "16.1",
+     "label": "Records relating to investigations, examinations and audits",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V16"
+    },
+    {
+     "section": "16.2",
+     "label": "Records relating to investigations",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V17"
+    },
+    {
+     "section": "16.3",
+     "label": "Investigations, examinations and reviews under the Canada Elections Act",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V18"
+    },
+    {
+     "section": "16.4",
+     "label": "Public Sector Integrity Commissioner",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V19"
+    },
+    {
+     "section": "16.5",
+     "label": "Public Servants Disclosure Protection Act",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V20"
+    },
+    {
+     "section": "16.6",
+     "label": "Secretariat of National Security and Intelligence Committee of Parliamentarians",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V21"
+    },
+    {
+     "section": "17",
+     "label": "Safety of individuals",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V22"
+    },
+    {
+     "section": "18",
+     "label": "Economic interests of Canada",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V23"
+    },
+    {
+     "section": "18.1",
+     "label": "Economic interests of certain government institutions",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V24"
+    },
+    {
+     "section": "19",
+     "label": "Personal information",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V25"
+    },
+    {
+     "section": "20",
+     "label": "Third party information",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V26"
+    },
+    {
+     "section": "20.1",
+     "label": "Public Sector Pension Investment Board",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V27"
+    },
+    {
+     "section": "20.2",
+     "label": "Canada Pension Plan Investment Board",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V28"
+    },
+    {
+     "section": "20.4",
+     "label": "National Arts Centre Corporation",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V29"
+    },
+    {
+     "section": "21",
+     "label": "Advice, etc.",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V30"
+    },
+    {
+     "section": "22",
+     "label": "Testing procedures, tests and audits",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V31"
+    },
+    {
+     "section": "22.1",
+     "label": "Internal audits",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V32"
+    },
+    {
+     "section": "23",
+     "label": "Protected information — solicitors, advocates and notaries",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V33"
+    },
+    {
+     "section": "23.1",
+     "label": "Protected information — patents and trademarks",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V34"
+    },
+    {
+     "section": "24",
+     "label": "Statutory prohibitions against disclosure",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V35"
+    },
+    {
+     "section": "25",
+     "label": "Severability",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "note": "duty to disclose the severable part of a record",
+     "id": "V36"
+    },
+    {
+     "section": "26",
+     "label": "Refusal of access if information to be published",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V37"
+    },
+    {
+     "section": "27",
+     "label": "Notice to third parties",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V38"
+    },
+    {
+     "section": "28",
+     "label": "Representations of third party and decision",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V39"
+    },
+    {
+     "section": "30",
+     "label": "Receipt and investigation of complaints",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V40"
+    },
+    {
+     "section": "31",
+     "label": "Written complaint",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V41"
+    },
+    {
+     "section": "32",
+     "label": "Notice of intention to investigate",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V42"
+    },
+    {
+     "section": "33",
+     "label": "Notice to third parties",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V43"
+    },
+    {
+     "section": "34",
+     "label": "Regulation of procedure",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V44"
+    },
+    {
+     "section": "35",
+     "label": "Investigations in private",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "right"
+     ],
+     "id": "V45"
+    },
+    {
+     "section": "36",
+     "label": "Powers of Information Commissioner in carrying out investigations",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V46"
+    },
+    {
+     "section": "36.1",
+     "label": "Power to make order",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V47"
+    },
+    {
+     "section": "36.2",
+     "label": "Consulting Privacy Commissioner",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V48"
+    },
+    {
+     "section": "36.3",
+     "label": "Notice to third parties",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V49"
+    },
+    {
+     "section": "37",
+     "label": "Information Commissioner’s initial report to government institution",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V50"
+    },
+    {
+     "section": "38",
+     "label": "Annual report",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V51"
+    },
+    {
+     "section": "39",
+     "label": "Special reports",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V52"
+    },
+    {
+     "section": "40",
+     "label": "Transmission of reports",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V53"
+    },
+    {
+     "section": "41",
+     "label": "Review by Federal Court — complainant",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V54"
+    },
+    {
+     "section": "41.2",
+     "label": "Parties to review",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V55"
+    },
+    {
+     "section": "42",
+     "label": "Information Commissioner may appear",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V56"
+    },
+    {
+     "section": "43",
+     "label": "Service on head of government institution",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V57"
+    },
+    {
+     "section": "44",
+     "label": "Third party may apply for review",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V58"
+    },
+    {
+     "section": "46",
+     "label": "Access to records",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V59"
+    },
+    {
+     "section": "47",
+     "label": "Court to take precautions against disclosing",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V60"
+    },
+    {
+     "section": "48",
+     "label": "Burden of proof — subsection 41(1) or (2)",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V61"
+    },
+    {
+     "section": "49",
+     "label": "Order of Court where no authorization to refuse disclosure found",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V62"
+    },
+    {
+     "section": "50",
+     "label": "Order of Court where reasonable grounds of injury not found",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V63"
+    },
+    {
+     "section": "50.1",
+     "label": "Order of Court if authorization to refuse disclosure found",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V64"
+    },
+    {
+     "section": "50.2",
+     "label": "Order of Court — other decisions or actions",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V65"
+    },
+    {
+     "section": "50.4",
+     "label": "Court to specify rescinded provisions",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V66"
+    },
+    {
+     "section": "51",
+     "label": "Order of Court not to disclose record",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V67"
+    },
+    {
+     "section": "52",
+     "label": "Applications relating to international affairs or defence",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V68"
+    },
+    {
+     "section": "53",
+     "label": "Costs",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V69"
+    },
+    {
+     "section": "54",
+     "label": "Appointment",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V70"
+    },
+    {
+     "section": "55",
+     "label": "Rank, powers and duties generally",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V71"
+    },
+    {
+     "section": "56",
+     "label": "Appointment of Assistant Information Commissioner",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V72"
+    },
+    {
+     "section": "57",
+     "label": "Duties generally",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "right"
+     ],
+     "id": "V73"
+    },
+    {
+     "section": "58",
+     "label": "Staff of the Information Commissioner",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V74"
+    },
+    {
+     "section": "59",
+     "label": "Delegation by Information Commissioner",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V75"
+    },
+    {
+     "section": "60",
+     "label": "Principal office",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V76"
+    },
+    {
+     "section": "61",
+     "label": "Security requirements",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V77"
+    },
+    {
+     "section": "62",
+     "label": "Confidentiality",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V78"
+    },
+    {
+     "section": "63",
+     "label": "Disclosure authorized",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V79"
+    },
+    {
+     "section": "64",
+     "label": "Information not to be disclosed",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V80"
+    },
+    {
+     "section": "67",
+     "label": "Obstruction",
+     "label_source": "heading",
+     "creates": [
+      "offence",
+      "duty"
+     ],
+     "id": "V81"
+    },
+    {
+     "section": "67.1",
+     "label": "Obstructing right of access",
+     "label_source": "heading",
+     "creates": [
+      "offence",
+      "duty"
+     ],
+     "id": "V82"
+    },
+    {
+     "section": "69.1",
+     "label": "Certificate under Canada Evidence Act",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V83"
+    },
+    {
+     "section": "70",
+     "label": "Duties and functions of designated Minister",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V84"
+    },
+    {
+     "section": "71",
+     "label": "Governor in Council",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V85"
+    },
+    {
+     "section": "71.02",
+     "label": "Travel expenses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V86"
+    },
+    {
+     "section": "71.03",
+     "label": "Hospitality expenses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V87"
+    },
+    {
+     "section": "71.04",
+     "label": "Contracts",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V88"
+    },
+    {
+     "section": "71.05",
+     "label": "Travel expenses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V89"
+    },
+    {
+     "section": "71.06",
+     "label": "Hospitality expenses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V90"
+    },
+    {
+     "section": "71.07",
+     "label": "Contracts",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V91"
+    },
+    {
+     "section": "71.09",
+     "label": "Travel expenses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V92"
+    },
+    {
+     "section": "71.1",
+     "label": "Hospitality expenses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V93"
+    },
+    {
+     "section": "71.11",
+     "label": "Contracts over $10,000",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V94"
+    },
+    {
+     "section": "71.12",
+     "label": "Parliamentary privilege",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V95"
+    },
+    {
+     "section": "71.14",
+     "label": "Final decision",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V96"
+    },
+    {
+     "section": "73",
+     "label": "Mandate letters",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V97"
+    },
+    {
+     "section": "74",
+     "label": "Briefing materials",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V98"
+    },
+    {
+     "section": "75",
+     "label": "Travel expenses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V99"
+    },
+    {
+     "section": "76",
+     "label": "Hospitality expenses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V100"
+    },
+    {
+     "section": "77",
+     "label": "Contracts over $10,000",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V101"
+    },
+    {
+     "section": "78",
+     "label": "Expense reports",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V102"
+    },
+    {
+     "section": "79",
+     "label": "Form of publications",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V103"
+    },
+    {
+     "section": "80",
+     "label": "Publication not required",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V104"
+    },
+    {
+     "section": "82",
+     "label": "Travel expenses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V105"
+    },
+    {
+     "section": "83",
+     "label": "Hospitality expenses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V106"
+    },
+    {
+     "section": "84",
+     "label": "Reports tabled in Parliament",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V107"
+    },
+    {
+     "section": "85",
+     "label": "Reclassification of positions",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V108"
+    },
+    {
+     "section": "86",
+     "label": "Contracts over $10,000",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V109"
+    },
+    {
+     "section": "87",
+     "label": "Grants and contributions over $25,000",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V110"
+    },
+    {
+     "section": "88",
+     "label": "Briefing materials",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V111"
+    },
+    {
+     "section": "89",
+     "label": "Form of publications",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V112"
+    },
+    {
+     "section": "90",
+     "label": "Publication not required",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V113"
+    },
+    {
+     "section": "90.03",
+     "label": "Travel expenses — Registrar and Deputy Registrar",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V114"
+    },
+    {
+     "section": "90.04",
+     "label": "Hospitality expenses — Registrar and Deputy Registrar",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V115"
+    },
+    {
+     "section": "90.05",
+     "label": "Contracts over $10,000",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V116"
+    },
+    {
+     "section": "90.06",
+     "label": "Incidental expenditures — judges",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V117"
+    },
+    {
+     "section": "90.07",
+     "label": "Representational allowances — judges",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V118"
+    },
+    {
+     "section": "90.08",
+     "label": "Travel allowances — judges",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V119"
+    },
+    {
+     "section": "90.09",
+     "label": "Conference allowances — judges",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V120"
+    },
+    {
+     "section": "90.11",
+     "label": "Travel expenses — Chief Administrator and deputies",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V121"
+    },
+    {
+     "section": "90.12",
+     "label": "Hospitality expenses — Chief Administrator and deputies",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V122"
+    },
+    {
+     "section": "90.13",
+     "label": "Contracts over $10,000",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V123"
+    },
+    {
+     "section": "90.15",
+     "label": "Travel expenses — Commissioner and deputies",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V124"
+    },
+    {
+     "section": "90.16",
+     "label": "Hospitality expenses — Commissioner and deputies",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V125"
+    },
+    {
+     "section": "90.17",
+     "label": "Contracts over $10,000",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V126"
+    },
+    {
+     "section": "90.18",
+     "label": "Incidental expenditures — judges",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V127"
+    },
+    {
+     "section": "90.19",
+     "label": "Representational allowances — judges",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V128"
+    },
+    {
+     "section": "90.2",
+     "label": "Travel allowances — judges",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V129"
+    },
+    {
+     "section": "90.21",
+     "label": "Conference allowances — judges",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V130"
+    },
+    {
+     "section": "90.22",
+     "label": "Judicial independence",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V131"
+    },
+    {
+     "section": "91",
+     "label": "Information Commissioner",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V132"
+    },
+    {
+     "section": "92",
+     "label": "Designated Minister’s power",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V133"
+    },
+    {
+     "section": "93",
+     "label": "Five-year review",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V134"
+    },
+    {
+     "section": "94",
+     "label": "Annual report — government institutions",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V135"
+    },
+    {
+     "section": "95",
+     "label": "Delegation by head of government institution",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V136"
+    },
+    {
+     "section": "96",
+     "label": "Provision of services related to access to information",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V137"
+    },
+    {
+     "section": "99",
+     "label": "Permanent review of Act by Parliamentary committee",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V138"
+    },
+    {
+     "section": "99.1",
+     "label": "Review and report",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V139"
+    },
+    {
+     "section": "101",
+     "label": "Regulations",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V140"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "1",
+     "heading": "Short title",
+     "reason": "not operative (Short title)"
+    },
+    {
+     "section": "2",
+     "heading": "Purpose of Act",
+     "reason": "not operative (Purpose of Act)"
+    },
+    {
+     "section": "3",
+     "heading": "Definitions",
+     "reason": "not operative (Definitions)"
+    },
+    {
+     "section": "3.01",
+     "heading": "For greater certainty",
+     "reason": "not operative (For greater certainty)"
+    },
+    {
+     "section": "3.1",
+     "heading": "For greater certainty",
+     "reason": "not operative (For greater certainty)"
+    },
+    {
+     "section": "16.31",
+     "heading": "",
+     "reason": "repealed or omitted"
+    },
+    {
+     "section": "29",
+     "heading": "",
+     "reason": "repealed or omitted"
+    },
+    {
+     "section": "41.1",
+     "heading": "Operation of order stayed",
+     "reason": "stay of order by operation of law"
+    },
+    {
+     "section": "44.1",
+     "heading": "De novo review",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
+     "section": "45",
+     "heading": "Hearing in summary way",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
+     "section": "50.3",
+     "heading": "Incompatible provisions",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
+     "section": "65",
+     "heading": "No summons",
+     "reason": "not operative (No summons)"
+    },
+    {
+     "section": "66",
+     "heading": "Protection of Information Commissioner",
+     "reason": "immunity: protects the Commissioner; creates none of the four"
+    },
+    {
+     "section": "68",
+     "heading": "Part 1 does not apply to certain materials",
+     "reason": "scope exclusion"
+    },
+    {
+     "section": "68.1",
+     "heading": "Canadian Broadcasting Corporation",
+     "reason": "scope exclusion"
+    },
+    {
+     "section": "68.2",
+     "heading": "Atomic Energy of Canada Limited",
+     "reason": "scope exclusion"
+    },
+    {
+     "section": "69",
+     "heading": "Confidences of the Queen’s Privy Council for Canada",
+     "reason": "scope exclusion"
+    },
+    {
+     "section": "71.01",
+     "heading": "Definition of quarter",
+     "reason": "not operative (Definition of quarter)"
+    },
+    {
+     "section": "71.08",
+     "heading": "Definition of head of a parliamentary entity",
+     "reason": "not operative (Definition of head of a parliamentary entity)"
+    },
+    {
+     "section": "71.13",
+     "heading": "Security of persons, infrastructure and goods",
+     "reason": "exception to publication duties"
+    },
+    {
+     "section": "72",
+     "heading": "Definitions",
+     "reason": "not operative (Definitions)"
+    },
+    {
+     "section": "72.1",
+     "heading": "",
+     "reason": "repealed or omitted"
+    },
+    {
+     "section": "81",
+     "heading": "Definitions",
+     "reason": "not operative (Definitions)"
+    },
+    {
+     "section": "90.01",
+     "heading": "Definitions",
+     "reason": "not operative (Definitions)"
+    },
+    {
+     "section": "90.02",
+     "heading": "Definitions",
+     "reason": "not operative (Definitions)"
+    },
+    {
+     "section": "90.1",
+     "heading": "Definition of Service",
+     "reason": "not operative (Definition of Service)"
+    },
+    {
+     "section": "90.14",
+     "heading": "Definitions",
+     "reason": "not operative (Definitions)"
+    },
+    {
+     "section": "90.23",
+     "heading": "Protected information and security",
+     "reason": "exception to publication duties"
+    },
+    {
+     "section": "90.24",
+     "heading": "Final decision",
+     "reason": "finality clause"
+    },
+    {
+     "section": "97",
+     "heading": "Records not under control of institution",
+     "reason": "deeming rule"
+    },
+    {
+     "section": "98",
+     "heading": "Protection from civil proceeding or from prosecution — Part 1",
+     "reason": "immunity for good-faith disclosure; creates none of the four"
+    },
+    {
+     "section": "100",
+     "heading": "Binding on Crown",
+     "reason": "not operative (Binding on Crown)"
+    }
+   ],
+   "flags": [
+    "s. 2(3) (\"This Act is also intended to complement and not replace existing procedures ...\") is an interpretive limit, not an object, and is left out of the purposes.",
+    "The whole Act brings in Part 2 (proactive publication, about 60 sections of publication duties). The entry and its critics are about Part 1 access requests. Scoring the whole Act against s. 2 will treat Part 2 as serving purpose 4.",
+    "Immunity sections (ss. 66, 98) and scope exclusions (ss. 68-69) are excluded: they create none of the four things the rule names."
+   ]
+  },
+  {
+   "id": "fed-02",
+   "law": "Anti-Terrorism Act, 2015 (Bill C-51), SC 2015, c 20",
+   "text": {
+    "file": "corpus/statute-text/fed-02.txt",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/annualstatutes/2015_20/FullText.html",
+    "version": "As enacted, SC 2015, c 20 (assented to 2015-06-18), Justice Laws annual statutes",
+    "retrieved": "2026-10-09",
+    "scope": "Whole Act: Parts 1 to 5, including the Security of Canada Information Sharing Act and Secure Air Travel Act as enacted, and the amendments to the Criminal Code, CSIS Act and IRPA.",
+    "sha256": "7019dffe85fbe9be7de84de1efd85a95b479d4ff8cf8aca9d06b91004599ef19",
+    "chars": 110399
+   },
+   "purposes": [
+    {
+     "text": "to encourage and facilitate the sharing of information among Government of Canada institutions in order to protect Canada against activities that undermine the security of Canada",
+     "pinpoint": "Security of Canada Information Sharing Act s. 3 (enacted by Part 1)",
+     "source": "verbatim",
+     "note": "Governs Part 1 only. SCISA also has an eight-recital preamble; the purpose clause is used instead.",
+     "id": "P1"
+    },
+    {
+     "text": "To protect Canadians from terrorism and other threats to the security of Canada.",
+     "pinpoint": "hand-written",
+     "source": "hand-written",
+     "note": "Covers Parts 2 to 5, which have no purpose clause. Drawn from the corpus purpose_stated (\"To protect Canadians from terrorism, including by authorizing CSIS to reduce threats ...\") with the mechanism removed.",
+     "id": "P2"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "SCISA s. 5",
+     "label": "Disclosure of information",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V1"
+    },
+    {
+     "section": "SCISA s. 10",
+     "label": "Regulations",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "Excise Tax Act s. 295(5.05)",
+     "label": "Threats to security",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "note": "Part 1 amendment: disclosure power keyed to SCISA",
+     "id": "V3"
+    },
+    {
+     "section": "Department of Fisheries and Oceans Act s. 4(3)",
+     "label": "Security of Canada Information Sharing Act",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "note": "Part 1 amendment",
+     "id": "V4"
+    },
+    {
+     "section": "Customs Act s. 107(4)(i)",
+     "label": "is disclosed in accordance with the Security of Canada Information Sharing Act",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "note": "Part 1 amendment: permits disclosure; label is the inserted paragraph",
+     "id": "V5"
+    },
+    {
+     "section": "Income Tax Act s. 241(9)",
+     "label": "Threats to security",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "note": "Part 1 amendment",
+     "id": "V6"
+    },
+    {
+     "section": "Chemical Weapons Convention Implementation Act s. 17(3)(c)",
+     "label": "in the case where the information or documents are disclosed in accordance with the Security of Canada Information Sharing Act",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "note": "Part 1 amendment",
+     "id": "V7"
+    },
+    {
+     "section": "Excise Act, 2001 s. 211(6.5)",
+     "label": "Threats to security",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "note": "Part 1 amendment",
+     "id": "V8"
+    },
+    {
+     "section": "SATA s. 6",
+     "label": "Duty — air carriers",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V9"
+    },
+    {
+     "section": "SATA s. 7",
+     "label": "Delegation",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V10"
+    },
+    {
+     "section": "SATA s. 8",
+     "label": "List",
+     "label_source": "marginal note",
+     "creates": [
+      "power",
+      "duty"
+     ],
+     "id": "V11"
+    },
+    {
+     "section": "SATA s. 9",
+     "label": "Directions",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V12"
+    },
+    {
+     "section": "SATA s. 10",
+     "label": "Assistance to Minister",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V13"
+    },
+    {
+     "section": "SATA s. 11",
+     "label": "Disclosure",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V14"
+    },
+    {
+     "section": "SATA s. 12",
+     "label": "Foreign states",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V15"
+    },
+    {
+     "section": "SATA s. 13",
+     "label": "Minister of Transport",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V16"
+    },
+    {
+     "section": "SATA s. 14",
+     "label": "Canada Border Services Agency",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V17"
+    },
+    {
+     "section": "SATA s. 15",
+     "label": "Application to Minister",
+     "label_source": "marginal note",
+     "creates": [
+      "right",
+      "duty"
+     ],
+     "id": "V18"
+    },
+    {
+     "section": "SATA s. 16",
+     "label": "Decisions under this Act",
+     "label_source": "marginal note",
+     "creates": [
+      "right",
+      "power"
+     ],
+     "id": "V19"
+    },
+    {
+     "section": "SATA s. 18",
+     "label": "Information destruction",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V20"
+    },
+    {
+     "section": "SATA s. 20",
+     "label": "Prohibition — list",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V21"
+    },
+    {
+     "section": "SATA s. 21",
+     "label": "Prohibition — persons and goods",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V22"
+    },
+    {
+     "section": "SATA s. 22",
+     "label": "Obstruction",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V23"
+    },
+    {
+     "section": "SATA s. 23",
+     "label": "Contravention",
+     "label_source": "marginal note",
+     "creates": [
+      "offence"
+     ],
+     "id": "V24"
+    },
+    {
+     "section": "SATA s. 28",
+     "label": "Powers to enter, seize and detain",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V25"
+    },
+    {
+     "section": "SATA s. 30",
+     "label": "Duty to assist Minister",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V26"
+    },
+    {
+     "section": "SATA s. 31",
+     "label": "Compliance order",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V27"
+    },
+    {
+     "section": "SATA s. 32",
+     "label": "Regulations",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V28"
+    },
+    {
+     "section": "Aeronautics Act s. 7.6(1)(a)",
+     "label": "designate any provision of this Part or of any regulation, notice, order or security measure made under this Part …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "note": "Part 2 amendment: lets SATA contraventions be designated for administrative penalties",
+     "id": "V29"
+    },
+    {
+     "section": "Criminal Code s. 83.221",
+     "label": "Advocating or promoting commission of terrorism offences",
+     "label_source": "marginal note",
+     "creates": [
+      "offence"
+     ],
+     "id": "V30"
+    },
+    {
+     "section": "Criminal Code s. 83.222",
+     "label": "Warrant of seizure",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V31"
+    },
+    {
+     "section": "Criminal Code s. 83.223",
+     "label": "Order to computer system’s custodian",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V32"
+    },
+    {
+     "section": "Criminal Code s. 83.3 (as amended by s. 17)",
+     "label": "Arrest without warrant",
+     "label_source": "marginal note",
+     "creates": [
+      "power",
+      "duty"
+     ],
+     "note": "Section 17 rewrites the terrorism recognizance: thresholds, arrest, detention, duration and conditions. Listed once.",
+     "id": "V33"
+    },
+    {
+     "section": "Criminal Code s. 83.31 (as amended by s. 18)",
+     "label": "the number of cases in which a person was not released under subsection 83.3(7), (7.1) or (7.2) pending a hearing",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "note": "annual reporting duty",
+     "id": "V34"
+    },
+    {
+     "section": "Criminal Code s. 195(1) (as amended by s. 20)",
+     "label": "authorizations for which that Minister and agents specially designated in writing by that Minister …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "note": "interception reporting duty",
+     "id": "V35"
+    },
+    {
+     "section": "Criminal Code s. 486(1) (as amended by s. 21)",
+     "label": "Exclusion of public",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V36"
+    },
+    {
+     "section": "Criminal Code s. 486.7",
+     "label": "Security of witnesses",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V37"
+    },
+    {
+     "section": "Criminal Code s. 810.01 (as amended by s. 24)",
+     "label": "Fear of certain offences",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V38"
+    },
+    {
+     "section": "Criminal Code s. 810.011",
+     "label": "Fear of terrorism offence",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V39"
+    },
+    {
+     "section": "Criminal Code s. 810.21",
+     "label": "Video conference",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V40"
+    },
+    {
+     "section": "Criminal Code s. 810.22",
+     "label": "Transfer of order",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V41"
+    },
+    {
+     "section": "Criminal Code s. 811 (as amended by s. 27)",
+     "label": "Breach of recognizance",
+     "label_source": "marginal note",
+     "creates": [
+      "offence"
+     ],
+     "id": "V42"
+    },
+    {
+     "section": "Youth Criminal Justice Act s. 14(2)",
+     "label": "Orders",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V43"
+    },
+    {
+     "section": "CSIS Act s. 6(5)",
+     "label": "Measures to reduce threats to the security of Canada",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "note": "reporting duty on threat-reduction measures",
+     "id": "V44"
+    },
+    {
+     "section": "CSIS Act s. 7(2)",
+     "label": "Consultation with Deputy Minister — warrant",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V45"
+    },
+    {
+     "section": "CSIS Act s. 12.1",
+     "label": "Measures to reduce threats to the security of Canada",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V46"
+    },
+    {
+     "section": "CSIS Act s. 12.2",
+     "label": "Prohibited conduct",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V47"
+    },
+    {
+     "section": "CSIS Act s. 21.1",
+     "label": "Application for warrant — measures to reduce threats to the security of Canada",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V48"
+    },
+    {
+     "section": "CSIS Act s. 22.1",
+     "label": "Renewal of warrant — measures to reduce threats to the security of Canada",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V49"
+    },
+    {
+     "section": "CSIS Act s. 22.2",
+     "label": "Limits on execution of warrant",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V50"
+    },
+    {
+     "section": "CSIS Act s. 22.3",
+     "label": "Assistance order",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V51"
+    },
+    {
+     "section": "CSIS Act s. 23",
+     "label": "Warrant authorizing removal",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V52"
+    },
+    {
+     "section": "CSIS Act s. 24.1",
+     "label": "Authorization to request assistance",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V53"
+    },
+    {
+     "section": "CSIS Act s. 27",
+     "label": "Hearing of applications",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V54"
+    },
+    {
+     "section": "CSIS Act s. 28",
+     "label": "prescribing the forms of warrants that may be issued under section 21, 21.1 or 23",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "note": "regulation-making power as amended",
+     "id": "V55"
+    },
+    {
+     "section": "CSIS Act s. 38(1.1)",
+     "label": "Review of measures",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V56"
+    },
+    {
+     "section": "CSIS Act s. 53(2)",
+     "label": "Additional information",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V57"
+    },
+    {
+     "section": "IRPA s. 72(1)",
+     "label": "Application for judicial review",
+     "label_source": "marginal note",
+     "creates": [
+      "right"
+     ],
+     "id": "V58"
+    },
+    {
+     "section": "IRPA s. 77(2)",
+     "label": "Filing of evidence and summary",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V59"
+    },
+    {
+     "section": "IRPA s. 79.1",
+     "label": "Appeal by Minister",
+     "label_source": "marginal note",
+     "creates": [
+      "right"
+     ],
+     "id": "V60"
+    },
+    {
+     "section": "IRPA s. 82.31",
+     "label": "Appeal by Minister",
+     "label_source": "marginal note",
+     "creates": [
+      "right"
+     ],
+     "id": "V61"
+    },
+    {
+     "section": "IRPA s. 83(1)(c.1)",
+     "label": "on the request of the Minister, the judge may exempt the Minister from the obligation to provide the special advocate …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V62"
+    },
+    {
+     "section": "IRPA s. 85.4(1)",
+     "label": "Obligation to provide information",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V63"
+    },
+    {
+     "section": "IRPA s. 86.1",
+     "label": "Judicial review",
+     "label_source": "marginal note",
+     "creates": [
+      "right"
+     ],
+     "id": "V64"
+    },
+    {
+     "section": "IRPA s. 87",
+     "label": "Application for non-disclosure — judicial review and appeal",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V65"
+    },
+    {
+     "section": "IRPA s. 87.01",
+     "label": "Appeal by Minister",
+     "label_source": "marginal note",
+     "creates": [
+      "right"
+     ],
+     "id": "V66"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "various",
+     "heading": "",
+     "reason": "definitions, short titles, coming-into-force, coordinating amendments (ss. 34-38), transitional ss. 28 and 61, SCISA s. 9 and SATA ss. 24-27, 29 (immunity, defences, evidence), CC s. 183 and 487.04 definition additions, Customs Tariff item, CSIS s. 26 (exclusion of Part VI)"
+    }
+   ],
+   "flags": [
+    "The Act is an omnibus amending statute with no purpose clause or preamble of its own. Only Part 1 carries a verbatim purpose (SCISA s. 3); Parts 2 to 5 rest on one hand-written purpose. Look at this first.",
+    "Provisions are listed at the level of the provision the Act enacts or inserts (for example Criminal Code s. 83.221), not the amending section number.",
+    "The Secure Air Travel Act has no purpose clause; s. 4 is an application rule."
+   ]
+  },
+  {
+   "id": "fed-03",
+   "law": "Section 13, Canadian Human Rights Act, RSC 1985, c H-6 (pre-repeal)",
+   "text": {
+    "file": "corpus/statute-text/fed-03.txt",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/H-6/20140401/P1TT3xt3.html",
+    "version": "Point-in-time consolidation 2014-04-01 to 2014-06-25, the last version before s. 13 was repealed (SC 2013, c 37, s. 2, in force 2014-06-26)",
+    "retrieved": "2026-10-09",
+    "scope": "Whole Act as it stood before the repeal of s. 13.",
+    "sha256": "febbea20ba2cf698c9410243182db10cbaed3b40ea7ba31e3dc5b0e4eac7060c",
+    "chars": 83135
+   },
+   "purposes": [
+    {
+     "text": "to extend the laws in Canada to give effect, within the purview of matters coming within the legislative authority of Parliament, to the principle that all individuals should have an opportunity equal with other individuals to make for themselves the lives that they are able and wish to have and to have their needs accommodated, consistent with their duties and obligations as members of society, without being hindered in or prevented from doing so by discriminatory practices based on race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, disability or conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered",
+     "pinpoint": "s. 2",
+     "source": "verbatim",
+     "note": "Not split. \"and to have their needs accommodated\" sits inside the one principle the Act gives effect to; splitting there would cut the \"without being hindered\" qualifier off the first half.",
+     "id": "P1"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "13",
+     "label": "Hate messages",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "note": "creates a discriminatory practice (a prohibition enforceable by complaint)",
+     "id": "V1"
+    },
+    {
+     "section": "54",
+     "label": "Orders relating to hate messages",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "note": "s. 54 applies only to complaints under s. 13, including the penalty in s. 54(1)(c)",
+     "id": "V2"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "all others",
+     "heading": "",
+     "reason": "outside the entry, which names s. 13 only"
+    }
+   ],
+   "flags": [
+    "The entry names one section, so the provision list is s. 13 and the s. 13-only remedy in s. 54. With one purpose and two provisions, MTM-L can only take a few values.",
+    "The Act has no s. 13-specific purpose. The general equality purpose in s. 2 is the only verbatim candidate."
+   ]
+  },
+  {
+   "id": "fed-04",
+   "law": "Security Certificate regime, IRPA ss. 77-85 (pre-Charkaoui)",
+   "text": {
+    "file": "corpus/statute-text/fed-04.txt",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/I-2.5/20061212/P1TT3xt3.html",
+    "version": "Point-in-time consolidation 2006-12-12 to 2008-02-21, the version in force when Charkaoui, 2007 SCC 9 was decided and before SC 2008, c 3",
+    "retrieved": "2026-10-09",
+    "scope": "Preliminary provisions (ss. 1-9, including the s. 3 objectives) and the whole of Part 1 (Immigration to Canada), which contains Division 9 (ss. 76-87).",
+    "sha256": "4e9c53c40c75916da0706233f0f7a9b08b8d4b3aa2bee3f62bfa28e1a2c877f6",
+    "chars": 77798
+   },
+   "purposes": [
+    {
+     "text": "to permit Canada to pursue the maximum social, cultural and economic benefits of immigration",
+     "pinpoint": "s. 3(1)(a)",
+     "source": "verbatim",
+     "id": "P1"
+    },
+    {
+     "text": "to enrich and strengthen the social and cultural fabric of Canadian society, while respecting the federal, bilingual and multicultural character of Canada",
+     "pinpoint": "s. 3(1)(b)",
+     "source": "verbatim",
+     "id": "P2"
+    },
+    {
+     "text": "to support and assist the development of minority official languages communities in Canada",
+     "pinpoint": "s. 3(1)(b.1)",
+     "source": "verbatim",
+     "id": "P3"
+    },
+    {
+     "text": "to support the development of a strong and prosperous Canadian economy, in which the benefits of immigration are shared across all regions of Canada",
+     "pinpoint": "s. 3(1)(c)",
+     "source": "verbatim",
+     "id": "P4"
+    },
+    {
+     "text": "to see that families are reunited in Canada",
+     "pinpoint": "s. 3(1)(d)",
+     "source": "verbatim",
+     "id": "P5"
+    },
+    {
+     "text": "to promote the successful integration of permanent residents into Canada, while recognizing that integration involves mutual obligations for new immigrants and Canadian society",
+     "pinpoint": "s. 3(1)(e)",
+     "source": "verbatim",
+     "id": "P6"
+    },
+    {
+     "text": "to support, by means of consistent standards and prompt processing, the attainment of immigration goals established by the Government of Canada in consultation with the provinces",
+     "pinpoint": "s. 3(1)(f)",
+     "source": "verbatim",
+     "id": "P7"
+    },
+    {
+     "text": "to facilitate the entry of visitors, students and temporary workers for purposes such as trade, commerce, tourism, international understanding and cultural, educational and scientific activities",
+     "pinpoint": "s. 3(1)(g)",
+     "source": "verbatim",
+     "id": "P8"
+    },
+    {
+     "text": "to protect the health and safety of Canadians",
+     "pinpoint": "s. 3(1)(h)",
+     "source": "verbatim",
+     "note": "split at \"and to maintain\"",
+     "id": "P9"
+    },
+    {
+     "text": "to maintain the security of Canadian society",
+     "pinpoint": "s. 3(1)(h)",
+     "source": "verbatim",
+     "id": "P10"
+    },
+    {
+     "text": "to promote international justice and security by fostering respect for human rights and by denying access to Canadian territory to persons who are criminals or security risks",
+     "pinpoint": "s. 3(1)(i)",
+     "source": "verbatim",
+     "note": "\"and by denying\" adds a means, not an object, so not split",
+     "id": "P11"
+    },
+    {
+     "text": "to work in cooperation with the provinces to secure better recognition of the foreign credentials of permanent residents and their more rapid integration into society",
+     "pinpoint": "s. 3(1)(j)",
+     "source": "verbatim",
+     "id": "P12"
+    },
+    {
+     "text": "to recognize that the refugee program is in the first instance about saving lives and offering protection to the displaced and persecuted",
+     "pinpoint": "s. 3(2)(a)",
+     "source": "verbatim",
+     "id": "P13"
+    },
+    {
+     "text": "to fulfil Canada’s international legal obligations with respect to refugees",
+     "pinpoint": "s. 3(2)(b)",
+     "source": "verbatim",
+     "note": "split at \"and affirm\"",
+     "id": "P14"
+    },
+    {
+     "text": "affirm Canada’s commitment to international efforts to provide assistance to those in need of resettlement",
+     "pinpoint": "s. 3(2)(b)",
+     "source": "verbatim",
+     "id": "P15"
+    },
+    {
+     "text": "to grant, as a fundamental expression of Canada’s humanitarian ideals, fair consideration to those who come to Canada claiming persecution",
+     "pinpoint": "s. 3(2)(c)",
+     "source": "verbatim",
+     "id": "P16"
+    },
+    {
+     "text": "to offer safe haven to persons with a well-founded fear of persecution based on race, religion, nationality, political opinion or membership in a particular social group, as well as those at risk of torture or cruel and unusual treatment or punishment",
+     "pinpoint": "s. 3(2)(d)",
+     "source": "verbatim",
+     "id": "P17"
+    },
+    {
+     "text": "to establish fair and efficient procedures that will maintain the integrity of the Canadian refugee protection system, while upholding Canada’s respect for the human rights and fundamental freedoms of all human beings",
+     "pinpoint": "s. 3(2)(e)",
+     "source": "verbatim",
+     "id": "P18"
+    },
+    {
+     "text": "to support the self-sufficiency and the social and economic well-being of refugees by facilitating reunification with their family members in Canada",
+     "pinpoint": "s. 3(2)(f)",
+     "source": "verbatim",
+     "id": "P19"
+    },
+    {
+     "text": "to protect the health and safety of Canadians",
+     "pinpoint": "s. 3(2)(g)",
+     "source": "verbatim",
+     "note": "split at \"and to maintain\"",
+     "id": "P20"
+    },
+    {
+     "text": "to maintain the security of Canadian society",
+     "pinpoint": "s. 3(2)(g)",
+     "source": "verbatim",
+     "id": "P21"
+    },
+    {
+     "text": "to promote international justice and security by denying access to Canadian territory to persons, including refugee claimants, who are security risks or serious criminals",
+     "pinpoint": "s. 3(2)(h)",
+     "source": "verbatim",
+     "id": "P22"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "77",
+     "label": "Referral of certificate",
+     "label_source": "marginal note",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V1"
+    },
+    {
+     "section": "78",
+     "label": "Judicial consideration",
+     "label_source": "marginal note",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "note": "sets the closed-hearing rules (judge \"shall\" hear evidence in the absence of the named person on request); the provision Charkaoui struck",
+     "id": "V2"
+    },
+    {
+     "section": "79",
+     "label": "Proceedings suspended",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "id": "V3"
+    },
+    {
+     "section": "80",
+     "label": "Determination that certificate is reasonable",
+     "label_source": "marginal note",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V4"
+    },
+    {
+     "section": "81",
+     "label": "Effect of determination — removal order",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V5"
+    },
+    {
+     "section": "82",
+     "label": "Detention of permanent resident",
+     "label_source": "marginal note",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V6"
+    },
+    {
+     "section": "83",
+     "label": "Review of decision for detention",
+     "label_source": "marginal note",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V7"
+    },
+    {
+     "section": "84",
+     "label": "Release",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V8"
+    },
+    {
+     "section": "86",
+     "label": "Application for non-disclosure — Immigration Appeal Division",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V9"
+    },
+    {
+     "section": "87",
+     "label": "Application for non-disclosure — Court",
+     "label_source": "marginal note",
+     "creates": [
+      "power"
+     ],
+     "id": "V10"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "76",
+     "heading": "Definitions",
+     "reason": "definitions"
+    },
+    {
+     "section": "85",
+     "heading": "Inconsistency",
+     "reason": "conflict rule"
+    },
+    {
+     "section": "rest of Part 1",
+     "heading": "",
+     "reason": "outside the entry, which names the Division 9 security-certificate regime"
+    }
+   ],
+   "flags": [
+    "LOOK FIRST. The rule takes the whole objectives clause, s. 3(1) and (2): 22 purposes after splitting. Only four concern security (3(1)(h) second half, 3(1)(i), 3(2)(g) second half, 3(2)(h)). Scoring Division 9 against all 22 will make faithfulness F low for a reason that has nothing to do with the certificate regime. The alternative is to restrict the purposes to the security objectives, which is what the old excerpt did.",
+    "s. 3(3) is an interpretation clause (\"This Act is to be construed and applied in a manner that ...\") and is left out of the purposes, though 3(3)(d) (Charter consistency) is the closest text to the Charkaoui problem.",
+    "Corpus text is Part 1 whole, as the rule requires for a named Part; the provisions are Division 9 only."
+   ]
+  },
+  {
+   "id": "fed-05",
+   "law": "Criminal Code s.95 mandatory minimum for prohibited firearm possession (pre-Nur)",
+   "text": {
+    "file": "corpus/statute-text/fed-05.txt",
+    "source_url": "https://laws-lois.justice.gc.ca/eng/acts/C-46/20141216/P1TT3xt3.html",
+    "version": "Point-in-time consolidation 2014-12-16 to 2015-02-24, the version in force before R v Nur, 2015 SCC 15",
+    "retrieved": "2026-10-09",
+    "scope": "The whole of Part III (Firearms and Other Weapons), ss. 84-117.15.",
+    "sha256": "80716486b57af537a447ceac65f1a35da466e91208b333c24253c47e5223ec80",
+    "chars": 87088
+   },
+   "purposes": [
+    {
+     "text": "To deter the illegal possession of prohibited or restricted firearms.",
+     "pinpoint": "hand-written",
+     "source": "hand-written",
+     "note": "Part III has no purpose clause or preamble. Drawn from the corpus purpose_stated, with \"by imposing a three-year mandatory minimum sentence ...\" removed: a purpose that names the mechanism is served by definition.",
+     "id": "P1"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "95",
+     "label": "Possession of prohibited or restricted firearm with ammunition",
+     "label_source": "marginal note",
+     "creates": [
+      "offence"
+     ],
+     "note": "s. 95(2) carries the three- and five-year minimums at issue in Nur",
+     "id": "V1"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "rest of Part III",
+     "heading": "",
+     "reason": "outside the entry, which names s. 95"
+    }
+   ],
+   "flags": [
+    "LOOK FIRST. One hand-written purpose and one provision: the matrix is 1 x 1, so MTM-L can only be 0 or 50. It cannot register what Nur found (gross disproportionality of the minimum), because the provision plainly serves a deterrence purpose.",
+    "Listing s. 95(1) (offence) and s. 95(2) (punishment) separately would not change that; both serve deterrence."
+   ]
+  },
+  {
+   "id": "prov-01",
+   "law": "Ontario Safe Streets Act, SO 1999, c 8",
+   "text": {
+    "file": "corpus/statute-text/prov-01.txt",
+    "source_url": "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99s08",
+    "version": "e-Laws consolidation in force from 2005-12-15 (current)",
+    "retrieved": "2026-10-09",
+    "scope": "Whole Act, ss. 1-9 (ss. 7-9 are marked \"Omitted\" in the official consolidation).",
+    "sha256": "fe3eecc51512a382384a44b8aaf5414fc69c25c560625c13f151d3faca804a4b",
+    "chars": 6344
+   },
+   "purposes": [
+    {
+     "text": "To regulate aggressive solicitation and to address public-safety concerns associated with squeegee work and highway panhandling.",
+     "pinpoint": "hand-written",
+     "source": "hand-written",
+     "note": "The Act has no purpose clause or preamble. This is the corpus purpose_stated unchanged; it names no mechanism.",
+     "id": "P1"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "2",
+     "label": "Solicitation in aggressive manner prohibited",
+     "label_source": "headnote",
+     "creates": [
+      "duty"
+     ],
+     "id": "V1"
+    },
+    {
+     "section": "3",
+     "label": "Solicitation of captive audience prohibited",
+     "label_source": "headnote",
+     "creates": [
+      "duty"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "4",
+     "label": "Disposal of certain dangerous things prohibited",
+     "label_source": "headnote",
+     "creates": [
+      "duty"
+     ],
+     "id": "V3"
+    },
+    {
+     "section": "5",
+     "label": "Offence",
+     "label_source": "headnote",
+     "creates": [
+      "offence"
+     ],
+     "id": "V4"
+    },
+    {
+     "section": "6",
+     "label": "Arrest without warrant",
+     "label_source": "headnote",
+     "creates": [
+      "power"
+     ],
+     "id": "V5"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "1",
+     "heading": "Definition",
+     "reason": "definitions"
+    },
+    {
+     "section": "7-9",
+     "heading": "",
+     "reason": "omitted in the official consolidation"
+    }
+   ],
+   "flags": [
+    "s. 4 (disposal of condoms, needles and broken glass in outdoor public places) is outside the hand-written purpose, so it will count as excess. That is a real feature of the Act, not an artefact.",
+    "The hand-written purpose is one statement with two objects (\"to regulate ... and to address ...\"). If hand-written purposes should be split like verbatim ones, it becomes two."
+   ]
+  },
+  {
+   "id": "prov-02",
+   "law": "Act respecting the Laicity of the State (Quebec Bill 21), SQ 2019, c 12",
+   "text": {
+    "file": "corpus/statute-text/prov-02.txt",
+    "source_url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/en/2019/2019C12A.PDF",
+    "version": "As enacted: SQ 2019, c 12 (Bill 21), assented to and in force 16 June 2019; English text published by the Québec Official Publisher",
+    "retrieved": "2026-10-09",
+    "scope": "Whole Act as enacted, ss. 1-36 and Schedules I-III. The explanatory notes are not part of the Act and are left out.",
+    "sha256": "57c523d92cf342736f4da1f398279280e0cddf962563b89a3fbb2f7d23425ca2",
+    "chars": 25421
+   },
+   "purposes": [
+    {
+     "text": "the Québec nation has its own characteristics, one of which is its civil law tradition, distinct social values and a specific history that have led it to develop a particular attachment to State laicity",
+     "pinpoint": "preamble, recital 1",
+     "source": "verbatim",
+     "note": "recital of fact or premise, not an object",
+     "id": "P1"
+    },
+    {
+     "text": "the Québec State stands on constitutional foundations that have been enriched over the years by the passage of a number of fundamental laws",
+     "pinpoint": "preamble, recital 2",
+     "source": "verbatim",
+     "note": "recital of fact or premise, not an object",
+     "id": "P2"
+    },
+    {
+     "text": "in accordance with the principle of parliamentary sovereignty, it is incumbent on the Parliament of Québec to determine the principles according to which and manner in which relations between the State and religions are to be governed in Québec",
+     "pinpoint": "preamble, recital 3",
+     "source": "verbatim",
+     "note": "recital of constitutional premise, not an object",
+     "id": "P3"
+    },
+    {
+     "text": "it is important that the paramountcy of State laicity be enshrined in Québec’s legal order",
+     "pinpoint": "preamble, recital 4",
+     "source": "verbatim",
+     "id": "P4"
+    },
+    {
+     "text": "the Québec nation attaches importance to the equality of women and men",
+     "pinpoint": "preamble, recital 5",
+     "source": "verbatim",
+     "note": "recital of a value; reads as an object only by implication",
+     "id": "P5"
+    },
+    {
+     "text": "a stricter duty of restraint regarding religious matters should be established for persons exercising certain functions, resulting in their being prohibited from wearing religious symbols in the exercise of their functions",
+     "pinpoint": "preamble, recital 6",
+     "source": "verbatim",
+     "id": "P6"
+    },
+    {
+     "text": "State laicity contributes to the fulfilment of the magistrature’s duty of impartiality",
+     "pinpoint": "preamble, recital 7",
+     "source": "verbatim",
+     "id": "P7"
+    },
+    {
+     "text": "State laicity should be affirmed in a manner that ensures a balance between the collective rights of the Québec nation and human rights and freedoms",
+     "pinpoint": "preamble, recital 8",
+     "source": "verbatim",
+     "id": "P8"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "3",
+     "label": "State laicity requires parliamentary, government and judicial institutions to comply with all the principles listed in …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V1"
+    },
+    {
+     "section": "4",
+     "label": "In addition to the requirement under section 3, State laicity requires compliance with the prohibition on …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "right"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "5",
+     "label": "It is incumbent on the Conseil de la magistrature, with respect to judges of the Court …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V3"
+    },
+    {
+     "section": "6",
+     "label": "The persons listed in Schedule II are prohibited from wearing religious symbols in the exercise of …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "note": "the religious-symbol prohibition",
+     "id": "V4"
+    },
+    {
+     "section": "8",
+     "label": "Personnel members of a body must exercise their functions with their face uncovered. Similarly, persons who …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V5"
+    },
+    {
+     "section": "10",
+     "label": "A body listed in Schedule I may require, from any persons or partnerships with whom or …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V6"
+    },
+    {
+     "section": "12",
+     "label": "A minister may, jointly with the minister responsible for the administration of this Act, verify compliance …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V7"
+    },
+    {
+     "section": "13",
+     "label": "It is incumbent on the person exercising the highest administrative authority, where applicable, over the persons …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V8"
+    },
+    {
+     "section": "14",
+     "label": "No accommodation or other derogation or adaptation, except those provided for in this Act, may be …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V9"
+    },
+    {
+     "section": "15",
+     "label": "Where the prohibition on wearing religious symbols applies to a lawyer or notary referred to in …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V10"
+    },
+    {
+     "section": "19",
+     "label": "Section 9.1 of the Charter is amended by inserting “State laicity,” after “democratic values,” in the …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "note": "amends s. 9.1 of the Québec Charter so that rights are exercised with regard to State laicity",
+     "id": "V11"
+    },
+    {
+     "section": "23",
+     "label": "Section 7 of the Act is amended (1) by replacing “any person or partnership with whom …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "note": "amends R-26.2.01 s. 7",
+     "id": "V12"
+    },
+    {
+     "section": "25",
+     "label": "Section 12 of the Act is amended by replacing the second paragraph by the following paragraph …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "note": "amends R-26.2.01 s. 12",
+     "id": "V13"
+    },
+    {
+     "section": "28",
+     "label": "Section 17 of the Act is amended by replacing the last sentence of the first paragraph …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "note": "amends R-26.2.01 s. 17",
+     "id": "V14"
+    },
+    {
+     "section": "29",
+     "label": "The Act is amended by inserting the following section after section 17: “17.1. No accommodation or …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "note": "inserts R-26.2.01 s. 17.1",
+     "id": "V15"
+    },
+    {
+     "section": "31",
+     "label": "Section 6 does not apply (1) to persons referred to in any of paragraphs 2, 3 …",
+     "label_source": "opening words",
+     "creates": [
+      "right"
+     ],
+     "note": "acquired-rights exemption from s. 6 for incumbents",
+     "id": "V16"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "1, 2",
+     "heading": "",
+     "reason": "declaratory: states that Québec is a lay State and lists the principles; creates none of the four"
+    },
+    {
+     "section": "7",
+     "heading": "",
+     "reason": "definition"
+    },
+    {
+     "section": "9",
+     "heading": "",
+     "reason": "exception to s. 8"
+    },
+    {
+     "section": "11",
+     "heading": "",
+     "reason": "paramountcy rule"
+    },
+    {
+     "section": "16",
+     "heading": "",
+     "reason": "nullity rule"
+    },
+    {
+     "section": "17",
+     "heading": "",
+     "reason": "interpretation rule"
+    },
+    {
+     "section": "18, 20-22, 24, 26, 27, 30",
+     "heading": "",
+     "reason": "amendments that change preambles, scope or administration rather than create one of the four"
+    },
+    {
+     "section": "32, 35, 36",
+     "heading": "",
+     "reason": "administration and coming into force"
+    },
+    {
+     "section": "33, 34",
+     "heading": "",
+     "reason": "Québec Charter override and notwithstanding clause: they displace rights review but create none of the four"
+    }
+   ],
+   "flags": [
+    "LOOK FIRST. The Act has no purpose clause, so the rule takes the preamble: eight recitals. Three or four state facts or premises rather than objects (recitals 1-3, arguably 5). No provision can \"serve\" a recital such as \"the Québec State stands on constitutional foundations ...\", so those will register as unserved purposes and lower F. Either drop recitals that state facts, or accept the penalty as the rule's price.",
+    "Point in time: this is the Act as enacted in 2019, which is what the entry cites and what Hak v Québec reviewed. The current consolidation is materially different: SQ 2026, c 6 rewrote the preamble (ten recitals) and added Chapters III.1-III.3. The corpus text used until now was the 2026 consolidation.",
+    "The notwithstanding clause (s. 34) and the Québec Charter override (s. 33) are excluded by the rule because they create none of the four, though they are the provisions the entry is most about.",
+    "Amending sections are included only where the text they insert creates a duty, power or right (ss. 19, 23, 25, 28, 29)."
+   ]
+  },
+  {
+   "id": "prov-03",
+   "law": "Critical Infrastructure Defence Act, SA 2020, c C-32.7 (Alberta)",
+   "text": {
+    "file": "corpus/statute-text/prov-03.txt",
+    "source_url": "https://kings-printer.alberta.ca/documents/Acts/c32p7.pdf",
+    "version": "Office consolidation current as of 15 May 2025 (includes SA 2024 c 17 and SA 2025 c 5)",
+    "retrieved": "2026-10-09",
+    "scope": "Whole Act, ss. 1-5.",
+    "sha256": "66f366fc4509fb04a20b59626b5c92d4738db340677102869956374742f7294b",
+    "chars": 9014
+   },
+   "purposes": [
+    {
+     "text": "To protect essential infrastructure such as pipelines and railways from damage and unauthorized entry.",
+     "pinpoint": "hand-written",
+     "source": "hand-written",
+     "note": "Neither the Act nor Bill 1 as introduced (checked against the first-reading text) has a purpose clause or preamble. Corpus purpose_stated unchanged.",
+     "id": "P1"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "2",
+     "label": "Prohibitions",
+     "label_source": "headnote",
+     "creates": [
+      "duty"
+     ],
+     "id": "V1"
+    },
+    {
+     "section": "3",
+     "label": "Offences and penalties",
+     "label_source": "headnote",
+     "creates": [
+      "offence"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "4",
+     "label": "Arrest without warrant",
+     "label_source": "headnote",
+     "creates": [
+      "power"
+     ],
+     "id": "V3"
+    },
+    {
+     "section": "5",
+     "label": "Regulations",
+     "label_source": "headnote",
+     "creates": [
+      "power"
+     ],
+     "id": "V4"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "1",
+     "heading": "Definitions",
+     "reason": "definitions"
+    },
+    {
+     "section": "1.1",
+     "heading": "Government of Canada bound",
+     "reason": "application"
+    }
+   ],
+   "flags": [
+    "The overbreadth the entry describes lives in the s. 1 definition of \"essential infrastructure\" (now including all land within 2 km of the US border, hospitals and continuing care homes, added 2024-2025). Definitions are excluded by the rule, so MTM-L will not see it.",
+    "Point in time: the 2025 consolidation is broader than the 2020 Act the entry was written about."
+   ]
+  },
+  {
+   "id": "prov-04",
+   "law": "Civil Forfeiture Act, RSBC 2024, c 1, ss. 18-26 (BC — unexplained wealth order provisions)",
+   "text": {
+    "file": "corpus/statute-text/prov-04.txt",
+    "source_url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/24001",
+    "version": "Civil Forfeiture Act, RSBC 2024, c 1, current consolidation on BC Laws",
+    "retrieved": "2026-10-09",
+    "scope": "Whole Act (Parts 1-9). The entry names ss. 18-26 (Part 3, Division 3), but the UWO consequences sit in Part 5 (ss. 56-58), so the whole Act is used.",
+    "sha256": "4a792684fa07aa3546f218be37d6e6f8c033c33124757cb8e337c88cbfa63e35",
+    "chars": 124929
+   },
+   "purposes": [
+    {
+     "text": "To provide civil remedies to deprive persons of property that is the proceeds or instruments of unlawful activity.",
+     "pinpoint": "hand-written",
+     "source": "hand-written",
+     "note": "The Act has no purpose clause or preamble. Drawn from the corpus purpose_stated with \", including through unexplained wealth orders\" removed.",
+     "id": "P1"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "22",
+     "label": "Application for unexplained wealth order",
+     "label_source": "headnote",
+     "creates": [
+      "power"
+     ],
+     "note": "the director may apply; s. 22(2) allows the application before, with or after forfeiture proceedings",
+     "id": "V1"
+    },
+    {
+     "section": "23",
+     "label": "Service and hearing the application",
+     "label_source": "headnote",
+     "creates": [
+      "duty"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "24",
+     "label": "Unexplained wealth order",
+     "label_source": "headnote",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "note": "the court must make the order unless clearly not in the interests of justice; $75,000 floor at s. 24(2)(b)(ii)",
+     "id": "V3"
+    },
+    {
+     "section": "25",
+     "label": "Contents of unexplained wealth order",
+     "label_source": "headnote",
+     "creates": [
+      "duty"
+     ],
+     "note": "sworn statement and disclosure; privilege carve-out at s. 25(3)-(4)",
+     "id": "V4"
+    },
+    {
+     "section": "26",
+     "label": "Costs — application of section 37 of Class Proceedings Act",
+     "label_source": "headnote",
+     "creates": [
+      "power"
+     ],
+     "note": "imports the Class Proceedings Act costs rule; a limit on the costs power",
+     "id": "V5"
+    },
+    {
+     "section": "57",
+     "label": "Director may amend pleadings as a result of unexplained wealth order",
+     "label_source": "headnote",
+     "creates": [
+      "power"
+     ],
+     "id": "V6"
+    },
+    {
+     "section": "58",
+     "label": "Adverse inference — unexplained wealth order",
+     "label_source": "headnote",
+     "creates": [
+      "power"
+     ],
+     "note": "adverse inference on non-compliance",
+     "id": "V7"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "18-21",
+     "heading": "",
+     "reason": "definitions and meaning of \"affiliated\", \"beneficial owner\", \"connected\""
+    },
+    {
+     "section": "56",
+     "heading": "Presumption — failure to comply with unexplained wealth order",
+     "reason": "evidentiary presumption: creates none of the four"
+    },
+    {
+     "section": "rest of Act",
+     "heading": "",
+     "reason": "outside the entry, which is limited to the UWO provisions"
+    }
+   ],
+   "flags": [
+    "LOOK FIRST. s. 56 is excluded by the rule because a presumption is not an offence, duty, power or right. It is the strongest reverse-onus provision in the scheme: on non-compliance with a UWO, the property is presumed to be proceeds of unlawful activity in forfeiture proceedings. Michael may want it in.",
+    "ss. 57-58 sit outside the named sections (Part 5) but operate only on UWOs, so they are included.",
+    "The Act has no provision protecting the sworn statement from use in a criminal prosecution (searched the whole text for \"self-incrim\", \"admissib\" and \"criminal proceeding\"; the control term \"admissib\" did hit elsewhere). That matches the reworded design reform."
+   ]
+  },
+  {
+   "id": "prov-05",
+   "law": "Ontario Not-for-Profit Corporations Act, 2010, SO 2010, c 15 (ONCA)",
+   "text": {
+    "file": "corpus/statute-text/prov-05.txt",
+    "source_url": "https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/10n15",
+    "version": "e-Laws consolidation (record updated 2026-04-15)",
+    "retrieved": "2026-10-09",
+    "scope": "Whole Act, Parts I-XV; Parts XVI-XVIII are repealed or omitted.",
+    "sha256": "5347ff840fcd6ab4a144eb3afc870b4fecb30ab511219f42906624769d8df907",
+    "chars": 300692
+   },
+   "purposes": [
+    {
+     "text": "To modernize the incorporation and governance framework for Ontario not-for-profit corporations.",
+     "pinpoint": "hand-written",
+     "source": "hand-written",
+     "note": "The Act has no purpose clause or preamble. Corpus purpose_stated with \", replacing the 1907 Corporations Act\" removed (a historical fact, not an object).",
+     "id": "P1"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "6",
+     "label": "Appointment of Director",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V1"
+    },
+    {
+     "section": "7",
+     "label": "Articles of incorporation",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "8",
+     "label": "Form and contents of articles",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V3"
+    },
+    {
+     "section": "9",
+     "label": "Certificate of incorporation",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V4"
+    },
+    {
+     "section": "10",
+     "label": "Assignment of corporation number",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V5"
+    },
+    {
+     "section": "11",
+     "label": "Prohibitions",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V6"
+    },
+    {
+     "section": "12",
+     "label": "Change of name if objectionable",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V7"
+    },
+    {
+     "section": "13",
+     "label": "Corporate seal",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V8"
+    },
+    {
+     "section": "14",
+     "label": "Registered office",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V9"
+    },
+    {
+     "section": "15",
+     "label": "Capacity, etc., of a natural person",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V10"
+    },
+    {
+     "section": "17",
+     "label": "By-laws",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V11"
+    },
+    {
+     "section": "18",
+     "label": "Default organizational by-laws",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V12"
+    },
+    {
+     "section": "21",
+     "label": "Directors to manage or supervise management of corporation",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V13"
+    },
+    {
+     "section": "22",
+     "label": "Number of directors",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V14"
+    },
+    {
+     "section": "23",
+     "label": "Qualifications of directors",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V15"
+    },
+    {
+     "section": "24",
+     "label": "Election and term",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V16"
+    },
+    {
+     "section": "26",
+     "label": "Removal of directors",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V17"
+    },
+    {
+     "section": "27",
+     "label": "Statement of director",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "right"
+     ],
+     "id": "V18"
+    },
+    {
+     "section": "28",
+     "label": "Filling vacancy",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V19"
+    },
+    {
+     "section": "30",
+     "label": "Change in number of directors",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V20"
+    },
+    {
+     "section": "31",
+     "label": "Court review of election or appointment of director",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V21"
+    },
+    {
+     "section": "32",
+     "label": "Organizational meeting",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V22"
+    },
+    {
+     "section": "33",
+     "label": "Directors entitled to attend members’ meetings",
+     "label_source": "heading",
+     "creates": [
+      "right"
+     ],
+     "id": "V23"
+    },
+    {
+     "section": "34",
+     "label": "Directors’ meetings",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V24"
+    },
+    {
+     "section": "35",
+     "label": "Resolutions",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V25"
+    },
+    {
+     "section": "36",
+     "label": "Delegation by directors",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V26"
+    },
+    {
+     "section": "39",
+     "label": "Directors’ liability for money or property distributed or paid",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V27"
+    },
+    {
+     "section": "40",
+     "label": "Directors’ liability to employees for wages, etc.",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V28"
+    },
+    {
+     "section": "41",
+     "label": "Disclosure: conflict of interest",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V29"
+    },
+    {
+     "section": "42",
+     "label": "Officers",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V30"
+    },
+    {
+     "section": "43",
+     "label": "Standard of care",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V31"
+    },
+    {
+     "section": "46",
+     "label": "Indemnification of directors and officers",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V32"
+    },
+    {
+     "section": "47",
+     "label": "Remuneration of directors, officers and employees",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V33"
+    },
+    {
+     "section": "48",
+     "label": "Conditions in by-laws",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V34"
+    },
+    {
+     "section": "49",
+     "label": "Issuance of memberships",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V35"
+    },
+    {
+     "section": "51",
+     "label": "Power to discipline or terminate a member",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V36"
+    },
+    {
+     "section": "52",
+     "label": "Annual meeting",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V37"
+    },
+    {
+     "section": "53",
+     "label": "Place of members’ meetings",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V38"
+    },
+    {
+     "section": "54",
+     "label": "Record date",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V39"
+    },
+    {
+     "section": "55",
+     "label": "Notice of members’ meetings",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V40"
+    },
+    {
+     "section": "56",
+     "label": "Member’s right to submit and discuss proposals",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V41"
+    },
+    {
+     "section": "57",
+     "label": "Quorum for a members’ meeting",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V42"
+    },
+    {
+     "section": "58",
+     "label": "Voting",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V43"
+    },
+    {
+     "section": "59",
+     "label": "Resolution in lieu of meeting",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V44"
+    },
+    {
+     "section": "60",
+     "label": "Members may requisition meeting of members",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V45"
+    },
+    {
+     "section": "61",
+     "label": "Members’ meeting called by court",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V46"
+    },
+    {
+     "section": "64",
+     "label": "Proxies",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V47"
+    },
+    {
+     "section": "66",
+     "label": "Proxyholder",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V48"
+    },
+    {
+     "section": "67",
+     "label": "Voting by mail or by telephonic or electronic means",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V49"
+    },
+    {
+     "section": "68",
+     "label": "Appointment of auditor",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V50"
+    },
+    {
+     "section": "69",
+     "label": "Qualifications",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V51"
+    },
+    {
+     "section": "71",
+     "label": "Removal of auditor, person appointed to conduct review engagement",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V52"
+    },
+    {
+     "section": "72",
+     "label": "By directors",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V53"
+    },
+    {
+     "section": "73",
+     "label": "Court-appointed auditor",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V54"
+    },
+    {
+     "section": "74",
+     "label": "Court review of appointment of auditor",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V55"
+    },
+    {
+     "section": "75",
+     "label": "Auditor’s right to attend meetings",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V56"
+    },
+    {
+     "section": "76",
+     "label": "Public benefit corporations",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V57"
+    },
+    {
+     "section": "77",
+     "label": "Annual financial review",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V58"
+    },
+    {
+     "section": "78",
+     "label": "Report on financial statements",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V59"
+    },
+    {
+     "section": "79",
+     "label": "Obligation of directors, etc., to give information",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V60"
+    },
+    {
+     "section": "80",
+     "label": "Audit committee",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V61"
+    },
+    {
+     "section": "81",
+     "label": "Notice of errors in financial statements",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V62"
+    },
+    {
+     "section": "83",
+     "label": "Approval of annual financial statements",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V63"
+    },
+    {
+     "section": "84",
+     "label": "Presentation of annual financial statements to members",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V64"
+    },
+    {
+     "section": "85",
+     "label": "Borrowing powers",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V65"
+    },
+    {
+     "section": "86",
+     "label": "Members’ annual contribution or dues",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V66"
+    },
+    {
+     "section": "88",
+     "label": "Investments by corporation",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V67"
+    },
+    {
+     "section": "89",
+     "label": "Distribution of property, etc.",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V68"
+    },
+    {
+     "section": "90",
+     "label": "Surrendered memberships",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V69"
+    },
+    {
+     "section": "91",
+     "label": "Non-liability of members",
+     "label_source": "heading",
+     "creates": [
+      "right"
+     ],
+     "id": "V70"
+    },
+    {
+     "section": "92",
+     "label": "Corporate records to be kept",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V71"
+    },
+    {
+     "section": "92.1",
+     "label": "Register of interests in land in Ontario",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V72"
+    },
+    {
+     "section": "93",
+     "label": "Location of corporate records",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V73"
+    },
+    {
+     "section": "94",
+     "label": "Directors’ access to records",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V74"
+    },
+    {
+     "section": "95",
+     "label": "Members’, creditors’ access to records",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V75"
+    },
+    {
+     "section": "96",
+     "label": "Members’ access to register of members",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V76"
+    },
+    {
+     "section": "97",
+     "label": "Consents of directors to be kept",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V77"
+    },
+    {
+     "section": "98",
+     "label": "Financial statements to be kept",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V78"
+    },
+    {
+     "section": "99",
+     "label": "Access to records refused — court authorization",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V79"
+    },
+    {
+     "section": "103",
+     "label": "Amendment of articles",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V80"
+    },
+    {
+     "section": "104",
+     "label": "Proposal to amend",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V81"
+    },
+    {
+     "section": "106",
+     "label": "Articles of amendment to be sent to Director",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V82"
+    },
+    {
+     "section": "107",
+     "label": "Certificate of amendment",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V83"
+    },
+    {
+     "section": "109",
+     "label": "Restated articles",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V84"
+    },
+    {
+     "section": "110",
+     "label": "Amalgamation",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V85"
+    },
+    {
+     "section": "111",
+     "label": "Member approval of amalgamation agreement",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V86"
+    },
+    {
+     "section": "112",
+     "label": "Articles of amalgamation",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V87"
+    },
+    {
+     "section": "114",
+     "label": "Continuance from other jurisdictions",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V88"
+    },
+    {
+     "section": "115",
+     "label": "Continuance of other Ontario bodies corporate",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V89"
+    },
+    {
+     "section": "116",
+     "label": "Continuance to other jurisdictions",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V90"
+    },
+    {
+     "section": "117",
+     "label": "Continuance as co-operative corporation",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V91"
+    },
+    {
+     "section": "118",
+     "label": "Extraordinary sale, lease or exchange",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V92"
+    },
+    {
+     "section": "123",
+     "label": "Voluntary winding up",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V93"
+    },
+    {
+     "section": "124",
+     "label": "Inspectors",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V94"
+    },
+    {
+     "section": "125",
+     "label": "Vacancy in office of liquidator",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V95"
+    },
+    {
+     "section": "126",
+     "label": "Removal of liquidator",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V96"
+    },
+    {
+     "section": "128",
+     "label": "Corporation to cease activities",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V97"
+    },
+    {
+     "section": "129",
+     "label": "Proceedings against corporation after voluntary winding up",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V98"
+    },
+    {
+     "section": "130",
+     "label": "List of contributories and calls",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V99"
+    },
+    {
+     "section": "131",
+     "label": "Meetings of members during winding up",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V100"
+    },
+    {
+     "section": "132",
+     "label": "Arrangements with creditors",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V101"
+    },
+    {
+     "section": "133",
+     "label": "Power to compromise with debtors and contributories",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V102"
+    },
+    {
+     "section": "134",
+     "label": "Account of voluntary winding up to be made by liquidator",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V103"
+    },
+    {
+     "section": "136",
+     "label": "Winding up by court",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V104"
+    },
+    {
+     "section": "137",
+     "label": "Who may apply",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V105"
+    },
+    {
+     "section": "138",
+     "label": "Powers of court",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V106"
+    },
+    {
+     "section": "139",
+     "label": "Appointment of liquidator",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V107"
+    },
+    {
+     "section": "140",
+     "label": "Removal of liquidator",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V108"
+    },
+    {
+     "section": "141",
+     "label": "Assessment of costs, etc.",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V109"
+    },
+    {
+     "section": "143",
+     "label": "Proceedings in winding up after order",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V110"
+    },
+    {
+     "section": "144",
+     "label": "Orders following winding-up order",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V111"
+    },
+    {
+     "section": "145",
+     "label": "Proceedings against corporation after court winding up",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V112"
+    },
+    {
+     "section": "146",
+     "label": "Provision for discharge and distribution by the court",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V113"
+    },
+    {
+     "section": "147",
+     "label": "Order for dissolution",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V114"
+    },
+    {
+     "section": "149",
+     "label": "No liquidator",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V115"
+    },
+    {
+     "section": "150",
+     "label": "Consequences of winding up",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V116"
+    },
+    {
+     "section": "152",
+     "label": "Powers of liquidators",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V117"
+    },
+    {
+     "section": "153",
+     "label": "Acts by more than one liquidator",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V118"
+    },
+    {
+     "section": "155",
+     "label": "Liability in case of contributory’s death",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V119"
+    },
+    {
+     "section": "156",
+     "label": "Deposit of money",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V120"
+    },
+    {
+     "section": "158",
+     "label": "Application for direction",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V121"
+    },
+    {
+     "section": "159",
+     "label": "Examination of persons as to estate",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V122"
+    },
+    {
+     "section": "160",
+     "label": "Proceedings by members",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V123"
+    },
+    {
+     "section": "162",
+     "label": "Stay of winding-up proceedings",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V124"
+    },
+    {
+     "section": "163",
+     "label": "Creditor unknown",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V125"
+    },
+    {
+     "section": "164",
+     "label": "Member’s whereabouts unknown",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V126"
+    },
+    {
+     "section": "165",
+     "label": "Disposal of records, etc., after winding up",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V127"
+    },
+    {
+     "section": "166",
+     "label": "Voluntary dissolution",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V128"
+    },
+    {
+     "section": "167",
+     "label": "Articles of dissolution",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V129"
+    },
+    {
+     "section": "168",
+     "label": "Certificate of dissolution",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V130"
+    },
+    {
+     "section": "169",
+     "label": "Cancellation of certificate, etc., by Director",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V131"
+    },
+    {
+     "section": "170",
+     "label": "Notice of dissolution, non-filing",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V132"
+    },
+    {
+     "section": "171",
+     "label": "Proceedings after dissolution",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V133"
+    },
+    {
+     "section": "172",
+     "label": "Liability of members to creditors",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V134"
+    },
+    {
+     "section": "173",
+     "label": "Forfeiture of undisposed property",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V135"
+    },
+    {
+     "section": "174",
+     "label": "Investigation",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V136"
+    },
+    {
+     "section": "175",
+     "label": "Order to enter a dwelling",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V137"
+    },
+    {
+     "section": "176",
+     "label": "Powers of inspector",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V138"
+    },
+    {
+     "section": "177",
+     "label": "Court directions on investigation",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V139"
+    },
+    {
+     "section": "178",
+     "label": "Right to counsel",
+     "label_source": "heading",
+     "creates": [
+      "right"
+     ],
+     "id": "V140"
+    },
+    {
+     "section": "179",
+     "label": "Exchange of information",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V141"
+    },
+    {
+     "section": "182",
+     "label": "Complainant",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V142"
+    },
+    {
+     "section": "183",
+     "label": "Derivative actions",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V143"
+    },
+    {
+     "section": "184",
+     "label": "Powers of court in derivative actions",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V144"
+    },
+    {
+     "section": "185",
+     "label": "Members’ approval of breach not determinative",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V145"
+    },
+    {
+     "section": "186",
+     "label": "Application to court to rectify records",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V146"
+    },
+    {
+     "section": "187",
+     "label": "Rights of dissenting members",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V147"
+    },
+    {
+     "section": "188",
+     "label": "Directions by court to Director",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V148"
+    },
+    {
+     "section": "188.1",
+     "label": "Refusal to endorse if corporation in default",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V149"
+    },
+    {
+     "section": "189",
+     "label": "Notice of refusal by Director",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V150"
+    },
+    {
+     "section": "190",
+     "label": "Appeal from Director’s decision",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V151"
+    },
+    {
+     "section": "191",
+     "label": "Compliance or restraining order",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V152"
+    },
+    {
+     "section": "192",
+     "label": "Appeals",
+     "label_source": "heading",
+     "creates": [
+      "right"
+     ],
+     "id": "V153"
+    },
+    {
+     "section": "193",
+     "label": "Offence",
+     "label_source": "heading",
+     "creates": [
+      "offence",
+      "duty"
+     ],
+     "id": "V154"
+    },
+    {
+     "section": "194",
+     "label": "Order to comply",
+     "label_source": "heading",
+     "creates": [
+      "offence",
+      "power"
+     ],
+     "id": "V155"
+    },
+    {
+     "section": "200",
+     "label": "Search, etc., of documents kept by Director",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "right"
+     ],
+     "id": "V156"
+    },
+    {
+     "section": "201",
+     "label": "Requirements re articles filed with the Director",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V157"
+    },
+    {
+     "section": "204.1",
+     "label": "Filing by fax",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V158"
+    },
+    {
+     "section": "204.2",
+     "label": "Electronic version prevails",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V159"
+    },
+    {
+     "section": "205",
+     "label": "Affidavits, etc., required by Director",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V160"
+    },
+    {
+     "section": "206",
+     "label": "Delegation of Director’s duties and powers",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V161"
+    },
+    {
+     "section": "206.1",
+     "label": "Director’s certificates, etc.",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V162"
+    },
+    {
+     "section": "206.2",
+     "label": "Agreements with authorized persons",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V163"
+    },
+    {
+     "section": "207.1",
+     "label": "LG in C regulations",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V164"
+    },
+    {
+     "section": "208",
+     "label": "Minister’s regulations",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V165"
+    },
+    {
+     "section": "209",
+     "label": "Fees",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V166"
+    },
+    {
+     "section": "210",
+     "label": "Forms",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V167"
+    },
+    {
+     "section": "210.1",
+     "label": "Methods of endorsing and issuing",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V168"
+    },
+    {
+     "section": "210.2",
+     "label": "Requirements established by Director",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V169"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "1",
+     "heading": "Definitions",
+     "reason": "not operative (Definitions)"
+    },
+    {
+     "section": "2",
+     "heading": "Interpretation re period of days",
+     "reason": "not operative (Interpretation re period of days)"
+    },
+    {
+     "section": "3",
+     "heading": "Subsidiary body corporate",
+     "reason": "not operative (Subsidiary body corporate)"
+    },
+    {
+     "section": "4",
+     "heading": "Application",
+     "reason": "not operative (Application)"
+    },
+    {
+     "section": "4.1",
+     "heading": "Execution of documents",
+     "reason": "not operative (Execution of documents)"
+    },
+    {
+     "section": "5",
+     "heading": "Conflict with other law",
+     "reason": "not operative (Conflict with other law)"
+    },
+    {
+     "section": "16",
+     "heading": "By-law not required to confer power",
+     "reason": "not operative (By-law not required to confer power)"
+    },
+    {
+     "section": "19",
+     "heading": "Indoor management rule",
+     "reason": "not operative (Indoor management rule)"
+    },
+    {
+     "section": "20",
+     "heading": "Person who enters contract is bound",
+     "reason": "not operative (Person who enters contract is bound)"
+    },
+    {
+     "section": "25",
+     "heading": "Ceasing to hold office",
+     "reason": "not operative (Ceasing to hold office)"
+    },
+    {
+     "section": "29",
+     "heading": "Deemed director, if all directors resign or are removed",
+     "reason": "not operative (Deemed director, if all directors resign or are removed)"
+    },
+    {
+     "section": "37",
+     "heading": "Validity of acts despite irregularities, etc.",
+     "reason": "not operative (Validity of acts despite irregularities, etc.)"
+    },
+    {
+     "section": "38",
+     "heading": "Evidence of resolution",
+     "reason": "not operative (Evidence of resolution)"
+    },
+    {
+     "section": "44",
+     "heading": "Reasonable diligence defence",
+     "reason": "defence"
+    },
+    {
+     "section": "45",
+     "heading": "Consent of director at meeting",
+     "reason": "not operative (Consent of director at meeting)"
+    },
+    {
+     "section": "50",
+     "heading": "Termination of membership",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
+     "section": "62",
+     "heading": "No waiver of members’ rights",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
+     "section": "63",
+     "heading": "Definition",
+     "reason": "not operative (Definition)"
+    },
+    {
+     "section": "65",
+     "heading": "",
+     "reason": "repealed or omitted"
+    },
+    {
+     "section": "70",
+     "heading": "Auditor, person conducting review engagement ceasing to hold position",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
+     "section": "82",
+     "heading": "Qualified privilege — defamation",
+     "reason": "privilege"
+    },
+    {
+     "section": "87",
+     "heading": "Ownership of property",
+     "reason": "not operative (Ownership of property)"
+    },
+    {
+     "section": "100",
+     "heading": "Form of records",
+     "reason": "not operative (Form of records)"
+    },
+    {
+     "section": "101",
+     "heading": "Validity of unsealed documents",
+     "reason": "not operative (Validity of unsealed documents)"
+    },
+    {
+     "section": "102",
+     "heading": "No deemed notice of contents",
+     "reason": "not operative (No deemed notice of contents)"
+    },
+    {
+     "section": "105",
+     "heading": "(2) Notice of a meeting of the members at which a proposal to make an amendment referred to in subsection 103 (1) is to be considered must set out the proposed amendment. 2010, c. 15, s. 104 (2).",
+     "reason": "repealed or omitted"
+    },
+    {
+     "section": "108",
+     "heading": "Effect of certificate",
+     "reason": "not operative (Effect of certificate)"
+    },
+    {
+     "section": "113",
+     "heading": "Effect of amalgamation",
+     "reason": "not operative (Effect of amalgamation)"
+    },
+    {
+     "section": "119",
+     "heading": "Definition",
+     "reason": "not operative (Definition)"
+    },
+    {
+     "section": "120",
+     "heading": "Definition",
+     "reason": "not operative (Definition)"
+    },
+    {
+     "section": "121",
+     "heading": "Definition",
+     "reason": "not operative (Definition)"
+    },
+    {
+     "section": "122",
+     "heading": "Application of ss. 123 to 134 to voluntary windings up",
+     "reason": "not operative (Application of ss. 123 to 134 to voluntary windings up)"
+    },
+    {
+     "section": "127",
+     "heading": "Commencement of winding up",
+     "reason": "not operative (Commencement of winding up)"
+    },
+    {
+     "section": "135",
+     "heading": "Application of ss. 136 to 147 to court-ordered windings up",
+     "reason": "not operative (Application of ss. 136 to 147 to court-ordered windings up)"
+    },
+    {
+     "section": "142",
+     "heading": "Commencement of winding up",
+     "reason": "not operative (Commencement of winding up)"
+    },
+    {
+     "section": "148",
+     "heading": "Application of ss. 149 to 165 to all windings up",
+     "reason": "not operative (Application of ss. 149 to 165 to all windings up)"
+    },
+    {
+     "section": "151",
+     "heading": "Costs, etc., of winding up",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
+     "section": "154",
+     "heading": "Nature of liability of contributory",
+     "reason": "not operative (Nature of liability of contributory)"
+    },
+    {
+     "section": "157",
+     "heading": "Proving claim",
+     "reason": "not operative (Proving claim)"
+    },
+    {
+     "section": "161",
+     "heading": "Rights conferred under Act are in addition to other powers",
+     "reason": "saving clause"
+    },
+    {
+     "section": "180",
+     "heading": "Absolute privilege — defamation",
+     "reason": "privilege"
+    },
+    {
+     "section": "181",
+     "heading": "Definition",
+     "reason": "not operative (Definition)"
+    },
+    {
+     "section": "195",
+     "heading": "Definitions",
+     "reason": "not operative (Definitions)"
+    },
+    {
+     "section": "196",
+     "heading": "Notice, etc., given to members and directors",
+     "reason": "not operative (Notice, etc., given to members and directors)"
+    },
+    {
+     "section": "197",
+     "heading": "Notice, etc., given to corporation",
+     "reason": "not operative (Notice, etc., given to corporation)"
+    },
+    {
+     "section": "198",
+     "heading": "Waiver of notice and abridgement of times",
+     "reason": "not operative (Waiver of notice and abridgement of times)"
+    },
+    {
+     "section": "199",
+     "heading": "Who may sign",
+     "reason": "not operative (Who may sign)"
+    },
+    {
+     "section": "202",
+     "heading": "Errors in certificates, etc.",
+     "reason": "not operative (Errors in certificates, etc.)"
+    },
+    {
+     "section": "203",
+     "heading": "Form of Director’s records",
+     "reason": "not operative (Form of Director’s records)"
+    },
+    {
+     "section": "204",
+     "heading": "Accepting copy of notice or other document",
+     "reason": "not operative (Accepting copy of notice or other document)"
+    },
+    {
+     "section": "204.0.1",
+     "heading": "Signatures",
+     "reason": "not operative (Signatures)"
+    },
+    {
+     "section": "204.0.2",
+     "heading": "Documents filed under Alternative Filing Methods for Business Act, 2020",
+     "reason": "not operative (Documents filed under Alternative Filing Methods for Business Act, 2020)"
+    },
+    {
+     "section": "206.3",
+     "heading": "Property of Crown",
+     "reason": "not operative (Property of Crown)"
+    },
+    {
+     "section": "207",
+     "heading": "Transition",
+     "reason": "not operative (Transition)"
+    },
+    {
+     "section": "208.1",
+     "heading": "",
+     "reason": "repealed or omitted"
+    },
+    {
+     "section": "213",
+     "heading": "Part XVII (S. 213 - 248) Repealed: 2023, c. 9, Sched. 22, s. 17.",
+     "reason": "repealed"
+    },
+    {
+     "section": "249",
+     "heading": "part xviii (omitted)",
+     "reason": "omitted"
+    },
+    {
+     "section": "250",
+     "heading": "",
+     "reason": "omitted"
+    }
+   ],
+   "flags": [
+    "Whole Act gives about 190 operative sections. Against a single \"modernize governance\" purpose almost every one will be judged to serve it, so MTM-L will sit near 0. That is consistent with the entry's low score but says little.",
+    "Types were assigned by the operative verb and should be read as orientation, not classification."
+   ]
+  },
+  {
+   "id": "muni-01",
+   "law": "Toronto Parks Bylaw, Toronto Municipal Code Ch. 608 (encampment enforcement)",
+   "text": {
+    "file": "corpus/statute-text/muni-01.txt",
+    "source_url": "https://www.toronto.ca/legdocs/municode/1184_608.pdf",
+    "version": "Toronto Municipal Code Chapter 608, Parks, consolidation of 3 June 2024",
+    "retrieved": "2026-10-09",
+    "scope": "Whole chapter, §§ 608-1 to 608-56.",
+    "sha256": "7de95353183f0409c2a2c982f8998025e4eedd6a2b2c01a3c9c9a1385a2e67d4",
+    "chars": 82002
+   },
+   "purposes": [
+    {
+     "text": "To regulate use of city parks for public enjoyment and safety.",
+     "pinpoint": "hand-written",
+     "source": "hand-written",
+     "note": "Chapter 608 has no purpose clause. Corpus purpose_stated with \", including prohibitions on unauthorized camping\" removed.",
+     "id": "P1"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "608-2",
+     "label": "Restricted areas",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V1"
+    },
+    {
+     "section": "608-3",
+     "label": "Conduct",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "608-4",
+     "label": "Firearms and offensive weapons",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V3"
+    },
+    {
+     "section": "608-5",
+     "label": "Fireworks",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V4"
+    },
+    {
+     "section": "608-6",
+     "label": "Injury and damage",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V5"
+    },
+    {
+     "section": "608-7",
+     "label": "Encroachment",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V6"
+    },
+    {
+     "section": "608-8",
+     "label": "Liquor",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V7"
+    },
+    {
+     "section": "608-9",
+     "label": "Access",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V8"
+    },
+    {
+     "section": "608-10",
+     "label": "Campfires, barbecues, bake ovens and tandoor ovens",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V9"
+    },
+    {
+     "section": "608-11",
+     "label": "Organized gatherings, special events, festivals and picnics",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V10"
+    },
+    {
+     "section": "608-12",
+     "label": "Amplifiers and loud speakers",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V11"
+    },
+    {
+     "section": "608-13",
+     "label": "Camping and lodging",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V12"
+    },
+    {
+     "section": "608-14",
+     "label": "Tents and structures",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V13"
+    },
+    {
+     "section": "608-15",
+     "label": "Bathing, swimming, and sun bathing",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V14"
+    },
+    {
+     "section": "608-16",
+     "label": "Use of wash and change rooms",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V15"
+    },
+    {
+     "section": "608-17",
+     "label": "Organized sports or activities",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V16"
+    },
+    {
+     "section": "608-18",
+     "label": "Golf",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V17"
+    },
+    {
+     "section": "608-19",
+     "label": "Model aircraft and rockets",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V18"
+    },
+    {
+     "section": "608-20",
+     "label": "Gliders and hot air balloons",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V19"
+    },
+    {
+     "section": "608-21",
+     "label": "Skating",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V20"
+    },
+    {
+     "section": "608-22",
+     "label": "Skiing, tobogganing and sledding",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V21"
+    },
+    {
+     "section": "608-23",
+     "label": "Roller skates and skate boards",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V22"
+    },
+    {
+     "section": "608-24",
+     "label": "Tennis",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V23"
+    },
+    {
+     "section": "608-25",
+     "label": "Kites",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V24"
+    },
+    {
+     "section": "608-26",
+     "label": "Roadways",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V25"
+    },
+    {
+     "section": "608-27",
+     "label": "Parking",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V26"
+    },
+    {
+     "section": "608-28",
+     "label": "Other activities",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V27"
+    },
+    {
+     "section": "608-29",
+     "label": "Bicycles",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V28"
+    },
+    {
+     "section": "608-30",
+     "label": "Motorized recreational vehicles",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V29"
+    },
+    {
+     "section": "608-31",
+     "label": "Trucks and commercial vehicles",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V30"
+    },
+    {
+     "section": "608-32",
+     "label": "Speed",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "note": "sets a 20 km/h limit; listed as a duty",
+     "id": "V31"
+    },
+    {
+     "section": "608-33",
+     "label": "Horses",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V32"
+    },
+    {
+     "section": "608-34",
+     "label": "Dogs",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V33"
+    },
+    {
+     "section": "608-35",
+     "label": "Dangerous animals",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V34"
+    },
+    {
+     "section": "608-36",
+     "label": "Protection of wildlife",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V35"
+    },
+    {
+     "section": "608-37",
+     "label": "Zoos and animal displays",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V36"
+    },
+    {
+     "section": "608-38",
+     "label": "Fishing",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V37"
+    },
+    {
+     "section": "608-40",
+     "label": "Prohibited activities",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V38"
+    },
+    {
+     "section": "608-41",
+     "label": "Protection of trees",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V39"
+    },
+    {
+     "section": "608-42",
+     "label": "Injury and removal of trees",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V40"
+    },
+    {
+     "section": "608-43",
+     "label": "Pruning of trees on private property",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V41"
+    },
+    {
+     "section": "608-44",
+     "label": "Boating",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V42"
+    },
+    {
+     "section": "608-45",
+     "label": "Mooring",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V43"
+    },
+    {
+     "section": "608-46",
+     "label": "Sale of merchandise, trade or business",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V44"
+    },
+    {
+     "section": "608-47",
+     "label": "Filming and videotaping",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V45"
+    },
+    {
+     "section": "608-48",
+     "label": "Advertising devices and signs",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V46"
+    },
+    {
+     "section": "608-49",
+     "label": "Permits, licences and documents",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V47"
+    },
+    {
+     "section": "608-50",
+     "label": "Posting of signage by General Manager",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V48"
+    },
+    {
+     "section": "608-51",
+     "label": "Temporary closure",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V49"
+    },
+    {
+     "section": "608-53",
+     "label": "Enforcement",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V50"
+    },
+    {
+     "section": "608-54",
+     "label": "Penalties and administrative penalties",
+     "label_source": "heading",
+     "creates": [
+      "offence",
+      "duty"
+     ],
+     "id": "V51"
+    },
+    {
+     "section": "608-55",
+     "label": "Removal of vehicles",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V52"
+    },
+    {
+     "section": "608-56",
+     "label": "Delegated real estate authority",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V53"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "608-1",
+     "heading": "Definitions",
+     "reason": "definitions"
+    },
+    {
+     "section": "608-39",
+     "heading": "Definitions",
+     "reason": "definitions"
+    },
+    {
+     "section": "608-52",
+     "heading": "Exclusions and exemptions",
+     "reason": "exclusions and exemptions"
+    }
+   ],
+   "flags": [
+    "The whole chapter is about 50 park-use rules (golf, kites, dogs, fishing). The encampment provisions (§§ 608-13, 608-14) are two of them. Against the hand-written purpose nearly all will serve it, so the encampment problem the entry describes will be diluted to nothing.",
+    "Point in time: 3 June 2024 consolidation, while the entry's evidence runs 2020-2024."
+   ]
+  },
+  {
+   "id": "muni-02",
+   "law": "Vancouver Street and Traffic Bylaw #2849 (camping/tent provisions)",
+   "text": {
+    "file": "corpus/statute-text/muni-02.txt",
+    "source_url": "https://web.archive.org/web/20260913083926id_/https://bylaws.vancouver.ca/2849c.PDF",
+    "version": "Street and Traffic By-law No. 2849, consolidated to 19 May 2026 (By-law No. 14704); fetched through the Wayback Machine because bylaws.vancouver.ca blocks automated requests",
+    "retrieved": "2026-10-09",
+    "scope": "Citation and definitions (ss. 1-3), the whole of Part II (Regulating the Use of Streets, ss. 66-88A), and the general offence and penalty sections (ss. 102-103) that make Part II enforceable.",
+    "sha256": "c3b3d16f3e8605fbc41b8da23908dbb3022e5f52cedfa896b858016ffc9a9336",
+    "chars": 76923
+   },
+   "purposes": [
+    {
+     "text": "To regulate use of streets and public property for traffic safety and public order.",
+     "pinpoint": "hand-written",
+     "source": "hand-written",
+     "note": "The by-law has no purpose clause. s. 2 names its Parts (\"Part II--Regulating Use of Streets\"), which is a table of subjects, not a purpose. Corpus purpose_stated unchanged.",
+     "id": "P1"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "66",
+     "label": "MERCHANDISE NOT TO BE DISPLAYED ON STREET OR SIDEWALK",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V1"
+    },
+    {
+     "section": "66A",
+     "label": "PROHIBITION OF OBSTRUCTIONS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "67",
+     "label": "USE OF A STREET (INCLUDING SIDEWALK) FOR SPORT OR ENTERTAINMENT",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V3"
+    },
+    {
+     "section": "67A",
+     "label": "Where an applicant has completed an application form to the City Engineer's satisfaction and has paid …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V4"
+    },
+    {
+     "section": "68",
+     "label": "WASHING OR REPAIRING VEHICLES",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V5"
+    },
+    {
+     "section": "68A",
+     "label": "No person shall: (a) wash or grease any vehicle on any street; or (b) repair any …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V6"
+    },
+    {
+     "section": "69",
+     "label": "CROWDS OR GROUPS OBSTRUCTING TRAFFIC",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V7"
+    },
+    {
+     "section": "69A",
+     "label": "FIGHTING",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V8"
+    },
+    {
+     "section": "70",
+     "label": "LOITERING",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V9"
+    },
+    {
+     "section": "70A",
+     "label": "OBSTRUCTIVE SOLICITATION",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V10"
+    },
+    {
+     "section": "71A",
+     "label": "STRUCTURES ON STREETS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V11"
+    },
+    {
+     "section": "71B",
+     "label": "STRUCTURES CONVEYING POLITICAL EXPRESSION",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V12"
+    },
+    {
+     "section": "71C",
+     "label": "TERM OF PERMIT",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V13"
+    },
+    {
+     "section": "71D",
+     "label": "EXPIRY OR CANCELLATION OF PERMIT",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V14"
+    },
+    {
+     "section": "71F",
+     "label": "EMERGENCIES ON STREETS",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V15"
+    },
+    {
+     "section": "71G",
+     "label": "CONSTRUCTION OF SIDEWALKS ON STREETS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V16"
+    },
+    {
+     "section": "71H",
+     "label": "DEBRIS ON STREETS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V17"
+    },
+    {
+     "section": "71I",
+     "label": "WATER ON STREETS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V18"
+    },
+    {
+     "section": "72",
+     "label": "IMPEDING TRAFFIC ON STREET PROHIBITED",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V19"
+    },
+    {
+     "section": "72A",
+     "label": "An owner, registered owner, lessee or operator of a vehicle must not cause, permit or allow …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V20"
+    },
+    {
+     "section": "73",
+     "label": "No person shall erect any doorstep, porch, railing, or projection into or obstruction in any street …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V21"
+    },
+    {
+     "section": "74",
+     "label": "TETHERING ANIMALS IN PUBLIC PLACES",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V22"
+    },
+    {
+     "section": "75",
+     "label": "No person shall tie or fasten any horse or other animal to any tree, traffic sign …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V23"
+    },
+    {
+     "section": "76",
+     "label": "REMOVAL OF SNOW OR ICE FROM SIDEWALK",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V24"
+    },
+    {
+     "section": "76A",
+     "label": "If an owner or occupier of any parcel of real property fails to remove snow and …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V25"
+    },
+    {
+     "section": "76B",
+     "label": "Notwithstanding the requirement set out in section 76, no owner or occupier of any parcel of …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V26"
+    },
+    {
+     "section": "77",
+     "label": "RIDING, COASTING AND SLIDING ON STREETS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V27"
+    },
+    {
+     "section": "77A",
+     "label": "Despite section 77, but subject to the requirements of this section, a person may ride or …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V28"
+    },
+    {
+     "section": "77B",
+     "label": "A person may ride an electric kick scooter on any protected bicycle lane or any street …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V29"
+    },
+    {
+     "section": "78",
+     "label": "INJURY TO TREES AND FLOWERS PROHIBITED",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V30"
+    },
+    {
+     "section": "79",
+     "label": "DRIVING OVER CURBS PROHIBITED",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V31"
+    },
+    {
+     "section": "80",
+     "label": "DRIVING ON SIDEWALK OR BOULEVARD PROHIBITED",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V32"
+    },
+    {
+     "section": "81",
+     "label": "REGULATING ADVERTISING DEVICES AND PROHIBITION AGAINST LITTERING",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V33"
+    },
+    {
+     "section": "82",
+     "label": "Persons Carrying Advertising Devices. No person shall carry any advertising device on or along any street …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V34"
+    },
+    {
+     "section": "83",
+     "label": "Defacing Sidewalk. No person shall mark or imprint or in any other manner whatsoever deface any …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V35"
+    },
+    {
+     "section": "84",
+     "label": "Depositing Rubbish or Refuse (1) No person shall deposit upon any street or other public place …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V36"
+    },
+    {
+     "section": "84A",
+     "label": "Distributing Handbills, Etc. No person shall distribute advertising matter to persons on any street if it …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V37"
+    },
+    {
+     "section": "85",
+     "label": "Placing Handbills, Etc. in Vehicle. No person shall place or cause to be placed any handbill …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V38"
+    },
+    {
+     "section": "85A",
+     "label": "Defacing Poles. No person shall paint, paste, stick or affix or put any sign, bill, notice …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V39"
+    },
+    {
+     "section": "86",
+     "label": "CLOSING STREETS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V40"
+    },
+    {
+     "section": "87",
+     "label": "EXCAVATIONS TO BE PROTECTED OR GUARDED",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V41"
+    },
+    {
+     "section": "88",
+     "label": "REGULATION OF PARADES",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V42"
+    },
+    {
+     "section": "88A",
+     "label": "REGULATING THE DRILLING OR EXCAVATING OF TEST HOLES",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V43"
+    },
+    {
+     "section": "102",
+     "label": "VIOLATION OF BY-LAW",
+     "label_source": "heading",
+     "creates": [
+      "offence"
+     ],
+     "id": "V44"
+    },
+    {
+     "section": "103",
+     "label": "PENAL CLAUSE",
+     "label_source": "heading",
+     "creates": [
+      "offence"
+     ],
+     "id": "V45"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "71E",
+     "heading": "TABLES CONVEYING POLITICAL EXPRESSION",
+     "reason": "exception (tables conveying political expression need no permit)"
+    }
+   ],
+   "flags": [
+    "The entry names \"camping/tent provisions\", not a Part. I took Part II, which holds them (s. 71A, structures on streets) together with about 40 other street-use rules.",
+    "ss. 102-103 sit outside Part II but are the only offence and penalty provisions, so they are included."
+   ]
+  },
+  {
+   "id": "muni-03",
+   "law": "Montreal Bylaw P-6 (protest regulation), CO Montreal 2012 (pre-strike)",
+   "text": {
+    "file": "corpus/statute-text/muni-03.txt",
+    "source_url": "https://web.archive.org/web/20200811215732id_/http://ville.montreal.qc.ca/sel/sypre-consultation/afficherpdf?idDoc=23796&typeDoc=1",
+    "version": "Codification administrative au 19 mai 2012 (R.R.V.M., c. P-6 as amended by 12-024); French only",
+    "retrieved": "2026-10-09",
+    "scope": "Whole by-law, arts. 1-7.",
+    "sha256": "4909b1d48ea8590a2dae74197038d317f953b20ecabf99bfcd3df4354e980cde",
+    "chars": 5275
+   },
+   "purposes": [
+    {
+     "text": "To regulate public demonstrations to protect public safety.",
+     "pinpoint": "hand-written",
+     "source": "hand-written",
+     "note": "P-6 has no purpose clause. Corpus purpose_stated with \"requiring advance notice of itineraries and prohibiting masking\" removed. The by-law's title names wider objects: \"la prévention des troubles de la paix, de la sécurité et de l'ordre publics, et ... l'utilisation du domaine public\".",
+     "id": "P1"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "1",
+     "label": "Toute personne a le droit d’utiliser et de jouir des voies, parcs et places …",
+     "label_source": "opening words",
+     "creates": [
+      "right"
+     ],
+     "note": "right to use public places in peace, safety and order",
+     "id": "V1"
+    },
+    {
+     "section": "2",
+     "label": "Les assemblées, défilés ou autres attroupements qui mettent en danger la paix, la sécurité …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "2.1",
+     "label": "Au préalable de sa tenue, le lieu exact et l’itinéraire, le cas échéant, d’une …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "note": "itinerary disclosure (struck 2016)",
+     "id": "V3"
+    },
+    {
+     "section": "3",
+     "label": "Il est interdit à quiconque participe ou est présent à une assemblée, un défilé …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V4"
+    },
+    {
+     "section": "3.1",
+     "label": "Il est interdit à quiconque participe ou est présent à une assemblée, un défilé …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V5"
+    },
+    {
+     "section": "3.2",
+     "label": "Il est interdit à quiconque participe ou est présent à une assemblée, un défilé …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "note": "face-covering prohibition (struck 2016)",
+     "id": "V6"
+    },
+    {
+     "section": "4",
+     "label": "Une assemblée, un défilé ou un attroupement sur le domaine public, dont le déroulement …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V7"
+    },
+    {
+     "section": "5",
+     "label": "Lorsqu'il y a des motifs raisonnables de croire que la tenue d'une assemblée, d'un …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V8"
+    },
+    {
+     "section": "6",
+     "label": "Toute personne doit se conformer immédiatement à l'ordre d'un agent de la paix de …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V9"
+    },
+    {
+     "section": "7",
+     "label": "Quiconque contrevient au présent règlement commet une infraction et est passible : 1° pour …",
+     "label_source": "opening words",
+     "creates": [
+      "offence"
+     ],
+     "id": "V10"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "6.1",
+     "heading": "",
+     "reason": "territorial application and replacement rule"
+    }
+   ],
+   "flags": [
+    "Labels are French, as in the only official text found for 19 May 2012.",
+    "Art. 1 creates a right (\"Toute personne a le droit ...\") that reads like a purpose. Under the rule it is a provision."
+   ]
+  },
+  {
+   "id": "muni-05",
+   "law": "Vancouver Noise Control Bylaw #6555",
+   "text": {
+    "file": "corpus/statute-text/muni-05.txt",
+    "source_url": "https://web.archive.org/web/20260914125711id_/https://bylaws.vancouver.ca/6555c.PDF",
+    "version": "Noise Control By-law No. 6555, consolidated to 14 July 2026 (By-law No. 14786); fetched through the Wayback Machine",
+    "retrieved": "2026-10-09",
+    "scope": "Whole by-law, Parts 1-6. Schedules (zone maps and address lists) are left out of the text.",
+    "sha256": "737b12bd0fd1213ed8643daa276df731a2d634fcee2908b6a45be2b759a1a50c",
+    "chars": 30866
+   },
+   "purposes": [
+    {
+     "text": "To regulate excessive and disturbing noise in the City of Vancouver for the health and quiet enjoyment of residents.",
+     "pinpoint": "hand-written",
+     "source": "hand-written",
+     "note": "No purpose clause. The long title is \"A By-law to regulate noise or sound within the City of Vancouver\", which states the subject. Corpus purpose_stated unchanged.",
+     "id": "P1"
+    }
+   ],
+   "provisions": [
+    {
+     "section": "2.1",
+     "label": "Continuous sound in quiet zone",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "note": "the consolidation prints this as \"m u s t n ot\"",
+     "id": "V1"
+    },
+    {
+     "section": "2.2",
+     "label": "Continuous sound in intermediate zone",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "2.3",
+     "label": "Continuous sound in activity zone or event zone",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V3"
+    },
+    {
+     "section": "2.4",
+     "label": "Non-continuous sound in all zones",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V4"
+    },
+    {
+     "section": "3.1",
+     "label": "Prohibited noises or sounds",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V5"
+    },
+    {
+     "section": "3.2",
+     "label": "Prohibited noises or sounds from premises",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V6"
+    },
+    {
+     "section": "3.3",
+     "label": "Construction sign requirement",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V7"
+    },
+    {
+     "section": "4.4",
+     "label": "Exceptions for construction and special events",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V8"
+    },
+    {
+     "section": "5.1",
+     "label": "Offences under by-law",
+     "label_source": "heading",
+     "creates": [
+      "offence",
+      "duty"
+     ],
+     "id": "V9"
+    },
+    {
+     "section": "5.2",
+     "label": "Fines for offences",
+     "label_source": "heading",
+     "creates": [
+      "offence"
+     ],
+     "id": "V10"
+    },
+    {
+     "section": "5.3",
+     "label": "Fine for continuing offence",
+     "label_source": "heading",
+     "creates": [
+      "offence"
+     ],
+     "id": "V11"
+    }
+   ],
+   "excluded": [
+    {
+     "section": "1.1",
+     "heading": "By-law name",
+     "reason": "not operative (By-law name)"
+    },
+    {
+     "section": "1.2",
+     "heading": "Definitions",
+     "reason": "not operative (Definitions)"
+    },
+    {
+     "section": "1.3",
+     "heading": "Schedules",
+     "reason": "not operative (Schedules)"
+    },
+    {
+     "section": "1.4",
+     "heading": "Severability",
+     "reason": "not operative (Severability)"
+    },
+    {
+     "section": "2.5",
+     "heading": "Noise emanating from a street",
+     "reason": "deeming rule"
+    },
+    {
+     "section": "2.6",
+     "heading": "Noise received on a street",
+     "reason": "deeming rule"
+    },
+    {
+     "section": "4.1",
+     "heading": "Application of certain sections",
+     "reason": "exception"
+    },
+    {
+     "section": "4.2",
+     "heading": "Application of zone sound levels to prohibited noises or sounds",
+     "reason": "rule of application"
+    },
+    {
+     "section": "4.3",
+     "heading": "Exceptions",
+     "reason": "exception (permits noise the by-law otherwise forbids)"
+    },
+    {
+     "section": "6.1",
+     "heading": "Repeal",
+     "reason": "not operative (Repeal)"
+    },
+    {
+     "section": "6.2",
+     "heading": "Force and effect",
+     "reason": "not operative (Force and effect)"
+    }
+   ],
+   "flags": [
+    "Exceptions and exemptions are excluded throughout the table (here s. 4.3 permitted noises; Toronto § 608-52; Vancouver 2849 s. 71E political tables). If they should count as rights, they come back in."
+   ]
+  }
+ ]
+}

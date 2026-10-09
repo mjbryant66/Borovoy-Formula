@@ -1,23 +1,31 @@
-SOURCE_URL: https://bylaws.vancouver.ca/2849c.pdf (fetched via Wayback Machine snapshot, bylaws.vancouver.ca returns a Cloudflare bot-detection block to direct curl requests: https://web.archive.org/web/20260913083926id_/https://bylaws.vancouver.ca/2849c.PDF)
-VERSION: Consolidated for convenience only to May 19, 2026 (amended to include By-law No. 14704, effective May 19, 2026), per the document's own title page and cover text
-RETRIEVED: 2026-09-23
-SCOPE: Citation clause (s.1-2); selected definitions from s.3 ("Street", "Street Furniture", "Structure"); s.9 (interference with traffic-control devices, an obstruction-adjacent provision, included for context but see GAPS); s.70 (standing/loitering obstruction); ss.71A-71F (STRUCTURES ON STREETS / STRUCTURES CONVEYING POLITICAL EXPRESSION / TERM OF PERMIT / EXPIRY OR CANCELLATION OF PERMIT / TABLES CONVEYING POLITICAL EXPRESSION / EMERGENCIES ON STREETS - the erecting-tents-or-structures-on-streets provisions); s.72(1)-(2) (IMPEDING TRAFFIC ON STREET PROHIBITED); s.102 (general offence clause) and s.103(1)-(2) (PENAL CLAUSE, general fine range and the schedule of specified fines).
-GAPS: The by-law's full definitions section (s.3, several hundred terms covering Parts I-III) was not reproduced in full - only the three terms actually used in the tent/structure/obstruction provisions were pulled. Sections 71G-71K (sidewalk construction, debris, water on streets, containers, electronic signs) were omitted as adjacent but not squarely "tents, structures or shelters" or general obstruction. Section 103(3), covering vehicle-weight fines, was omitted as not relevant to obstruction/tents.
+SOURCE_URL: https://web.archive.org/web/20260913083926id_/https://bylaws.vancouver.ca/2849c.PDF
+VERSION: Street and Traffic By-law No. 2849, consolidated to 19 May 2026 (By-law No. 14704); fetched through the Wayback Machine because bylaws.vancouver.ca blocks automated requests
+RETRIEVED: 2026-10-09
+SCOPE: Citation and definitions (ss. 1-3), the whole of Part II (Regulating the Use of Streets, ss. 66-88A), and the general offence and penalty sections (ss. 102-103) that make Part II enforceable.
+GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
 CITY OF VANCOUVER
-BRITISH COLUMBIA
+        BRITISH COLUMBIA
 
-BY-LAW NO. 2849
+STREET AND TRAFFIC BY-LAW NO. 2849
 
-A By-law to Regulate Traffic and the Use of Streets
-in the City of Vancouver
+         This By-law is printed under and
+          by authority of the Council of
+              the City of Vancouver
 
-[Consolidated for convenience only,
-amended to including By-law No. 14704
-effective May 19, 2026]
-______________________________________
+        (Consolidated for convenience only
+                 to May 19, 2026)
+                                     BY-LAW NO. 2849
 
-The Council of the City of Vancouver, in open meeting assembled, enacts as
+                    A By-law to Regulate Traffic and the Use of Streets
+                                 in the City of Vancouver
+
+                           [Consolidated for convenience only,
+                         amended to including By-law No. 14704
+                                 effective May 19, 2026]
+                       ______________________________________
+
+        The Council of the City of Vancouver, in open meeting assembled, enacts as
 follows:
 
 1.    This by-law may be cited as the "Street and Traffic By-law".
@@ -28,34 +36,586 @@ follows:
       Part II--Regulating Use of Streets.
       Part III--Regulating Size and Weight of Vehicles.
 
-DEFINITIONS
+                                        DEFINITIONS
 
 3.    In this By-law, and unless the context otherwise requires:
 
-      ...
+      "Accessible Passenger Directed Vehicles" has the same meaning as in the
+      Passenger Transportation Act.
 
-      "Street" includes public road, highway, bridge, viaduct, lane and sidewalk, and any
-      other way normally open to the use of the public, but does not include a private right-of-
-      way on private property.
+      "A dolly" means a trailer converter dolly that is towed from a single hitch located on
+      the centre line of the towing vehicle.
 
-      "Street Furniture" includes waste receptacles, benches, bus shelters, traffic signs and
-      any similar work, structure or equipment.
+      "A train" means a combination of vehicles composed of a truck tractor, a semi-
+      trailer and either:
 
-      "Structure" in sections 71A, 71B, 71F, and 85A of this By-law means something that is
-      built, constructed or assembled and that is placed on a street permanently, semi-
-      permanently or for a specified period of time.
+              (a)      an A dolly and a semi-trailer, or
+              (b)      a full trailer.
 
-9.    Interference with Traffic-Control Devices.
+      "Axle" means a structure in the same or approximately the same transverse plane
+      supported by wheels and on or with which such wheels revolve.
 
-      No person shall move, remove, deface, damage or alter, nor obstruct the view of, nor
-      otherwise interfere with any authorized traffic-control signal or traffic sign, nor drive, nor
-      walk on or over any newly painted line, the presence of which is indicated on any
-      roadway by red flags, traffic cones, or other suitable warning devices.
+      "Axle Load" means the total load transmitted to the road by all wheels whose
+      centres are included between two parallel transverse vertical planes 106
+      centimetres apart extending across the full width of the vehicle.
+
+      "Axle Unit" means a single axle, a tandem axle, a tridem axle, or a similar group of
+      axles.
+
+      "B train" means a combination of vehicles composed of a truck tractor and a semi-
+
+    trailer, followed by another semi-trailer attached to the first semi-trailer by means of
+    a fifth wheel coupler mounted on the first semi-trailer, within the axle spread of the
+    first semi-trailer or not located more than 0.3 m behind the centre of the last axle.
+
+    "BC Transit Bus" means a vehicle for hire operated by British Columbia Transit or
+    its successor and used for the transportation of passengers.
+
+    “Bicycle Lane Buffer” means a measure to physically separate and protect a
+    bicycle lane from motor vehicle traffic, including curbs, planters, landscaping,
+    parking, bollards or similar measures.
+
+    “Block” means the lateral part of street between two intersections, which do not
+    involve a lane.
+
+    "Boulevard" means:
+
+             (a)       on a street with curbs, the portion of street between the outside curb
+                       and the adjoining property line, and
+
+             (b)       on a street without curbs, the portion of street between the edge of
+                       the roadway and the adjoining property line,
+
+    and on a street where traffic is separated by means of a median, includes the
+    median.
+
+    "Boulevard Crossing" means that portion of a boulevard permanently improved or
+    designed for the passage of vehicular traffic.
+
+    "Bus" means a motor vehicle having a seating capacity of more than 12 persons,
+    including the driver, that is operated for hire or for public transportation.
+
+"Bus Stop" means an area on a street for the stopping of buses only that
+
+       (a)         is delineated by 2 signs, or
+       (b)         extends 36 metres from and in the direction indicated on 1 sign, or
+       (c)         is within 36 metres of the approach side and within 8 metres of the
+                   departure side of a sign which identifies a location where buses stop to
+                   load or unload passengers.
+
+"C converter dolly" means a trailer converter dolly that has a rigid frame in the
+horizontal plane and is towed from 2 hitches located in a horizontal transverse line on
+the towing unit, which preclude any rotation in the horizontal plane about the hitch
+points, and that satisfy all requirements of the Canadian Motor Vehicle Safety Standards
+applicable to such devices.
+
+"C dolly" means a trailer converter dolly which is not an A dolly.
+
+"C train" means a combination of vehicles composed of a truck tractor and a semi-
+trailer, followed by another semi-trailer attached to the first semi-trailer by the means of a
+C dolly or C converter dolly.
+
+"Chain" means a chain, nylon strap or cable having a breaking strength of at least 3,000
+kilograms.
+
+"City Engineer" means the City Engineer appointed by Council under section 288 of the
+Vancouver Charter and for the purposes of section 161 of the Vancouver Charter, the
+City Engineer is deemed to be a committee.
+
+"Chief Constable" means the Chief Constable of the City for the time being.
+
+"Combination of Vehicles" means a combination of motor vehicle and trailer, motor
+vehicle and semi-trailer, or motor vehicle, semi-trailer and trailer.
+
+"Commercial Loading Zone" means an area or space on a roadway to be used
+exclusively by commercial vehicles displaying a valid permit obtained under section 21.6
+or 21.6A.
+
+"Commercially Used Property" means real property used in whole or in part for
+commercial or industrial purposes, but does not include a parking lot ancillary to property
+used only for residential purposes.
+
+"Commercial Vehicle" means a vehicle defined as such and licensed under the
+Commercial Transport Act (BC), or a vehicle not so licensed but used for the collection
+or delivery, or both, of merchandise or another commodity in the ordinary course of a
+business.
+
+"Consulate" means any consulate which is identified as such in the current edition of
+Diplomatic, Consular and Other Representatives in Canada, published by Foreign Affairs
+and International Trade Canada.
+
+"Container" means a waste container, storage container, or construction trailer that is
+not a vehicle.
+
+"Corner Clearance Parking Area" means an area on a street adjacent to the curb
+located between a crosswalk and the nearest area available for vehicle parking that is
+not specifically signed for motorcycle and motor assisted cycle parking, and that the City
+Engineer has marked and signed for motorcycle parking and motor assisted cycle
+parking or has installed bicycle racks for bicycle parking.
+
+"Council" means the Council of the City of Vancouver.
+
+"Crosswalk" means:
+
+       (a)     the portion of a roadway at an intersection or elsewhere that is marked for
+               pedestrian crossing by lines or other markings on the road surface or by a
+               sign; or
+
+       (b)     at an intersection or elsewhere that is not marked for pedestrian crossing
+               by lines or other markings on the road surface or by a sign, means the
+               portion of a roadway between the extension of the lateral edge of the
+               roadway and the adjacent lateral property line, but does not include lane
+               intersections.
+
+"Custom Transit Vehicle" means a vehicle used primarily for the transport of physically
+disabled persons, operated by an agency approved by the government authorities
+responsible for providing transit services for physically disabled persons, and identified
+in a manner specified by the City Engineer.
+
+"Downtown" means the area generally shown within the heavy black outline on the
+diagram below, but specifically described as that area bounded by the west property line
+of Main Street from Burrard Inlet to National Avenue; the projection
+
+westward of the north property of National Avenue from Main Street to False Creek; the
+north shoreline of False Creek from National Avenue to the extension southward of the
+west property line of Burrard Street; the west property line of Burrard Street from False
+Creek to Robson Street, the south property line of Robson Street from Burrard Street to
+Denman Street, the west property line of Denman Street from Robson Street to Georgia
+Street; the south property line of Georgia Street from Denman Street to Chilco Street,
+the east property line of Chilco Street and its extension north from Georgia Street to
+Burrard Inlet; Burrard Inlet from Chilco Street to Main Street.
+
+"Drive" means to drive, operate, propel, or otherwise control a vehicle.
+
+"Driver" means a person who drives, operates, propels or otherwise controls a vehicle.
+
+“Electric Kick Scooter” has the meaning set out in the “Electric Kick Scooter Pilot
+Project Regulation” effective April 5, 2024.
+
+“Elephants’ feet markings” means a series of white painted squares that delineate a
+crosswalk where cycling is permitted.
+
+“Emergency Vehicle" means any vehicle of a fire department, a police department, an
+ambulance service or a vehicle driven by a sheriff in the discharge of a sheriff’s duties
+under the Sheriff Act, and includes any other vehicle designated as such by the Chief
+Constable.
+
+“Existing West End Permit Holder" means a residential parking permit holder in the
+Denman West, West End Plateau or Davie-Beach areas who held a residential parking
+permit valid in any of those areas before August 31, 2017, and has not allowed it to
+lapse for more than 90 consecutive days since that date.
+
+"Garbage Container" means a receptacle with a minimum capacity of 1 (one) cubic
+yard used or intended to be used for the temporary storage of refuse.
+
+"Intersection" means the area created by the extension of the lateral lines of roadways
+which join one another, whether such roadways at the junction cross each other or meet
+at an angle without crossing each other.
+
+"Jaywalk" means to walk across a roadway, other than a lane, a minor street or a
+portion of a street designated by the City Engineer for the exclusive use of cyclists, at
+any place that is not a marked or unmarked crosswalk and is less than one block from
+an intersection where there are traffic control signals.
+
+"Lane" means any street not more than 10.06 metres in width.
+
+"Loading Zone" means the area or space on a roadway established for the exclusive
+use of vehicles during the loading or unloading of materials or passengers
+
+“Long-Term West End Resident Permit Holder” means a residential parking permit
+holder who has continuously lived in the Denman West, West End Plateau or Davie-
+Beach areas since August 31, 2017, has not allowed the permit to lapse for more than
+90 consecutive days since it was obtained, and has not been an existing West End
+permit holder.
+
+"Low Income Permit Holder" means a residential parking permit holder in the Denman
+West, West End Plateau or Davie-Beach areas who is qualified to enrol in the
+Vancouver Park Board’s Leisure Access Program, or a substantially similar program.
+
+"Median" means an area that is painted, curbed or raised and is located between traffic
+lanes to separate vehicles travelling in opposite directions.
+
+"Metro Core" means area west of Clark Drive, north of 16th Avenue, east of Burrard
+Street, and south of Burrard Inlet.
+
+"Minor Street" means the roadway, but not the sidewalk or boulevard portion, of a
+street that does not have lane lines or directional dividing lines.
+
+”Motor Assisted Cycle” means a motor assisted cycle as defined in the Motor Vehicle
+Act.
+
+"Motor Vehicle" means a vehicle which is self-propelled or propelled by electric power
+obtained from overhead wires, but does not include a motorized wheelchair or a vehicle
+operated upon rails or tracks.
+
+"Motorcycle" means a two wheeled self-propelled vehicle.
+
+"Neighbourhood Zero Emission Vehicle" means a vehicle that travels on four wheels
+and is powered by an electric motor that is designed to allow the vehicle to attain a
+speed of 32 kilometres per hour but not more than 40 kilometres per hour in a distance
+of 1.6 km on a paved level surface, and
+
+       (a)    meets or exceeds standards of the Motor Vehicle Safety Act (Canada) for
+              a low-speed vehicle and bears a compliance label for a low-speed vehicle
+              in accordance with that Act, or
+
+       (b)    if imported to Canada, has been imported as an admissible low-speed
+              vehicle in accordance with the Motor Vehicle Safety Act (Canada)
+              requirements and
+
+              (i)    bears a compliance label for a low-speed vehicle in accordance
+                     with that Act, or
+
+              (ii)   meets applicable federal United States laws in accordance with
+                     the Motor Vehicle Safety Act (Canada).
+
+"New Permit Holder" means a residential parking permit holder in the Denman West,
+West End Plateau or Davie-Beach areas who was not a permit holder on August 31,
+2017 and obtains a permit after that date.
+
+"One-way Shared Vehicle Service" means a shared vehicle system that allows its
+members to begin and end their rental periods at any lawful and authorized space within
+the operating area of the shared vehicle organization.
+
+"One-way Street" means a street designated by sign for the movement of vehicular
+traffic in one direction only.
+
+"Park" when prohibited, means the standing of a vehicle, whether occupied or not.
+
+"Park Board" means the Board of Parks and Recreation of the City of Vancouver.
+
+"Passenger Zone" means the area or space on a roadway established for the exclusive
+use of vehicles during the loading or unloading of passengers.
+
+"Pedestrian" means a person on foot or in a wheelchair, whether motorized or not.
+
+"Plaza" means a street, including the roadway and boulevard, that is designated as a
+plaza in Schedule G of this By-law.
+
+"Police Officer" means a peace officer or constable as provided under the Police Act
+employed by the Vancouver Police Board.
+
+“Priority Congestion Management Roadway” means any street or part of a street
+where stopping is otherwise permitted but is specifically prohibited at any time between
+the hours of 7:00 am and 7:00 pm, and any street designated in Schedule H.
+
+"Private Road" means every way or place in private ownership and used for vehicular
+travel by the owner and those having express or implied permission from the owner.
+
+"Private Vehicle" means any motor vehicle other than a commercial vehicle.
+
+"Property Line" means the legal boundary between a street and the parcels of land
+abutting thereon.
+
+“Protected Bicycle Lane" means that a part of a roadway or path which is separated
+from motor vehicle traffic by a bicycle lane buffer and is designated by the City Engineer
+for use by persons on bicycles, non-motorized skates, skateboards, electric kick
+scooters or push scooters.
+
+"Public Park" means any public park and any other area which is in the possession,
+jurisdiction and control of the Board of Parks and Recreation.
+
+“Quadricycle” means a 4-wheeled device that is propelled by human power and on
+which a person may ride, and that:
+
+(a)    has a track width of not less than 1 metre,
+
+(b)    has a rear track width that is greater than the height of the seat frame as
+       measured from level ground to the seat frame,
+
+(c)    is equipped with at least 2 sets of pedals for motive power,
+
+(d)    is equipped with disc or drum brakes, and
+
+(e)    is controlled by a single operator.
+
+"Right-of-Way" means the privilege of the immediate use of the roadway.
+
+"Roadway" means that portion of a street improved, designed or intended for vehicular
+use.
+
+"Seawall" means a way normally open to the use of the public that is adjacent or close
+to a body of water.
+
+"Semi-Trailer" means a vehicle with or without motive power designed for carrying
+
+persons or property and for being drawn by a motor vehicle and so constructed that
+some part of its weight and that of its load rests upon or is carried by another vehicle.
+
+ "Service Vehicle" means a vehicle used to service a facility owned, operated or
+maintained by a public authority or a public utility, and includes a vehicle displaying a
+card or decal issued by the City or the Park Board identifying it as such.
+
+"Shared Vehicle" means a four-wheeled automobile, van, or pick-up truck owned and
+operated by a shared vehicle organization;
+
+"Shared Vehicle Organization" means a legal entity whose principal business objective
+is to provide its members, for a fee, with a car-sharing service by which such members
+have access to a fleet of shared vehicles which they may reserve for use on an hourly
+basis, and which the City Engineer has approved.
+
+"Sidewalk" means the portion of a street, improved for the use of pedestrians, between
+the curb lines or the lateral lines of a roadway and the adjacent property lines.
+
+"Sidewalk Crossing" means that portion of a sidewalk permanently improved or
+designed for the passage or entry of vehicular traffic.
+
+"Sign" means a notice authorized or erected by the City Engineer.
+
+"Sound Truck" means a vehicle containing or carrying a device external to the
+passenger compartment from which advertising or entertainment is made or highlighted
+by sound, or from which a public address is made.
+
+"Stop" means:
+
+       (a)    when required, a complete cessation from movement; and
+
+       (b)    when prohibited, the stopping or standing of a vehicle, whether occupied
+              or not, except when necessary to avoid conflict with other traffic or to
+              comply with the directions of a Police Officer or a Traffic-control Signal or
+              a Traffic Sign.
+
+"Stopping" when prohibited means the coming to rest or the state of being at rest of a
+vehicle.
+
+"Street" includes public road, highway, bridge, viaduct, lane and sidewalk, and any
+other way normally open to the use of the public, but does not include a private right-of-
+way on private property.
+
+"Street Furniture" includes waste receptacles, benches, bus shelters, traffic signs and
+any similar work, structure or equipment.
+
+"Structure" in sections 71A, 71B, 71F, and 85A of this By-law means something that is
+built, constructed or assembled and that is placed on a street permanently, semi-
+permanently or for a specified period of time.
+
+"Table" in Section 71E of this By-law means an article of furniture supported by one or
+
+more vertical legs and having a flat horizontal surface.
+
+“Tour Bus” means a bus with the name and address of its operator or owner plainly
+displayed in letters and figures not less than 5 cm high in a conspicuous place on both
+sides of the vehicle.
+
+"Tour Bus Zone" means an area on a street for the stopping of buses to facilitate the
+loading and unloading of passengers only.
+
+"Traffic" means pedestrians, ridden or herded animals, vehicles, and other
+conveyances, either singly or together, while using any street.
+
+"Traffic Circle" means a traffic island located in the centre of an intersection.
+
+"Traffic Island" means an area that is painted, curbed or raised between traffic lanes for
+the control of vehicle movements or for pedestrian refuge.
+
+"Traffic-control Signal" means any device, manually, electrically or mechanically
+operated for the regulation of traffic, and which successively temporarily prohibits and
+permits traffic movement by displaying different signal indications.
+
+"Traffic Sign" means any sign, signal, marking or other device, painted or erected, for
+the purpose of regulating traffic, but does not include a traffic control signal.
+
+"Trailer" means a vehicle with or without motive power designed for carrying persons or
+property and for being drawn by a motor vehicle and so constructed that no part of its
+weight rests upon the towing vehicle.
+
+"Transit Route" means any street that has been designated as a transit route by the
+Council or by the City Engineer pursuant to subsection 4.(1) (d) of this by-law.
+
+"Transportation Network Services" has the same meaning as in the Passenger
+Transportation Act.
+
+"Truck" means a motor vehicle designed or used primarily for the transportation of
+property.
+
+"Truck Route" means any street listed in Schedule B of this By-law.
+
+"Truck Tractor" means a vehicle designed and used primarily for drawing other vehicles
+and not so constructed as to carry a load other than a part of the weight of a vehicle and
+load so drawn.
+
+"Vehicle" includes any device by which any person or property may be transported on a
+roadway, irrespective of the motive power, but does not include railway cars running
+upon rails.
+
+"Zoning District" means a zoning district as established by the City’s Zoning &
+Development By-law.
+
+"Zero Emission Vehicle” means vehicles approved by the City Engineer as zero
+
+emission vehicles.
+
+[Part I (Regulating Traffic) omitted: outside the Part the entry names]
+
+                                            PART II
+
+                           REGULATING THE USE OF STREETS
+
+            MERCHANDISE NOT TO BE DISPLAYED ON STREET OR SIDEWALK
+
+66.   (1)     No person shall place or cause or suffer to be placed by any person in the
+              employ of or under the control of such person, any merchandise, vehicle, chattel,
+              or wares of any nature on any street, sidewalk or boulevard for the purpose of
+              sale or display, or for any other purpose whatsoever except in the actual course
+              of receipt or delivery, or to use any portion of any sidewalk for the purpose of
+              selling any packaging goods, wares, or merchandise of any nature or for
+              measuring, packing, or unpackaging goods, wares or merchandise. PROVIDED,
+              HOWEVER, that the provisions of this section shall not apply to any person duly
+              authorized to conduct street vending pursuant to the Street Vending By-law.
+
+      (2)     For the purposes of this section "merchandise" shall include food products,
+              produce and like products.
+
+      (3)     Any merchandise that is displayed, sold or offered for sale on any street in
+              contravention of subsection (1) may be impounded pursuant to the Impounding
+              By-law, except that perishable merchandise may be disposed of upon removal.
+
+                               PROHIBITION OF OBSTRUCTIONS
+
+66A.   (1)   A person must not abandon, place, leave, or keep any item or object on a street
+             that obstructs, impedes, or interferes with the passage of vehicles or
+             pedestrians unless authorized or permitted to do so under the       provisions of
+             this by-law or another City by-law.
+
+       (2)   For the purposes of section 66A(1), an item or object is deemed to be
+             abandoned if it is left unattended on a street.
+
+                      USE OF A STREET (INCLUDING SIDEWALK)
+                          FOR SPORT OR ENTERTAINMENT
+
+67.    (1)   Except with the written permission of the Council, no person shall
+
+             (a)    engage in any sport, amusement, exercise or occupation on a street that
+                    obstructs, impedes, or interferes with the passage of vehicles or
+                    pedestrians, or
+
+             (b)    cause any obstruction in or upon a street.
+
+       (2)   Despite subsection (1), no person shall perform or otherwise provide
+             entertainment in or upon a street unless that person is the holder of a Street
+             Entertainment Permit issued by the City Engineer pursuant to this By-law.
+
+       (3)   Despite subsection (2) no permit is required to perform or otherwise provide
+             entertainment in those areas identified in Schedule E which is attached to and
+             forms part of this By-law.
+
+67A.   (1)   Where an applicant has completed an application form to the City Engineer's
+             satisfaction and has paid the fee set out in this section, the City Engineer may
+             issue a Street Entertainment Permit to such person to permit them to perform or
+             provide entertainment upon a street in compliance with the conditions which form
+             part of the permit.
+
+       (2)   A permit issued under subsection (1) may contain conditions
+
+             (a)    limiting the areas where the performance or entertainment may occur,
+
+             (b)    limiting the duration and time when the performance or entertainment
+                    may occur,
+
+             (c)    requiring that satisfactory public liability insurance be held by the
+                    applicant,
+
+             (d)    prohibiting the use of amplification or other equipment which electronically
+                    enhances the volume of sound where it requires an external power
+                     source or unless the applicant has attended an information session
+                     authorized by the City Engineer,
+
+              (e)    imposing such other rules as are necessary to provide respect for the
+                     owners of adjacent property and other users of the street.
+
+       (3)    A permit issued under subsection (1) is not transferable and may be temporarily
+              suspended by the City Engineer where its use may conflict with another use of
+              the street.
+
+       (4)    No person shall fail to comply with a term or condition of a permit issued
+              pursuant to this section.
+
+       (5)    Failure to comply with any condition set out in a permit shall render the permit
+              subject to immediate cancellation by the City Engineer without prior notice.
+
+       (6)    For a Street Entertainment Permit the applicant must pay to the city, exclusive of
+              a goods and services tax imposed under the Excise Tax Act (Canada):
+
+              (a)    $159.03 for a permit for one year, or
+
+              (b)    $53.59 for a permit for a period of four months.
+
+                           WASHING OR REPAIRING VEHICLES
+
+68.    No person shall stand or park any vehicle on any street for the purpose of washing,
+       greasing or repairing such vehicle except repairs necessitated by an emergency.
+
+68A.   No person shall:
+
+       (a)    wash or grease any vehicle on any street; or
+
+       (b)    repair any vehicle on any street, except for repairs necessitated by an
+              emergency.
+
+                     CROWDS OR GROUPS OBSTRUCTING TRAFFIC
+
+69.    (1)    No person shall form part of a group of persons congregated on a street in such
+              a manner as to obstruct the free passage of pedestrians or vehicles, except with
+              the written permission of the Council.
+
+       (2)    No person shall do anything which will attract the attention of persons and cause
+              them to congregate in a group upon any street in such manner as to obstruct the
+              free passage of pedestrians or vehicles, or in such manner that the persons so
+              congregated might themselves be in danger of injury from traffic, except with the
+              written permission of the Council.
+
+       (3)    Subsections (1) and (2) of this section shall not apply to religious street meetings
+              permissions for which has been given in writing by the City Engineer.
+
+                                           FIGHTING
+
+69A.   A person must not fight or engage in any other similar physical confrontation with one or
+       more other persons in, on, or near a street or other public place.
+
+                                          LOITERING
 
 70.    No person shall stand or loiter on any street in such a manner as to obstruct or impede
        or interfere with traffic thereon.
 
-                               STRUCTURES ON STREETS
+                               OBSTRUCTIVE SOLICITATION
+
+70A.   (1)    For the purpose of this section 70A,
+
+              "cause an obstruction" means
+
+              (a)    to sit or lie on a street in a manner which obstructs or impedes the
+                     convenient passage of any pedestrian traffic in a street, in the course of
+                     solicitation,
+
+              (b)    to continue to solicit from or otherwise harass a pedestrian after that
+                     person has made a negative initial response to the solicitation or has
+                     otherwise indicated a refusal,
+
+              (c)    to physically approach and solicit from a pedestrian as a member of a
+                     group of three or more persons,
+
+              (d)    to solicit on a street within 10 m of
+
+                     (i)     an entrance to a bank, credit union or trust company, or
+
+                     (ii)    an automated teller machine, or
+
+              (e)    to solicit from an occupant of a motor vehicle in a manner which obstructs
+                     or impedes the convenient passage of any vehicular traffic in a street;
+
+              "solicit" means to, without consideration, ask for money, donations, goods or
+              other things of value whether by spoken, written or printed word or bodily
+              gesture, for one's self or for any other person, and solicitation has a
+              corresponding meaning, but does not include soliciting for charity by the holder of
+              a license for soliciting for charity under the provisions of the License By-law;
+
+              "trust company" means an office or branch of a trust company to which the Trust
+              and Loans Company Act (Canada) applies and in which deposit accounts are
+              held.
+
+       (2)    No person shall solicit in a manner which causes an obstruction.
+
+                                STRUCTURES ON STREETS
 
 71A.         A person must not build, construct, place, maintain, occupy, or cause to be built,
              constructed, placed, maintained or occupied in any street, any structure, object,
@@ -96,88 +656,87 @@ DEFINITIONS
 
              (a)     obstructs or interferes with pedestrian or vehicular traffic;
 
-             (b)     obstructs or interferes with any utility, postal or similar installation;
+             (b)     obstructs or interferes with any utility , postal or similar installation;
 
              (c)     obstructs or interferes with any other structure, object, substance or
                      construction works which occupy the street pursuant to a permit;
+      (d)   obstructs or interferes with the use of street furniture;
 
-             (d)   obstructs or interferes with the use of street furniture;
+      (e)   obstructs or interferes with City works, on or adjacent to the street;
 
-             (e)   obstructs or interferes with City works, on or adjacent to the street;
+      (f)   has a width greater than 25% of the width of an adjacent business
+            frontage;
 
-             (f)   has a width greater than 25% of the width of an adjacent business
-                   frontage;
+      (g)   is located on street frontage abutting a site which:
 
-             (g)   is located on street frontage abutting a site which:
+            (i)     contains only dwelling uses,
 
-                   (i)     contains only dwelling uses,
+            (ii)    in the case of mixed uses, contains ground floor dwelling uses, or
 
-                   (ii)    in the case of mixed uses, contains ground floor dwelling uses, or
+            (iii)   is located in a zoning district listed in Schedule F, except that
+                    subsection (g)does not apply to any Consulate which is listed with
+                    the Government of Canada as a Consular Office;
 
-                   (iii)   is located in a zoning district listed in Schedule F, except that
-                           subsection (g) does not apply to any Consulate which is listed with
-                           the Government of Canada as a Consular Office;
+      (h)   is within 5 meters of a building entrance or exit;
 
-             (h)   is within 5 meters of a building entrance or exit;
+      (i)   is within 5 meters of a bus stop, street intersection, driveway crossing,
+            loading zone, taxi zone, or wheelchair ramp;
 
-             (i)   is within 5 meters of a bus stop, street intersection, driveway crossing,
-                   loading zone, taxi zone, or wheelchair ramp;
+      (j)   is within 0.5 meters of a curb;
 
-             (j)   is within 0.5 meters of a curb;
+      (k)   is attached or affixed to cement, asphalt or other hard surface on the
+            street;
 
-             (k)   is attached or affixed to cement, asphalt or other hard surface on the
-                   street;
+      (l)   measures more than 1.6 meters in height at the highest point;
 
-             (l)   measures more than 1.6 meters in height at the highest point;
+      (m)   measures more than 1.6 meters in width at the widest point;
 
-             (m)   measures more than 1.6 meters in width at the widest point;
+      (n)   measures more than 1.0 meter in depth at the deepest point;
 
-             (n)   measures more than 1.0 meter in depth at the deepest point;
+      (o)   has a base area larger than 1.6 square meters;
 
-             (o)   has a base area larger than 1.6 square meters;
+      (p)   contains moving parts, electrical or electronic components or lights;
 
-             (p)   contains moving parts, electrical or electronic components or lights;
+      (q)   is structurally unsafe or unstable; or
 
-             (q)   is structurally unsafe or unstable; or
+      (r)   was at the same location or in the same city block applied for, within the
+            previous sixty days.
 
-             (r)   was at the same location or in the same city block applied for, within the
-                   previous sixty days.
+(4)   The holder of a permit granted under section 71A, or their authorized
+      representative, must:
 
-       (4)   The holder of a permit granted under section 71A, or their authorized
-             representative, must:
+      (a)   attend at the structure, object, or substance for a minimum of six non-
+            consecutive hours between the hours of 8 a.m. and 8 p.m. daily;
 
-             (a)   attend at the structure, object, or substance for a minimum of six non-
-                   consecutive hours between the hours of 8 a.m. and 8 p.m. daily;
+      (b)   remove the structure, object or substance from the street between the
+                    hours of 8 p.m. and 8 a.m. daily; and
 
-             (b)   remove the structure, object or substance from the street between the
-                   hours of 8 p.m. and 8 a.m. daily; and
-
-             (c)   keep the structure, object, or substance safe and in good repair at all
-                   times.
+             (c)    keep the structure , object, or substance safe and in good repair at all
+                    times.
 
        (5)   The holder of a permit granted under section 71A must not use or permit the use
              of:
 
-             (a)   electronic signs;
+             (a)    electronic signs;
 
-             (b)   electric or gas lighting or appliances;
+             (b)    electric or gas lighting or appliances;
 
-             (c)   extension cords; or
+             (c)    extension cords; or
 
-             (d)   open flames, propane tanks, gas or electric heaters, or barbeques
+             (d)    open flames, propane tanks, gas or electric heaters, or barbeques
 
              at or near the structure, object or substance authorized by the permit.
 
        (6)   The holder of a permit granted under section 71A must not use or promote the
              use of expression which:
 
-             (a)   is obscene;
+             (a)    is obscene;
 
-             (b)   promotes hatred or violence;
+             (b)    promotes hatred or violence;
 
-             (c)   is defamatory; or
+             (c)    is defamatory; or
 
-             (d)   contains commercial content.
+             (d)    contains commercial content.
 
                                           TERM OF PERMIT
 
@@ -187,6 +746,7 @@ DEFINITIONS
              (a)    a permit for a term greater than thirty days;
 
              (b)    more than six non-consecutive permits per year, for any city block or
+
                     location;
 
              (c)    more than one permit every sixty days, for any city block or location; or
@@ -197,7 +757,6 @@ DEFINITIONS
 
 71D.         The City Engineer must cancel a permit issued under section 71A, if the holder of
              the permit fails to comply with any of the provisions in section 71B.
-
                TABLES CONVEYING POLITICAL EXPRESSION
 
 71E.   Despite section 71A of the By-law, a table which conveys political expression
@@ -215,6 +774,7 @@ DEFINITIONS
        (e) no more than one table is placed on any city block at any time;
 
        (f) the name of the sponsoring organization or person is clearly displayed on the
+
            table;
 
        (g) it does not obstruct or interfere with pedestrian or vehicular traffic;
@@ -222,6 +782,7 @@ DEFINITIONS
        (h) it does not obstruct or interfere with any utility, postal or similar installation;
 
        (i) it does not obstruct or interfere with any other structure, object, substance or
+
            construction works which occupy the street pursuant to a permit;
 
        (j) it does not obstruct or interfere with the use of street furniture;
@@ -231,6 +792,7 @@ DEFINITIONS
        (l) it is more than 5 meters from any building entrance or exit;
 
        (m) it is more than 5 meters from any bus stop, street intersection, driveway
+
            crossing, loading zone, taxi zone, or wheelchair ramp;
 
        (n) it is more than 0.5 meters from any curb;
@@ -240,16 +802,194 @@ DEFINITIONS
        (p) it is structurally safe and stable;
 
        (q) it is not used in association with any electronic signs, electric or gas lighting
-           or appliances, extension cords, open flames, propane tanks, gas or electric
-           heaters, barbeques; and
+
+          or appliances, extension cords, open flames, propane tanks, gas or electric
+
+          heaters, barbeques; and
 
        (r) it does not contain obscene or defamatory content and does not promote
-           hatred or violence.
+
+          hatred or violence.
 
                                  EMERGENCIES ON STREETS
 
 71F.   In the case of an emergency, the City Engineer may temporarily remove a
        structure or table that is permitted on a street.
+
+               CONSTRUCTION OF SIDEWALKS ON STREETS
+
+71G.   A person must not lay, construct, or reconstruct any sidewalk on any street,
+       without having first:
+
+       (a) obtained a permit issued by the City Engineer, which may include conditions
+           such as a requirement to repair any damage to public property that occurs as
+           a result of the work, including damage to curbs and pavement, to the
+           satisfaction of the City Engineer; and
+
+       (b) paid to the City the following permit fee, exclusive of a goods and services tax
+           imposed under the Excise Tax Act (Canada), in accordance with the fee
+           schedule set out in section 71G (2):
+
+          For a sidewalk of up to and including 20 square metres………$140.97
+
+          For each additional square metre or part thereof………………..$12.80
+
+          To a maximum fee of……………………………………………..$989.71
+
+                              DEBRIS ON STREETS
+
+71H.   The owner or occupier of real property adjacent to a street, must not allow or
+       permit any earth, rock, stones, trees, logs, stumps or similar substances or things
+       from the property:
+
+       (a) to cave, fall, crumble, slide, accumulate or be otherwise deposited on to a
+           street; or
+
+       (b) to remain on a street.
+
+                              WATER ON STREETS
+
+71I.   The owner or occupier of real property adjacent to a street, must not allow or
+       permit water to flow from the property on to a street.
+                                                CONTAINERS
+
+71J.
+       (1)   A person who has been granted permission to place a container upon a street,
+             portion of a street, or air space above a street under section 30 of this by-law
+             must, in addition to complying with all conditions of the permit:
+
+             (a)    mark and maintain the container with two inch (five centimeter) wide DOT
+                    Type C2 red and white reflective tape, or equivalent tape satisfactory to
+                    the City Engineer, by taping:
+
+                    (i)         vertically at least one metre of each end corner,
+
+                    (ii)        at least 50% of the length of each side, equally spaced as close
+                                as practicable to 75 cm above the ground, and
+
+                    (iii)       a solid stripe horizontally across each end as close as practicable
+                                to 75 cm above the ground,
+
+                    and as follows:
+                                             SIDE VIEW
+                                               COMPANY NAME
+                                                TELEPHONE #
+
+                                                2'-6" (75cm)
+
+                                  2" (5cm) HORIZONTAL STRIPS
+                                      APPLY EVENLY SPACED LENGTH
+                                       STRIPS ON EACH SIDE OF BIN
+
+                                            END VIEW
+
+                                                               3 '-3 " (1 .0 m )
+
+                                                2'-6" (75cm)
+
+                            2" (5cm) HORIZONTAL AND VERTICAL STRIPS
+                               APPLY 3'-3" (1.0m) HIGH EVENLY SPACED STRIPS
+                                  AND FULL WIDTH ON EACH END OF BIN
+
+             (b)    as an alternative to subsection (1)(a), place, secure, and maintain at least
+                    four Ministry of Transportation approved traffic delineators or cones and
+                    one Ministry of Transportation approved Type A reflective barricade, or
+                    equivalent devices satisfactory to the City Engineer, in positions that
+                    make the container visible to any approaching driver or cyclist;
+
+           (c)    place and maintain the container on the street so that it:
+
+                  (i)     is at least 10 metres from the nearest edge of the closest sidewalk
+                          on an intersecting street,
+
+                  (ii)    is at least 12 metres from the nearest edge of pavement on an
+                          existing street where no sidewalk exists,
+
+                  (iii)   is at least 12 metres from any crosswalk,
+
+                  (iv)    is at least six metres from any lane or driveway,
+
+                  (v)     is not less than 30 cm from any curb or edge of the roadway when
+                          placed on a street,
+
+                  (vi)    allows a minimum three metres of street or lane that is usable for
+                          travel;
+
+           (d)    place and maintain a flashing barricade in the street in front of the
+                  container where the container projects into the traveled portion of a street;
+
+           (e)    mark and maintain on the container in at least three inch lettering on at
+                  least two sides of the container the name and telephone number of the
+                  owner of the container; and
+
+           (f)    not place a container on a street so that the container obstructs or
+                  impedes a marked travel lane on the street unless that lane is closed with
+                  delineators, arrow board, and advance warning signage consistent with
+                  the Ministry of Transportation Traffic Control Manual for Work on
+                  roadways.
+
+                                     ELECTRONIC SIGNS
+
+71K. (1)   Notwithstanding any other provisions of this or any other By-law, the City
+           Engineer may issue a permit for a person to construct, maintain and
+           operate an electronic sign on a street.
+
+     (2)   The City Engineer may impose conditions on a permit for an electronic       sign on
+           street regarding:
+
+           (a)    traffic and safety matters;
+
+           (b)    hours and levels of illumination;
+
+           (c)    construction requirements;
+
+           (d)    timing of construction;
+
+           (e)    timing of and requirements for reviews and inspections;
+
+            (f)    the term of the permit;
+
+            (g)    responsibilities of the permit holder;
+
+            (h)    the size, appearance, location, design and form of the sign;
+
+            (i)    operational matters including how long the static image must remain
+                   static and how quickly an image must transition to the next image;
+
+            (j)    proof of commercial general liability insurance, wrap-up liability insurance,
+                   or other insurance, to the satisfaction of the Director of Risk Management,
+                   naming the City as an additional named insured; and
+
+            (k)    compliance with this by-law or other enactments.
+
+      (3)   Every person applying for a permit for an electronic sign must apply in writing to
+            the City Engineer.
+
+      (4)   No person may apply for or hold a permit for an electronic sign unless they have
+            entered into a valid agreement with the City authorizing the placement of an
+            electronic sign on the proposed site.
+
+      (5)   Any agreement with the City must stipulate the term of the agreement, the rent,
+            indemnities in favour of the City and may include such other terms as are
+            considered necessary and be executed by the City Engineer on behalf of
+            Council.
+
+      (6)   The City Engineer may revoke a permit for an electronic sign if the permit holder
+            breaches any condition of the permit or if the agreement is terminated or expires.
+
+      (7)   In this section 71K:
+
+            “Electronic Sign” means a third-party electronic advertising sign:
+
+            (a)    that displays an electronic static image where the image remains static on
+                   the screen for a stipulated period of time and the transition between
+                   images occurs within a stipulated period of time;
+
+            (b)    that is self-supporting and is attached to the ground; and
+
+            (c)    that complies with the terms of the permit issued for the sign.
+
+            “Street” does not include the roadway.
 
                     IMPEDING TRAFFIC ON STREET PROHIBITED
 
@@ -261,6 +1001,400 @@ DEFINITIONS
              delivering firewood, lumber, blocks, rock, stone or other material shall permit
              such firewood, lumber, blocks, stone or material to remain or to be placed on any
              street in such a manner as to obstruct or impede traffic thereon.
+
+       (3)   No owner or occupier of any premises shall permit any firewood or other fuel
+             purchased by or delivered at the request of such person to remain on any City
+             street except while moving the same into the premises adjoining such street and
+             in no event for a longer period than 72 hours.
+
+       (4)   The City Engineer or Chief Constable may remove or cause to be removed any
+             such firewood, lumber, blocks, rock, stone or other materials so deposited and
+             the cost of such removal shall be charged to the owner or person making delivery
+             thereof and the Director of Legal Services is hereby authorized to institute
+             proceedings in any Court of competent jurisdiction to recover such cost.
+
+72A.   (1)   An owner, registered owner, lessee or operator of a vehicle must not cause,
+             permit or allow that vehicle to be left or abandoned on a street.
+
+       (2)   A vehicle on a street which is:
+
+             (i)     unlicensed;
+
+             (ii)    uninsured;
+
+             (iii)   not displaying current and valid number plates as required by the Motor
+                     Vehicle Act;
+
+             (iv)    in a derelict condition;
+
+             (v)     inoperable; or
+
+             (vi)    parked continuously for more than 14 days;
+
+                     is deemed to be left or abandoned on a street in contravention of this By-
+                     law.
+
+       (3)   A vehicle is deemed to be unlawfully left on a street in contravention of this
+             By-law if:
+
+             (i)     the vehicle has an automobile security system that is operating in
+                      contravention of the Motor Vehicle Noise and Emission Abatement
+                      By-law; or
+
+             (ii)    the vehicle horn sounds audibly for a period of more than 10 minutes.
+
+73.    (1)   No person shall erect any doorstep, porch, railing, or projection into or
+             obstruction in any street, without permission from the City Engineer.
+
+       (2)   The City Engineer or Chief Constable may remove or cause to be removed any
+              unauthorized doorstep, porch, railing, or projection into or obstruction in any
+              street. The cost of such removal shall be charged to the owner thereof and the
+              Director of Legal Services is hereby authorized to institute proceedings in any
+              Court of competent jurisdiction to recover such cost.
+
+                          TETHERING ANIMALS IN PUBLIC PLACES
+
+74.    No person shall leave any horse or other animal attached to any vehicle in any street
+       without being tethered in such manner as to prevent such horse or other animal from
+       running away or from moving on the street in any way so as to obstruct or impede other
+       traffic thereon.
+
+75.    No person shall tie or fasten any horse or other animal to any tree, traffic sign or lamp
+       standard.
+
+                       REMOVAL OF SNOW OR ICE FROM SIDEWALK
+
+76.    The owner or occupier of any parcel of real property shall, not later than 10:00 a.m.
+       every day, remove all snow and ice from any sidewalk adjacent to such parcel for a
+       distance that coincides with the parcel's property line and for the full width of the
+       sidewalk.
+
+76A.   If an owner or occupier of any parcel of real property fails to remove snow and ice, as
+       required by section 76, the City Engineer may authorize the removal by another person
+       and the costs of such removal shall be at the expense of the owner or occupier as the
+       case may be, and the city may recover such expense by action in a court of competent
+       jurisdiction.
+
+76B.   Notwithstanding the requirement set out in section 76, no owner or occupier of any
+       parcel of real property shall cause, permit or allow any snow or ice to remain on a
+       sidewalk adjacent to such parcel for a period of more than 24 hours.
+
+                       RIDING, COASTING AND SLIDING ON STREETS
+
+77.    Except as permitted by section 77A, no person shall coast or slide on a sled, skis,
+       skates, skateboard or other apparatus on any street, lane, or other public place;
+       provided, however that Council may declare any street, lane or other public place closed
+       to all other traffic for the purpose of permitting coasting or sliding on a sled, skis, skates,
+       skateboard or other apparatus thereon; and the Chief Constable may make such
+       provision for prohibiting such other traffic and with the assistance of the City Engineer
+       may make such provision for protecting such persons using such streets, lanes, or public
+       places as aforesaid for the purpose of enabling such coasting and sledding to be carried
+       on with safety.
+
+77A.   (1)    Despite section 77, but subject to the requirements of this section, a person may
+              ride or coast on non-motorized skates, a skateboard or a push scooter on any
+              minor street or protected bicycle lane.
+
+       (2)    A person riding or coasting on non-motorized skates, skateboard, or push-
+              scooter must, at the request of a police officer, state his or her correct name,
+              address, and date of birth.
+
+       (3)    A person must not ride or coast on non-motorized skates, a skateboard, or push
+              scooter on any minor street or protected bicycle lane:
+
+              (a)    while wearing headphones, or any other manufactured device capable of
+                     transmitting sound, over or in close proximity to both ears, except that this
+                     prohibition will not apply to the wearing of a device designed and worn for
+                     the purpose of improving the wearer’s ability to hear sounds emanating
+                     from outside of the device;
+
+              (b)    unless that person wears a helmet;
+
+              (c)    unless, between 1/2 hour after sunset and 1/2 hour before sunrise, that
+                     person or the person’s skateboard or push scooter is equipped with and
+                     using lighting or reflective equipment that under normal atmospheric
+                     conditions is visible in all directions at least 75 m from the person or the
+                     skateboard or push scooter;
+
+              (d)    unless that person travels in the direction of vehicular or bicycle traffic
+                     and as close as practicable to the extreme right side of minor street or
+                     protected bicycle lane; or
+
+              (e)    in a reckless manner or in a manner that will obstruct traffic or endanger
+                     the safety or property of any person.
+
+       (4)    A police officer may arrest without warrant any person riding or coasting on
+              skates, skateboard, or push-scooter whom the officer finds committing a breach
+              of any provision of this By-law if such person fails to stop and state his or her
+              correct name, address, and date of birth.
+
+77B.   A person may ride an electric kick scooter on any protected bicycle lane or any street
+       that is subject to a speed limit of 50 kilometers per hour or less.
+
+                     INJURY TO TREES AND FLOWERS PROHIBITED
+
+78.    No person, other than a duly authorized officer or employee of the City or the Park Board
+       acting in pursuance of his or her duties, shall dig up or in any manner injure or destroy
+       any tree, flower, foliage, flowering plant, foliage plant, or shrubbery in any street.
+
+                            DRIVING OVER CURBS PROHIBITED
+
+79.    No person shall ride, drive or lead any animal, or move, drive, run, or propel any vehicle
+       over or across any curb unless such curb has been lowered or otherwise constructed or
+       reconstructed to form a suitable crossing, and permission to lower, construct, or
+       reconstruct such curb or crossing having first been obtained in writing from the City
+       Engineer. No planks or other material shall be placed in any gutter or ditch or against
+       any curb for the purpose of making a crossing except as a temporary expedient and with
+      the written permission of the City Engineer; and such person shall, before obtaining such
+      written permission of the City Engineer, furnish security to the satisfaction of the
+      Engineer to an amount at least equal to the estimated cost of constructing such
+      temporary crossing as aforesaid.
+
+                   DRIVING ON SIDEWALK OR BOULEVARD PROHIBITED
+
+80.   (1)    No person shall ride, drive, or lead any animal, or move, drive, run or propel any
+             vehicle (except light carriages or chairs for the conveyance of children or
+             invalids), along, over, or across any sidewalk or boulevard except at:
+
+             (a)     Lane crossings or sidewalk crossings specially constructed for vehicular
+                     traffic.
+
+             (b)     Locations for which the City Engineer has granted written permission and
+                     then subject only to the conditions contained in such permission.
+
+      (2)    The City Engineer shall not grant permission, pursuant to section 80(1)(b), for a
+             crossing to facilitate the movement of building materials and construction
+             equipment unless the applicant therefor has first paid to the City the applicable
+             fee, exclusive of a goods and services tax imposed under the Excise Tax Act
+             (Canada), according to the following table:
+
+        Type of construction requiring crossing permission                    Permit fee
+        Addition or renovation only – Single Detached House, Duplex,          $371.00
+        or Commercial building
+        Single Detached House and Duplex                                      $636.86
+        Single Detached House and Duplex with building demolition             $902.87
+        Multiple Dwelling or Commercial building without excavation         $2,756.61
+        Multiple Dwelling or Commercial building less than 3 storeys        $5,177.38
+        in height with excavation
+        Multiple Dwelling or Commercial building 3 storeys or more in      $10,302.46
+        height with excavation
+        Major Development Site, ½ block or larger                          $12,326.34
+        Demolition only - multiple dwelling or commercial building less     $1,269.25
+        than ½ block in size
+        Demolition only - multiple dwelling or commercial building ½        $2,272.51
+        block or larger
+
+      (3)   The City Engineer may, as a condition to the granting of permission pursuant to
+             section 80(1)(b):
+
+             (a)     require that a bond or some other satisfactory form of security be
+                     deposited with or furnished to the City in an amount adequate to
+                     guarantee replacement of sidewalks or boulevards to their original
+                     condition or to repair any City property in case of damage and for any
+                     clean up needed as a consequence of the crossing; and
+
+              (b)    require that proof of commercial general liability insurance or wrap-up
+                     insurance, to the satisfaction of the Director of Risk Management, naming
+                     the City as an additional named insured, be provided.
+
+      REGULATING ADVERTISING DEVICES AND PROHIBITION AGAINST LITTERING
+
+81.    (1)    No person shall drive or propel along any street in the City any vehicle bearing or
+              carrying any advertising device of a temporary character unless permission in
+              writing therefor has first been obtained from the Chief Constable of the City.
+
+       (2)    No person shall operate or stand or park on any street any vehicle for the sole or
+              primary purpose of displaying advertising, without first having obtained
+              permission therefor from the Council.
+
+       (3)    No person shall operate, stand or park any vehicle upon any street for the
+              purpose of displaying it for sale.
+
+       (4)    No person shall drive, operate, stand or park a sound truck on any street without
+              first having obtained permission therefor from the Council.
+
+82.    Persons Carrying Advertising Devices.
+
+       No person shall carry any advertising device on or along any street without first having
+       obtained permission therefor in writing from the City Engineer.
+
+83.    (1)    Defacing Sidewalk.
+
+              No person shall mark or imprint or in any other manner whatsoever deface any
+              sidewalk in the City.
+
+       (2)    No person shall place or allow to remain on any street any advertising device
+              without first having obtained permission from the City Engineer and the City
+              Engineer is hereby authorized to remove any advertising device found on any
+              street in contravention of this section. The owner may recover such advertising
+              device upon payment to the City of all costs incurred in removing the same.
+              Where such advertising device is not claimed within 30 days of its removal, it
+              may be destroyed.
+
+84.    Depositing Rubbish or Refuse
+
+       (1)    No person shall deposit upon any street or other public place, any rubbish,
+              sweepings, leaves, construction or demolition debris, paper, handbills, refuse or
+              other discarded materials or things.
+
+       (2)    An owner, registered owner, lessee or operator of a vehicle must not cause,
+              permit, suffer or allow that vehicle to be used in the depositing of any rubbish,
+              sweepings, leaves, construction or demolition debris, paper, handbills, refuse or
+              other discarded materials or things upon a street.
+
+       (3)    No owner or occupier of real property shall cause, permit or allow any rubbish,
+              sweepings, leaves, construction or demolition debris, paper, handbills, refuse or
+              other discarded materials or things to be removed from the real property and
+              deposited on a street or other public place.
+
+84A.   Distributing Handbills, Etc.
+
+       No person shall distribute advertising matter to persons on any street if it is likely to be
+       thrown or left upon a street.
+
+85.    Placing Handbills, Etc. in Vehicle.
+
+       No person shall place or cause to be placed any handbill, dodger, circular, card or other
+       advertising matter upon or in any vehicle upon a street without permission of the owner
+       or person in charge of such vehicle.
+
+85A.   Defacing Poles.
+
+       No person shall paint, paste, stick or affix or put any sign, bill, notice, substance or thing
+       on any street furniture, light standard, electric light, telephone or other pole located on
+       any street, and no person shall deface or disfigure such street furniture, light standard,
+       electric light, telephone or other pole located on any street, or permit, suffer or allow any
+       person to commit the acts on his or her behalf, except that this section does not apply to
+       a person:
+
+              (a)     installing signs authorized by the City Engineer on or over City streets
+                      and intended to control traffic or parking, or to provide directions or street
+                      identification;
+
+              (b)     putting up or installing street decorations authorized by the City Engineer;
+
+              (c)     putting up or installing any public notice or other temporary sign, which is
+                      authorized by By-law or by Provincial or Federal legislation;
+
+              (d)     installing advertising devices, which are integral with public conveniences
+                      as covered by special agreements with the City, such as bus shelter
+                      advertising, map stand advertising or automated public toilet advertising;
+
+              (e)     placing a sign or notice on a free standing kiosk or other structure on a
+                      street, which is provided or authorized by the City Engineer, specifically
+                      for free public use for the posting of notices or for the purpose of political
+                      expression;
+
+              (f)     installing such other devices or fixtures as are authorized by an
+                      agreement with the City; or
+
+              (g)     attaching a bicycle, by way of a locking device, to a bike rack.
+
+                                      CLOSING STREETS
+
+86.   Where owing to work of construction, repair, or maintenance, or owing to damage by
+      accident or storm or other emergency, any street or any portion thereof is unsafe or
+      unsuitable for traffic, or where a parade or other procession authorized by the Chief
+      Constable, a street festival, a race or an activity connected with the production of a
+      motion picture, a television production or other event requires that traffic be restricted on
+      or diverted from a street, the City Engineer or the Chief Constable, or any person duly
+      authorized by either of them, may temporarily close such street or portion thereof to
+      vehicular traffic, pedestrian traffic or both or otherwise restrict or divert the traffic thereon
+      or therefrom, and for that purpose may place thereon lamps, barriers, signs, notices, or
+      other warnings; and no person shall enter or travel upon such street or portion thereof so
+      closed, or enter upon or travel thereon contrary to the restrictions placed there or
+      remove, damage, alter or destroy, or attempt to remove, damage, alter or destroy any
+      lamp, barrier, sign, notice, or warning so placed. Where a street is closed for the making
+      of a motion picture, television production, festival, race or other event, Council may, by
+      resolution, levy a fee for the use of such closed street or portion thereof.
+
+                    EXCAVATIONS TO BE PROTECTED OR GUARDED
+
+87.   Every person who shall make any excavation for any purpose adjoining or adjacent to
+      any street within the City, shall build and maintain a good and sufficient fence or other
+      barrier along the line of such street so as to effectively guard such excavation and to
+      protect and guard persons, horses, and vehicles travelling along such street against
+      danger, risk or accident by reason of such excavation.
+
+                                  REGULATION OF PARADES
+
+88.   (1)     "Parade" means any procession or body of pedestrians (except members of the
+              Armed Forces) numbering more than 30, standing, marching or walking on any
+              street or sidewalk, or any group of vehicles numbering 10 or more (except funeral
+              processions) standing or moving on any street.
+
+      (2)     No such person shall be a member of, or take part in, any parade unless:
+
+              (a)     such parade be under the direction or control and in charge of some one
+                      person as marshal or organizer, and
+
+              (b)     a written permit for such parade has been issued to such marshal or
+                      organizer by the Chief Constable, as hereinafter provided, and
+
+              (c)     flags are carried or displayed as hereinafter provided.
+
+       (3)    No parade shall be held unless application therefor has been made in writing to
+              the Chief Constable by the marshal or organizer or other person in charge
+              thereof at least 90 days or within such shorter period of time as may be allowed
+              by the Chief Constable before the parade commences. Such application shall
+              specify the nature of the parade, the day and hour on or at which such parade is
+              to be held, the place or places of formation or commencement thereof, the route
+              intended to be taken, the point of disbandment or dispersal of same, and the
+              approximate length thereof. If, in the opinion of the Chief Constable any parade
+              requires the placing of traffic control devices, the Chief Constable shall not issue
+              a permit therefor without first having received notice from the City Engineer that a
+              deposit in the form of cash or a certified cheque in the amount of $50.00 has
+              been received by the City Engineer to cover the cost and expense of placing
+              such traffic control devices. The City Engineer shall return any unexpended
+              balance of the said deposit to the person making the same within 2 weeks after
+              the parade has been held.
+
+       (4)    The Chief Constable may issue a permit for a parade subject to any directions
+              the Chief Constable may impose as to time, route, or otherwise. If any deviation
+              from such direction is made, or if such direction be not otherwise complied with
+              (save as directed by the Chief Constable), the permit shall be void and of no
+              effect. Provided always that no permit shall be issued for a parade to be held in
+              the central district during normal and regular shopping hours without the prior
+              approval of the Board of Administration.
+
+       (5)    The national flag of Canada, the Union Jack flag, and the flag of the Province of
+              British Columbia, each unfurled and measuring not less than 1 metre by 2 metres
+              in size, shall be prominently, properly and continuously displayed at the head of
+              each parade. If any flags or emblems of other nations, societies, organizations
+              or associations are displayed, the same shall be displayed either in line and on
+              the marching left of, or behind the national flag of Canada, the Union Jack flag
+              and the flag of the Province of British Columbia and shall not be higher than the
+              same.
+
+                   REGULATING THE DRILLING OR EXCAVATING OF TEST HOLES
+
+88A.   (1) A person may apply to the City Engineer, in form prescribed by the City Engineer, for
+           a street use permit to drill or excavate test holes in a street to obtain geotechnical or
+           environmental soil contamination information regarding adjacent real property or to
+           obtain other information approved by the City Engineer.
+
+       (2)   Along with the application, the applicant must submit to the City Engineer:
+
+             (a)    drawings showing the details of each drill hole site; and
+
+             (b)    an application fee of $741.36 for each drill hole site referred to in the
+                    application, and an inspection fee of $96.39 for each of two inspections of
+                    each drill hole site, the first such inspection being prior to drilling activities
+                    and the second after restoration of the pavement and boulevard surfaces.
+
+       (3)   If a drill hole site does not conflict with existing underground utilities, the City
+             Engineer may issue a street use permit, subject to such conditions as to
+             restoration of the pavement and boulevard surfaces of the street, repair of any
+             damage to the street or things in the street caused by the drilling or excavation, or
+             other matters, as the City Engineer considers necessary.
+
+       (4)   If the City Engineer conducts more than two inspections of any drill hole site, the
+             street use permit holder must pay a further fee of $97.32 on demand for each
+             inspection of each site.
+
+[Part III (Regulating Size and Weight of Vehicles) and ss. 99-101 omitted]
+
+                                               VIOLATION OF BY-LAW
 
 102.   Every person who offends against any of the provisions of this by-law, or who suffers or
        permits any act or thing to be done in contravention or in violation of any of the
@@ -303,11 +1437,68 @@ DEFINITIONS
 
                  17.1(a), 17.2(a)(i). 17.2(d)(i), 17.2(k) through (m) inclusive,17.3, 17.4(a) through
                  (d) inclusive, 17.4(e)(i), 17.4(f)(i), 17.5(a)(i), 17.5(b), 17.5(c)(i), 17.5(d)(i),
-                 18.1(b)(i), 18.1(c)(i), and 48…..……………………………………………..............................................$200.00
 
-                 21.7A ........................................................................................................... .$400.00
+      18.1(b)(i),         18.1(c)(i),                                         and
+      48…..……………………………………………..............................................$200.00
 
-                 58, 87, 88, 94(1)(a), 94(1)(d), 94(1)(e), 94(7), 99(1)(b),
-                 99(2)(a) ................................................................................................. $500.00
+      21.7A ........................................................................................................... .$400.00
 
-                 76B……………………………………………………………………$499.00
+      58, 87, 88, 94(1)(a), 94(1)(d), 94(1)(e), 94(7), 99(1)(b),
+      99(2)(a) ................................................................................................. $500.00
+
+      76B……………………………………………………………………$499.00
+
+(3)         Every person who commits an offence against the provisions of subsection
+            (1) of section 90 of this by-law is liable to a fine and penalty of $250.00 plus:
+
+            (a)        $20.00 for each 100 kilograms, or part thereof, up to 3,000 kilograms;
+
+            (b)        $30.00 for each 100 kilograms, or part thereof, from 3,001 kilograms
+                       up to 5,000 kilograms; and
+
+            (c)        $100.00 for each 100 kilograms, or part thereof, greater than 5,000
+                       kilograms;
+
+            of the gross weight or gross vehicle weight that exceeds that allowed under
+            section 90(2).
+
+(4)         Every person who commits an offence against the provisions of subsection
+            (2) of section 99 of this by-law is liable to a fine and penalty of $250.00 plus:
+
+            (a)        $250.00 if the vehicle load consists of solid waste and building debris
+                       or either of them; and
+
+            (b)        $250.00 if the length of the material loaded on the vehicle exceeds
+                       10 metres.
+
+(5)         Every person who commits an offence against the provisions of subsection
+            (2) of section 65A of this by-law is liable to a fine and penalty not exceeding
+            $2000.00.
+
+(6)         Every person who commits an offence against the provisions of sections
+            71A, 71B(4), 71B(5) or 71B(6) is liable to a fine of not less than $1,000.00
+            and not more than $5,000.00.
+
+(7)         Every person who commits an offence against the provisions of section 69A
+            is liable to a fine of not less than $1,000.00 and not more than $10,000.00,
+            unless a provision of the Ticket Offences By-law authorizes a lower fine.
+
+(8)         Every person who commits an offence against the provisions of sections
+            30(2) or 30(6) of this by-law is liable to a fine of not less than $1,000.00 and
+            not more than $50,000.
+
+(9)         Every person who commits an offence against section 84 of this by-law is
+            liable to a maximum fine of $10,000.00.
+
+104.   [Amending By-laws - Not Printed in this Consolidation]
+
+105. This By-law shall come into force and take effect on and after the date of the final
+passing hereof.
+
+              DONE AND PASSED in open Council this 30th day of October, 1944.
+
+                                                           (Signed)        “J.W. Cornett”
+                                                                                  Mayor
+
+                                                           (Signed)      “FRED Howlett”
+                                                                             City Clerk

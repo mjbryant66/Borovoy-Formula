@@ -1,6 +1,8 @@
 # Statute text
 
-One file per corpus law, `<id>.txt`, holding the operative text the scorer gives the model. Each was pulled from an official source at the point in time its corpus entry names (for example, Criminal Code s. 95 as it stood before *R v Nur*, and CHRA s. 13 before its repeal).
+One file per corpus law, `<id>.txt`, holding the text the scorer gives the model. Each was pulled from an official source at the point in time its corpus entry names (for example, Criminal Code s. 95 as it stood before *R v Nur*, and CHRA s. 13 before its repeal).
+
+Since 9 October 2026 each file holds the whole Act, or the whole of each Part the entry names, never a hand-trimmed excerpt. Where an entry names sections rather than a Part, the file holds the Part that contains them. The fixed purposes and provisions for each law are in `../purposes-provisions.json`, a draft awaiting review that the scorer does not yet read.
 
 Each file opens with a header and a line holding only `---`:
 

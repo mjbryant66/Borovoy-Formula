@@ -1,26 +1,23 @@
-SOURCE_URL: https://bylaws.vancouver.ca/6555c.pdf (fetched via Wayback Machine snapshot, bylaws.vancouver.ca returns a Cloudflare bot-detection block to direct curl requests: https://web.archive.org/web/20260914125711id_/https://bylaws.vancouver.ca/6555c.PDF)
-VERSION: Consolidated for convenience only to July 14, 2026 (amended to include By-law No. 14786, effective July 14, 2026), per the document's own title page and cover text
-RETRIEVED: 2026-09-23
-SCOPE: Full Part 1 (Interpretation) except five defined terms and one sub-definition trimmed for length (see GAPS); full Part 2 (Sound Levels, ss.2.1-2.6 - the zone-based decibel/time-of-day provisions); from Part 3 (Prohibited Noises or Sounds), s.3.1 intro plus subsections (b) [amplified sound in commercial premises], (e) [power equipment], (f) [chain saws], (h) [construction] and (j) [noise in a street, park or public place], and all of s.3.2 [noises from premises]; Part 4 (Exceptions, ss.4.1-4.4, with s.4.4's procedural subsections summarized rather than quoted - see GAPS); full Part 5 (Offences and Penalties, ss.5.1-5.3); full Section 6 (Repeal and Enactment, ss.6.1-6.2) and the enactment signature block. This is the whole operative by-law body except the trims below and the Schedule maps/tables (Schedules A-G.1, which define the zone boundaries graphically/by map reference rather than in text).
-GAPS: To stay under the ~25,000-character budget: five lesser-used defined terms were dropped from s.1.2 ("Chief Licence Inspector", "commercial-size container", "leq", "restaurant", "standard hours liquor establishment" - each just cross-refers to the Licence By-law or Solid Waste By-law rather than stating a Vancouver-specific test); the "point of reception" definition's subsection (c), a Rogers-Arena-specific extension keyed to a legal parcel description (PID 018-500-374), was dropped and its omission flagged inline; and s.4.4's five procedural subsections (documentation requirements, application deadlines, an emergency waiver, a suspension power, and the $255.00/$506.00 application fee schedule) were summarized rather than quoted verbatim, with the omission flagged inline. The "holiday" definition's four-part list was kept in full since it is short. Section 3.1's remaining subsections were dropped as narrower noise-source rules not central to the decibel/time-of-day scheme: (a) [bass noise from commercial premises, near-duplicate of kept subsection (b)], (c) [interior music with a posted hearing-hazard warning sign, a signage requirement not a decibel/time rule], (d) [live entertainment in a restaurant, narrow hours rule], (g) [Park Board beach-screening equipment], (i) [solid-waste collection lift noise]. Section 3.3 (construction warning sign specifications) was dropped as a signage/administrative requirement, not a noise prohibition. No Schedule maps (A through G.1, defining zone and area boundaries) were transcribed - they are graphic/map-based, not text.
+SOURCE_URL: https://web.archive.org/web/20260914125711id_/https://bylaws.vancouver.ca/6555c.PDF
+VERSION: Noise Control By-law No. 6555, consolidated to 14 July 2026 (By-law No. 14786); fetched through the Wayback Machine
+RETRIEVED: 2026-10-09
+SCOPE: Whole by-law, Parts 1-6. Schedules (zone maps and address lists) are left out of the text.
+GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
-CITY OF VANCOUVER
-BRITISH COLUMBIA
-
 BY-LAW NO. 6555
 
-A By-law to regulate noise or sound
-within the City of Vancouver
+                              A By-law to regulate noise or sound
+                                 within the City of Vancouver
 
-[Consolidated for convenience only,
-amended to include By-law No. 14786
-effective July 14, 2026]
-___________________________________________
+                            [Consolidated for convenience only,
+                           amended to include By-law No. 14786
+                                  effective July 14, 2026]
+                      ___________________________________________
 
 THE COUNCIL OF THE CITY OF VANCOUVER, in open meeting assembled, enacts as follows:
 
-PART 1
-INTERPRETATION
+                                                 PART 1
+                                            INTERPRETATION
 
 By-law name
 
@@ -41,7 +38,12 @@ Definitions
       intruding noise, measured at the same point as the intruding noise for a period of three
       minutes;
 
+      “Chief Licence Inspector” means the person appointed to hold the office referenced in
+      section 269 of the Vancouver Charter;
+
       "commercial premises" means premises used to sell or offer to sell goods or services;
+
+      “commercial-size container” has the meaning set out in the Solid Waste By-law;
 
       "construction" includes the erection, alteration, repair, relocation, dismantling, demolition and
       removal of a building, structural maintenance, painting, land clearing, earth moving, grading,
@@ -56,7 +58,7 @@ occurring continually, sporadically or erratically but totalling more than three
 
 "Council" means the Council of the City of Vancouver;
 
-"daytime" means:
+“daytime” means:
 
        (a)     unless otherwise provided in this by-law, from 7:00 a.m. to 10:00 p.m. on any
                weekday or Saturday, and from 10:00 a.m. to 10:00 p.m. on any Sunday or
@@ -66,14 +68,14 @@ occurring continually, sporadically or erratically but totalling more than three
                event zone, from 7:00 a.m. to 11:00 p.m. on any weekday or Saturday, and
                from 10:00 a.m. to 11:00 p.m. on any Sunday or holiday;
 
-"dBA" means the sound pressure level in decibels measured using the "A" weighting network
+"dBA" means the sound pressure level in decibels measured using the “A” weighting network
 setting of an approved sound meter and with slow response;
 
 "dBC" means the sound pressure level in decibels measured using the "C" weighting network
 setting of an approved sound meter and with slow response;
 
 "event zone" means those areas described in Schedule G and that portion of the city shown
-outlined in Schedule "G.1";
+outlined in Schedule “G.1”;
 
 "extended hours" has the meaning set out in the Licence By-law;
 
@@ -84,7 +86,7 @@ outlined in Schedule "G.1";
        (a)     Sunday, Christmas Day, Good Friday and Easter Monday;
 
        (b)     Canada Day, Victoria Day, British Columbia Day, Labour Day, National Day for
-               Truth and Reconciliation, Remembrance Day, Family Day and New Year's
+               Truth and Reconciliation, Remembrance Day, Family Day and New Year’s
                Day;
 
        (c)     December 26; and
@@ -95,13 +97,16 @@ outlined in Schedule "G.1";
                thanksgiving, a day for celebrating the birthday of the reigning Sovereign, or
                as a public holiday;
 
-"intermediate zone" means those areas described in "Schedule B and that portion of the city
+"intermediate zone" means those areas described in “Schedule B and that portion of the city
 shown outlined on Schedule B.1, but does not include any areas that are located within the
 portion of the city shown outlined in Schedule G.1;
 
 "leaf blower" means a portable machine, including backpack units or handheld units, used for
 blowing or sucking up leaves, grass, or debris including leaf blowers that accept vacuum
 attachments but excluding vehicle-mounted units;
+"leq" means the equivalent sound level of a steady state sound which has the same sound
+energy as that contained in the actual time-varying sound being measured over a specific
+time period;
 
 "nighttime" means any time not included within the definition of daytime;
 
@@ -111,14 +116,16 @@ attachments but excluding vehicle-mounted units;
 
        (a)     a point in a lane or street, adjacent to but outside of the property occupied by
                the recipient of the noise or sound, that represents the shortest distance
-               between that property and the source of the noise; or
+               between that property and the source of the noise;
 
        (b)     where no lane, street, or other public property exists between the recipient and
                the source, any point outside the property line of the real property from which
-               the noise or sound emanates
+               the noise or sound emanates; or
 
-       [subsection (c), a Rogers Arena-specific extension of this definition keyed to a legal
-       parcel description, omitted - see GAPS],
+       (c)     in the case of noise emanating from inside Rogers Arena, a point as defined in
+               subsection (a) or (b) or a point immediately adjacent to and outside of any
+               dwelling unit located within the site legally described as
+               PID: 018-500-374, Lot 221, Plan LMP 12038,
 
          and in any case, at least 1.2 m above the surface of the ground;
 
@@ -139,12 +146,14 @@ or event zone;
 "residential premises" means any parcel of real property utilized primarily for residential
 accommodation, and includes hotels and motels;
 
-"slow response" means the slow response setting of an approved sound meter; and
+“restaurant” has the meaning set out in the Licence By-law;
+"slow response" means the slow response setting of an approved sound meter “; and
+
+"standard hours liquor establishment" has the meaning set out in the License By-law;
 
 "sound level" means the sound pressure level in decibels measured using the "A" weighting
 network setting of an approved sound meter, with the energy average equivalent level (leq)
-and with slow response.
-
+and with slow response;
 Schedules
 
 1.3    The schedules attached to this by-law form part of this by-law.
@@ -154,12 +163,12 @@ Severability
 1.4     A decision by a court that any part of this By-law is illegal, void, or unenforceable severs that
 part from this By-law and is not to affect the balance of this By-law.
 
-PART 2
-SOUND LEVELS
+                                              PART 2
+                                           SOUND LEVELS
 
 Continuous sound in quiet zone
 
-2.1    In a quiet zone, a person must not make, cause or permit to be made or caused,
+2.1    In a quiet zone, a person m u s t n ot make, cause or permit to be made or caused,
 continuous sound, the sound level of which:
 
        (a)     during the daytime:
@@ -246,8 +255,8 @@ Noise received on a street
 street, for the purposes of sections 2.1, 2.2, 2.3 and 2.4, the street is deemed to be an activity zone,
 and the noise or sound must be measured at least 6.1 m from the source of the noise or sound.
 
-PART 3
-PROHIBITED NOISES OR SOUNDS
+                                        PART 3
+                             PROHIBITED NOISES OR SOUNDS
 
 Prohibited noises or sounds
 
@@ -255,71 +264,143 @@ Prohibited noises or sounds
 may not constitute a violation of any other provision of this by-law, and a person must not make,
 cause or permit to be made or caused, any such noise or sound:
 
-       [subsections (a), (c), (d), (g) and (i) omitted - see GAPS above]
+       (a)    the bass noise or bass sound made by a radio, television, player or other sound
+              playback device, public address system, or any other music or voice amplification
+              equipment, musical instrument, whether recorded or live, whether amplified or not, in
+              commercial premises, the level of which:
+
+              (i)     during the daytime, exceeds a rating of 70 dBC on an approved sound meter
+                      for a period of three minutes at the point of reception,
+
+              (ii)    during the nighttime, exceeds a rating of 65 dBC on an approved sound meter
+                      for a period of three minutes at the point of reception,
+
+              (iii)   if residential premises are in the same building or share a party wall with the
+                      commercial premises, or if a wall of residential premises and the wall of the
+                      commercial premises are flush against one another, exceeds a rating of 55
+                      dBC on an approved sound meter for a period of three minutes in such
+                      residential premises at the centre of the living room or bedroom which is
+                      closest to the commercial premises in the same building or with which such
+                      residential premises shares a party wall or wall that is flush to a wall of the
+                      commercial premises, or
+
+              (iv)    if the commercial premises are an extended hours liquor establishment:
+
+                      (A)    located in any area outlined in black on Schedule F – Map 1 or
+                             Schedule F – Map 4, exceeds a rating of 80 dBC, or
+
+                      (B)    located in any area outlined in black on Schedule F – Map 2, Schedule
+                             F – Map 3, Schedule F – Map 5, Schedule F – Map 6, or Schedule F –
+                             Map 7, exceeds a rating of 75 dBC,
+
+                             during extended hours, on an approved sound meter for a period of
+                             one minute at a distance of 3 m from an exterior wall of the building in
+                             which that liquor establishment is situate, and at least 1.2 m above the
+                             ground;
 
        (b)    the noise or sound made by a radio, television, player or other sound playback
               device, public address system, or any other music or voice amplification equipment,
               musical instrument, whether recorded or live, whether amplified or not, in commercial
               premises the level of which:
+      (i)     exceeds 3 dBA above the background noise on an approved sound meter
+              when measured for a period of three minutes at the point of reception,
 
-              (i)     exceeds 3 dBA above the background noise on an approved sound meter
-                      when measured for a period of three minutes at the point of reception,
+      (ii)    if residential premises are in the same building or share a party wall with the
+              commercial premises, or if a wall of residential premises and the wall of the
+              commercial premises are flush against one another:
 
-              (ii)    if residential premises are in the same building or share a party wall with the
-                      commercial premises, or if a wall of residential premises and the wall of the
-                      commercial premises are flush against one another:
+              (A)    during the daytime, exceeds a rating of 50 dBA, or
 
-                      (A)    during the daytime, exceeds a rating of 50 dBA, or
+              (B)    during the nighttime, exceeds a rating of 45 dBA,
 
-                      (B)    during the nighttime, exceeds a rating of 45 dBA,
+              on an approved sound meter for a period of three minutes, in such residential
+              premises, at the centre of the living room or bedroom which is closest to the
+              commercial premises in the same building or with which such residential
+              premises shares a common wall or party wall or wall that is flush to a wall of
+              the commercial premises, or
 
-                      on an approved sound meter for a period of three minutes, in such residential
-                      premises, at the centre of the living room or bedroom which is closest to the
-                      commercial premises in the same building or with which such residential
-                      premises shares a common wall or party wall or wall that is flush to a wall of
-                      the commercial premises, or
+      (iii)   if the commercial premises are an extended hours liquor establishment, during
+              extended hours, exceeds 3 dBA above the background noise on an approved
+              sound meter for a period of one minute at a distance of 3 m from an exterior
+              wall of the building in which that liquor establishment is situate, and at least
+              1.2 m above the ground;
 
-              (iii)   if the commercial premises are an extended hours liquor establishment, during
-                      extended hours, exceeds 3 dBA above the background noise on an approved
-                      sound meter for a period of one minute at a distance of 3 m from an exterior
-                      wall of the building in which that liquor establishment is situate, and at least
-                      1.2 m above the ground;
+(c)   the noise or sound made by music, whether recorded or live, whether amplified or not,
+      in commercial premises, the sound level of which exceeds an interior rating of 90 dBA
+      on an approved sound meter when measured within the premises at a distance of not
+      less than 6.1 m from the source, unless a notice containing the word "CAUTION" in
+      bold face, followed by the words "THE SOUND LEVEL WITHIN THESE PREMISES
+      MAY BE HAZARDOUS TO YOUR HEARING" in capital letters and the symbol shown
+      on Schedule "D", is posted in a prominent location at the entry to the premises, and is
+      constructed so that:
 
-       (e)    the noise or sound made by power equipment:
+      (i)     it is rectangular in shape,
 
-              (i)     during the nighttime, or
+      (ii)    it is at least 15 cm high and 30.5 cm wide,
 
-              (ii)    during the daytime that exceeds a rating of 77 dBA on an approved sound
-                      meter when received at the greater of 15.2 m or a point of reception;
+      (iii)   the lettering for the word "CAUTION" is at least 2 cm high and in red and for
+              the balance of the script is at least 1 cm high and in any colour which
+              contrasts with the background, and
 
-       (f)    the noise or sound made by a chain saw:
+      (iv)    the symbol is at least 10 cm high;
 
-              (i)     during the nighttime, or
+(d)   the noise or sound made by live entertainment in a restaurant after 9:00 a.m. and
+      before 1:00 a.m., that exceeds an interior rating of 90 dBA on an approved sound
+      meter when measured within the restaurant for a period of three minutes at a distance
+      of 2 m from an exterior or party wall, and at a height of at least 1.2 m above the floor;
 
-              (ii)    during the daytime that exceeds a rating of 87 dBA on an approved sound
-                      meter when received at a point of reception;
+(e)   the noise or sound made by power equipment:
 
-       (h)    the noise or sound resulting from construction:
+      (i)     during the nighttime, or
+      (ii)   during the daytime that exceeds a rating of 77 dBA on an approved sound
+             meter when received at the greater of 15.2 m or a point of reception;
 
-              (i)     in or adjacent to residential premises, but not including a street, the
-                      continuous sound level of which exceeds a rating of 85 dBA on an approved
-                      sound meter when measured at the property line of the parcel of land where
-                      the construction is taking place that is nearest to the point of reception of the
-                      noise or sound, or
+(f)   the noise or sound made by a chain saw:
 
-              (ii)    that disturbs the quiet, peace, rest or enjoyment of the public, except:
+      (i)    during the nighttime, or
 
-                      A.      from 7:30 a.m. to 8:00 p.m. on any weekday that is not a holiday, or
-                              from 10:00 a.m. to 8:00 p.m. on any Saturday that is not a holiday, or
+      (ii)   during the daytime that exceeds a rating of 87 dBA on an approved sound
+             meter when received at a point of reception;
 
-                      B.      for construction on a street, from 7:00 a.m. to 8:00 p.m. on any
-                              weekday or Saturday, or from 10:00 a.m. to 8:00 p.m. on any Sunday
-                              or holiday;
+(g)   the noise or sound made by beach screening equipment owned by the Vancouver
+      Park Board that exceeds a rating of 77 dBA on an approved sound meter when
+      received at the greater of 15.2 m or a point of reception;
 
-       (j)    any noise or sound made in a street, park or similar public place that disturbs or tends
-              to disturb unreasonably the quiet, peace, rest, enjoyment, comfort or convenience of
-              persons in the neighbourhood or vicinity.
+(h)   the noise or sound resulting from construction:
 
+      (i)    in or adjacent to residential premises, but not including a street, the
+             continuous sound level of which exceeds a rating of 85 dBA on an approved
+             sound meter when measured at the property line of the parcel of land where
+             the construction is taking place that is nearest to the point of reception of the
+             noise or sound, or
+
+      (ii)   that disturbs the quiet, peace, rest or enjoyment of the public, except:
+
+             A.      from 7:30 a.m. to 8:00 p.m. on any weekday that is not a holiday, or
+                     from 10:00 a.m. to 8:00 p.m. on any Saturday that is not a holiday, or
+
+             B.      for construction on a street, from 7:00 a.m. to 8:00 p.m. on any
+                     weekday or Saturday, or from 10:00 a.m. to 8:00 p.m. on any Sunday
+                     or holiday;
+
+(i)   the noise or sound made by a mechanical or hydraulic lift attached to a motor vehicle
+      used for the transportation of solid waste when collecting solid waste from a
+      commercial-size container that is located in or adjacent to residential premises:
+
+      (i)    outside the area shown outlined in Schedule C except from 7:00 a.m. to 8:00
+             p.m. on any weekday, or from 10:00 a.m. to 8:00 p.m. on any Saturday,
+             Sunday, or holiday, or
+
+      (ii)   inside the area shown outlined in Schedule C except from 6:00 a.m.to
+             midnight on any weekday, or from 10:00 a.m. to midnight on any Saturday,
+             Sunday, or holiday,
+
+      except when such noise or sound is made by the City between 10:00 p.m. and 7:00
+      a.m. in the night shift area, as defined in the Solid Waste By-law;
+
+(j)   any noise or sound made in a street, park or similar public place that disturbs or tends
+      to disturb unreasonably the quiet, peace, rest, enjoyment, comfort or convenience of
+      persons in the neighbourhood or vicinity.
 Prohibited noises or sounds from premises
 
 3.2   The following noises or sounds are prohibited, despite the fact that such noises or sounds
@@ -353,8 +434,30 @@ premises must not make, cause or permit to be made or caused, any such noise or 
               (iii)   the noise resulting from construction except during the hours and days during
                       which section 3.1(h)(ii) permits a person to carry on construction.
 
-PART 4
-EXCEPTIONS
+Construction sign requirement
+
+3.3    The owner of a parcel of land upon which construction is taking place must:
+
+       (a)    post a sign in a prominent location on the parcel of land that is clearly visible from at
+              least one adjacent street that:
+
+              (i)     is rectangular in shape,
+
+              (ii)    is at least 42.5 cm high and 27.5 cm wide,
+
+              (iii)   contains script that is at least 1.25 cm high, and is in a colour that contrasts
+                      with the background of the sign, and
+
+              (iv)    sets out the sections of this by-law that apply to the construction, the name of
+                      the general contractor for the construction on the parcel of land, the name and
+                      telephone number of an individual representative of that general contractor
+                      that persons may contact during all on-site working hours, and the City’s
+                      contact information for complaints; and
+
+       (b)     maintain the sign during the course of construction.
+
+                                              PART 4
+                                            EXCEPTIONS
 
 Application of certain sections
 
@@ -396,7 +499,6 @@ sound:
        (d)     is made by a participant in and as a consequence of a festival, race, parade or other
                special event provided such program, festival, race, parade or event has been
                authorized by Council;
-
        (e)     emanates from B.C. Place Stadium and is caused by a concert or an event using
                motor vehicles, provided that the total number of such concerts or events does not
                exceed 10 in a year;
@@ -410,7 +512,7 @@ sound:
 
 Exceptions for construction and special events
 
-4.4      In any case where it is impossible or impractical to comply with sections 3.1(h)(i) or (ii) or
+4.4      In In any case where it is impossible or impractical to comply with sections 3.1(h)(i) or (ii) or
 where, as the result of a special event, sections 2.1, 2.2, 2.3, 2.4 or 3.1(j) cannot be complied with,
 an application in the form prescribed by the Chief Building Official may be made to the Chief Building
 Official for an exception in the case of construction work, and an application in the form prescribed
@@ -418,14 +520,32 @@ by the Chief Licence Inspector may be made to the Chief Licence Inspector in the
 event, and the Chief Building Official or Chief Licence Inspector may give consent in writing to carry
 on any such works or events outside the prescribed limits and upon such terms as the Chief Building
 Official or Chief Licence Inspector determines, except that an exception must not be granted for a
-period longer than 180 days.
+period longer than 180 days, and:
 
-       [subsections (a)-(e), setting out documentation requirements, application deadlines, an
-       emergency waiver, a suspension power, and the non-refundable application fee schedule
-       ($255.00 or $506.00 depending on notice given), omitted - see GAPS]
+       (a)     the Chief Building Official or Chief Licence Inspector may require additional
+               documentation prior to making a decision whether to grant an exception, including a
+               report from a registered professional acoustical engineer;
 
-PART 5
-OFFENCES AND PENALTIES
+       (b)     the application must be submitted at least five working days prior to the date of the
+               proposed works or events;
+
+       (c)     in any case where, because of an emergency or other unforeseen circumstance, an
+               application cannot be submitted within the time limit prescribed in (b) above, the Chief
+               Building Official or Chief Licence Inspector may waive that limitation;
+
+       (d)     the Chief Building Official or Chief Licence Inspector may suspend an exception
+               issued under this section at any time; and
+
+       (e)     each application must be accompanied by the following non-refundable fee:
+
+               (i)     for an application submitted at least five working days prior to the date of the
+                       proposed activity…………………….$255.00, and
+
+               (ii)    for an application submitted less than five working days prior to the date of the
+                       proposed activity, if the time limit has been waived under (c)
+                       above………………………………..….$506.00.
+                                          PART 5
+                                  OFFENCES AND PENALTIES
 
 Offences under by-law
 
@@ -460,8 +580,8 @@ Fine for continuing offence
 5.3     Every person who commits an offence of a continuing nature against this by-law is liable to a
 fine not less than $250.00 and not more than $10,000.00 for each day such offence continues.
 
-SECTION 6
-REPEAL AND ENACTMENT
+                                    SECTION 6
+                              REPEAL AND ENACTMENT
 
 Repeal
 
@@ -473,8 +593,8 @@ Force and effect
 section 12 which shall come into force and take effect on November 1, 1989.
 
 DONE AND PASSED in open Council this 12th day of September, 1989.
-(Signed)    "Gordon Campbell"
+(Signed)    “Gordon Campbell”
                        Mayor
 
- (Signed)      "Maria Kinsella"
+ (Signed)      “Maria Kinsella”
                      City Clerk

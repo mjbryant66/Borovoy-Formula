@@ -1,199 +1,548 @@
-SOURCE_URL: https://www.legisquebec.gouv.qc.ca/en/document/cs/L-0.3
-VERSION: Official English text, current ("up to date") as of September 1, 2026, per the page's own "À jour au 1er septembre 2026" / current-to banner; this consolidation already includes amendments made by 2026, c. 6 (Quebec's 2026 amending Act) and 2024, c. 12, s. 1 (which amended s.34's notwithstanding-clause wording)
-RETRIEVED: 2026-09-23
-SCOPE: Preamble (all ten "AS" recitals) and enacting clause; Chapter I ss.1-5 in FULL, s.4.1-4.3 in FULL (added 2026); Chapter II s.6 in FULL (the religious-symbol prohibition itself and the definition of "religious symbol"); Chapter III s.8 in FULL (the face-uncovered obligation, all six paragraphs); ss.33-34 in FULL (the override of the Quebec Charter of human rights and freedoms, and the notwithstanding-clause override of ss.2 and 7-15 of the Constitution Act, 1982); s.35 (Minister responsible) for context; SCHEDULE I, SCHEDULE II and SCHEDULE III in FULL (the three lists of bodies/persons the Act covers, verbatim, all paragraphs).
-NOTE ON AUTHORITATIVE TEXT: French is the authoritative text of Quebec statutes; this file is the official English version published by the Quebec government at the URL above, which LegisQuebec presents as the government's own English translation (not a private translation), current to the same date as the French consolidation. It was retrieved directly, not machine-translated by me.
-GAPS: s.7 (Chapter III's definition of "personnel member of a body" for that chapter) omitted for length. Sections 9-32 omitted for length: s.9 (health/disability exception to the face-uncovered rule); Chapter III.1 "Contractual Measures" (2026 addition); Chapter III.2 "Religious Practice in Certain Places" (2026 addition, includes the chapel exemptions at ss.31.1-31.2 already partly visible via context); Chapter III.3 "Functions and Powers of the Minister" (2026 addition); Chapter IV "Miscellaneous Provisions"; Chapter V "Amending Provisions" (the textual amendments this Act makes to the Quebec Charter of human rights and freedoms and to other statutes); and ss.31-32 of Chapter VI (transitional grandfathering for persons already in a covered role as of specific 2019/2025/2026 dates, and interim Minister designation). S.36 is itself "(Omitted)" in the official consolidation (a coming-into-force clause omitted by the Queen's/King's Printer, not by me).
+SOURCE_URL: https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/en/2019/2019C12A.PDF
+VERSION: As enacted: SQ 2019, c 12 (Bill 21), assented to and in force 16 June 2019; English text published by the Québec Official Publisher
+RETRIEVED: 2026-10-09
+SCOPE: Whole Act as enacted, ss. 1-36 and Schedules I-III. The explanatory notes are not part of the Act and are left out.
+GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
-chapter L-0.3 Act respecting the laicity of the State AS the Québec nation has its own characteristics, one of which is its civil law tradition, distinct social values and a specific history that have led it to develop a particular attachment to State laicity; AS the Québec State stands on constitutional foundations that have been enriched over the years by the passage of a number of fundamental laws; AS, in accordance with the principle of parliamentary sovereignty, it is incumbent on the Parliament of Québec to determine the principles according to which and manner in which relations between the State and religions are to be governed in Québec; AS, in the exercise of its sovereignty, the Parliament of Québec must not enact laws that are based on considerations of a religious nature; AS it is important that the paramountcy of State laicity be enshrined in Québec’s legal order; AS State laicity constitutes a foundation of national integration; AS the Québec nation attaches importance to the equality of women and men; AS a stricter duty of restraint regarding religious matters should be established for persons exercising certain functions, resulting in their being prohibited from wearing religious symbols in the exercise of their functions; AS State laicity contributes to the fulfilment of the magistrature’s duty of impartiality; AS State laicity should be affirmed in a manner that ensures a balance between the collective rights of the Québec nation and human rights and freedoms; AS the framework established by this Act gives full effect to every person’s freedom of conscience and freedom of religion; THE PARLIAMENT OF QUÉBEC ENACTS AS FOLLOWS: 2019, c. 12, pream ; 2026, c. 6 , s. 1 .
+AN ACT RESPECTING THE LAICITY OF THE STATE
 
-CHAPTER I AFFIRMATION OF THE LAICITY OF THE STATE 2019, c. 12, c. I .
+AS the Québec nation has its own characteristics, one of which is its civil law
+tradition, distinct social values and a specific history that have led it to develop
+a particular attachment to State laicity;
 
-1 . The State of Québec is a lay State.
+AS the Québec State stands on constitutional foundations that have been
+enriched over the years by the passage of a number of fundamental laws;
 
-2019, c. 12 , s. 1 .
+AS, in accordance with the principle of parliamentary sovereignty, it is
+incumbent on the Parliament of Québec to determine the principles according
+to which and manner in which relations between the State and religions are to
+be governed in Québec;
 
-2 . The laicity of the State is based on the following principles: ( 1 ) the separation of State and religions; ( 2 ) the religious neutrality of the State; ( 3 ) the equality of all citizens; and ( 4 ) freedom of conscience and freedom of religion.
+AS it is important that the paramountcy of State laicity be enshrined in Québec’s
+legal order;
 
-2019, c. 12 , s. 2 .
+AS the Québec nation attaches importance to the equality of women and men;
 
-3 . State laicity requires parliamentary institutions, judicial institutions and the bodies listed in Schedule I to comply with all the principles listed in section 2, in fact and in appearance, in pursuing their missions.
+AS a stricter duty of restraint regarding religious matters should be established
+for persons exercising certain functions, resulting in their being prohibited
+from wearing religious symbols in the exercise of their functions;
 
-For the purposes of this chapter, ( 1 ) “ parliamentary institutions ” means the National Assembly and the persons appointed or designated by it to an office under its authority; ( 2 ) (subparagraph repealed); ( 3 ) “ judicial institutions ” means the Court of Appeal, the Superior Court, the Court of Québec, the Human Rights Tribunal, the Professions Tribunal and the municipal courts.
+AS State laicity contributes to the fulfilment of the magistrature’s duty of
+impartiality;
 
-2019, c. 12 , s. 3 ; 2026, c. 6 , s. 2 .
+AS State laicity should be affirmed in a manner that ensures a balance between
+the collective rights of the Québec nation and human rights and freedoms;
 
-4 . State laicity also requires every personnel member of a body to act, in the exercise of their functions, so as not to treat a person favourably or unfavourably because of the person’s religious affiliation or non-affiliation, because of their own religious convictions or beliefs or the absence of such religious convictions or beliefs, or because of the religious convictions or beliefs of a person in authority or the absence of such religious convictions or beliefs.
+THE PARLIAMENT OF QUÉBEC ENACTS AS FOLLOWS:
 
-For the purposes of this section, “ personnel member of a body ” means a member of the personnel of a body listed in Schedule I, except a school service centre referred to in paragraph 7 of that schedule and a body referred to in paragraph 12 of that schedule, as well as a person listed in any of paragraphs 5 to 13 of Schedule III.
+CHAPTER I
+AFFIRMATION OF THE LAICITY OF THE STATE
 
-2019, c. 12 , s. 4 ; 2026, c. 6 , s. 3 .
+1.     The State of Québec is a lay State.
 
-4.1 . Section 4 does not apply ( 1 ) to a personnel member when the member is providing a spiritual development or care service, or a service based on a culturally safe practice developed under the Act to establish the cultural safety approach within the health and social services network ( chapter A-20.1.1 ), in a centre operated by a Santé Québec institution or in a body referred to in paragraph 8 or 13 of Schedule I; ( 2 ) to a personnel member when the member is providing a spiritual development or care service in a correctional facility governed by the Act respecting the Québec correctional system ( chapter S-40.1 ); ( 3 ) to a personnel member when the member is providing instruction on religion within the scope of a program or course established or approved by the Minister of Higher Education, Research, Science and Technology; or ( 4 ) to a health professional where the professional refuses to recommend or provide professional services because of their personal convictions, as is permitted by law.
+2.     The laicity of the State is based on the following principles:
 
-2026, c. 6 , s. 3 .
+     (1) the separation of State and religions;
 
-4.2 . The conduct of every personnel member of a body referred to in paragraph 12 of Schedule I must, in the exercise of the member’s functions, be guided both by democratic values and Québec values expressed in particular by the Charter of human rights and freedoms ( chapter C-12 ), including the equality of women and men, and by State laicity.
+     (2) the religious neutrality of the State;
+     (3) the equality of all citizens; and
 
-2026, c. 6 , s. 3 .
+     (4) freedom of conscience and freedom of religion.
 
-4.3 . In addition to the requirements set out in sections 3, 4 and 4.2, State laicity requires compliance with the prohibition on wearing religious symbols and the obligation to have one’s face uncovered set out in Chapters II and III of this Act, by the persons subject to that prohibition or obligation.
+3. State laicity requires parliamentary, government and judicial institutions
+to comply with all the principles listed in section 2, in fact and in appearance,
+in pursuing their missions.
 
-State laicity also requires that every person has the right to parliamentary, government and judicial institutions and to public services that are lay institutions and services, to the extent provided for by law.
+     For the purposes of this chapter,
 
-2026, c. 6 , s. 3 .
+  (1) “parliamentary institutions” means the National Assembly and the
+persons appointed or designated by it to an office under its authority;
 
-5 . It is incumbent on the Conseil de la magistrature, with respect to judges of the Court of Québec, the Human Rights Tribunal, the Professions Tribunal and the municipal courts, as well as presiding justices of the peace, to establish rules translating the requirements of State laicity and to ensure their implementation.
+   (2) “government institutions” means the bodies listed in paragraphs 1 to 10
+of Schedule I;
 
-Despite subparagraph 3 of the second paragraph of section 3, the requirement to comply with the principles set out in section 2 applies to judges only to the extent provided for in this section.
+   (3) “judicial institutions” means the Court of Appeal, the Superior Court,
+the Court of Québec, the Human Rights Tribunal, the Professions Tribunal and
+the municipal courts.
 
-2019, c. 12 , s. 5 .
+4.    In addition to the requirement under section 3, State laicity requires
+compliance with the prohibition on wearing religious symbols under Chapter II
+of this Act, and with the duty of religious neutrality under Chapter II of the
+Act to foster adherence to State religious neutrality and, in particular, to provide
+a framework for requests for accommodations on religious grounds in certain
+bodies (chapter R-26.2.01), by the persons subject to that prohibition or
+that duty.
 
-CHAPTER II PROHIBITION ON WEARING RELIGIOUS SYMBOLS 2019, c. 12, c. II .
+  State laicity also requires that all persons have the right to lay parliamentary,
+government and judicial institutions, and to lay public services, to the extent
+provided for in this Act and in the Act to foster adherence to State religious
+neutrality and, in particular, to provide a framework for requests for
+accommodations on religious grounds in certain bodies.
 
-6 . The persons listed in Schedule II are prohibited from wearing religious symbols in the exercise of their functions.
+5. It is incumbent on the Conseil de la magistrature, with respect to judges
+of the Court of Québec, the Human Rights Tribunal, the Professions Tribunal
+and the municipal courts, as well as presiding justices of the peace, to establish
+rules translating the requirements of State laicity and to ensure their
+implementation.
 
-A religious symbol, within the meaning of this Act, is any object, including clothing, a symbol, jewellery, an adornment, an accessory or headwear, that ( 1 ) is worn in connection with a religious conviction or belief; or ( 2 ) is reasonably considered as referring to a religious affiliation.
+   Despite subparagraph 3 of the second paragraph of section 3, the requirement
+to comply with the principles set out in section 2 applies to judges only to the
+extent provided for in this section.
 
-2019, c. 12 , s. 6 ; 2026, c. 6 , s. 4 .
+CHAPTER II
+PROHIBITION ON WEARING RELIGIOUS SYMBOLS
 
+6.  The persons listed in Schedule II are prohibited from wearing religious
+symbols in the exercise of their functions.
 
-[Section 7 (Chapter III, definition of "personnel member of a body" for this chapter) omitted here for length.]
+   A religious symbol, within the meaning of this section, is any object,
+including clothing, a symbol, jewellery, an adornment, an accessory or
+headwear, that
 
-CHAPTER III OBLIGATION TO HAVE ONE’S FACE UNCOVERED 2019, c. 12, c. III ; 2026, c. 6 , s. 5 .
-8 . Personnel members of a body must exercise their functions with their face uncovered.
+     (1) is worn in connection with a religious conviction or belief; or
 
-Persons must have their face uncovered when they are in a place, such as an immovable or a room, under the authority of a body referred to in any of paragraphs 7, 11 and 12.1 of Schedule I, except a school service centre referred to in paragraph 7 of that schedule, and when they are receiving a service from such a body.
+     (2) is reasonably considered as referring to a religious affiliation.
 
-Persons must have their face uncovered when they are receiving, from a parliamentary institution or from a body other than a body referred to in any of paragraphs 7, 11, 12 and 12.1 of Schedule I, ( 1 ) an educational, training or professional development service; or ( 2 ) any other service, where doing so is necessary to allow their identity to be verified or for security reasons.
+CHAPTER III
+SERVICES WITH FACE UNCOVERED
+
+7.  For the purposes of this chapter, “personnel member of a body” means a
+member of the personnel of a body listed in Schedule I or a person listed in
+Schedule III who is considered to be such a member.
+
+8.  Personnel members of a body must exercise their functions with their face
+uncovered.
+
+   Similarly, persons who present themselves to receive a service from a
+personnel member of a body must have their face uncovered where doing so
+is necessary to allow their identity to be verified or for security reasons. Persons
+who fail to comply with that obligation may not receive the service requested,
+where applicable.
+
+  For the purposes of the second paragraph, persons are deemed to be
+presenting themselves to receive a service when they are interacting or
+communicating with a personnel member of a body in the exercise of the
+personnel member’s functions.
+
+9. Section 8 does not apply to persons whose face is covered for health
+reasons or because of a handicap or of requirements tied to their functions or
+to the performance of certain tasks.
+
+10. A body listed in Schedule I may require, from any persons or partnerships
+with whom or which it enters into a contract, or to whom or which it grants
+financial assistance, that members of their personnel exercise their functions
+with their face uncovered, if the contract or the granting of financial assistance
+is for the provision of services that are inherent in the body’s mission or if the
+services are performed in its personnel’s place of work. The same applies to a
+parliamentary institution referred to in subparagraph 1 of the second paragraph
+of section 3.
+
+CHAPTER IV
+MISCELLANEOUS PROVISIONS
+
+11. The provisions of this Act prevail over any contrary provisions of any
+subsequent Act, unless such an Act expressly states that it applies despite
+this Act.
+
+   The provisions of sections 1 to 3 do not prevail over any contrary provisions
+of any previous Act.
+
+12. A minister may, jointly with the minister responsible for the administration
+of this Act, verify compliance with the measures set out in this Act within a
+body listed in Schedule I or with a person referred to in paragraph 11 of
+Schedule III that is under his or her responsibility or jurisdiction. A minister
+may also designate, in writing, a person to conduct such verification. At the
+request of the minister concerned or the designated person, the body or the
+person being verified must send or otherwise make available to the minister or
+designated person all documents and information the minister or designated
+person considers necessary to conduct the verification.
 
-For the purposes of the second and third paragraphs, persons are deemed to be receiving a service when they are interacting or communicating, in person or remotely, with a personnel member of an institution or body in the exercise of the personnel member’s functions or with a person providing the service on behalf of an institution or body.
+  The minister concerned may, in writing and within the time he or she
+specifies, require the body or the person to take corrective measures, conduct
+any appropriate follow-up and comply with any other measure, including
+oversight and support measures.
 
-No person who fails to comply with the obligation set out in the second or third paragraph may receive the service they request.
+  For the purposes of this section, the following bodies and persons, among
+others, are under the jurisdiction of the following ministers:
 
-This section does not apply ( 1 ) to persons recognized as subsidized home educational childcare providers under the Educational Childcare Act ( chapter S-4.1.1 ) outside the hours devoted to the provision of educational childcare services; ( 2 ) to persons present in a place that constitutes a private residence and that is under the authority of a body referred to in paragraph 7 or 12.1 of Schedule I and mentioned in the second paragraph, where they are not receiving a service from such a body; or ( 3 ) to persons going to or present in a place under the authority of a body referred to in paragraph 7 or 12.1 of Schedule I, except a school service centre, leased according to the conditions determined by government regulation.
+  (1) the bodies listed in paragraph 5 of Schedule I: the Minister of Municipal
+Affairs, Regions and Land Occupancy;
 
-2019, c. 12 , s. 8 ; 2026, c. 6 , s. 6 .
+  (2) the bodies listed in paragraph 6 of Schedule I: the Minister of Transport;
 
-[Sections 9-32 omitted here for length: s.9 (health/disability exception to s.8); Chapter III.1 Contractual Measures; Chapter III.2 Religious Practice in Certain Places; Chapter III.3 Functions and Powers of the Minister; Chapter IV Miscellaneous Provisions; Chapter V Amending Provisions (the amendments this Act makes to the Quebec Charter of human rights and freedoms and other statutes); and ss.31-32 of Chapter VI (transitional grandfathering for persons already in a covered role, and interim Minister designation).]
+   (3) the bodies listed in paragraphs 7 and 12 of Schedule I: the Minister of
+Education, Recreation and Sports or, as applicable, the Minister of Higher
+Education, Research, Science and Technology, according to their respective
+responsibilities;
 
-33 . This Act applies despite sections 1 to 38 of the Charter of human rights and freedoms ( chapter C-12 ).
+  (4) the bodies listed in paragraphs 8 and 13 of Schedule I: the Minister of
+Health and Social Services; and
 
-2019, c. 12 , s. 33 ; 2026, c. 6 , s. 18 .
+   (5) the bodies listed in paragraph 11 of Schedule I and the person referred
+to in paragraph 11 of Schedule III: the Minister of Families, Seniors and the
+Status of Women.
 
-34 . This Act and the amendments made by Chapter V of this Act have effect notwithstanding sections 2 and 7 to 15 of the Constitution Act, 1982 (Schedule B to the Canada Act, chapter 11 in the 1982 volume of the Acts of the Parliament of the United Kingdom).
+   This section does not apply to the parliamentary institutions and judicial
+institutions referred to in subparagraph 1 or 3 of the second paragraph of
+section 3.
 
-2019, c. 12 , s. 34 ; 2024, c. 12 , s. 1 .
+13. It is incumbent on the person exercising the highest administrative
+authority, where applicable, over the persons referred to in section 6 or the first
+paragraph of section 8 to take the necessary measures to ensure compliance
+with the measures set out in those provisions. That function may be delegated
+to a person within the same organization.
 
-35 . The Minister Responsible for Laicity is responsible for the administration of this Act.
+   The persons referred to in section 6 or the first paragraph of section 8 are,
+in the event of failure to comply with the measures set out in those provisions,
+subject to a disciplinary measure or, if applicable, to any other measure resulting
+from the enforcement of the rules governing the exercise of their functions.
 
-2019, c. 12 , s. 35 ; 2026, c. 6 , s. 19 .
+14. No accommodation or other derogation or adaptation, except those
+provided for in this Act, may be granted in connection with the provisions
+concerning the prohibition on wearing religious symbols or concerning the
+obligations relating to services with one’s face uncovered.
 
-36 . (Omitted).
+15. Where the prohibition on wearing religious symbols applies to a lawyer
+or notary referred to in paragraph 8 of Schedule II, the obligation is deemed
+to be an integral part of the legal services contract under which the lawyer or
+notary acts.
 
-2019, c. 12 , s. 36 .
+16.   A provision of a collective agreement, group agreement or any other
+contract concerning conditions of employment that is incompatible with the
+provisions of this Act is absolutely null.
 
+17. Sections 1 to 3 must not be interpreted as requiring an institution referred
+to in section 3 to remove or alter an immovable, or movable property adorning
+an immovable. However, an institution may, on its own initiative, remove or
+alter an immovable or such movable property.
 
-SCHEDULE I ( Sections 3, 7 and 10 ) BODIES
+   Nor must those sections be interpreted as affecting toponymy, or the name
+of or name used by an institution referred to in section 3.
 
-( 1 ) government departments;
+CHAPTER V
+AMENDING PROVISIONS
 
-( 2 ) budget-funded bodies, bodies other than budget-funded bodies and government enterprises listed in Schedules 1 to 3 to the Financial Administration Act ( chapter A-6.001 ), including the persons listed in those schedules, as well as bodies whose capital forms part of the domain of the State;
+CHARTER OF HUMAN RIGHTS AND FREEDOMS
 
-( 3 ) bodies and persons whose personnel is appointed in accordance with the Public Service Act ( chapter F-3.1.1 );
+18. The Charter of human rights and freedoms (chapter C-12) is amended
+by inserting the following paragraph after the third paragraph of the preamble:
 
-( 4 ) government bodies listed in Schedule I to the Act respecting the negotiation and determination of conditions of employment requiring national coordination in particular in the public and parapublic sectors ( chapter N-0.1 ), including the persons listed in that schedule;
+“Whereas the Québec nation considers State laicity to be of fundamental
+importance;”.
 
-( 5 ) municipalities, metropolitan communities, intermunicipal boards and municipal and regional housing bureaus, except municipalities governed by the Cree Villages and the Naskapi Village Act ( chapter V-5.1 ) or the Act respecting Northern villages and the Kativik Regional Government ( chapter V-6.1 );
+19. Section 9.1 of the Charter is amended by inserting “State laicity,” after
+“democratic values,” in the first paragraph.
 
-( 6 ) public transit authorities, the Autorité régionale de transport métropolitain and any other operator of a shared transportation system;
+ACT TO FOSTER ADHERENCE TO STATE RELIGIOUS NEUTRALITY
+AND, IN PARTICULAR, TO PROVIDE A FRAMEWORK FOR
+REQUESTS FOR ACCOMMODATIONS ON RELIGIOUS GROUNDS IN
+CERTAIN BODIES
 
-( 7 ) school service centres established under the Education Act ( chapter I-13.3 ), the Centre de services scolaire du Littoral established by the Act respecting the Centre de services scolaire du Littoral (1966-1967, chapter 125), the Comité de gestion de la taxe scolaire de l’île de Montréal, general and vocational colleges established under the General and Vocational Colleges Act ( chapter C-29 ), and university-level educational institutions listed in paragraphs 1 to 11 of section 1 of the Act respecting educational institutions at the university level ( chapter E-14.1 );
+20.    The preamble to the Act to foster adherence to State religious neutrality
+and, in particular, to provide a framework for requests for accommodations on
+religious grounds in certain bodies (chapter R-26.2.01) is repealed.
 
-( 8 ) institutions referred to in Schedule II to the Act respecting the governance of the health and social services system ( chapter G-1.021 ), the health and social services network insurance manager referred to in section 788 of that Act, and health communication centres referred to in the Act respecting pre-hospital emergency services ( chapter S-6.2 );
+21.   Section 1 of the Act is amended
 
-( 9 ) bodies the majority of whose members are appointed by the National Assembly;
+  (1) by replacing the first paragraph by the following paragraph:
 
-( 10 ) inquiry commissions established under the Act respecting public inquiry commissions ( chapter C-37 );
+  “This Act imposes, to the extent it provides for, a duty of religious neutrality
+on personnel members of public bodies in the exercise of their functions, in
+accordance with the requirements of State laicity.”;
 
-( 11 ) childcare centres, home educational childcare coordinating offices, subsidized day care centres and persons recognized as subsidized home educational childcare providers governed by the Educational Childcare Act ( chapter S-4.1.1 );
+  (2) by striking out the second paragraph.
 
-( 12 ) institutions accredited for purposes of subsidies under the Act respecting private education ( chapter E-9.1 ) that provide an educational service referred to in any of paragraphs 1 to 5 of section 1 of that Act;
+22.    Section 2 of the Act is amended, in the first paragraph,
 
-( 12.1 ) institutions accredited for purposes of subsidies under the Act respecting private education that provide an educational service referred to in any of paragraphs 7 to 9 of section 1 of that Act and institutions whose instructional program is the subject of an international agreement within the meaning of the Act respecting the Ministère des Relations internationales ( chapter M-25.1.1 );
+   (1) by inserting “, as well as bodies whose capital forms part of the domain
+of the State” at the end of subparagraph 2;
 
-( 13 ) private institutions under agreement, intermediary resources and family-type resources governed by the Act respecting the governance of the health and social services system.
+  (2) by inserting “and regional” after “municipal” in subparagraph 5;
 
-2019, c. 12 , Sch. I ; 2020, c. 1 , s. 312 ; 2022, c. 9 , s. 97 ; 2023, c. 34 , s. 1091 ; 2025, c. 23 , s. 97 ; 2026, c. 6 , s. 20 .
+   (3) by inserting “, the Commission scolaire du Littoral established by the
+Act respecting the Commission scolaire du Littoral (1966-1967, chapter 125)”
+after “Education Act (chapter I-13.3)” in subparagraph 7;
 
-SCHEDULE II ( Sections 6, 15 and 31 ) PERSONS SUBJECT TO THE PROHIBITION ON WEARING RELIGIOUS SYMBOLS IN THE EXERCISE OF THEIR FUNCTIONS
+  (4) by striking out “or any of its committees” in subparagraph 9.
 
-( 1 ) the President and Vice-Presidents of the National Assembly;
+23.    Section 7 of the Act is amended
 
-( 2 ) administrative justices of the peace referred to in section 158 of the Courts of Justice Act ( chapter T-16 ), special clerks, clerks, deputy clerks, sheriffs and deputy sheriffs referred to in sections 4 to 5 of that Act, clerks and deputy clerks referred to in section 57 of the Act respecting municipal courts ( chapter C-72.01 ), and bankruptcy registrars;
+  (1) by replacing “any person or partnership with whom it has entered” by
+“any persons or partnerships with whom or which it enters”;
 
-( 3 ) members or commissioners, as applicable, who exercise their functions within the Commission d’accès à l’information, the Commission de la fonction publique, the Commission de protection du territoire agricole du Québec, the Commission des transports du Québec, the Commission municipale du Québec, the Commission québécoise des libérations conditionnelles, the Régie de l’énergie, the Régie des alcools, des courses et des jeux, the Régie des marchés agricoles et alimentaires du Québec, the Régie du bâtiment du Québec, the Tribunal administratif de déontologie policière, the Administrative Housing Tribunal, the Financial Markets Administrative Tribunal, the Administrative Tribunal of Québec or the Administrative Labour Tribunal, as well as disciplinary council chairs who exercise their functions within the Bureau des présidents des conseils de discipline;
+   (2) by replacing “service contract or subsidy agreement” by “contract, or
+to whom or which it grants financial assistance,”;
 
-( 4 ) commissioners appointed by the Government under the Act respecting public inquiry commissions ( chapter C-37 ), and lawyers or notaries acting for such a commission;
+  (3) by replacing “or agreement relates to” by “or the granting of financial
+assistance is for”;
 
-( 5 ) arbitrators appointed by the Minister of Labour whose name appears on a list drawn up by that minister in accordance with the Labour Code ( chapter C-27 );
+   (4) by replacing “that are performed in its personnel’s place of work” by
+“if the services are performed in its personnel’s place of work”.
 
-( 6 ) the Minister of Justice and Attorney General, the Director of Criminal and Penal Prosecutions, and persons who exercise the function of lawyer, notary or criminal and penal prosecuting attorney, including legal managers who supervise the work of those persons or of other legal managers, and who are under the authority of a government department, the Director of Criminal and Penal Prosecutions, the National Assembly, a person appointed or designated by the National Assembly to an office under its authority, a body referred to in paragraph 3, the Autorité des marchés financiers, the Autorité des marchés publics, the Commission des droits de la personne et des droits de la jeunesse, Revenu Québec or a body or person whose personnel is appointed in accordance with the Public Service Act ( chapter F-3.1.1 ), except the Centre d’acquisitions gouvernementales, the Institut de la statistique du Québec, La Financière agricole du Québec, the Société d’habitation du Québec and Transition énergétique Québec;
+24.    Section 9 of the Act and Division II of Chapter III of the Act, comprising
+section 10, are repealed.
 
-( 7 ) persons who exercise the function of lawyer and are employed by a prosecutor referred to in paragraph 2 or 3 of article 9 of the Code of Penal Procedure ( chapter C-25.1 ), unless the prosecutor is referred to in paragraph 6, when those persons are acting in criminal or penal matters for a prosecutor before the courts or with third persons;
+25.    Section 12 of the Act is amended by replacing the second paragraph by
+the following paragraph:
 
-( 8 ) lawyers or notaries acting before the courts or with third persons in accordance with a legal services contract entered into with a minister, the Director of Criminal and Penal Prosecutions, the National Assembly, a person appointed or designated by the National Assembly to exercise a function under its authority, a body referred to in paragraph 3, the Autorité des marchés financiers, the Autorité des marchés publics, the Commission des droits de la personne et des droits de la jeunesse, Revenu Québec, a body or person whose personnel is appointed in accordance with the Public Service Act, except the Centre d’acquisitions gouvernementales, the Institut de la statistique du Québec, La Financière agricole du Québec, the Société d’habitation du Québec and Transition énergétique Québec, or lawyers acting in criminal or penal matters before the courts or with third persons in accordance with a legal services contract entered into with a prosecutor referred to in paragraph 7;
+  “The guidelines must be made public using the means the Minister considers
+appropriate.”
 
-( 9 ) peace officers who exercise their functions mainly in Québec;
+26.    Division IV of Chapter III of the Act, comprising section 15, is repealed.
 
-( 10 ) principals, vice principals and teachers of educational institutions under the jurisdiction of a school service centre established under the Education Act ( chapter I-13.3 ) or of the Centre de services scolaire du Littoral established by the Act respecting the Centre de services scolaire du Littoral (1966-1967, chapter 125);
+27.    Section 16 of the Act is repealed.
 
-( 11 ) personnel members of a body referred to in paragraph 12 of Schedule I who, for the purposes of their employment, are in a place, such as an immovable or a room, under the authority of the body or are in the presence of a student;
+28.     Section 17 of the Act is amended by replacing the last sentence of the
+first paragraph by the following sentences: “That person may delegate the
+function to a person within his or her organization. In addition, that person
+must designate an accommodation officer within the personnel.”
 
-( 12 ) persons who regularly provide services in a place, such as an immovable or a room, put at the disposal of a body referred to in paragraph 12 of Schedule I, when they are in that place;
+29.    The Act is amended by inserting the following section after section 17:
 
-( 13 ) persons when they regularly provide services to students on behalf of a body referred to in paragraph 12 of Schedule I;
+   “17.1. No accommodation or other derogation or adaptation, except those
+provided for in this Act, may be granted in connection with the provisions of
+this Act that concern fulfillment of the duty of religious neutrality.”
 
-( 14 ) persons when they are providing a service under a reception, francization or integration program developed in accordance with section 60 of the Québec Immigration Act ( chapter I-0.2.1 );
+30.    Section 19 of the Act is replaced by the following section:
 
-( 15 ) personnel members of a childcare centre, home educational childcare coordinating office or subsidized day care centre governed by the Educational Childcare Act ( chapter S-4.1.1 );
+  “19. The minister designated by the Government is responsible for the
+administration of this Act.”
 
-( 16 ) persons who provide services in a facility under the authority of a childcare centre or subsidized day care centre governed by the Educational Childcare Act, when they are in the facility during the provision of childcare services;
+CHAPTER VI
+TRANSITIONAL AND FINAL PROVISIONS
 
-( 17 ) persons when they are providing services to children in a facility under the authority of a childcare centre or subsidized day care centre governed by the Educational Childcare Act;
+31.   Section 6 does not apply
 
-( 18 ) the National Director of Youth Protection as well as directors of youth protection and persons the latter authorize to perform their duties under section 32 of the Youth Protection Act ( chapter P-34.1 ); and
+  (1) to persons referred to in any of paragraphs 2, 3, 7 and 9 of Schedule II
+on 27 March 2019, for as long as they exercise the same function within the
+same organization;
 
-( 19 ) personnel members of Santé Québec who predominantly provide health services or social services, in a rehabilitation centre for young persons with adjustment problems, to a person who is the subject of a detention, custody or supervision measure under the Youth Criminal Justice Act (S.C. 2002, c. 1).
+  (2) to persons referred to in paragraph 4 or 5 of Schedule II on 27 March 2019,
+until the end of their mandate;
 
-2019, c. 12 , Sch. II ; 2020, c. 1 , s. 285 ; 2019, c. 28 , s. 158 ; 2020, c. 2 , s. 1 and 2 ; 2021, c. 33 , s. 33 ; 2023, c. 20 , s. 114 ; 2026, c. 6 , s. 21 ; 2026, c. 5 , s. 160 .
+   (3) to persons, except the Minister of Justice and Attorney General, referred
+to in paragraph 6 of Schedule II on 27 March 2019, for as long as they exercise
+the same function and are under the authority of the same organization;
 
-SCHEDULE III ( Section 7 ) PERSONS CONSIDERED TO BE PERSONNEL MEMBERS OF A BODY FOR THE PURPOSES OF MEASURES RELATING TO SERVICES WITH FACE UNCOVERED
+  (4) to persons referred to in paragraph 8 of Schedule II acting in accordance
+with a legal services contract entered into before 16 June 2019, unless the
+contract is renewed after that date;
 
-( 1 ) Members of the National Assembly;
+   (5) to persons referred to in paragraph 10 of Schedule II on 27 March 2019,
+for as long as they exercise the same function within the same school board.
 
-( 2 ) elected municipal officers, except those of municipalities governed by the Cree Villages and the Naskapi Village Act ( chapter V-5.1 ) or by the Act respecting Northern villages and the Kativik Regional Government ( chapter V-6.1 );
+32. Until the Government makes an order designating a minister responsible
+for the administration of this Act and the Act to foster adherence to State
+religious neutrality and, in particular, to provide a framework for requests for
+accommodations on religious grounds in certain bodies (chapter R-26.2.01),
+the Minister of Immigration, Diversity and Inclusiveness is responsible for
+their administration.
 
-( 3 ) office staff within the meaning of Division II.2 of the Executive Power Act ( chapter E-18 ), office staff and Members’ staff within the meaning of Division III.1 of Chapter IV of the Act respecting the National Assembly ( chapter A-23.1 ), and office staff referred to in section 114.4 of the Cities and Towns Act ( chapter C-19 );
+33. This Act and the amendments made by it to the Act to foster adherence
+to State religious neutrality and, in particular, to provide a framework for
+requests for accommodations on religious grounds in certain bodies apply
+despite sections 1 to 38 of the Charter of human rights and freedoms
+(chapter C-12).
 
-( 4 ) members of the board of directors of a school service centre established under the Education Act ( chapter I-13.3 ) and the manager and assistant manager appointed under section 4 of the Act respecting the Centre de services scolaire du Littoral (1966-1967, chapter 125);
+34. This Act and the amendments made by Chapter V of this Act have effect
+notwithstanding sections 2 and 7 to 15 of the Constitution Act, 1982 (Schedule B
+to the Canada Act, chapter 11 in the 1982 volume of the Acts of the Parliament
+of the United Kingdom).
 
-( 5 ) National Assembly personnel members and Lieutenant-Governor staff members;
+35. The minister designated by the Government is responsible for the
+administration of this Act.
 
-( 6 ) persons appointed or designated by the National Assembly to an office under its authority and the personnel directed by them;
+36.   This Act comes into force on 16 June 2019.
 
-( 7 ) commissioners appointed by the Government under the Act respecting public inquiry commissions ( chapter C-37 ) and the personnel directed by them;
+SCHEDULE I
+(Sections 3, 7 and 10)
 
-( 8 ) persons appointed by the government or by a minister to exercise an adjudicative function within the administrative branch, including arbitrators whose name appears on a list drawn up by the Minister of Labour in accordance with the Labour Code ( chapter C-27 );
+BODIES
 
-( 9 ) peace officers who exercise their functions mainly in Québec;
+(1) government departments;
 
-( 10 ) physicians, dentists and midwives, when those persons are practising in a centre operated by a Santé Québec institution or by an institution referred to in Schedule II to the Act respecting the governance of the health and social services system ( chapter G-1.021 );
+(2) budget-funded bodies, bodies other than budget-funded bodies and
+government enterprises listed in Schedules 1 to 3 to the Financial Administration
+Act (chapter A-6.001), including the persons listed in those schedules, as well
+as bodies whose capital forms part of the domain of the State;
 
-( 11 ) persons recognized as subsidized home educational childcare providers under the Educational Childcare Act ( chapter S-4.1.1 ) and the persons directed by them;
+(3) bodies and persons whose personnel is appointed in accordance with the
+Public Service Act (chapter F-3.1.1);
 
-( 12 ) directors or members of a body referred to in any of paragraphs 1 to 9 of Schedule I who receive remuneration from the body other than the reimbursement of their expenses, except persons who are elected;
+(4) government agencies listed in Schedule C to the Act respecting the process
+of negotiation of the collective agreements in the public and parapublic sectors
+(chapter R-8.2), including the persons listed in that schedule;
 
-( 13 ) any other persons appointed or designated by the National Assembly, the Government or a minister, when those persons are exercising functions assigned to them by the National Assembly, the law, the Government or the minister.
-
-2019, c. 12 , Sch. III ; 2020, c. 1 , s. 285 ; 2022, c. 9 , s. 97 ; 2023, c. 34 , s. 1092 .
+(5) municipalities, metropolitan communities, intermunicipal boards and
+municipal and regional housing bureaus, except municipalities governed by
+the Cree Villages and the Naskapi Village Act (chapter V-5.1) or the Act
+respecting Northern villages and the Kativik Regional Government
+(chapter V-6.1);
+
+(6) public transit authorities, the Autorité régionale de transport métropolitain
+and any other operator of a shared transportation system;
+
+(7) school boards established under the Education Act (chapter I-13.3), the
+Commission scolaire du Littoral established by the Act respecting the
+Commission scolaire du Littoral (1966-1967, chapter 125), the Comité de
+gestion de la taxe scolaire de l’île de Montréal, general and vocational colleges
+established under the General and Vocational Colleges Act (chapter C-29), and
+university-level educational institutions listed in paragraphs 1 to 11 of section 1
+of the Act respecting educational institutions at the university level
+(chapter E-14.1);
+
+(8) public institutions governed by the Act respecting health services and social
+services (chapter S-4.2), except public institutions referred to in Parts IV.1
+and IV.3 of that Act, joint procurement groups referred to in section 435.1 of
+that Act, and health communication centres referred to in the Act respecting
+pre-hospital emergency services (chapter S-6.2);
+
+(9) bodies the majority of whose members are appointed by the National
+Assembly;
+
+(10) inquiry commissions established under the Act respecting public inquiry
+commissions (chapter C-37);
+
+(11) childcare centres, home childcare coordinating offices and subsidized day
+care centres governed by the Educational Childcare Act (chapter S-4.1.1);
+
+(12) institutions accredited for the purposes of subsidies under the Act
+respecting private education (chapter E-9.1), and institutions whose instructional
+program is the subject of an international agreement within the meaning of the
+Act respecting the Ministère des Relations internationales (chapter M-25.1.1); and
+
+(13) private institutions under agreement, intermediary resources and
+family-type resources governed by the Act respecting health services and social
+services.
+
+SCHEDULE II
+(Sections 6, 15 and 31)
+
+PERSONS SUBJECT TO THE PROHIBITION ON WEARING RELIGIOUS
+SYMBOLS IN THE EXERCISE OF THEIR FUNCTIONS
+
+(1) the President and Vice-Presidents of the National Assembly;
+
+(2) administrative justices of the peace referred to in section 158 of the Courts
+of Justice Act (chapter T-16), special clerks, clerks, deputy clerks, sheriffs and
+deputy sheriffs referred to in sections 4 to 5 of that Act, clerks and deputy
+clerks referred to in section 57 of the Act respecting municipal courts
+(chapter C-72.01), and bankruptcy registrars;
+
+(3) members or commissioners, as applicable, who exercise their functions
+within the Comité de déontologie policière, the Commission d’accès à
+l’information, the Commission de la fonction publique, the Commission de
+protection du territoire agricole du Québec, the Commission des transports du
+Québec, the Commission municipale du Québec, the Commission québécoise
+des libérations conditionnelles, the Régie de l’énergie, the Régie des alcools,
+des courses et des jeux, the Régie des marchés agricoles et alimentaires du
+Québec, the Régie du bâtiment du Québec, the Régie du logement, the Financial
+Markets Administrative Tribunal, the Administrative Tribunal of Québec or the
+Administrative Labour Tribunal, as well as disciplinary council chairs who
+exercise their functions within the Bureau des présidents des conseils de
+discipline;
+
+(4) commissioners appointed by the Government under the Act respecting
+public inquiry commissions (chapter C-37), and lawyers or notaries acting for
+such a commission;
+
+(5) arbitrators appointed by the Minister of Labour whose name appears on a
+list drawn up by that minister in accordance with the Labour Code (chapter C-27);
+
+(6) the Minister of Justice and Attorney General, the Director of Criminal and
+Penal Prosecutions, and persons who exercise the function of lawyer, notary
+or criminal and penal prosecuting attorney, including legal managers who
+supervise the work of those persons or of other legal managers, and who are
+under the authority of a government department, the Director of Criminal and
+Penal Prosecutions, the National Assembly, a person appointed or designated
+by the National Assembly to an office under its authority, a body referred to
+in paragraph 3, the Autorité des marchés financiers, the Autorité des marchés
+publics, the Commission des droits de la personne et des droits de la jeunesse,
+Revenu Québec or a body or person whose personnel is appointed in accordance
+with the Public Service Act (chapter F-3.1.1), except the Centre de services
+partagés du Québec, the Conseil de gestion de l’assurance parentale, the Institut
+de la statistique du Québec, La Financière agricole du Québec, the Société
+d’habitation du Québec and Transition énergétique Québec;
+
+(7) persons who exercise the function of lawyer and are employed by a
+prosecutor referred to in paragraph 2 or 3 of article 9 of the Code of Penal
+Procedure (chapter C-25.1), unless the prosecutor is referred to in paragraph 6,
+when those persons are acting in criminal or penal matters for a prosecutor
+before the courts or with third persons;
+
+(8) lawyers or notaries acting before the courts or with third persons in
+accordance with a legal services contract entered into with a minister, the
+Director of Criminal and Penal Prosecutions, the National Assembly, a person
+appointed or designated by the National Assembly to exercise a function under
+its authority, a body referred to in paragraph 3, the Autorité des marchés
+financiers, the Autorité des marchés publics, the Commission des droits de la
+personne et des droits de la jeunesse, Revenu Québec, a body or person whose
+personnel is appointed in accordance with the Public Service Act, except the
+Centre de services partagés du Québec, the Conseil de gestion de l’assurance
+parentale, the Institut de la statistique du Québec, La Financière agricole du
+Québec, the Société d’habitation du Québec and Transition énergétique Québec,
+or lawyers acting in criminal or penal matters before the courts or with third
+persons in accordance with a legal services contract entered into with a
+prosecutor referred to in paragraph 7;
+
+(9) peace officers who exercise their functions mainly in Québec; and
+
+(10) principals, vice principals and teachers of educational institutions under
+the jurisdiction of a school board established under the Education Act
+(chapter I-13.3) or of the Commission scolaire du Littoral established by the
+Act respecting the Commission scolaire du Littoral (1966-1967, chapter 125).
+
+SCHEDULE III
+(Section 7)
+
+PERSONS CONSIDERED TO BE PERSONNEL MEMBERS OF A BODY
+FOR THE PURPOSES OF MEASURES RELATING TO SERVICES WITH
+FACE UNCOVERED
+
+(1) Members of the National Assembly;
+
+(2) elected municipal officers, except those of municipalities governed by the
+Cree Villages and the Naskapi Village Act (chapter V-5.1) or by the Act
+respecting Northern villages and the Kativik Regional Government
+(chapter V-6.1);
+
+(3) office staff within the meaning of Division II.2 of the Executive Power Act
+(chapter E-18), office staff and Members’ staff within the meaning of
+Division III.1 of Chapter IV of the Act respecting the National Assembly
+(chapter A-23.1), and office staff referred to in section 114.4 of the Cities and
+Towns Act (chapter C-19);
+
+(4) commissioners of school boards established under the Education Act
+(chapter I-13.3) and the manager and assistant manager appointed under
+section 4 of the Act respecting the Commission scolaire du Littoral (1966-1967,
+chapter 125);
+
+(5) National Assembly personnel members and Lieutenant-Governor staff
+members;
+
+(6) persons appointed or designated by the National Assembly to an office
+under its authority and the personnel directed by them;
+
+(7) commissioners appointed by the Government under the Act respecting
+public inquiry commissions (chapter C-37) and the personnel directed by them;
+
+(8) persons appointed by the government or by a minister to exercise an
+adjudicative function within the administrative branch, including arbitrators
+whose name appears on a list drawn up by the Minister of Labour in accordance
+with the Labour Code (chapter C-27);
+
+(9) peace officers who exercise their functions mainly in Québec;
+
+(10) physicians, dentists and midwives, when those persons are practising in
+a centre operated by a public institution referred to in paragraph 8 of Schedule I;
+
+(11) persons recognized as subsidized home childcare providers under the
+Educational Childcare Act (chapter S-4.1.1) and the persons directed by them;
+
+(12) directors or members of a body referred to in any of paragraphs 1 to 9 of
+Schedule I who receive remuneration from the body other than the reimbursement
+of their expenses, except persons who are elected;
+
+(13) any other persons appointed or designated by the National Assembly, the
+Government or a minister, when those persons are exercising functions assigned
+to them by the National Assembly, the law, the Government or the minister.

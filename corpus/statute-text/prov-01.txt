@@ -1,12 +1,9 @@
-SOURCE_URL: https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99s08 (rendered at https://www.ontario.ca/laws/statute/99s08)
-VERSION: Current consolidation, e-Laws currency date 2005-12-15 (in force from 2005-12-15; API doc last updated 2017-09-21T16:30:40Z per the "updatedAt" field); e-Laws source file elaws/99s08_e.html
-RETRIEVED: 2026-09-23
-SCOPE: Whole Act (Safe Streets Act, 1999, S.O. 1999, c. 8) — ss. 1-9 in full, as returned by the e-Laws v2 legislation API's "content" field, converted from HTML to plain text with section numbers, headnotes and amendment citations preserved. Sections 7-9 (amends/repeals other Acts; coming into force; short title) are marked "Omitted" in the official consolidation itself, not by me.
-GAPS: none — the whole Act was retrieved.
+SOURCE_URL: https://www.ontario.ca/laws/api/v2/legislation/en/doc-search/statute/99s08
+VERSION: e-Laws consolidation in force from 2005-12-15 (current)
+RETRIEVED: 2026-10-09
+SCOPE: Whole Act, ss. 1-9 (ss. 7-9 are marked "Omitted" in the official consolidation).
+GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
-Short title: Safe Streets Act, 1999
-Chapter: S.O. 1999, CHAPTER 8
-
 Definition
 
 1. In sections 2 and 3,
@@ -45,9 +42,9 @@ Definitions
 
 “public transit vehicle” means a vehicle operated by, for or on behalf of the Government of Ontario, a municipality in Ontario or a transit commission or authority in Ontario, as part of a regular passenger transportation service; (“véhicule de transport en commun”)
 
-“roadway” has the same meaning as in the Highway Traffic Act ; (“chaussée”)
+“roadway” has the same meaning as in the Highway Traffic Act; (“chaussée”)
 
-“vehicle” includes automobile, motorcycle, van, truck, trailer, bus, mobile home, traction engine, farm tractor, road-building machine, bicycle, motor-assisted bicycle, motorized snow vehicle, streetcar and any other vehicle drawn, propelled or driven by any kind of power, including muscular power. (“véhicule”) 1999, c. 8, s. 3 (1) ; 2002, c. 17, Sched. F, Table.
+“vehicle” includes automobile, motorcycle, van, truck, trailer, bus, mobile home, traction engine, farm tractor, road-building machine, bicycle, motor-assisted bicycle, motorized snow vehicle, streetcar and any other vehicle drawn, propelled or driven by any kind of power, including muscular power. (“véhicule”) 1999, c. 8, s. 3 (1); 2002, c. 17, Sched. F, Table.
 
 Solicitation of captive audience prohibited
 
@@ -129,10 +126,10 @@ Arrest without warrant
 
 (b) the police officer believes on reasonable and probable grounds that it is necessary to arrest the person without warrant in order to establish the identity of the person or to prevent the person from continuing or repeating the contravention. 1999, c. 8, s. 6.
 
-7 Omitted (amends or repeals other Acts) . 1999, c. 8, s. 7.
+7 Omitted (amends or repeals other Acts). 1999, c. 8, s. 7.
 
-8 Omitted (provides for coming into force of provisions of this Act) . 1999, c. 8, s. 8.
+8 Omitted (provides for coming into force of provisions of this Act). 1999, c. 8, s. 8.
 
-9 Omitted (enacts short title of this Act) . 1999, c. 8, s. 9.
+9 Omitted (enacts short title of this Act). 1999, c. 8, s. 9.
 
 ______________

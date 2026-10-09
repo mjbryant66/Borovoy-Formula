@@ -1,16 +1,10 @@
 SOURCE_URL: https://kings-printer.alberta.ca/documents/Acts/c32p7.pdf
-VERSION: Office Consolidation, current as of May 15, 2025 (per the PDF cover page); PDF last-modified per server headers 2025-06-16
-RETRIEVED: 2026-09-23
-SCOPE: Whole Act (Critical Infrastructure Defence Act, SA 2020, c C-32.7) — Table of Contents plus ss. 1 (Definitions, including "essential infrastructure" and "owner"), 1.1 (Government of Canada bound, added by SA 2025 c5 s3), 2 (Prohibitions), 3 (Offences and penalties), 4 (Arrest without warrant), 5 (Regulations). Extracted with pdftotext -layout from the official PDF, with page-number and running-header furniture (page numbers, "Section X CRITICAL INFRASTRUCTURE DEFENCE ACT Chapter C-32.7" headers) stripped.
-GAPS: none — the whole Act was retrieved. Note the Act's own definitions of "essential infrastructure" in s.1(1)(a) incorporate by cross-reference definitions in roughly 20 other Alberta statutes/regulations (Pipeline Act, Environmental Protection and Enhancement Act, Highways Development and Protection Act, Railway (Alberta) Act, etc.); those cross-referenced definitions are NOT reproduced here, only cited as the Act itself cites them.
+VERSION: Office consolidation current as of 15 May 2025 (includes SA 2024 c 17 and SA 2025 c 5)
+RETRIEVED: 2026-10-09
+SCOPE: Whole Act, ss. 1-5.
+GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
-CRITICAL INFRASTRUCTURE DEFENCE ACT
 Chapter C-32.7
-(Statutes of Alberta, 2020)
-
-        CRITICAL INFRASTRUCTURE DEFENCE ACT
-
-        Chapter C-32.7
 
         Table of Contents
   1     Definitions
@@ -20,10 +14,8 @@ Chapter C-32.7
   4     Arrest without warrant
   5     Regulations
 
-
         HER MAJESTY, by and with the advice and consent of the
         Legislative Assembly of Alberta, enacts as follows:
-
 
       Definitions
         1(1) In this Act,
@@ -48,8 +40,6 @@ Chapter C-32.7
              (iii) a provincial highway, transportation facility,
                    transportation system or urban rail transit system as
                    defined in the Highways Development and Protection Act;
-
-
 
                (iv) a railway, structural facility or track as defined in the
                     Railway (Alberta) Act;
@@ -101,10 +91,6 @@ Chapter C-32.7
               (xii) a coal processing plant as defined in the Coal
                     Conservation Act;
 
-
-
-
-
                    (xiii) an oil sands processing plant as defined in section
                           2(2)(pp) of the Activities Designation Regulation
                           (AR 276/2003);
@@ -153,11 +139,6 @@ Chapter C-32.7
                 1.1 This Act binds the Government of Canada.
                                                                                2025 c5 s3
 
-
-
-
-
-
             Prohibitions
               2(1) No person shall, without lawful right, justification or excuse,
               wilfully enter on any essential infrastructure.
@@ -181,7 +162,6 @@ Chapter C-32.7
               owner, is deemed to have contravened subsection (1) unless the
               person had a lawful right, justification or excuse to enter on the
               essential infrastructure.
-
 
             Offences and penalties
               3(1) A person who contravenes section 2 is guilty of an offence
@@ -208,8 +188,6 @@ Chapter C-32.7
               any officer, director or agent of the corporation who directed,
               authorized, assented to, acquiesced in or participated in the
 
-
-
               commission of the offence is guilty of that offence and liable to the
               penalty provided for the offence, whether or not the corporation has
               been prosecuted for or convicted of that offence.
@@ -217,17 +195,14 @@ Chapter C-32.7
               (3) Each day that a contravention continues constitutes a separate
               offence.
 
-
             Arrest without warrant
               4 A peace officer may arrest, without warrant, any person the
               peace officer finds contravening section 2(1), (2) or (3).
-
 
             Regulations
               5 The Lieutenant Governor in Council may make regulations
               prescribing buildings, structures, devices or other things as being
               essential infrastructure.
 
-
-
-
+*9780779853182*
+                  Printed on Recycled Paper

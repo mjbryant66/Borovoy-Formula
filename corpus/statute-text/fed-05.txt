@@ -1,26 +1,832 @@
 SOURCE_URL: https://laws-lois.justice.gc.ca/eng/acts/C-46/20141216/P1TT3xt3.html
-VERSION: point-in-time consolidation "From 2014-12-16 to 2015-02-24" (Justice Laws Website), i.e. the version in force immediately before R v Nur, 2015 SCC 15 (decided 14 April 2015). This reflects s. 95 as amended by SC 2008, c 6, s. 8 (in force 2008), the three-year/five-year mandatory-minimum version at issue in Nur; no amendment to s. 95 occurred between this point-in-time date and the Nur decision.
-RETRIEVED: 2026-09-23
-SCOPE: Criminal Code, RSC 1985, c C-46, s. 95 in full (subsections (1)-(3)).
-GAPS: none. There is no purpose clause in the Criminal Code applicable to s. 95; Part III (Firearms and Other Weapons) has no preamble or stated purpose provision.
+VERSION: Point-in-time consolidation 2014-12-16 to 2015-02-24, the version in force before R v Nur, 2015 SCC 15
+RETRIEVED: 2026-10-09
+SCOPE: The whole of Part III (Firearms and Other Weapons), ss. 84-117.15.
+GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
-
-Marginal note: Possession of prohibited or restricted firearm with ammunition
+PART IIIFirearms and Other Weapons
+Interpretation
+Marginal note:Definitions
+84 (1) In this Part,
+ammunition
+munitions
+ammunition means a cartridge containing a projectile designed to be discharged from a firearm and, without restricting the generality of the foregoing, includes a caseless cartridge and a shot shell; (munitions)
+antique firearm
+arme à feu historique
+antique firearm means
+(a) any firearm manufactured before 1898 that was not designed to discharge rim-fire or centre-fire ammunition and that has not been redesigned to discharge such ammunition, or
+(b) any firearm that is prescribed to be an antique firearm; (arme à feu historique)
+authorization
+autorisation
+authorization means an authorization issued under the Firearms Act; (autorisation)
+automatic firearm
+arme automatique
+automatic firearm means a firearm that is capable of, or assembled or designed and manufactured with the capability of, discharging projectiles in rapid succession during one pressure of the trigger; (arme automatique)
+cartridge magazine
+chargeur
+cartridge magazine means a device or container from which ammunition may be fed into the firing chamber of a firearm; (chargeur)
+chief firearms officer
+contrôleur des armes à feu
+chief firearms officer means a chief firearms officer as defined in subsection 2(1) of the Firearms Act; (contrôleur des armes à feu)
+Commissioner of Firearms
+commissaire aux armes à feu
+Commissioner of Firearms means the Commissioner of Firearms appointed under section 81.1 of the Firearms Act; (commissaire aux armes à feu)
+cross-bow
+arbalète
+cross-bow means a device with a bow and a bowstring mounted on a stock that is designed to propel an arrow, a bolt, a quarrel or any similar projectile on a trajectory guided by a barrel or groove and that is capable of causing serious bodily injury or death to a person; (arbalète)
+export
+exporter
+export means export from Canada and, for greater certainty, includes the exportation of goods from Canada that are imported into Canada and shipped in transit through Canada; (exporter)
+firearms officer
+préposé aux armes à feu
+firearms officer means a firearms officer as defined in subsection 2(1) of the Firearms Act; (préposé aux armes à feu)
+handgun
+arme de poing
+handgun means a firearm that is designed, altered or intended to be aimed and fired by the action of one hand, whether or not it has been redesigned or subsequently altered to be aimed and fired by the action of both hands; (arme de poing)
+imitation firearm
+fausse arme à feu
+imitation firearm means any thing that imitates a firearm, and includes a replica firearm; (fausse arme à feu)
+import
+importer
+import means import into Canada and, for greater certainty, includes the importation of goods into Canada that are shipped in transit through Canada and exported from Canada; (importer)
+licence
+permis
+licence means a licence issued under the Firearms Act; (permis)
+prescribed
+Version anglaise seulement
+prescribed means prescribed by the regulations; (Version anglaise seulement)
+prohibited ammunition
+munitions prohibées
+prohibited ammunition means ammunition, or a projectile of any kind, that is prescribed to be prohibited ammunition; (munitions prohibées)
+prohibited device
+dispositif prohibé
+prohibited device means
+(a) any component or part of a weapon, or any accessory for use with a weapon, that is prescribed to be a prohibited device,
+(b) a handgun barrel that is equal to or less than 105 mm in length, but does not include any such handgun barrel that is prescribed, where the handgun barrel is for use in international sporting competitions governed by the rules of the International Shooting Union,
+(c) a device or contrivance designed or intended to muffle or stop the sound or report of a firearm,
+(d) a cartridge magazine that is prescribed to be a prohibited device, or
+(e) a replica firearm; (dispositif prohibé)
+prohibited firearm
+arme à feu prohibée
+prohibited firearm means
+(a) a handgun that
+(i) has a barrel equal to or less than 105 mm in length, or
+(ii) is designed or adapted to discharge a 25 or 32 calibre cartridge,
+but does not include any such handgun that is prescribed, where the handgun is for use in international sporting competitions governed by the rules of the International Shooting Union,
+(b) a firearm that is adapted from a rifle or shotgun, whether by sawing, cutting or any other alteration, and that, as so adapted,
+(i) is less than 660 mm in length, or
+(ii) is 660 mm or greater in length and has a barrel less than 457 mm in length,
+(c) an automatic firearm, whether or not it has been altered to discharge only one projectile with one pressure of the trigger, or
+(d) any firearm that is prescribed to be a prohibited firearm; (arme à feu prohibée)
+prohibited weapon
+arme prohibée
+prohibited weapon means
+(a) a knife that has a blade that opens automatically by gravity or centrifugal force or by hand pressure applied to a button, spring or other device in or attached to the handle of the knife, or
+(b) any weapon, other than a firearm, that is prescribed to be a prohibited weapon; (arme prohibée)
+prohibition order
+ordonnance d’interdiction
+prohibition order means an order made under this Act or any other Act of Parliament prohibiting a person from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all such things; (ordonnance d’interdiction)
+Registrar
+directeur
+Registrar means the Registrar of Firearms appointed under section 82 of the Firearms Act; (directeur)
+registration certificate
+certificat d’enregistrement
+registration certificate means a registration certificate issued under the Firearms Act; (certificat d’enregistrement)
+replica firearm
+réplique
+replica firearm means any device that is designed or intended to exactly resemble, or to resemble with near precision, a firearm, and that itself is not a firearm, but does not include any such device that is designed or intended to exactly resemble, or to resemble with near precision, an antique firearm; (réplique)
+restricted firearm
+arme à feu à autorisation restreinte
+restricted firearm means
+(a) a handgun that is not a prohibited firearm,
+(b) a firearm that
+(i) is not a prohibited firearm,
+(ii) has a barrel less than 470 mm in length, and
+(iii) is capable of discharging centre-fire ammunition in a semi-automatic manner,
+(c) a firearm that is designed or adapted to be fired when reduced to a length of less than 660 mm by folding, telescoping or otherwise, or
+(d) a firearm of any other kind that is prescribed to be a restricted firearm; (arme à feu à autorisation restreinte)
+restricted weapon
+arme à autorisation restreinte
+restricted weapon means any weapon, other than a firearm, that is prescribed to be a restricted weapon; (arme à autorisation restreinte)
+superior court
+cour supérieure
+superior court means
+(a) in Ontario, the Superior Court of Justice, sitting in the region, district or county or group of counties where the relevant adjudication was made,
+(b) in Quebec, the Superior Court,
+(c) in New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench,
+(d) in Nova Scotia, British Columbia and a territory, the Supreme Court, and
+(e) in Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court; (cour supérieure)
+transfer
+cession
+transfer means sell, provide, barter, give, lend, rent, send, transport, ship, distribute or deliver. (cession)
+Marginal note:Barrel length
+(2) For the purposes of this Part, the length of a barrel of a firearm is
+(a) in the case of a revolver, the distance from the muzzle of the barrel to the breach end immediately in front of the cylinder, and
+(b) in any other case, the distance from the muzzle of the barrel to and including the chamber,
+but does not include the length of any component, part or accessory including any component, part or accessory designed or intended to suppress the muzzle flash or reduce recoil.
+Marginal note:Certain weapons deemed not to be firearms
+(3) For the purposes of sections 91 to 95, 99 to 101, 103 to 107 and 117.03 of this Act and the provisions of the Firearms Act, the following weapons are deemed not to be firearms:
+(a) any antique firearm;
+(b) any device that is
+(i) designed exclusively for signalling, for notifying of distress, for firing blank cartridges or for firing stud cartridges, explosive-driven rivets or other industrial projectiles, and
+(ii) intended by the person in possession of it to be used exclusively for the purpose for which it is designed;
+(c) any shooting device that is
+(i) designed exclusively for the slaughtering of domestic animals, the tranquillizing of animals or the discharging of projectiles with lines attached to them, and
+(ii) intended by the person in possession of it to be used exclusively for the purpose for which it is designed; and
+(d) any other barrelled weapon, where it is proved that the weapon is not designed or adapted to discharge
+(i) a shot, bullet or other projectile at a muzzle velocity exceeding 152.4 m per second or at a muzzle energy exceeding 5.7 Joules, or
+(ii) a shot, bullet or other projectile that is designed or adapted to attain a velocity exceeding 152.4 m per second or an energy exceeding 5.7 Joules.
+Marginal note:Exception — antique firearms
+(3.1) Notwithstanding subsection (3), an antique firearm is a firearm for the purposes of regulations made under paragraph 117(h) of the Firearms Act and subsection 86(2) of this Act.
+Meaning of holder
+(4) For the purposes of this Part, a person is the holder of
+(a) an authorization or a licence if the authorization or licence has been issued to the person and the person continues to hold it; and
+(b) a registration certificate for a firearm if
+(i) the registration certificate has been issued to the person and the person continues to hold it, or
+(ii) the person possesses the registration certificate with the permission of its lawful holder.
+Marginal note:Subsequent offences
+(5) In determining, for the purpose of subsection 85(3), 95(2), 99(2), 100(2) or 103(2), whether a convicted person has committed a second or subsequent offence, if the person was earlier convicted of any of the following offences, that offence is to be considered as an earlier offence:
+(a) an offence under section 85, 95, 96, 98, 98.1, 99, 100, 102 or 103 or subsection 117.01(1);
+(b) an offence under section 244 or 244.2; or
+(c) an offence under section 220, 236, 239, 272 or 273, subsection 279(1) or section 279.1, 344 or 346 if a firearm was used in the commission of the offence.
+However, an earlier offence shall not be taken into account if 10 years have elapsed between the day on which the person was convicted of the earlier offence and the day on which the person was convicted of the offence for which sentence is being imposed, not taking into account any time in custody.
+Marginal note:Sequence of convictions only
+(6) For the purposes of subsection (5), the only question to be considered is the sequence of convictions and no consideration shall be given to the sequence of commission of offences or whether any offence occurred before or after any conviction.
+R.S., 1985, c. C-46, s. 84
+R.S., 1985, c. 27 (1st Supp.), ss. 185(F), 186
+1991, c. 40, s. 2
+1995, c. 39, s. 139
+1998, c. 30, s. 16
+2003, c. 8, s. 2
+2008, c. 6, s. 2
+2009, c. 22, s. 2
+Use Offences
+Marginal note:Using firearm in commission of offence
+85 (1) Every person commits an offence who uses a firearm, whether or not the person causes or means to cause bodily harm to any person as a result of using the firearm,
+(a) while committing an indictable offence, other than an offence under section 220 (criminal negligence causing death), 236 (manslaughter), 239 (attempted murder), 244 (discharging firearm with intent), 244.2 (discharging firearm — recklessness), 272 (sexual assault with a weapon) or 273 (aggravated sexual assault), subsection 279(1) (kidnapping) or section 279.1 (hostage taking), 344 (robbery) or 346 (extortion);
+(b) while attempting to commit an indictable offence; or
+(c) during flight after committing or attempting to commit an indictable offence.
+Marginal note:Using imitation firearm in commission of offence
+(2) Every person commits an offence who uses an imitation firearm
+(a) while committing an indictable offence,
+(b) while attempting to commit an indictable offence, or
+(c) during flight after committing or attempting to commit an indictable offence,
+whether or not the person causes or means to cause bodily harm to any person as a result of using the imitation firearm.
+Marginal note:Punishment
+(3) Every person who commits an offence under subsection (1) or (2) is guilty of an indictable offence and liable
+(a) in the case of a first offence, except as provided in paragraph (b), to imprisonment for a term not exceeding fourteen years and to a minimum punishment of imprisonment for a term of one year; and
+(b) in the case of a second or subsequent offence, to imprisonment for a term not exceeding 14 years and to a minimum punishment of imprisonment for a term of three years.
+(c) [Repealed, 2008, c. 6, s. 3]
+Marginal note:Sentences to be served consecutively
+(4) A sentence imposed on a person for an offence under subsection (1) or (2) shall be served consecutively to any other punishment imposed on the person for an offence arising out of the same event or series of events and to any other sentence to which the person is subject at the time the sentence is imposed on the person for an offence under subsection (1) or (2).
+R.S., 1985, c. C-46, s. 85
+1995, c. 39, s. 139
+2003, c. 8, s. 3
+2008, c. 6, s. 3
+2009, c. 22, s. 3
+Marginal note:Careless use of firearm, etc.
+86 (1) Every person commits an offence who, without lawful excuse, uses, carries, handles, ships, transports or stores a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any ammunition or prohibited ammunition in a careless manner or without reasonable precautions for the safety of other persons.
+Marginal note:Contravention of storage regulations, etc.
+(2) Every person commits an offence who contravenes a regulation made under paragraph 117(h) of the Firearms Act respecting the storage, handling, transportation, shipping, display, advertising and mail-order sales of firearms and restricted weapons.
+Marginal note:Punishment
+(3) Every person who commits an offence under subsection (1) or (2)
+(a) is guilty of an indictable offence and liable to imprisonment
+(i) in the case of a first offence, for a term not exceeding two years, and
+(ii) in the case of a second or subsequent offence, for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+R.S., 1985, c. C-46, s. 86
+1991, c. 40, s. 3
+1995, c. 39, s. 139
+Marginal note:Pointing a firearm
+87 (1) Every person commits an offence who, without lawful excuse, points a firearm at another person, whether the firearm is loaded or unloaded.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+R.S., 1985, c. C-46, s. 87
+1995, c. 39, s. 139
+Possession Offences
+Marginal note:Possession of weapon for dangerous purpose
+88 (1) Every person commits an offence who carries or possesses a weapon, an imitation of a weapon, a prohibited device or any ammunition or prohibited ammunition for a purpose dangerous to the public peace or for the purpose of committing an offence.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years; or
+(b) is guilty of an offence punishable on summary conviction.
+R.S., 1985, c. C-46, s. 88
+1995, c. 39, s. 139
+Marginal note:Carrying weapon while attending public meeting
+89 (1) Every person commits an offence who, without lawful excuse, carries a weapon, a prohibited device or any ammunition or prohibited ammunition while the person is attending or is on the way to attend a public meeting.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1) is guilty of an offence punishable on summary conviction.
+R.S., 1985, c. C-46, s. 89
+1995, c. 39, s. 139
+Marginal note:Carrying concealed weapon
+90 (1) Every person commits an offence who carries a weapon, a prohibited device or any prohibited ammunition concealed, unless the person is authorized under the Firearms Act to carry it concealed.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+R.S., 1985, c. C-46, s. 90
+1991, c. 28, s. 6, c. 40, ss. 4, 35
+1994, c. 44, s. 6
+1995, c. 39, s. 139
+Marginal note:Unauthorized possession of firearm
+91 (1) Subject to subsection (4), every person commits an offence who possesses a firearm without being the holder of
+(a) a licence under which the person may possess it; and
+(b) in the case of a prohibited firearm or a restricted firearm, a registration certificate for it.
+Marginal note:Unauthorized possession of prohibited weapon or restricted weapon
+(2) Subject to subsection (4), every person commits an offence who possesses a prohibited weapon, a restricted weapon, a prohibited device, other than a replica firearm, or any prohibited ammunition, without being the holder of a licence under which the person may possess it.
+Marginal note:Punishment
+(3) Every person who commits an offence under subsection (1) or (2)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+Marginal note:Exceptions
+(4) Subsections (1) and (2) do not apply to
+(a) a person who possesses a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition while the person is under the direct and immediate supervision of a person who may lawfully possess it, for the purpose of using it in a manner in which the supervising person may lawfully use it; or
+(b) a person who comes into possession of a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition by the operation of law and who, within a reasonable period after acquiring possession of it,
+(i) lawfully disposes of it, or
+(ii) obtains a licence under which the person may possess it and, in the case of a prohibited firearm or a restricted firearm, a registration certificate for it.
+(5) [Repealed, 2012, c. 6, s. 2]
+R.S., 1985, c. C-46, s. 91
+1991, c. 28, s. 7, c. 40, ss. 5, 36
+1995, c. 22, s. 10, c. 39, s. 139
+2008, c. 6, s. 4
+2012, c. 6, s. 2
+Marginal note:Possession of firearm knowing its possession is unauthorized
+92 (1) Subject to subsection (4), every person commits an offence who possesses a firearm knowing that the person is not the holder of
+(a) a licence under which the person may possess it; and
+(b) in the case of a prohibited firearm or a restricted firearm, a registration certificate for it.
+Marginal note:Possession of prohibited weapon, device or ammunition knowing its possession is unauthorized
+(2) Subject to subsection (4), every person commits an offence who possesses a prohibited weapon, a restricted weapon, a prohibited device, other than a replica firearm, or any prohibited ammunition knowing that the person is not the holder of a licence under which the person may possess it.
+Marginal note:Punishment
+(3) Every person who commits an offence under subsection (1) or (2) is guilty of an indictable offence and liable
+(a) in the case of a first offence, to imprisonment for a term not exceeding ten years;
+(b) in the case of a second offence, to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of one year; and
+(c) in the case of a third or subsequent offence, to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of two years less a day.
+Marginal note:Exceptions
+(4) Subsections (1) and (2) do not apply to
+(a) a person who possesses a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition while the person is under the direct and immediate supervision of a person who may lawfully possess it, for the purpose of using it in a manner in which the supervising person may lawfully use it; or
+(b) a person who comes into possession of a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition by the operation of law and who, within a reasonable period after acquiring possession of it,
+(i) lawfully disposes of it, or
+(ii) obtains a licence under which the person may possess it and, in the case of a prohibited firearm or a restricted firearm, a registration certificate for it.
+(5) and (6) [Repealed, 2012, c. 6, s. 3]
+R.S., 1985, c. C-46, s. 92
+R.S., 1985, c. 1 (2nd Supp.), s. 213
+1991, c. 40, s. 7
+1995, c. 39, s. 139
+2008, c. 6, s. 5
+2012, c. 6, s. 3
+Marginal note:Possession at unauthorized place
+93 (1) Subject to subsection (3), every person commits an offence who, being the holder of an authorization or a licence under which the person may possess a firearm, a prohibited weapon, a restricted weapon, a prohibited device or prohibited ammunition, possesses the firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition at a place that is
+(a) indicated on the authorization or licence as being a place where the person may not possess it;
+(b) other than a place indicated on the authorization or licence as being a place where the person may possess it; or
+(c) other than a place where it may be possessed under the Firearms Act.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+Marginal note:Exception
+(3) Subsection (1) does not apply to a person who possesses a replica firearm.
+R.S., 1985, c. C-46, s. 93
+1991, c. 40, s. 8
+1995, c. 39, s. 139
+2008, c. 6, s. 6
+Marginal note:Unauthorized possession in motor vehicle
+94 (1) Subject to subsections (3) and (4), every person commits an offence who is an occupant of a motor vehicle in which the person knows there is a firearm, a prohibited weapon, a restricted weapon, a prohibited device, other than a replica firearm, or any prohibited ammunition, unless
+(a) in the case of a firearm,
+(i) the person or any other occupant of the motor vehicle is the holder of
+(A) a licence under which the person or other occupant may possess the firearm, and
+(B) in the case of a prohibited firearm or a restricted firearm, an authorization and a registration certificate for it,
+(ii) the person had reasonable grounds to believe that any other occupant of the motor vehicle was the holder of
+(A) a licence under which that other occupant may possess the firearm, and
+(B) in the case of a prohibited firearm or a restricted firearm, an authorization and a registration certificate for it, or
+(iii) the person had reasonable grounds to believe that any other occupant of the motor vehicle was a person who could not be convicted of an offence under this Act by reason of sections 117.07 to 117.1 or any other Act of Parliament; and
+(b) in the case of a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition,
+(i) the person or any other occupant of the motor vehicle is the holder of an authorization or a licence under which the person or other occupant may transport the prohibited weapon, restricted weapon, prohibited device or prohibited ammunition, or
+(ii) the person had reasonable grounds to believe that any other occupant of the motor vehicle was
+(A) the holder of an authorization or a licence under which the other occupant may transport the prohibited weapon, restricted weapon, prohibited device or prohibited ammunition, or
+(B) a person who could not be convicted of an offence under this Act by reason of sections 117.07 to 117.1 or any other Act of Parliament.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years; or
+(b) is guilty of an offence punishable on summary conviction.
+Marginal note:Exception
+(3) Subsection (1) does not apply to an occupant of a motor vehicle who, on becoming aware of the presence of the firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition in the motor vehicle, attempted to leave the motor vehicle, to the extent that it was feasible to do so, or actually left the motor vehicle.
+Marginal note:Exception
+(4) Subsection (1) does not apply to an occupant of a motor vehicle where the occupant or any other occupant of the motor vehicle is a person who came into possession of the firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition by the operation of law.
+(5) [Repealed, 2012, c. 6, s. 4]
+R.S., 1985, c. C-46, s. 94
+1995, c. 39, s. 139
+2008, c. 6, s. 7
+2012, c. 6, s. 4
+Marginal note:Possession of prohibited or restricted firearm with ammunition
 95 (1) Subject to subsection (3), every person commits an offence who, in any place, possesses a loaded prohibited firearm or restricted firearm, or an unloaded prohibited firearm or restricted firearm together with readily accessible ammunition that is capable of being discharged in the firearm, without being the holder of
 (a) an authorization or a licence under which the person may possess the firearm in that place; and
 (b) the registration certificate for the firearm.
-Marginal note: Punishment
+Marginal note:Punishment
 (2) Every person who commits an offence under subsection (1)
 (a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of
 (i) in the case of a first offence, three years, and
 (ii) in the case of a second or subsequent offence, five years; or
 (b) is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding one year.
-Marginal note: Exception
+Marginal note:Exception
 (3) Subsection (1) does not apply to a person who is using the firearm under the direct and immediate supervision of another person who is lawfully entitled to possess it and is using the firearm in a manner in which that other person may lawfully use it.
-
 R.S., 1985, c. C-46, s. 95
 1991, c. 28, s. 8, c. 40, ss. 9, 37
 1993, c. 25, s. 93
 1995, c. 39, s. 139
 2008, c. 6, s. 8
 2012, c. 6, s. 5(E)
+Marginal note:Possession of weapon obtained by commission of offence
+96 (1) Subject to subsection (3), every person commits an offence who possesses a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition that the person knows was obtained by the commission in Canada of an offence or by an act or omission anywhere that, if it had occurred in Canada, would have constituted an offence.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of one year; or
+(b) is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding one year.
+Marginal note:Exception
+(3) Subsection (1) does not apply to a person who comes into possession of anything referred to in that subsection by the operation of law and who lawfully disposes of it within a reasonable period after acquiring possession of it.
+R.S., 1985, c. C-46, s. 96
+1995, c. 39, s. 139
+97 [Repealed before coming into force, 2008, c. 20, s. 3]
+Marginal note:Breaking and entering to steal firearm
+98 (1) Every person commits an offence who
+(a) breaks and enters a place with intent to steal a firearm located in it;
+(b) breaks and enters a place and steals a firearm located in it; or
+(c) breaks out of a place after
+(i) stealing a firearm located in it, or
+(ii) entering the place with intent to steal a firearm located in it.
+Definitions of break and place
+(2) In this section, break has the same meaning as in section 321, and place means any building or structure — or part of one — and any motor vehicle, vessel, aircraft, railway vehicle, container or trailer.
+Marginal note:Entrance
+(3) For the purposes of this section,
+(a) a person enters as soon as any part of his or her body or any part of an instrument that he or she uses is within any thing that is being entered; and
+(b) a person is deemed to have broken and entered if he or she
+(i) obtained entrance by a threat or an artifice or by collusion with a person within, or
+(ii) entered without lawful justification or excuse by a permanent or temporary opening.
+Marginal note:Punishment
+(4) Every person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for life.
+R.S., 1985, c. C-46, s. 98
+R.S., 1985, c. 27 (1st Supp.), s. 13
+1991, c. 40, s. 11
+1995, c. 39, s. 139
+2008, c. 6, s. 9
+Marginal note:Robbery to steal firearm
+98.1 Every person who commits a robbery within the meaning of section 343 with intent to steal a firearm or in the course of which he or she steals a firearm commits an indictable offence and is liable to imprisonment for life.
+2008, c. 6, s. 9
+Trafficking Offences
+Marginal note:Weapons trafficking
+99 (1) Every person commits an offence who
+(a) manufactures or transfers, whether or not for consideration, or
+(b) offers to do anything referred to in paragraph (a) in respect of
+a firearm, a prohibited weapon, a restricted weapon, a prohibited device, any ammunition or any prohibited ammunition knowing that the person is not authorized to do so under the Firearms Act or any other Act of Parliament or any regulations made under any Act of Parliament.
+Marginal note:Punishment — firearm
+(2) Every person who commits an offence under subsection (1) where the object in question is a firearm, a prohibited device, any ammunition or any prohibited ammunition is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of
+(a) in the case of a first offence, three years; and
+(b) in the case of a second or subsequent offence, five years.
+Marginal note:Punishment — other cases
+(3) In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of one year.
+R.S., 1985, c. C-46, s. 99
+1995, c. 39, s. 139
+2008, c. 6, s. 10
+Marginal note:Possession for purpose of weapons trafficking
+100 (1) Every person commits an offence who possesses a firearm, a prohibited weapon, a restricted weapon, a prohibited device, any ammunition or any prohibited ammunition for the purpose of
+(a) transferring it, whether or not for consideration, or
+(b) offering to transfer it,
+knowing that the person is not authorized to transfer it under the Firearms Act or any other Act of Parliament or any regulations made under any Act of Parliament.
+Marginal note:Punishment — firearm
+(2) Every person who commits an offence under subsection (1) where the object in question is a firearm, a prohibited device, any ammunition or any prohibited ammunition is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of
+(a) in the case of a first offence, three years; and
+(b) in the case of a second or subsequent offence, five years.
+Marginal note:Punishment — other cases
+(3) In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of one year.
+R.S., 1985, c. C-46, s. 100
+R.S., 1985, c. 11 (1st Supp.), s. 2, c. 27 (1st Supp.), ss. 14, 203, c. 27 (2nd Supp.), s. 10, c. 1 (4th Supp.), s. 18(F)
+1990, c. 16, s. 2, c. 17, s. 8
+1991, c. 40, s. 12
+1992, c. 51, s. 33
+1995, c. 22, ss. 10, 18(F), c. 39, s. 139
+1996, c. 19, s. 65
+2008, c. 6, s. 11
+Marginal note:Transfer without authority
+101 (1) Every person commits an offence who transfers a firearm, a prohibited weapon, a restricted weapon, a prohibited device, any ammunition or any prohibited ammunition to any person otherwise than under the authority of the Firearms Act or any other Act of Parliament or any regulations made under an Act of Parliament.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+R.S., 1985, c. C-46, s. 101
+1991, c. 40, s. 13
+1995, c. 39, s. 139
+Assembling Offence
+Marginal note:Making automatic firearm
+102 (1) Every person commits an offence who, without lawful excuse, alters a firearm so that it is capable of, or manufactures or assembles any firearm that is capable of, discharging projectiles in rapid succession during one pressure of the trigger.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of one year; or
+(b) is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding one year.
+R.S., 1985, c. C-46, s. 102
+R.S., 1985, c. 27 (1st Supp.), s. 203
+1991, c. 28, s. 9, c. 40, s. 14
+1995, c. 39, s. 139
+Export and Import Offences
+Marginal note:Importing or exporting knowing it is unauthorized
+103 (1) Every person commits an offence who imports or exports
+(a) a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition, or
+(b) any component or part designed exclusively for use in the manufacture of or assembly into an automatic firearm,
+knowing that the person is not authorized to do so under the Firearms Act or any other Act of Parliament or any regulations made under an Act of Parliament.
+Marginal note:Punishment — firearm
+(2) Every person who commits an offence under subsection (1) where the object in question is a firearm, a prohibited device or any prohibited ammunition is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of
+(a) in the case of a first offence, three years; and
+(b) in the case of a second or subsequent offence, five years.
+Marginal note:Punishment — other cases
+(2.1) In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of one year.
+Marginal note:Attorney General of Canada may act
+(3) Any proceedings in respect of an offence under subsection (1) may be commenced at the instance of the Government of Canada and conducted by or on behalf of that government.
+R.S., 1985, c. C-46, s. 103
+1991, c. 40, s. 15
+1995, c. 39, s. 139
+2008, c. 6, s. 12
+Marginal note:Unauthorized importing or exporting
+104 (1) Every person commits an offence who imports or exports
+(a) a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition, or
+(b) any component or part designed exclusively for use in the manufacture of or assembly into an automatic firearm,
+otherwise than under the authority of the Firearms Act or any other Act of Parliament or any regulations made under an Act of Parliament.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+Marginal note:Attorney General of Canada may act
+(3) Any proceedings in respect of an offence under subsection (1) may be commenced at the instance of the Government of Canada and conducted by or on behalf of that government.
+R.S., 1985, c. C-46, s. 104
+1991, c. 40, s. 16
+1995, c. 39, s. 139
+Offences relating to Lost, Destroyed or Defaced Weapons, etc.
+Marginal note:Losing or finding
+105 (1) Every person commits an offence who
+(a) having lost a firearm, a prohibited weapon, a restricted weapon, a prohibited device, any prohibited ammunition, an authorization, a licence or a registration certificate, or having had it stolen from the person’s possession, does not with reasonable despatch report the loss to a peace officer, to a firearms officer or a chief firearms officer; or
+(b) on finding a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition that the person has reasonable grounds to believe has been lost or abandoned, does not with reasonable despatch deliver it to a peace officer, a firearms officer or a chief firearms officer or report the finding to a peace officer, a firearms officer or a chief firearms officer.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+R.S., 1985, c. C-46, s. 105
+1991, c. 28, s. 10, c. 40, ss. 18, 39
+1994, c. 44, s. 7
+1995, c. 39, s. 139
+Marginal note:Destroying
+106 (1) Every person commits an offence who
+(a) after destroying any prohibited firearm, restricted firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition, or
+(b) on becoming aware of the destruction of any prohibited firearm, restricted firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition that was in the person’s possession before its destruction,
+does not with reasonable despatch report the destruction to a peace officer, firearms officer or chief firearms officer.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+R.S., 1985, c. C-46, s. 106
+R.S., 1985, c. 27 (1st Supp.), s. 203
+1991, c. 40, s. 19
+1995, c. 22, s. 10, c. 39, s. 139
+2012, c. 6, s. 6
+Marginal note:False statements
+107 (1) Every person commits an offence who knowingly makes, before a peace officer, firearms officer or chief firearms officer, a false report or statement concerning the loss, theft or destruction of a firearm, a prohibited weapon, a restricted weapon, a prohibited device, any prohibited ammunition, an authorization, a licence or a registration certificate.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+Definition of report or statement
+(3) In this section, report or statement means an assertion of fact, opinion, belief or knowledge, whether material or not and whether admissible or not.
+R.S., 1985, c. C-46, s. 107
+1991, c. 40, s. 20
+1995, c. 39, s. 139
+Marginal note:Tampering with serial number
+108 (1) Every person commits an offence who, without lawful excuse, the proof of which lies on the person,
+(a) alters, defaces or removes a serial number on a firearm; or
+(b) possesses a firearm knowing that the serial number on it has been altered, defaced or removed.
+Marginal note:Punishment
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+(b) is guilty of an offence punishable on summary conviction.
+Marginal note:Exception
+(3) No person is guilty of an offence under paragraph (1)(b) by reason only of possessing a prohibited firearm or restricted firearm the serial number on which has been altered, defaced or removed, if that serial number has been replaced and a registration certificate in respect of the firearm has been issued setting out a new serial number for the firearm.
+Marginal note:Evidence
+(4) In proceedings for an offence under subsection (1), evidence that a person possesses a firearm the serial number on which has been wholly or partially obliterated otherwise than through normal use over time is, in the absence of evidence to the contrary, proof that the person possesses the firearm knowing that the serial number on it has been altered, defaced or removed.
+R.S., 1985, c. C-46, s. 108
+1991, c. 40, s. 20
+1995, c. 39, s. 139
+2012, c. 6, s. 7
+Prohibition Orders
+Marginal note:Mandatory prohibition order
+109 (1) Where a person is convicted, or discharged under section 730, of
+(a) an indictable offence in the commission of which violence against a person was used, threatened or attempted and for which the person may be sentenced to imprisonment for ten years or more,
+(b) an offence under subsection 85(1) (using firearm in commission of offence), subsection 85(2) (using imitation firearm in commission of offence), 95(1) (possession of prohibited or restricted firearm with ammunition), 99(1) (weapons trafficking), 100(1) (possession for purpose of weapons trafficking), 102(1) (making automatic firearm), 103(1) (importing or exporting knowing it is unauthorized) or section 264 (criminal harassment),
+(c) an offence relating to the contravention of subsection 5(1) or (2), 6(1) or (2) or 7(1) of the Controlled Drugs and Substances Act, or
+(d) an offence that involves, or the subject-matter of which is, a firearm, a cross-bow, a prohibited weapon, a restricted weapon, a prohibited device, any ammunition, any prohibited ammunition or an explosive substance and, at the time of the offence, the person was prohibited by any order made under this Act or any other Act of Parliament from possessing any such thing,
+the court that sentences the person or directs that the person be discharged, as the case may be, shall, in addition to any other punishment that may be imposed for that offence or any other condition prescribed in the order of discharge, make an order prohibiting the person from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition and explosive substance during the period specified in the order as determined in accordance with subsection (2) or (3), as the case may be.
+Marginal note:Duration of prohibition order — first offence
+(2) An order made under subsection (1) shall, in the case of a first conviction for or discharge from the offence to which the order relates, prohibit the person from possessing
+(a) any firearm, other than a prohibited firearm or restricted firearm, and any crossbow, restricted weapon, ammunition and explosive substance during the period that
+(i) begins on the day on which the order is made, and
+(ii) ends not earlier than ten years after the person’s release from imprisonment after conviction for the offence or, if the person is not then imprisoned or subject to imprisonment, after the person’s conviction for or discharge from the offence; and
+(b) any prohibited firearm, restricted firearm, prohibited weapon, prohibited device and prohibited ammunition for life.
+Marginal note:Duration of prohibition order — subsequent offences
+(3) An order made under subsection (1) shall, in any case other than a case described in subsection (2), prohibit the person from possessing any firearm, cross-bow, restricted weapon, ammunition and explosive substance for life.
+Definition of release from imprisonment
+(4) In subparagraph (2)(a)(ii), release from imprisonment means release from confinement by reason of expiration of sentence, commencement of statutory release or grant of parole.
+Marginal note:Application of ss. 113 to 117
+(5) Sections 113 to 117 apply in respect of every order made under subsection (1).
+R.S., 1985, c. C-46, s. 109
+R.S., 1985, c. 27 (1st Supp.), s. 185(F)
+1991, c. 40, s. 21
+1995, c. 39, ss. 139, 190
+1996, c. 19, s. 65.1
+2003, c. 8, s. 4
+Marginal note:Discretionary prohibition order
+110 (1) Where a person is convicted, or discharged under section 730, of
+(a) an offence, other than an offence referred to in any of paragraphs 109(1)(a), (b) and (c), in the commission of which violence against a person was used, threatened or attempted, or
+(b) an offence that involves, or the subject-matter of which is, a firearm, a cross-bow, a prohibited weapon, a restricted weapon, a prohibited device, ammunition, prohibited ammunition or an explosive substance and, at the time of the offence, the person was not prohibited by any order made under this Act or any other Act of Parliament from possessing any such thing,
+the court that sentences the person or directs that the person be discharged, as the case may be, shall, in addition to any other punishment that may be imposed for that offence or any other condition prescribed in the order of discharge, consider whether it is desirable, in the interests of the safety of the person or of any other person, to make an order prohibiting the person from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all such things, and where the court decides that it is so desirable, the court shall so order.
+Marginal note:Duration of prohibition order
+(2) An order made under subsection (1) against a person begins on the day on which the order is made and ends not later than ten years after the person’s release from imprisonment after conviction for the offence to which the order relates or, if the person is not then imprisoned or subject to imprisonment, after the person’s conviction for or discharge from the offence.
+Marginal note:Reasons
+(3) Where the court does not make an order under subsection (1), or where the court does make such an order but does not prohibit the possession of everything referred to in that subsection, the court shall include in the record a statement of the court’s reasons for not doing so.
+Definition of release from imprisonment
+(4) In subsection (2), release from imprisonment means release from confinement by reason of expiration of sentence, commencement of statutory release or grant of parole.
+Marginal note:Application of ss. 113 to 117
+(5) Sections 113 to 117 apply in respect of every order made under subsection (1).
+R.S., 1985, c. C-46, s. 110
+1991, c. 40, ss. 23, 40
+1995, c. 39, ss. 139, 190
+Marginal note:Application for prohibition order
+111 (1) A peace officer, firearms officer or chief firearms officer may apply to a provincial court judge for an order prohibiting a person from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all such things, where the peace officer, firearms officer or chief firearms officer believes on reasonable grounds that it is not desirable in the interests of the safety of the person against whom the order is sought or of any other person that the person against whom the order is sought should possess any such thing.
+Marginal note:Date for hearing and notice
+(2) On receipt of an application made under subsection (1), the provincial court judge shall fix a date for the hearing of the application and direct that notice of the hearing be given, in such manner as the provincial court judge may specify, to the person against whom the order is sought.
+Marginal note:Hearing of application
+(3) Subject to subsection (4), at the hearing of an application made under subsection (1), the provincial court judge shall hear all relevant evidence presented by or on behalf of the applicant and the person against whom the order is sought.
+Marginal note:Where hearing may proceed ex parte
+(4) A provincial court judge may proceed ex parte to hear and determine an application made under subsection (1) in the absence of the person against whom the order is sought in the same circumstances as those in which a summary conviction court may, under Part XXVII, proceed with a trial in the absence of the defendant.
+Marginal note:Prohibition order
+(5) Where, at the conclusion of a hearing of an application made under subsection (1), the provincial court judge is satisfied that the circumstances referred to in that subsection exist, the provincial court judge shall make an order prohibiting the person from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all such things, for such period, not exceeding five years, as is specified in the order, beginning on the day on which the order is made.
+Marginal note:Reasons
+(6) Where a provincial court judge does not make an order under subsection (1), or where a provincial court judge does make such an order but does not prohibit the possession of everything referred to in that subsection, the provincial court judge shall include in the record a statement of the court’s reasons.
+Marginal note:Application of ss. 113 to 117
+(7) Sections 113 to 117 apply in respect of every order made under subsection (5).
+Marginal note:Appeal by person or Attorney General
+(8) Where a provincial court judge makes an order under subsection (5), the person to whom the order relates, or the Attorney General, may appeal to the superior court against the order.
+Marginal note:Appeal by Attorney General
+(9) Where a provincial court judge does not make an order under subsection (5), the Attorney General may appeal to the superior court against the decision not to make an order.
+Marginal note:Application of Part XXVII to appeals
+(10) The provisions of Part XXVII, except sections 785 to 812, 816 to 819 and 829 to 838, apply in respect of an appeal made under subsection (8) or (9), with such modifications as the circumstances require and as if each reference in that Part to the appeal court were a reference to the superior court.
+Definition of provincial court judge
+(11) In this section and sections 112, 117.011 and 117.012, provincial court judge means a provincial court judge having jurisdiction in the territorial division where the person against whom the application for an order was brought resides.
+R.S., 1985, c. C-46, s. 111
+1991, c. 40, s. 24
+1995, c. 39, s. 139
+Marginal note:Revocation of prohibition order under s. 111(5)
+112 A provincial court judge may, on application by the person against whom an order is made under subsection 111(5), revoke the order if satisfied that the circumstances for which it was made have ceased to exist.
+R.S., 1985, c. C-46, s. 112
+R.S., 1985, c. 27 (1st Supp.), s. 203
+1991, c. 40, s. 26
+1995, c. 39, s. 139
+Marginal note:Lifting of prohibition order for sustenance or employment
+113 (1) Where a person who is or will be a person against whom a prohibition order is made establishes to the satisfaction of a competent authority that
+(a) the person needs a firearm or restricted weapon to hunt or trap in order to sustain the person or the person’s family, or
+(b) a prohibition order against the person would constitute a virtual prohibition against employment in the only vocation open to the person,
+the competent authority may, notwithstanding that the person is or will be subject to a prohibition order, make an order authorizing a chief firearms officer or the Registrar to issue, in accordance with such terms and conditions as the competent authority considers appropriate, an authorization, a licence or a registration certificate, as the case may be, to the person for sustenance or employment purposes.
+Marginal note:Factors
+(2) A competent authority may make an order under subsection (1) only after taking the following factors into account:
+(a) the criminal record, if any, of the person;
+(b) the nature and circumstances of the offence, if any, in respect of which the prohibition order was or will be made; and
+(c) the safety of the person and of other persons.
+Marginal note:Effect of order
+(3) Where an order is made under subsection (1),
+(a) an authorization, a licence or a registration certificate may not be denied to the person in respect of whom the order was made solely on the basis of a prohibition order against the person or the commission of an offence in respect of which a prohibition order was made against the person; and
+(b) an authorization and a licence may, for the duration of the order, be issued to the person in respect of whom the order was made only for sustenance or employment purposes and, where the order sets out terms and conditions, only in accordance with those terms and conditions, but, for greater certainty, the authorization or licence may also be subject to terms and conditions set by the chief firearms officer that are not inconsistent with the purpose for which it is issued and any terms and conditions set out in the order.
+Marginal note:When order can be made
+(4) For greater certainty, an order under subsection (1) may be made during proceedings for an order under subsection 109(1), 110(1), 111(5), 117.05(4) or 515(2), paragraph 732.1(3)(d) or subsection 810(3).
+Meaning of competent authority
+(5) In this section, competent authority means the competent authority that made or has jurisdiction to make the prohibition order.
+R.S., 1985, c. C-46, s. 113
+1991, c. 40, s. 27(E)
+1995, c. 22, s. 10, c. 39, ss. 139, 190
+Marginal note:Requirement to surrender
+114 A competent authority that makes a prohibition order against a person may, in the order, require the person to surrender to a peace officer, a firearms officer or a chief firearms officer
+(a) any thing the possession of which is prohibited by the order that is in the possession of the person on the commencement of the order, and
+(b) every authorization, licence and registration certificate relating to any thing the possession of which is prohibited by the order that is held by the person on the commencement of the order,
+and where the competent authority does so, it shall specify in the order a reasonable period for surrendering such things and documents and during which section 117.01 does not apply to that person.
+R.S., 1985, c. C-46, s. 114
+R.S., 1985, c. 27 (1st Supp.), s. 203
+1995, c. 22, s. 10, c. 39, s. 139
+Marginal note:Forfeiture
+115 (1) Unless a prohibition order against a person specifies otherwise, every thing the possession of which is prohibited by the order that, on the commencement of the order, is in the possession of the person is forfeited to Her Majesty.
+Marginal note:Exception
+(1.1) Subsection (1) does not apply in respect of an order made under section 515.
+Marginal note:Disposal
+(2) Every thing forfeited to Her Majesty under subsection (1) shall be disposed of or otherwise dealt with as the Attorney General directs.
+R.S., 1985, c. C-46, s. 115
+1995, c. 39, s. 139
+2003, c. 8, s. 5
+Marginal note:Authorizations revoked or amended
+116 (1) Subject to subsection (2), every authorization, licence and registration certificate relating to any thing the possession of which is prohibited by a prohibition order and issued to a person against whom the prohibition order is made is, on the commencement of the prohibition order, revoked, or amended, as the case may be, to the extent of the prohibitions in the order.
+Marginal note:Duration of revocation or amendment — orders under section 515
+(2) An authorization, a licence and a registration certificate relating to a thing the possession of which is prohibited by an order made under section 515 is revoked, or amended, as the case may be, only in respect of the period during which the order is in force.
+R.S., 1985, c. C-46, s. 116
+1991, c. 28, s. 11, c. 40, ss. 28, 41
+1995, c. 39, s. 139
+2003, c. 8, s. 6
+Marginal note:Return to owner
+117 Where the competent authority that makes a prohibition order or that would have had jurisdiction to make the order is, on application for an order under this section, satisfied that a person, other than the person against whom a prohibition order was or will be made,
+(a) is the owner of any thing that is or may be forfeited to Her Majesty under subsection 115(1) and is lawfully entitled to possess it, and
+(b) in the case of a prohibition order under subsection 109(1) or 110(1), had no reasonable grounds to believe that the thing would or might be used in the commission of the offence in respect of which the prohibition order was made,
+the competent authority shall order that the thing be returned to the owner or the proceeds of any sale of the thing be paid to that owner or, if the thing was destroyed, that an amount equal to the value of the thing be paid to the owner.
+R.S., 1985, c. C-46, s. 117
+1991, c. 40, s. 29
+1995, c. 39, s. 139
+Marginal note:Possession contrary to order
+117.01 (1) Subject to subsection (4), every person commits an offence who possesses a firearm, a cross-bow, a prohibited weapon, a restricted weapon, a prohibited device, any ammunition, any prohibited ammunition or an explosive substance while the person is prohibited from doing so by any order made under this Act or any other Act of Parliament.
+Marginal note:Failure to surrender authorization, etc.
+(2) Every person commits an offence who wilfully fails to surrender to a peace officer, a firearms officer or a chief firearms officer any authorization, licence or registration certificate held by the person when the person is required to do so by any order made under this Act or any other Act of Parliament.
+Marginal note:Punishment
+(3) Every person who commits an offence under subsection (1) or (2)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years; or
+(b) is guilty of an offence punishable on summary conviction.
+Marginal note:Exception
+(4) Subsection (1) does not apply to a person who possessed a firearm in accordance with an authorization or licence issued to the person as the result of an order made under subsection 113(1).
+1995, c. 39, s. 139
+Limitations on Access
+Marginal note:Application for order
+117.011 (1) A peace officer, firearms officer or chief firearms officer may apply to a provincial court judge for an order under this section where the peace officer, firearms officer or chief firearms officer believes on reasonable grounds that
+(a) the person against whom the order is sought cohabits with, or is an associate of, another person who is prohibited by any order made under this Act or any other Act of Parliament from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all such things; and
+(b) the other person would or might have access to any such thing that is in the possession of the person against whom the order is sought.
+Marginal note:Date for hearing and notice
+(2) On receipt of an application made under subsection (1), the provincial court judge shall fix a date for the hearing of the application and direct that notice of the hearing be given, in such manner as the provincial court judge may specify, to the person against whom the order is sought.
+Marginal note:Hearing of application
+(3) Subject to subsection (4), at the hearing of an application made under subsection (1), the provincial court judge shall hear all relevant evidence presented by or on behalf of the applicant and the person against whom the order is sought.
+Marginal note:Where hearing may proceed ex parte
+(4) A provincial court judge may proceed ex parte to hear and determine an application made under subsection (1) in the absence of the person against whom the order is sought in the same circumstances as those in which a summary conviction court may, under Part XXVII, proceed with a trial in the absence of the defendant.
+Marginal note:Order
+(5) Where, at the conclusion of a hearing of an application made under subsection (1), the provincial court judge is satisfied that the circumstances referred to in that subsection exist, the provincial court judge shall make an order in respect of the person against whom the order was sought imposing such terms and conditions on the person’s use and possession of anything referred to in subsection (1) as the provincial court judge considers appropriate.
+Marginal note:Terms and conditions
+(6) In determining terms and conditions under subsection (5), the provincial court judge shall impose terms and conditions that are the least intrusive as possible, bearing in mind the purpose of the order.
+Marginal note:Appeal by person or Attorney General
+(7) Where a provincial court judge makes an order under subsection (5), the person to whom the order relates, or the Attorney General, may appeal to the superior court against the order.
+Marginal note:Appeal by Attorney General
+(8) Where a provincial court judge does not make an order under subsection (5), the Attorney General may appeal to the superior court against the decision not to make an order.
+Marginal note:Application of Part XXVII to appeals
+(9) The provisions of Part XXVII, except sections 785 to 812, 816 to 819 and 829 to 838, apply in respect of an appeal made under subsection (7) or (8), with such modifications as the circumstances require and as if each reference in that Part to the appeal court were a reference to the superior court.
+1995, c. 39, s. 139
+Marginal note:Revocation of order under s. 117.011
+117.012 A provincial court judge may, on application by the person against whom an order is made under subsection 117.011(5), revoke the order if satisfied that the circumstances for which it was made have ceased to exist.
+1995, c. 39, s. 139
+Search and Seizure
+Marginal note:Search and seizure without warrant where offence committed
+117.02 (1) Where a peace officer believes on reasonable grounds
+(a) that a weapon, an imitation firearm, a prohibited device, any ammunition, any prohibited ammunition or an explosive substance was used in the commission of an offence, or
+(b) that an offence is being committed, or has been committed, under any provision of this Act that involves, or the subject-matter of which is, a firearm, an imitation firearm, a cross-bow, a prohibited weapon, a restricted weapon, a prohibited device, ammunition, prohibited ammunition or an explosive substance,
+and evidence of the offence is likely to be found on a person, in a vehicle or in any place or premises other than a dwelling-house, the peace officer may, where the conditions for obtaining a warrant exist but, by reason of exigent circumstances, it would not be practicable to obtain a warrant, search, without warrant, the person, vehicle, place or premises, and seize any thing by means of or in relation to which that peace officer believes on reasonable grounds the offence is being committed or has been committed.
+Marginal note:Disposition of seized things
+(2) Any thing seized pursuant to subsection (1) shall be dealt with in accordance with sections 490 and 491.
+1995, c. 39, s. 139
+Marginal note:Seizure on failure to produce authorization
+117.03 (1) Despite section 117.02, a peace officer who finds
+(a) a person in possession of a firearm who fails, on demand, to produce, for inspection by the peace officer, an authorization or a licence under which the person may lawfully possess the firearm and, in the case of a prohibited firearm or a restricted firearm, a registration certificate for it, or
+(b) a person in possession of a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition who fails, on demand, to produce, for inspection by the peace officer, an authorization or a licence under which the person may lawfully possess it,
+may seize the firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition unless its possession by the person in the circumstances in which it is found is authorized by any provision of this Part, or the person is under the direct and immediate supervision of another person who may lawfully possess it.
+Marginal note:Return of seized thing on production of authorization
+(2) If a person from whom any thing is seized under subsection (1) claims the thing within 14 days after the seizure and produces for inspection by the peace officer by whom it was seized, or any other peace officer having custody of it,
+(a) a licence under which the person is lawfully entitled to possess it, and
+(b) in the case of a prohibited firearm or a restricted firearm, an authorization and registration certificate for it,
+the thing shall without delay be returned to that person.
+Marginal note:Forfeiture of seized thing
+(3) Where any thing seized pursuant to subsection (1) is not claimed and returned as and when provided by subsection (2), a peace officer shall forthwith take the thing before a provincial court judge, who may, after affording the person from whom it was seized or its owner, if known, an opportunity to establish that the person is lawfully entitled to possess it, declare it to be forfeited to Her Majesty, to be disposed of or otherwise dealt with as the Attorney General directs.
+1995, c. 39, s. 139
+2012, c. 6, s. 8
+Marginal note:Application for warrant to search and seize
+117.04 (1) Where, pursuant to an application made by a peace officer with respect to any person, a justice is satisfied by information on oath that there are reasonable grounds to believe that the person possesses a weapon, a prohibited device, ammunition, prohibited ammunition or an explosive substance in a building, receptacle or place and that it is not desirable in the interests of the safety of the person, or of any other person, for the person to possess the weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, the justice may issue a warrant authorizing a peace officer to search the building, receptacle or place and seize any such thing, and any authorization, licence or registration certificate relating to any such thing, that is held by or in the possession of the person.
+Marginal note:Search and seizure without warrant
+(2) Where, with respect to any person, a peace officer is satisfied that there are reasonable grounds to believe that it is not desirable, in the interests of the safety of the person or any other person, for the person to possess any weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, the peace officer may, where the grounds for obtaining a warrant under subsection (1) exist but, by reason of a possible danger to the safety of that person or any other person, it would not be practicable to obtain a warrant, search for and seize any such thing, and any authorization, licence or registration certificate relating to any such thing, that is held by or in the possession of the person.
+Marginal note:Return to justice
+(3) A peace officer who executes a warrant referred to in subsection (1) or who conducts a search without a warrant under subsection (2) shall forthwith make a return to the justice who issued the warrant or, if no warrant was issued, to a justice who might otherwise have issued a warrant, showing
+(a) in the case of an execution of a warrant, the things or documents, if any, seized and the date of execution of the warrant; and
+(b) in the case of a search conducted without a warrant, the grounds on which it was concluded that the peace officer was entitled to conduct the search, and the things or documents, if any, seized.
+Marginal note:Authorizations, etc., revoked
+(4) Where a peace officer who seizes any thing under subsection (1) or (2) is unable at the time of the seizure to seize an authorization or a licence under which the person from whom the thing was seized may possess the thing and, in the case of a seized firearm, a registration certificate for the firearm, every authorization, licence and registration certificate held by the person is, as at the time of the seizure, revoked.
+1995, c. 39, s. 139
+2004, c. 12, s. 3
+Marginal note:Application for disposition
+117.05 (1) Where any thing or document has been seized under subsection 117.04(1) or (2), the justice who issued the warrant authorizing the seizure or, if no warrant was issued, a justice who might otherwise have issued a warrant, shall, on application for an order for the disposition of the thing or document so seized made by a peace officer within thirty days after the date of execution of the warrant or of the seizure without a warrant, as the case may be, fix a date for the hearing of the application and direct that notice of the hearing be given to such persons or in such manner as the justice may specify.
+Marginal note:Ex parte hearing
+(2) A justice may proceed ex parte to hear and determine an application made under subsection (1) in the absence of the person from whom the thing or document was seized in the same circumstances as those in which a summary conviction court may, under Part XXVII, proceed with a trial in the absence of the defendant.
+Marginal note:Hearing of application
+(3) At the hearing of an application made under subsection (1), the justice shall hear all relevant evidence, including evidence respecting the value of the thing in respect of which the application was made.
+Marginal note:Forfeiture and prohibition order on finding
+(4) Where, following the hearing of an application made under subsection (1), the justice finds that it is not desirable in the interests of the safety of the person from whom the thing was seized or of any other person that the person should possess any weapon, prohibited device, ammunition, prohibited ammunition and explosive substance, or any such thing, the justice shall
+(a) order that any thing seized be forfeited to Her Majesty or be otherwise disposed of; and
+(b) where the justice is satisfied that the circumstances warrant such an action, order that the possession by that person of any weapon, prohibited device, ammunition, prohibited ammunition and explosive substance, or of any such thing, be prohibited during any period, not exceeding five years, that is specified in the order, beginning on the making of the order.
+Marginal note:Reasons
+(5) Where a justice does not make an order under subsection (4), or where a justice does make such an order but does not prohibit the possession of all of the things referred to in that subsection, the justice shall include in the record a statement of the justice’s reasons.
+Marginal note:Application of ss. 113 to 117
+(6) Sections 113 to 117 apply in respect of every order made under subsection (4).
+Marginal note:Appeal by person
+(7) Where a justice makes an order under subsection (4) in respect of a person, or in respect of any thing that was seized from a person, the person may appeal to the superior court against the order.
+Marginal note:Appeal by Attorney General
+(8) Where a justice does not make a finding as described in subsection (4) following the hearing of an application under subsection (1), or makes the finding but does not make an order to the effect described in paragraph (4)(b), the Attorney General may appeal to the superior court against the failure to make the finding or to make an order to the effect so described.
+Marginal note:Application of Part XXVII to appeals
+(9) The provisions of Part XXVII, except sections 785 to 812, 816 to 819 and 829 to 838, apply in respect of an appeal made under subsection (7) or (8) with such modifications as the circumstances require and as if each reference in that Part to the appeal court were a reference to the superior court.
+1995, c. 39, s. 139
+Marginal note:Where no finding or application
+117.06 (1) Any thing or document seized pursuant to subsection 117.04(1) or (2) shall be returned to the person from whom it was seized if
+(a) no application is made under subsection 117.05(1) within thirty days after the date of execution of the warrant or of the seizure without a warrant, as the case may be; or
+(b) an application is made under subsection 117.05(1) within the period referred to in paragraph (a), and the justice does not make a finding as described in subsection 117.05(4).
+Marginal note:Restoration of authorizations
+(2) Where, pursuant to subsection (1), any thing is returned to the person from whom it was seized and an authorization, a licence or a registration certificate, as the case may be, is revoked pursuant to subsection 117.04(4), the justice referred to in paragraph (1)(b) may order that the revocation be reversed and that the authorization, licence or registration certificate be restored.
+1995, c. 39, s. 139
+Exempted Persons
+Marginal note:Public officers
+117.07 (1) Notwithstanding any other provision of this Act, but subject to section 117.1, no public officer is guilty of an offence under this Act or the Firearms Act by reason only that the public officer
+(a) possesses a firearm, a prohibited weapon, a restricted weapon, a prohibited device, any prohibited ammunition or an explosive substance in the course of or for the purpose of the public officer’s duties or employment;
+(b) manufactures or transfers, or offers to manufacture or transfer, a firearm, a prohibited weapon, a restricted weapon, a prohibited device, any ammunition or any prohibited ammunition in the course of the public officer’s duties or employment;
+(c) exports or imports a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition in the course of the public officer’s duties or employment;
+(d) exports or imports a component or part designed exclusively for use in the manufacture of or assembly into an automatic firearm in the course of the public officer’s duties or employment;
+(e) in the course of the public officer’s duties or employment, alters a firearm so that it is capable of, or manufactures or assembles any firearm with intent to produce a firearm that is capable of, discharging projectiles in rapid succession during one pressure of the trigger;
+(f) fails to report the loss, theft or finding of any firearm, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance that occurs in the course of the public officer’s duties or employment or the destruction of any such thing in the course of the public officer’s duties or employment; or
+(g) alters a serial number on a firearm in the course of the public officer’s duties or employment.
+Definition of public officer
+(2) In this section, public officer means
+(a) a peace officer;
+(b) a member of the Canadian Forces or of the armed forces of a state other than Canada who is attached or seconded to any of the Canadian Forces;
+(c) an operator of a museum established by the Chief of the Defence Staff or a person employed in any such museum;
+(d) a member of a cadet organization under the control and supervision of the Canadian Forces;
+(e) a person training to become a police officer or a peace officer under the control and supervision of
+(i) a police force, or
+(ii) a police academy or similar institution designated by the Attorney General of Canada or the lieutenant governor in council of a province;
+(f) a member of a visiting force, within the meaning of section 2 of the Visiting Forces Act, who is authorized under paragraph 14(a) of that Act to possess and carry explosives, ammunition and firearms;
+(g) a person, or member of a class of persons, employed in the federal public administration or by the government of a province or municipality who is prescribed to be a public officer; or
+(h) the Commissioner of Firearms, the Registrar, a chief firearms officer, any firearms officer and any person designated under section 100 of the Firearms Act.
+1995, c. 39, s. 139
+2003, c. 8, s. 7, c. 22, s. 224(E)
+Marginal note:Individuals acting for police force, Canadian Forces and visiting forces
+117.08 Notwithstanding any other provision of this Act, but subject to section 117.1, no individual is guilty of an offence under this Act or the Firearms Act by reason only that the individual
+(a) possesses a firearm, a prohibited weapon, a restricted weapon, a prohibited device, any prohibited ammunition or an explosive substance,
+(b) manufactures or transfers, or offers to manufacture or transfer, a firearm, a prohibited weapon, a restricted weapon, a prohibited device, any ammunition or any prohibited ammunition,
+(c) exports or imports a firearm, a prohibited weapon, a restricted weapon, a prohibited device or any prohibited ammunition,
+(d) exports or imports a component or part designed exclusively for use in the manufacture of or assembly into an automatic firearm,
+(e) alters a firearm so that it is capable of, or manufactures or assembles any firearm with intent to produce a firearm that is capable of, discharging projectiles in rapid succession during one pressure of the trigger,
+(f) fails to report the loss, theft or finding of any firearm, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance or the destruction of any such thing, or
+(g) alters a serial number on a firearm,
+if the individual does so on behalf of, and under the authority of, a police force, the Canadian Forces, a visiting force, within the meaning of section 2 of the Visiting Forces Act, or a department of the Government of Canada or of a province.
+1995, c. 39, s. 139
+Marginal note:Employees of business with licence
+117.09 (1) Notwithstanding any other provision of this Act, but subject to section 117.1, no individual who is the holder of a licence to possess and acquire restricted firearms and who is employed by a business as defined in subsection 2(1) of the Firearms Act that itself is the holder of a licence that authorizes the business to carry out specified activities in relation to prohibited firearms, prohibited weapons, prohibited devices or prohibited ammunition is guilty of an offence under this Act or the Firearms Act by reason only that the individual, in the course of the individual’s duties or employment in relation to those specified activities,
+(a) possesses a prohibited firearm, a prohibited weapon, a prohibited device or any prohibited ammunition;
+(b) manufactures or transfers, or offers to manufacture or transfer, a prohibited weapon, a prohibited device or any prohibited ammunition;
+(c) alters a firearm so that it is capable of, or manufactures or assembles any firearm with intent to produce a firearm that is capable of, discharging projectiles in rapid succession during one pressure of the trigger; or
+(d) alters a serial number on a firearm.
+Marginal note:Employees of business with licence
+(2) Notwithstanding any other provision of this Act, but subject to section 117.1, no individual who is employed by a business as defined in subsection 2(1) of the Firearms Act that itself is the holder of a licence is guilty of an offence under this Act or the Firearms Act by reason only that the individual, in the course of the individual’s duties or employment, possesses, manufactures or transfers, or offers to manufacture or transfer, a partially manufactured barrelled weapon that, in its unfinished state, is not a barrelled weapon from which any shot, bullet or other projectile can be discharged and that is capable of causing serious bodily injury or death to a person.
+Marginal note:Employees of carriers
+(3) Notwithstanding any other provision of this Act, but subject to section 117.1, no individual who is employed by a carrier, as defined in subsection 2(1) of the Firearms Act, is guilty of an offence under this Act or that Act by reason only that the individual, in the course of the individual’s duties or employment, possesses any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition or prohibited ammunition or transfers, or offers to transfer any such thing.
+Marginal note:Employees of museums handling functioning imitation antique firearm
+(4) Notwithstanding any other provision of this Act, but subject to section 117.1, no individual who is employed by a museum as defined in subsection 2(1) of the Firearms Act that itself is the holder of a licence is guilty of an offence under this Act or the Firearms Act by reason only that the individual, in the course of the individual’s duties or employment, possesses or transfers a firearm that is designed or intended to exactly resemble, or to resemble with near precision, an antique firearm if the individual has been trained to handle and use such a firearm.
+Marginal note:Employees of museums handling firearms generally
+(5) Notwithstanding any other provision of this Act, but subject to section 117.1, no individual who is employed by a museum as defined in subsection 2(1) of the Firearms Act that itself is the holder of a licence is guilty of an offence under this Act or the Firearms Act by reason only that the individual possesses or transfers a firearm in the course of the individual’s duties or employment if the individual is designated, by name, by a provincial minister within the meaning of subsection 2(1) of the Firearms Act.
+Marginal note:Public safety
+(6) A provincial minister shall not designate an individual for the purpose of subsection (5) where it is not desirable, in the interests of the safety of any person, to designate the individual.
+Marginal note:Conditions
+(7) A provincial minister may attach to a designation referred to in subsection (5) any reasonable condition that the provincial minister considers desirable in the particular circumstances and in the interests of the safety of any person.
+1995, c. 39, s. 139
+Marginal note:Restriction
+117.1 Sections 117.07 to 117.09 do not apply if the public officer or the individual is subject to a prohibition order and acts contrary to that order or to an authorization or a licence issued under the authority of an order made under subsection 113(1).
+1995, c. 39, s. 139
+General
+Marginal note:Onus on the accused
+117.11 Where, in any proceedings for an offence under any of sections 89, 90, 91, 93, 97, 101, 104 and 105, any question arises as to whether a person is the holder of an authorization, a licence or a registration certificate, the onus is on the accused to prove that the person is the holder of the authorization, licence or registration certificate.
+1995, c. 39, s. 139
+Marginal note:Authorizations, etc., as evidence
+117.12 (1) In any proceedings under this Act or any other Act of Parliament, a document purporting to be an authorization, a licence or a registration certificate is evidence of the statements contained therein.
+Marginal note:Certified copies
+(2) In any proceedings under this Act or any other Act of Parliament, a copy of any authorization, licence or registration certificate is, if certified as a true copy by the Registrar or a chief firearms officer, admissible in evidence and, in the absence of evidence to the contrary, has the same probative force as the authorization, licence or registration certificate would have had if it had been proved in the ordinary way.
+1995, c. 39, s. 139
+Marginal note:Certificate of analyst
+117.13 (1) A certificate purporting to be signed by an analyst stating that the analyst has analyzed any weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or any part or component of such a thing, and stating the results of the analysis is evidence in any proceedings in relation to any of those things under this Act or under section 19 of the Export and Import Permits Act in relation to subsection 15(2) of that Act without proof of the signature or official character of the person appearing to have signed the certificate.
+Marginal note:Attendance of analyst
+(2) The party against whom a certificate of an analyst is produced may, with leave of the court, require the attendance of the analyst for the purposes of cross-examination.
+Marginal note:Notice of intention to produce certificate
+(3) No certificate of an analyst may be admitted in evidence unless the party intending to produce it has, before the trial, given to the party against whom it is intended to be produced reasonable notice of that intention together with a copy of the certificate.
+(4) and (5) [Repealed, 2008, c. 18, s. 2]
+1995, c. 39, s. 139
+2008, c. 18, s. 2
+Marginal note:Amnesty period
+117.14 (1) The Governor in Council may, by order, declare for any purpose referred to in subsection (2) any period as an amnesty period with respect to any weapon, prohibited device, prohibited ammunition, explosive substance or component or part designed exclusively for use in the manufacture of or assembly into an automatic firearm.
+Marginal note:Purposes of amnesty period
+(2) An order made under subsection (1) may declare an amnesty period for the purpose of
+(a) permitting any person in possession of any thing to which the order relates to do anything provided in the order, including, without restricting the generality of the foregoing, delivering the thing to a peace officer, a firearms officer or a chief firearms officer, registering it, destroying it or otherwise disposing of it; or
+(b) permitting alterations to be made to any prohibited firearm, prohibited weapon, prohibited device or prohibited ammunition to which the order relates so that it no longer qualifies as a prohibited firearm, a prohibited weapon, a prohibited device or prohibited ammunition, as the case may be.
+Marginal note:Reliance on amnesty period
+(3) No person who, during an amnesty period declared by an order made under subsection (1) and for a purpose described in the order, does anything provided for in the order, is, by reason only of the fact that the person did that thing, guilty of an offence under this Part.
+Marginal note:Proceedings are a nullity
+(4) Any proceedings taken under this Part against any person for anything done by the person in reliance of this section are a nullity.
+1995, c. 39, s. 139
+Marginal note:Regulations
+117.15 (1) Subject to subsection (2), the Governor in Council may make regulations prescribing anything that by this Part is to be or may be prescribed.
+Marginal note:Restriction
+(2) In making regulations, the Governor in Council may not prescribe any thing to be a prohibited firearm, a restricted firearm, a prohibited weapon, a restricted weapon, a prohibited device or prohibited ammunition if, in the opinion of the Governor in Council, the thing to be prescribed is reasonable for use in Canada for hunting or sporting purposes.
+1995, c. 39, s. 139

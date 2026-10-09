@@ -1,45 +1,45 @@
-SOURCE_URL: http://ville.montreal.qc.ca/sel/sypre-consultation/afficherpdf?idDoc=23796&typeDoc=1 (this URL, taken from the "Voir aussi" / external-links list on the French Wikipedia article "Règlement P-6", returns a live Cloudflare 520 error today; the file was fetched via its Wayback Machine snapshot: https://web.archive.org/web/20200811215732id_/http://ville.montreal.qc.ca/sel/sypre-consultation/afficherpdf?idDoc=23796&typeDoc=1)
-VERSION: CODIFICATION ADMINISTRATIVE AU 19 MAI 2012 (R.R.V.M., c. P-6, incluant les modifications apportées par les règlements 95-085 et 00-259, le tout tel que modifié par le règlement 12-024) - i.e. the City of Montreal's own official administrative consolidation of By-law P-6 as it stood the day after By-law 12-024 (adopted at the 18 May 2012 council meeting) came into force. This is the version containing art. 2.1 (itinerary disclosure) and art. 3.2 (face-covering prohibition), before either was struck down by the Quebec Superior Court in 2016 or the by-law was repealed by the City in 2019.
-RETRIEVED: 2026-09-23
-SCOPE: Whole by-law - all 7 operative articles (1 through 7), including the added/amended articles 2.1, 3.1, 3.2, 6.1, and the closing note identifying By-law 12-024 as the source of the amendments. Nothing omitted; the source document is only 3 pages and well under the character limit. No official English consolidated version of P-6 as at this date was found; only the French text is saved (see GAPS).
-GAPS: This is the amending by-law's own administrative codification, not a separately-located "pre-2012 base P-6" merged with a separately-located "current P-6" - the City's own codification already does that merge (it shows the base text with 12-024's insertions marked inline, footnoted "12-024, a. 1" / "a. 2" / "a. 3" / "a. 4" at each affected article), which is the more reliable source. No official English translation of P-6 as at 19 May 2012 could be located; searches turned up only English-language news paraphrase and academic commentary, not an official bilingual or English consolidated text, so only French is provided.
+SOURCE_URL: https://web.archive.org/web/20200811215732id_/http://ville.montreal.qc.ca/sel/sypre-consultation/afficherpdf?idDoc=23796&typeDoc=1
+VERSION: Codification administrative au 19 mai 2012 (R.R.V.M., c. P-6 as amended by 12-024); French only
+RETRIEVED: 2026-10-09
+SCOPE: Whole by-law, arts. 1-7.
+GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
 VILLE DE MONTRÉAL
 RÈGLEMENT
 R.R.V.M., c. P-6 (Codification administrative)
 
 MISE EN GARDE : Cette codification a été préparée uniquement pour la commodité du
-lecteur et n'a aucune valeur officielle. Aucune garantie n'est offerte quant à l'exactitude du
+lecteur et n’a aucune valeur officielle. Aucune garantie n’est offerte quant à l’exactitude du
 texte. Pour toutes fins légales le lecteur devra consulter la version officielle du règlement
 et de chacun de ses amendements.
 
 RÈGLEMENT SUR LA PRÉVENTION DES TROUBLES DE LA PAIX, DE LA
-SÉCURITÉ ET DE L'ORDRE PUBLICS, ET SUR L'UTILISATION DU DOMAINE
+SÉCURITÉ ET DE L’ORDRE PUBLICS, ET SUR L’UTILISATION DU DOMAINE
 PUBLIC
 
               CODIFICATION ADMINISTRATIVE AU 19 MAI 2012
    (R.R.V.M., c. P-6 - incluant les modifications apportées par les règlements 95-085 et
                00-259 - le tout tel que modifié par le règlement 12-024)
 
-1.      Toute personne a le droit d'utiliser et de jouir des voies, parcs et places publiques,
-ainsi que du domaine public de la ville, en toute paix et sécurité et dans l'ordre public.
+1.      Toute personne a le droit d’utiliser et de jouir des voies, parcs et places publiques,
+ainsi que du domaine public de la ville, en toute paix et sécurité et dans l’ordre public.
 
 2.      Les assemblées, défilés ou autres attroupements qui mettent en danger la paix, la
 sécurité ou l'ordre publics sont interdits sur les voies et places publiques, de même que dans
 les parcs ou autres endroits du domaine public.
 
-2.1.    Au préalable de sa tenue, le lieu exact et l'itinéraire, le cas échéant, d'une
-assemblée, d'un défilé ou autre attroupement doit être communiqué au directeur du Service
-de police ou à l'officier responsable.
+2.1.    Au préalable de sa tenue, le lieu exact et l’itinéraire, le cas échéant, d’une
+assemblée, d’un défilé ou autre attroupement doit être communiqué au directeur du Service
+de police ou à l’officier responsable.
 
-Une assemblée, un défilé ou un attroupement pour lequel le lieu ou l'itinéraire n'a pas été
-communiqué, ou dont le déroulement ne se fait pas au lieu ou conformément à l'itinéraire
+Une assemblée, un défilé ou un attroupement pour lequel le lieu ou l’itinéraire n’a pas été
+communiqué, ou dont le déroulement ne se fait pas au lieu ou conformément à l’itinéraire
 communiqué est une assemblée, un défilé ou un attroupement tenu en violation du présent
 règlement.
 
-La présente disposition ne s'applique pas lorsque le Service de police, pour des motifs de
-prévention des troubles de paix, de la sécurité et de l'ordre publics, ordonne un changement
-de lieu ou la modification de l'itinéraire communiqué.
+La présente disposition ne s’applique pas lorsque le Service de police, pour des motifs de
+prévention des troubles de paix, de la sécurité et de l’ordre publics, ordonne un changement
+de lieu ou la modification de l’itinéraire communiqué.
 ________________
 12-024, a. 1.
 
@@ -49,8 +49,8 @@ attroupement sur le domaine public, de molester ou bousculer les citoyens qui ut
 présence de ces citoyens.
 
 3.1.   Il est interdit à quiconque participe ou est présent à une assemblée, un défilé ou un
-attroupement sur le domaine public, d'avoir sur lui ou en sa possession, sans excuse
-raisonnable, un objet contondant qui n'est pas utilisé aux fins auxquelles il est destiné.
+attroupement sur le domaine public, d’avoir sur lui ou en sa possession, sans excuse
+raisonnable, un objet contondant qui n’est pas utilisé aux fins auxquelles il est destiné.
 
 Aux fins du présent article, constitue un objet contondant, un bâton de baseball, un bâton de
 hockey et tout autre bâton.
@@ -58,7 +58,7 @@ ________________
 00-259, a. 1
 
 3.2.   Il est interdit à quiconque participe ou est présent à une assemblée, un défilé ou un
-attroupement sur le domaine public d'avoir le visage couvert sans motif raisonnable,
+attroupement sur le domaine public d’avoir le visage couvert sans motif raisonnable,
 notamment par un foulard, une cagoule ou un masque.
 ________________
 12-024, a. 2.
@@ -82,7 +82,7 @@ ________________
 quitter les lieux d'une assemblée, d'un défilé ou d'un attroupement tenu en violation du
 présent règlement.
 
-6.1.    Le présent règlement s'applique à l'ensemble du territoire de la Ville de Montréal et
+6.1.    Le présent règlement s’applique à l’ensemble du territoire de la Ville de Montréal et
 remplace toute disposition de même nature ou portant sur le même objet, dans la mesure où
 une telle disposition est incompatible avec une disposition du présent règlement.
 ________________
@@ -101,11 +101,9 @@ ________________
                                  ____________________________
 
 Cette codification du Règlement sur la prévention des troubles de la paix, de la sécurité et
-de l'ordre publics, et sur l'utilisation du domaine public (R.R.V.M., chapitre P-6) contient
+de l’ordre publics, et sur l’utilisation du domaine public (R.R.V.M., chapitre P-6) contient
 les modifications apportées par le règlement suivant :
 
      •   12-024      Règlement modifiant le Règlement sur la prévention des troubles de la
-                     paix, de la sécurité et de l'ordre publics, et sur l'utilisation du domaine
-                     public (R.R.V.M., chapitre P-6), adopté à l'assemblée du 18 mai 2012.
-
-Dernière mise à jour : 19 mai 2012
+                     paix, de la sécurité et de l’ordre publics, et sur l’utilisation du domaine
+                     public (R.R.V.M., chapitre P-6), adopté à l’assemblée du 18 mai 2012.
