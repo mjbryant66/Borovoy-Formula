@@ -324,11 +324,10 @@
       ],
       "design_reforms": [
         "Require a probable-cause threshold before UWOs can issue",
-        "Statutory cap on pursuit of assets below a defined value threshold",
         "Annual disparate-impact reporting on UWO targets",
-        "Privilege preservation between criminal proceedings and civil UWO processes"
+        "Protection against criminal use of the sworn account: the statement and records a respondent gives under an unexplained wealth order cannot be used against them in a criminal prosecution"
       ],
-      "lay_summary": "BC's civil forfeiture regime is mostly aligned with its proceeds-of-crime purpose, but the unexplained wealth order provisions have drifted into reverse-onus territory: the government seizes first and asks the citizen to document lawful sources of wealth. The drift is addressable by statutory amendment rather than re-architecture.",
+      "lay_summary": "BC's civil forfeiture regime is mostly aligned with its purpose of taking the proceeds and instruments of unlawful activity, but the unexplained wealth order provisions drift into reverse-onus territory. The director must show three things: reasonable grounds to suspect the respondent's involvement in unlawful activity, or a link to a politically exposed foreign person; a listed connection to property worth more than $75,000; and a serious question whether lawful income could have paid for the property, or whether it is tied to unlawful activity. Once the director does, the court must order the respondent, or a responsible officer, to give a sworn account of how the property was acquired and maintained, unless that is clearly not in the interests of justice. If the account is not given, the court may draw an adverse inference against the respondent in proceedings under the Act. The drift is addressable by statutory amendment rather than re-architecture.",
       "limitations": "Provincial civil forfeiture regimes vary considerably. Score applies to BC's UWO provisions specifically, not the Act as a whole."
     },
     {
