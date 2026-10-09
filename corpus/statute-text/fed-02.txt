@@ -5,7 +5,20 @@ SCOPE: Whole Act: Parts 1 to 5, including the Security of Canada Information Sha
 GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
 Anti-terrorism Act, 2015
+Language selection
+Français
+Search
+Search Canada.ca
+Search
 This Web page has been archived on the Web.
+Anti-terrorism Act, 2015 (S.C. 2015, c. 20)
+Full Document:
+HTMLFull Document: Anti-terrorism Act, 2015 (Accessibility Buttons available) |
+PDFFull Document: Anti-terrorism Act, 2015 [437 KB]
+Assented to 2015-06-18
+Table of Contents
+Anti-terrorism Act, 2015
+S.C. 2015, c. 20
 Assented to 2015-06-18
 An Act to enact the Security of Canada Information Sharing Act and the Secure Air Travel Act, to amend the Criminal Code, the Canadian Security Intelligence Service Act and the Immigration and Refugee Protection Act and to make related and consequential amendments to other Acts
 SUMMARY
@@ -27,6 +40,7 @@ PART 1SECURITY OF CANADA INFORMATION SHARING ACT
 Enactment of Act
 Marginal note:Enactment
 2. The Security of Canada Information Sharing Act, whose text is as follows and whose Schedules 1 to 3 are set out in the schedule to this Act, is enacted:
+An Act to encourage and facilitate information sharing between Government of Canada institutions in order to protect Canada against activities that undermine the security of Canada
 Preamble
 Whereas the people of Canada are entitled to live free from threats to their lives and their security;
 Whereas activities that undermine the security of Canada are often carried out in a clandestine, deceptive or hostile manner, are increasingly global, complex and sophisticated, and often emerge and evolve rapidly;
@@ -162,6 +176,7 @@ PART 2SECURE AIR TRAVEL ACT
 Enactment of Act
 Marginal note:Enactment
 11. The Secure Air Travel Act is enacted as follows:
+An Act to enhance security relating to transportation and to prevent air travel for the purpose of engaging in acts of terrorism
 SHORT TITLE
 Marginal note:Short title
 1. This Act may be cited as the Secure Air Travel Act.
@@ -860,8 +875,12 @@ Marginal note:Cases excluded from application of this Part
 Coming into Force
 Marginal note:Order in council
 62. This Part comes into force on a day to be fixed by order of the Governor in Council.
+SCHEDULE(Section 2)
+SCHEDULE 1(Section 2 and subsection 10(2))EXCLUDED INSTITUTIONS
+SCHEDULE 2(Section 2 and subsection 10(2))ADDITIONAL INSTITUTIONS
 Office of the Communications Security Establishment Commissioner
 Bureau du commissaire du Centre de la sécurité des télécommunications
+SCHEDULE 3(Subsections 5(1) and 10(3))RECIPIENT GOVERNMENT OF CANADA INSTITUTIONS AND THEIR HEADS
 Column 1 Column 2
 Recipient Institution Head
 Canada Border Services Agency

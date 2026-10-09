@@ -4,7 +4,7 @@ RETRIEVED: 2026-10-09
 SCOPE: Whole Act: ss. 1-101 and Schedules I and II. Related provisions and amendments not in force are left out.
 GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
-Access to Information Act
+R.S.C., 1985, c. A-1
 An Act to extend the present laws of Canada that provide access to information under the control of the Government of Canada and to provide for the proactive publication of certain information
 Short Title
 Marginal note:Short title
@@ -1573,6 +1573,7 @@ Marginal note:Amendments to Schedule I
 (b) replace in Schedule I the former name of any department, ministry of state, body or office of the Government of Canada with its new name; and
 (c) delete from Schedule I the name of any department, ministry of state, body or office of the Government of Canada that has ceased to exist or has become part of another department, ministry of state, body or office of the Government of Canada.
 2019, c. 18, s. 37
+SCHEDULE I(Section 3)Government Institutions
 Departments and Ministries of State
 Department for Women and Gender Equality
 Ministère des Femmes et de l’Égalité des genres
@@ -1947,6 +1948,7 @@ SOR/2021-193, s. 1
 2024, c. 20, s. 217
 2024, c. 33, s. 14
 SOR/2024-184, s. 1
+SCHEDULE II(Section 24)
 Act Provision
 Aeronautics Act
 Loi sur l’aéronautique

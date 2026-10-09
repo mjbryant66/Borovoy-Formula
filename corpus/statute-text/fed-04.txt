@@ -1,7 +1,7 @@
 SOURCE_URL: https://laws-lois.justice.gc.ca/eng/acts/I-2.5/20061212/P1TT3xt3.html
 VERSION: Point-in-time consolidation 2006-12-12 to 2008-02-21, the version in force when Charkaoui, 2007 SCC 9 was decided and before SC 2008, c 3
 RETRIEVED: 2026-10-09
-SCOPE: Preliminary provisions (ss. 1-9, including the s. 3 objectives) and the whole of Part 1 (Immigration to Canada), which contains Division 9 (ss. 76-87).
+SCOPE: Whole Act as it stood from 2006-12-12 to 2008-02-21 (Parts 1-5).
 GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
 An Act respecting immigration to Canada and the granting of refugee protection to persons who are displaced, persecuted or in danger
@@ -661,3 +661,759 @@ Marginal note:Contents of report
 (d) the number of temporary resident permits issued under section 24, categorized according to grounds of inadmissibility, if any;
 (e) the number of persons granted permanent resident status under subsection 25(1); and
 (f) a gender-based analysis of the impact of this Act.
+PART 2Refugee Protection
+DIVISION 1Refugee Protection, Convention Refugees and Persons in Need of Protection
+Marginal note:Conferral of refugee protection
+95 (1) Refugee protection is conferred on a person when
+(a) the person has been determined to be a Convention refugee or a person in similar circumstances under a visa application and becomes a permanent resident under the visa or a temporary resident under a temporary resident permit for protection reasons;
+(b) the Board determines the person to be a Convention refugee or a person in need of protection; or
+(c) except in the case of a person described in subsection 112(3), the Minister allows an application for protection.
+Marginal note:Protected person
+(2) A protected person is a person on whom refugee protection is conferred under subsection (1), and whose claim or application has not subsequently been deemed to be rejected under subsection 108(3), 109(3) or 114(4).
+Marginal note:Convention refugee
+96 A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
+(a) is outside each of their countries of nationality and is unable or, by reason of that fear, unwilling to avail themself of the protection of each of those countries; or
+(b) not having a country of nationality, is outside the country of their former habitual residence and is unable or, by reason of that fear, unwilling to return to that country.
+Marginal note:Person in need of protection
+97 (1) A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally
+(a) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
+(b) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
+(i) the person is unable or, because of that risk, unwilling to avail themself of the protection of that country,
+(ii) the risk would be faced by the person in every part of that country and is not faced generally by other individuals in or from that country,
+(iii) the risk is not inherent or incidental to lawful sanctions, unless imposed in disregard of accepted international standards, and
+(iv) the risk is not caused by the inability of that country to provide adequate health or medical care.
+Marginal note:Person in need of protection
+(2) A person in Canada who is a member of a class of persons prescribed by the regulations as being in need of protection is also a person in need of protection.
+Marginal note:Exclusion — Refugee Convention
+98 A person referred to in section E or F of Article 1 of the Refugee Convention is not a Convention refugee or a person in need of protection.
+DIVISION 2Convention Refugees and Persons in Need of Protection
+Claim for Refugee Protection
+Marginal note:Claim
+99 (1) A claim for refugee protection may be made in or outside Canada.
+Marginal note:Claim outside Canada
+(2) A claim for refugee protection made by a person outside Canada must be made by making an application for a visa as a Convention refugee or a person in similar circumstances, and is governed by Part 1.
+Marginal note:Claim inside Canada
+(3) A claim for refugee protection made by a person inside Canada must be made to an officer, may not be made by a person who is subject to a removal order, and is governed by this Part.
+Marginal note:Permanent resident
+(4) An application to become a permanent resident made by a protected person is governed by Part 1.
+Examination of Eligibility to Refer Claim
+Marginal note:Referral to Refugee Protection Division
+100 (1) An officer shall, within three working days after receipt of a claim referred to in subsection 99(3), determine whether the claim is eligible to be referred to the Refugee Protection Division and, if it is eligible, shall refer the claim in accordance with the rules of the Board.
+Marginal note:Decision
+(2) The officer shall suspend consideration of the eligibility of the person’s claim if
+(a) a report has been referred for a determination, at an admissibility hearing, of whether the person is inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality; or
+(b) the officer considers it necessary to wait for a decision of a court with respect to a claimant who is charged with an offence under an Act of Parliament that is punishable by a maximum term of imprisonment of at least 10 years.
+Marginal note:Consideration of claim
+(3) The Refugee Protection Division may not consider a claim until it is referred by the officer. If the claim is not referred within the three-day period referred to in subsection (1), it is deemed to be referred, unless there is a suspension or it is determined to be ineligible.
+Marginal note:Duty of claimant
+(4) The burden of proving that a claim is eligible to be referred to the Refugee Protection Division rests on the claimant, who must answer truthfully all questions put to them. If the claim is referred, the claimant must produce all documents and information as required by the rules of the Board.
+Marginal note:Quarantine Act
+(5) If a traveller is detained or isolated under the Quarantine Act, the period referred to in subsections (1) and (3) does not begin to run until the day on which the detention or isolation ends.
+2001, c. 27, s. 100
+2005, c. 20, s. 81
+Marginal note:Ineligibility
+101 (1) A claim is ineligible to be referred to the Refugee Protection Division if
+(a) refugee protection has been conferred on the claimant under this Act;
+(b) a claim for refugee protection by the claimant has been rejected by the Board;
+(c) a prior claim by the claimant was determined to be ineligible to be referred to the Refugee Protection Division, or to have been withdrawn or abandoned;
+(d) the claimant has been recognized as a Convention refugee by a country other than Canada and can be sent or returned to that country;
+(e) the claimant came directly or indirectly to Canada from a country designated by the regulations, other than a country of their nationality or their former habitual residence; or
+(f) the claimant has been determined to be inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality, except for persons who are inadmissible solely on the grounds of paragraph 35(1)(c).
+Marginal note:Serious criminality
+(2) A claim is not ineligible by reason of serious criminality under paragraph (1)(f) unless
+(a) in the case of inadmissibility by reason of a conviction in Canada, the conviction is for an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years and for which a sentence of at least two years was imposed; or
+(b) in the case of inadmissibility by reason of a conviction outside Canada, the Minister is of the opinion that the person is a danger to the public in Canada and the conviction is for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament that is punishable by a maximum term of imprisonment of at least 10 years.
+Marginal note:Regulations
+102 (1) The regulations may govern matters relating to the application of sections 100 and 101, may, for the purposes of this Act, define the terms used in those sections and, for the purpose of sharing responsibility with governments of foreign states for the consideration of refugee claims, may include provisions
+(a) designating countries that comply with Article 33 of the Refugee Convention and Article 3 of the Convention Against Torture;
+(b) making a list of those countries and amending it as necessary; and
+(c) respecting the circumstances and criteria for the application of paragraph 101(1)(e).
+Marginal note:Factors
+(2) The following factors are to be considered in designating a country under paragraph (1)(a):
+(a) whether the country is a party to the Refugee Convention and to the Convention Against Torture;
+(b) its policies and practices with respect to claims under the Refugee Convention and with respect to obligations under the Convention Against Torture;
+(c) its human rights record; and
+(d) whether it is party to an agreement with the Government of Canada for the purpose of sharing responsibility with respect to claims for refugee protection.
+Marginal note:Review
+(3) The Governor in Council must ensure the continuing review of factors set out in subsection (2) with respect to each designated country.
+Suspension or Termination of Consideration of Claim
+Marginal note:Suspension
+103 (1) Proceedings of the Refugee Protection Division and of the Refugee Appeal Division are suspended on notice by an officer that
+(a) the matter has been referred to the Immigration Division to determine whether the claimant is inadmissible on grounds of security, violating human or international rights, serious criminality or organized criminality; or
+(b) an officer considers it necessary to wait for a decision of a court with respect to a claimant who is charged with an offence under an Act of Parliament that may be punished by a maximum term of imprisonment of at least 10 years.
+Marginal note:Continuation
+(2) On notice by an officer that the suspended claim was determined to be eligible, proceedings of the Refugee Protection Division and of the Refugee Appeal Division shall continue.
+Marginal note:Notice of ineligible claim
+104 (1) An officer may, with respect to a claim that is before the Refugee Protection Division or, in the case of paragraph (d), that is before or has been determined by the Refugee Protection Division or the Refugee Appeal Division, give notice that an officer has determined that
+(a) the claim is ineligible under paragraphs 101(1)(a) to (e);
+(b) the claim is ineligible under paragraph 101(1)(f);
+(c) the claim was referred as a result of directly or indirectly misrepresenting or withholding material facts relating to a relevant matter and that the claim was not otherwise eligible to be referred to that Division; or
+(d) the claim is not the first claim that was received by an officer in respect of the claimant.
+Marginal note:Termination and nullification
+(2) A notice given under the following provisions has the following effects:
+(a) if given under any of paragraphs (1)(a) to (c), it terminates pending proceedings in the Refugee Protection Division respecting the claim; and
+(b) if given under paragraph (1)(d), it terminates proceedings in and nullifies any decision of the Refugee Protection Division or the Refugee Appeal Division respecting a claim other than the first claim.
+Extradition Procedure
+Marginal note:Suspension if proceeding under Extradition Act
+105 (1) The Refugee Protection Division and Refugee Appeal Division shall not commence, or shall suspend, consideration of any matter concerning a person against whom an authority to proceed has been issued under section 15 of the Extradition Act with respect to an offence under Canadian law that is punishable under an Act of Parliament by a maximum term of imprisonment of at least 10 years, until a final decision under the Extradition Act with respect to the discharge or surrender of the person has been made.
+Marginal note:Continuation if discharge under Extradition Act
+(2) If the person is finally discharged under the Extradition Act, the proceedings of the applicable Division may be commenced or continued as though there had not been any proceedings under that Act.
+Marginal note:Rejection if surrender under Extradition Act
+(3) If the person is ordered surrendered by the Minister of Justice under the Extradition Act and the offence for which the person was committed by the judge under section 29 of that Act is punishable under an Act of Parliament by a maximum term of imprisonment of at least 10 years, the order of surrender is deemed to be a rejection of a claim for refugee protection based on paragraph (b) of Section F of Article 1 of the Refugee Convention.
+Marginal note:Final decision
+(4) The deemed rejection referred to in subsection (3) may not be appealed, and is not subject to judicial review except to the extent that a judicial review of the order of surrender is provided for under the Extradition Act.
+Marginal note:Limit if no previous claim
+(5) If the person has not made a claim for refugee protection before the order of surrender referred to in subsection (3), the person may not do so before the surrender.
+Claimant Without Identification
+Marginal note:Credibility
+106 The Refugee Protection Division must take into account, with respect to the credibility of a claimant, whether the claimant possesses acceptable documentation establishing identity, and if not, whether they have provided a reasonable explanation for the lack of documentation or have taken reasonable steps to obtain the documentation.
+Decision on Claim for Refugee Protection
+Marginal note:Decision
+107 (1) The Refugee Protection Division shall accept a claim for refugee protection if it determines that the claimant is a Convention refugee or person in need of protection, and shall otherwise reject the claim.
+Marginal note:No credible basis
+(2) If the Refugee Protection Division is of the opinion, in rejecting a claim, that there was no credible or trustworthy evidence on which it could have made a favourable decision, it shall state in its reasons for the decision that there is no credible basis for the claim.
+Cessation of Refugee Protection
+Marginal note:Rejection
+108 (1) A claim for refugee protection shall be rejected, and a person is not a Convention refugee or a person in need of protection, in any of the following circumstances:
+(a) the person has voluntarily reavailed themself of the protection of their country of nationality;
+(b) the person has voluntarily reacquired their nationality;
+(c) the person has acquired a new nationality and enjoys the protection of the country of that new nationality;
+(d) the person has voluntarily become re-established in the country that the person left or remained outside of and in respect of which the person claimed refugee protection in Canada; or
+(e) the reasons for which the person sought refugee protection have ceased to exist.
+Marginal note:Cessation of refugee protection
+(2) On application by the Minister, the Refugee Protection Division may determine that refugee protection referred to in subsection 95(1) has ceased for any of the reasons described in subsection (1).
+Marginal note:Effect of decision
+(3) If the application is allowed, the claim of the person is deemed to be rejected.
+Marginal note:Exception
+(4) Paragraph (1)(e) does not apply to a person who establishes that there are compelling reasons arising out of previous persecution, torture, treatment or punishment for refusing to avail themselves of the protection of the country which they left, or outside of which they remained, due to such previous persecution, torture, treatment or punishment.
+Applications to Vacate
+Marginal note:Vacation of refugee protection
+109 (1) The Refugee Protection Division may, on application by the Minister, vacate a decision to allow a claim for refugee protection, if it finds that the decision was obtained as a result of directly or indirectly misrepresenting or withholding material facts relating to a relevant matter.
+Marginal note:Rejection of application
+(2) The Refugee Protection Division may reject the application if it is satisfied that other sufficient evidence was considered at the time of the first determination to justify refugee protection.
+Marginal note:Allowance of application
+(3) If the application is allowed, the claim of the person is deemed to be rejected and the decision that led to the conferral of refugee protection is nullified.
+Appeal to Refugee Appeal Division
+The following provision is not in force.
+Marginal note:Appeal
+110 (1) A person or the Minister may appeal, in accordance with the rules of the Board, on a question of law, of fact or of mixed law and fact, to the Refugee Appeal Division against a decision of the Refugee Protection Division to allow or reject the person’s claim for refugee protection, or a decision of the Refugee Protection Division rejecting an application by the Minister for a determination that refugee protection has ceased or an application by the Minister to vacate a decision to allow a claim for refugee protection.
+Marginal note:Restriction on appeals
+(2) A determination that a refugee protection claim has been withdrawn or abandoned may not be appealed.
+Marginal note:Procedure
+(3) The Refugee Appeal Division shall proceed without a hearing, on the basis of the record of the proceedings of the Refugee Protection Division, and may accept written submissions from the Minister, the person who is the subject of the appeal, and a representative or agent of the United Nations High Commissioner for Refugees, and any other person described in the rules of the Board.
+The following provision is not in force.
+Marginal note:Decision
+111 (1) After considering the appeal, the Refugee Appeal Division shall make one of the following decisions:
+(a) confirm the determination of the Refugee Protection Division;
+(b) set aside the determination and substitute a determination that, in its opinion, should have been made; or
+(c) refer the matter to the Refugee Protection Division for re-determination, giving the directions to the Refugee Protection Division that it considers appropriate.
+Marginal note:Referrals
+(2) The Refugee Appeal Division shall make the referral described in paragraph (1)(c) if it is of the opinion that a hearing is required or if it has allowed an appeal by the Minister that was based on a question of the claimant’s credibility.
+DIVISION 3Pre-removal Risk Assessment
+Protection
+Marginal note:Application for protection
+112 (1) A person in Canada, other than a person referred to in subsection 115(1), may, in accordance with the regulations, apply to the Minister for protection if they are subject to a removal order that is in force or are named in a certificate described in subsection 77(1).
+Marginal note:Exception
+(2) Despite subsection (1), a person may not apply for protection if
+(a) they are the subject of an authority to proceed issued under section 15 of the Extradition Act;
+(b) they have made a claim to refugee protection that has been determined under paragraph 101(1)(e) to be ineligible;
+(c) in the case of a person who has not left Canada since the application for protection was rejected, the prescribed period has not expired; or
+(d) in the case of a person who has left Canada since the removal order came into force, less than six months have passed since they left Canada after their claim to refugee protection was determined to be ineligible, abandoned, withdrawn or rejected, or their application for protection was rejected.
+Marginal note:Restriction
+(3) Refugee protection may not result from an application for protection if the person
+(a) is determined to be inadmissible on grounds of security, violating human or international rights or organized criminality;
+(b) is determined to be inadmissible on grounds of serious criminality with respect to a conviction in Canada punished by a term of imprisonment of at least two years or with respect to a conviction outside Canada for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years;
+(c) made a claim to refugee protection that was rejected on the basis of section F of Article 1 of the Refugee Convention; or
+(d) is named in a certificate referred to in subsection 77(1).
+Marginal note:Consideration of application
+113 Consideration of an application for protection shall be as follows:
+(a) an applicant whose claim to refugee protection has been rejected may present only new evidence that arose after the rejection or was not reasonably available, or that the applicant could not reasonably have been expected in the circumstances to have presented, at the time of the rejection;
+(b) a hearing may be held if the Minister, on the basis of prescribed factors, is of the opinion that a hearing is required;
+(c) in the case of an applicant not described in subsection 112(3), consideration shall be on the basis of sections 96 to 98;
+(d) in the case of an applicant described in subsection 112(3), consideration shall be on the basis of the factors set out in section 97 and
+(i) in the case of an applicant for protection who is inadmissible on grounds of serious criminality, whether they are a danger to the public in Canada, or
+(ii) in the case of any other applicant, whether the application should be refused because of the nature and severity of acts committed by the applicant or because of the danger that the applicant constitutes to the security of Canada.
+Marginal note:Effect of decision
+114 (1) A decision to allow the application for protection has
+(a) in the case of an applicant not described in subsection 112(3), the effect of conferring refugee protection; and
+(b) in the case of an applicant described in subsection 112(3), the effect of staying the removal order with respect to a country or place in respect of which the applicant was determined to be in need of protection.
+Marginal note:Cancellation of stay
+(2) If the Minister is of the opinion that the circumstances surrounding a stay of the enforcement of a removal order have changed, the Minister may re-examine, in accordance with paragraph 113(d) and the regulations, the grounds on which the application was allowed and may cancel the stay.
+Marginal note:Vacation of determination
+(3) If the Minister is of the opinion that a decision to allow an application for protection was obtained as a result of directly or indirectly misrepresenting or withholding material facts on a relevant matter, the Minister may vacate the decision.
+Marginal note:Effect of vacation
+(4) If a decision is vacated under subsection (3), it is nullified and the application for protection is deemed to have been rejected.
+Principle of Non-refoulement
+Marginal note:Protection
+115 (1) A protected person or a person who is recognized as a Convention refugee by another country to which the person may be returned shall not be removed from Canada to a country where they would be at risk of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion or at risk of torture or cruel and unusual treatment or punishment.
+Marginal note:Exceptions
+(2) Subsection (1) does not apply in the case of a person
+(a) who is inadmissible on grounds of serious criminality and who constitutes, in the opinion of the Minister, a danger to the public in Canada; or
+(b) who is inadmissible on grounds of security, violating human or international rights or organized criminality if, in the opinion of the Minister, the person should not be allowed to remain in Canada on the basis of the nature and severity of acts committed or of danger to the security of Canada.
+Marginal note:Removal of refugee
+(3) A person, after a determination under paragraph 101(1)(e) that the person’s claim is ineligible, is to be sent to the country from which the person came to Canada, but may be sent to another country if that country is designated under subsection 102(1) or if the country from which the person came to Canada has rejected their claim for refugee protection.
+Marginal note:Regulations
+116 The regulations may provide for any matter relating to the application of this Division, and may include provisions respecting procedures to be followed with respect to applications for protection and decisions made under section 115, including the establishment of factors to determine whether a hearing is required.
+PART 3Enforcement
+Human Smuggling and Trafficking
+Marginal note:Organizing entry into Canada
+117 (1) No person shall knowingly organize, induce, aid or abet the coming into Canada of one or more persons who are not in possession of a visa, passport or other document required by this Act.
+Marginal note:Penalties — fewer than 10 persons
+(2) A person who contravenes subsection (1) with respect to fewer than 10 persons is guilty of an offence and liable
+(a) on conviction on indictment
+(i) for a first offence, to a fine of not more than $500,000 or to a term of imprisonment of not more than 10 years, or to both, or
+(ii) for a subsequent offence, to a fine of not more than $1,000,000 or to a term of imprisonment of not more than 14 years, or to both; and
+(b) on summary conviction, to a fine of not more than $100,000 or to a term of imprisonment of not more than two years, or to both.
+Marginal note:Penalty — 10 persons or more
+(3) A person who contravenes subsection (1) with respect to a group of 10 persons or more is guilty of an offence and liable on conviction by way of indictment to a fine of not more than $1,000,000 or to life imprisonment, or to both.
+Marginal note:No proceedings without consent
+(4) No proceedings for an offence under this section may be instituted except by or with the consent of the Attorney General of Canada.
+Marginal note:Offence — trafficking in persons
+118 (1) No person shall knowingly organize the coming into Canada of one or more persons by means of abduction, fraud, deception or use or threat of force or coercion.
+Marginal note:Definition of organize
+(2) For the purpose of subsection (1), organize, with respect to persons, includes their recruitment or transportation and, after their entry into Canada, the receipt or harbouring of those persons.
+Marginal note:Disembarking persons at sea
+119 A person shall not disembark a person or group of persons at sea for the purpose of inducing, aiding or abetting them to come into Canada in contravention of this Act.
+Marginal note:Penalties
+120 A person who contravenes section 118 or 119 is guilty of an offence and liable on conviction by way of indictment to a fine of not more than $1,000,000 or to life imprisonment, or to both.
+Marginal note:Aggravating factors
+121 (1) The court, in determining the penalty to be imposed under subsection 117(2) or (3) or section 120, shall take into account whether
+(a) bodily harm or death occurred during the commission of the offence;
+(b) the commission of the offence was for the benefit of, at the direction of or in association with a criminal organization;
+(c) the commission of the offence was for profit, whether or not any profit was realized; and
+(d) a person was subjected to humiliating or degrading treatment, including with respect to work or health conditions or sexual exploitation as a result of the commission of the offence.
+Definition of criminal organization
+(2) For the purposes of paragraph (1)(b), criminal organization means an organization that is believed on reasonable grounds to be or to have been engaged in activity that is part of a pattern of criminal activity planned and organized by a number of persons acting in concert in furtherance of the commission of an offence punishable under an Act of Parliament by way of indictment or in furtherance of the commission of an offence outside Canada that, if committed in Canada, would constitute such an offence.
+Offences Related to Documents
+Marginal note:Documents
+122 (1) No person shall, in order to contravene this Act,
+(a) possess a passport, visa or other document, of Canadian or foreign origin, that purports to establish or that could be used to establish a person’s identity;
+(b) use such a document, including for the purpose of entering or remaining in Canada; or
+(c) import, export or deal in such a document.
+Marginal note:Proof of offence
+(2) Proof of the matters referred to in subsection (1) in relation to a forged document or a document that is blank, incomplete, altered or not genuine is, in the absence of evidence to the contrary, proof that the person intends to contravene this Act.
+Marginal note:Penalty
+123 (1) Every person who contravenes
+(a) paragraph 122(1)(a) is guilty of an offence and liable on conviction on indictment to a term of imprisonment of up to five years; and
+(b) paragraph 122(1)(b) or (c) is guilty of an offence and liable on conviction on indictment to a term of imprisonment of up to 14 years.
+Marginal note:Aggravating factors
+(2) The court, in determining the penalty to be imposed, shall take into account whether
+(a) the commission of the offence was for the benefit of, at the direction of or in association with a criminal organization as defined in subsection 121(2); and
+(b) the commission of the offence was for profit, whether or not any profit was realized.
+General Offences
+Marginal note:Contravention of Act
+124 (1) Every person commits an offence who
+(a) contravenes a provision of this Act for which a penalty is not specifically provided or fails to comply with a condition or obligation imposed under this Act;
+(b) escapes or attempts to escape from lawful custody or detention under this Act; or
+(c) employs a foreign national in a capacity in which the foreign national is not authorized under this Act to be employed.
+Marginal note:Deemed knowledge
+(2) For the purposes of paragraph (1)(c), a person who fails to exercise due diligence to determine whether employment is authorized under this Act is deemed to know that it is not authorized.
+Marginal note:Due diligence defence
+(3) A person referred to in subsection 148(1) shall not be found guilty of an offence under paragraph (1)(a) if it is established that they exercised all due diligence to prevent the commission of the offence.
+Marginal note:Penalties
+125 A person who commits an offence under subsection 124(1) is liable
+(a) on conviction on indictment, to a fine of not more than $50,000 or to imprisonment for a term of not more than two years, or to both; or
+(b) on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.
+Marginal note:Counselling misrepresentation
+126 Every person who knowingly counsels, induces, aids or abets or attempts to counsel, induce, aid or abet any person to directly or indirectly misrepresent or withhold material facts relating to a relevant matter that induces or could induce an error in the administration of this Act is guilty of an offence.
+Marginal note:Misrepresentation
+127 No person shall knowingly
+(a) directly or indirectly misrepresent or withhold material facts relating to a relevant matter that induces or could induce an error in the administration of this Act;
+(b) communicate, directly or indirectly, by any means, false or misleading information or declarations with intent to induce or deter immigration to Canada; or
+(c) refuse to be sworn or to affirm or declare, as the case may be, or to answer a question put to the person at an examination or at a proceeding held under this Act.
+Marginal note:Penalties
+128 A person who contravenes a provision of section 126 or 127 is guilty of an offence and liable
+(a) on conviction on indictment, to a fine of not more than $100,000 or to imprisonment for a term of not more than five years, or to both; or
+(b) on summary conviction, to a fine of not more than $50,000 or to imprisonment for a term of not more than two years, or to both.
+Marginal note:Offences relating to officers
+129 (1) Every person is guilty of an offence who
+(a) being an officer or an employee of the Government of Canada, knowingly makes or issues any false document or statement, or accepts or agrees to accept a bribe or other benefit, in respect of any matter under this Act or knowingly fails to perform their duties under this Act;
+(b) gives or offers to give a bribe or consideration to, or makes an agreement or arrangement with, an officer to induce the officer not to perform their duties under this Act;
+(c) falsely personates an officer or by any act or omission leads any person to believe that the person is an officer; or
+(d) obstructs or impedes an officer in the performance of the officer’s duties under this Act.
+Marginal note:Punishment
+(2) Every person who is guilty of an offence under subsection (1) is liable
+(a) on conviction on indictment, to a fine of not more than $50,000 or to imprisonment for a term of not more than five years, or to both; or
+(b) on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.
+Proceeds of Crime
+130 [Repealed, 2001, c. 32, s. 81]
+Marginal note:Counselling offence
+131 Every person who knowingly induces, aids or abets or attempts to induce, aid or abet any person to contravene section 117, 118, 119, 122, 124 or 129, or who counsels a person to do so, commits an offence and is liable to the same penalty as that person.
+2001, c. 27, s. 131, c. 32, s. 81
+132 [Repealed, 2001, c. 32, s. 81]
+Prosecution of Offences
+Marginal note:Deferral
+133 A person who has claimed refugee protection, and who came to Canada directly or indirectly from the country in respect of which the claim is made, may not be charged with an offence under section 122, paragraph 124(1)(a) or section 127 of this Act or under section 57, paragraph 340(c) or section 354, 366, 368, 374 or 403 of the Criminal Code, in relation to the coming into Canada of the person, pending disposition of their claim for refugee protection or if refugee protection is conferred.
+Marginal note:Defence — incorporation by reference
+134 No person may be found guilty of an offence or subjected to a penalty for the contravention of a provision of a regulation that incorporates material by reference, unless it is proved that, at the time of the alleged contravention,
+(a) the material was reasonably accessible to the person;
+(b) reasonable steps had been taken to ensure that the material was accessible to persons likely to be affected by the regulation; or
+(c) the material had been published in the Canada Gazette.
+Marginal note:Offences outside Canada
+135 An act or omission that would by reason of this Act be punishable as an offence if committed in Canada is, if committed outside Canada, an offence under this Act and may be tried and punished in Canada.
+Marginal note:Venue
+136 (1) A proceeding in respect of an offence under this Act may be instituted, tried and determined at the place in Canada where the offence was committed or at the place in Canada where the person charged with the offence is or has an office or place of business at the time of the institution of those proceedings.
+Marginal note:Where commission outside Canada
+(2) A proceeding in respect of an offence under this Act that is committed outside Canada may be instituted, tried and determined at any place in Canada.
+Forfeiture
+Marginal note:Forfeiture
+137 (1) A court that convicts a person of an offence under this Act may, in addition to any other punishment imposed, order that any offence-related property seized in relation to the offence be forfeited to Her Majesty in right of Canada.
+Marginal note:Regulations
+(2) The regulations may define the expression “offence-related property” for the purposes of this section, may provide for any matter relating to the application of this section, and may include provisions respecting the return to their lawful owner, disposition, or disposition of the proceeds of disposition, of offence-related property that has been seized.
+Officers Authorized to Enforce Act
+Marginal note:Powers of peace officer
+138 (1) An officer, if so authorized, has the authority and powers of a peace officer — including those set out in sections 487 to 492.2 of the Criminal Code — to enforce this Act, including any of its provisions with respect to the arrest, detention or removal from Canada of any person.
+Marginal note:Temporary assistants
+(2) An officer may, in cases of emergency, employ a person to assist the officer in carrying out duties under this Act. That person has the authority and powers of the officer for a period of no more than 48 hours, unless approved by the Minister.
+Marginal note:Search
+139 (1) An officer may search any person seeking to come into Canada and may search their luggage and personal effects and the means of transportation that conveyed the person to Canada if the officer believes on reasonable grounds that the person
+(a) has not revealed their identity or has hidden on or about their person documents that are relevant to their admissibility; or
+(b) has committed, or possesses documents that may be used in the commission of, an offence referred to in section 117, 118 or 122.
+Marginal note:Search by person of same sex
+(2) A search of a person under this section must be performed by a person of the same sex as the person being searched. If an officer of the same sex is not available, any suitable person of the same sex may be authorized by an officer to perform the search.
+Marginal note:Seizure
+140 (1) An officer may seize and hold any means of transportation, document or other thing if the officer believes on reasonable grounds that it was fraudulently or improperly obtained or used or that the seizure is necessary to prevent its fraudulent or improper use or to carry out the purposes of this Act.
+Marginal note:Interpretation
+(2) Despite subsection 42(2) of the Canada Post Corporation Act, a thing or document that is detained under the Customs Act and seized by an officer is not in the course of post for the purposes of the Canada Post Corporation Act.
+Marginal note:Regulations
+(3) The regulations may provide for any matter relating to the application of this section and may include provisions respecting the deposit of security as a guarantee to replace things that have been seized or that might otherwise be seized, and the return to their lawful owner, and the disposition, of things that have been seized.
+Marginal note:Oaths and evidence
+141 Every officer has the authority to administer oaths and to take and receive evidence under oath on any matter arising out of this Act.
+Peace Officers
+Marginal note:Duties of peace officers to execute orders
+142 Every peace officer and every person in immediate charge or control of an immigrant station shall, when so directed by an officer, execute any warrant or written order issued under this Act for the arrest, detention or removal from Canada of any permanent resident or foreign national.
+Marginal note:Authority to execute warrants and orders
+143 A warrant issued or an order to detain made under this Act is, notwithstanding any other law, sufficient authority to the person to whom it is addressed or who may receive and execute it to arrest and detain the person with respect to whom the warrant or order was issued or made.
+Ticketable Offences
+Marginal note:Prosecution of designated offences
+144 (1) In addition to other procedures set out in this Act or in the Criminal Code for commencing a proceeding, proceedings in respect of any offence that is prescribed by regulation may be commenced in accordance with this section.
+Marginal note:Procedure
+(2) An officer may commence a proceeding by
+(a) completing a ticket that consists of a summons portion and an information portion;
+(b) delivering the summons portion of the ticket to the accused or mailing it to the accused at the accused’s latest known address; and
+(c) filing the information portion of the ticket with a court of competent jurisdiction before or as soon as practicable after the summons portion has been delivered or mailed.
+Marginal note:Content of ticket
+(3) The summons and information portions of a ticket must
+(a) set out a description of the offence and the time and place of its alleged commission;
+(b) include a statement, signed by the officer, that there are reasonable grounds to believe that the accused committed the offence;
+(c) set out the amount of the prescribed fine for the offence and the manner in which and period within which it must be paid;
+(d) include a statement that, if the accused pays the fine within the period set out in the ticket, a conviction will be entered and recorded against the accused; and
+(e) include a statement that if the accused wishes to plead not guilty or for any other reason fails to pay the fine within the period set out in the ticket, the accused must appear in the court and at the time set out in the ticket.
+Marginal note:Consequences of payment
+(4) Payment of the fine by the accused within the period set out in the ticket constitutes a plea of guilty to the offence described in the ticket and, following the payment,
+(a) a conviction shall be entered against the accused and no further action shall be taken against the accused in respect of that offence; and
+(b) any thing seized from the accused under this Act relating to the offence described in the ticket, or any proceeds realized from its disposition, are forfeited to Her Majesty in right of Canada and may be disposed of as the Minister directs.
+Marginal note:Regulations
+(5) The regulations may provide for any matter relating to the application of this section, and may include provisions prescribing
+(a) the offences referred to in subsection (1) and the manner in which those offences may be described in tickets; and
+(b) the amount of the fine, not exceeding $10,000, for a prescribed offence.
+Debt Due to Her Majesty
+Marginal note:Debts due
+145 (1) The following amounts are debts due to Her Majesty in right of Canada payable on demand:
+(a) a debt incurred by Her Majesty for which any person is liable under this Act;
+(b) an amount that a person has agreed to pay as a deposit or guarantee of performance of an obligation under this Act;
+(c) the costs incurred in removing a prescribed foreign national from Canada;
+(d) an amount that is ordered to be paid under section 147 on account of an unpaid liability; and
+(e) an amount referred to in paragraph 148(1)(g).
+Marginal note:Debts due — sponsors
+(2) Subject to any federal-provincial agreement, an amount that a sponsor is required to pay under the terms of an undertaking is payable on demand to Her Majesty in right of Canada and Her Majesty in right of the province concerned and may be recovered by Her Majesty in either or both of those rights.
+Marginal note:Recovery of debt
+(3) A debt may be recovered at any time.
+Collection of Debts Due to Her Majesty
+Marginal note:Certificates
+146 (1) An amount or part of an amount payable under this Act that has not been paid may be certified by the Minister
+(a) without delay, if the Minister is of the opinion that the person liable for that amount is attempting to avoid payment; and
+(b) in any other case, on the expiration of 30 days after the default.
+Marginal note:Judgments
+(2) The certificate is to be filed and registered in the Federal Court and, when registered, has the same force and effect, and all proceedings may be taken, as if the certificate were a judgment obtained in the Court for a debt of the amount specified in the certificate plus interest to the day of payment.
+Marginal note:Costs
+(3) The costs of registering the certificate are recoverable in the same manner as if they had been included in the certificate.
+Marginal note:Garnishment
+147 (1) If the Minister is of the opinion that a person is or is about to become liable to make a payment to a person liable to make a payment under this Act, the Minister may, by written notice, order the first person to pay to the Receiver General, on account of the second person’s liability, all or part of the money otherwise payable to the second person.
+Marginal note:Applicability to future payments
+(2) If the Minister, under subsection (1), orders an employer to pay to the Receiver General money otherwise payable to an employee as remuneration,
+(a) the order is applicable to all future payments of remuneration until the liability is satisfied; and
+(b) the employer shall pay to the Receiver General out of each payment of remuneration the amount that the Minister stipulates in the notice.
+Marginal note:Discharge of liability
+(3) The receipt of the Minister is a good and sufficient discharge of the original liability to the extent of the payment.
+Marginal note:Regulations
+(4) The regulations may provide for any matter relating to the application of this section.
+Transportation Companies
+Marginal note:Obligation of operators of vehicles and facilities
+148 (1) A person who owns or operates a vehicle or a transportation facility, and an agent for such a person, must, in accordance with the regulations,
+(a) not carry to Canada a person who is prescribed or does not hold a prescribed document, or who an officer directs not be carried;
+(b) hold the prescribed documentation of a person whom it carries to Canada until an examination begins, present the person for examination and hold the person until the examination is completed;
+(c) arrange for a medical examination and medical treatment and observation of a person it carries to Canada;
+(d) provide prescribed information, including documentation and reports;
+(e) provide facilities for the holding and examination of persons being carried to Canada;
+(f) carry from Canada a person whom it has carried to or caused to enter Canada and who is prescribed or whom an officer directs to be carried;
+(g) pay for all prescribed costs and fees relating to paragraphs (a), (b), (c) and (f); and
+(h) provide security for compliance with its obligations under paragraphs (a) to (g).
+Marginal note:Seizure of security for compliance
+(2) If a person who owns or operates a vehicle or a transportation facility, or an agent of such a person, fails to comply with an obligation under this Act, all or part of any security provided by the person and any vehicle or other prescribed good owned or operated by the person may be detained, seized or forfeited to Her Majesty in right of Canada.
+Marginal note:Use of information
+149 The following provisions govern information provided under paragraph 148(1)(d):
+(a) the information may be used only for the purposes of this Act or the Department of Citizenship and Immigration Act or to identify a person for whom a warrant of arrest has been issued in Canada; and
+(b) notice regarding use of the information must be given to the person to whom it relates.
+2001, c. 27, s. 149
+2004, c. 15, s. 71
+Marginal note:Regulations
+150 The regulations may provide for any matter relating to the purposes of sections 148 and 149, may define, for the purposes of this Act, terms used in those sections and may include provisions respecting
+(a) the requirements and procedures applicable to a person who owns or operates a vehicle or a transportation facility;
+(b) the costs and fees for which a person who owns or operates a vehicle or a transportation facility is liable;
+(c) the procedures to be followed when a vehicle or other security is detained, seized, forfeited to Her Majesty in right of Canada or returned; and
+(d) the procedures by which a person may make claim that their interest in a vehicle or other good is not affected by it being detained, seized or forfeited to Her Majesty in right of Canada.
+Sharing of Information
+Marginal note:Regulations
+150.1 (1) The regulations may provide for any matter relating to
+(a) the collection, retention, use, disclosure and disposal of information for the purposes of this Act or for the purposes of program legislation as defined in section 2 of the Canada Border Services Agency Act; and
+(b) the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 of the Department of Citizenship and Immigration Act or section 13 of the Canada Border Services Agency Act.
+Marginal note:Conditions
+(2) Regulations made under subsection (1) may include conditions under which the collection, retention, use, disposal and disclosure may be made.
+2004, c. 15, s. 72
+2005, c. 38, s. 119
+PART 4Immigration and Refugee Board
+Composition of Board
+Marginal note:Immigration and Refugee Board
+151 The Immigration and Refugee Board consists of the Refugee Protection Division, the Refugee Appeal Division, the Immigration Division and the Immigration Appeal Division.
+Marginal note:Composition
+152 The Board is composed of a Chairperson and other members as are required to ensure the proper functioning of the Board.
+Marginal note:Chairperson and other members
+153 (1) The Chairperson and members of the Refugee Protection Division, Refugee Appeal Division and Immigration Appeal Division
+(a) are appointed to the Board by the Governor in Council, to hold office during good behaviour for a term not exceeding seven years, subject to removal by the Governor in Council at any time for cause, to serve in a regional or district office of the Board;
+(b) shall swear the oath or give the solemn affirmation of office set out in the rules of the Board;
+(c) are eligible for reappointment in the same or another capacity;
+(d) shall receive the remuneration that may be fixed by the Governor in Council;
+(e) are entitled to be paid reasonable travel and living expenses incurred while absent in the course of their duties, in the case of a full-time member, from their ordinary place of work or, in the case of a part-time member, while absent from their ordinary place of residence;
+(f) are deemed to be employed in the public service for the purposes of the Public Service Superannuation Act and in the federal public administration for the purposes of the Government Employees Compensation Act and any regulations made under section 9 of the Aeronautics Act;
+(g) may not accept or hold any office or employment or carry on any activity inconsistent with their duties and functions under this Act; and
+(h) if appointed as full-time members, must devote the whole of their time to the performance of their duties under this Act.
+Marginal note:Deputy Chairperson and Assistant Deputy Chairpersons
+(2) One Deputy Chairperson for each Division referred to in subsection (1) and not more than 10 Assistant Deputy Chairpersons are to be designated by the Governor in Council from among the full-time members of those Divisions.
+Marginal note:Full-time and part-time appointments
+(3) The Chairperson and the Deputy Chairpersons and Assistant Deputy Chairpersons of the Divisions referred to in subsection (1) are appointed on a full-time basis and the other members are appointed on a full-time or part-time basis.
+Marginal note:Qualification
+(4) The Deputy Chairperson of the Immigration Appeal Division and a majority of the Assistant Deputy Chairpersons of that Division and at least 10 per cent of the members of the Divisions referred to in subsection (1) must be members of at least five years standing at the bar of a province or notaries of at least five years standing at the Chambre des notaires du Québec.
+2001, c. 27, s. 153
+2003, c. 22, s. 173
+Marginal note:Disposition after member ceases to hold office
+154 A former member of the Board, within eight weeks after ceasing to be a member, may make or take part in a decision on a matter that they heard as a member, if the Chairperson so requests. For that purpose, the former member is deemed to be a member.
+Marginal note:Disposition if member unable to take part
+155 If a member of a three-member panel is unable to take part in the disposition of a matter that the member has heard, the remaining members may make the disposition and, for that purpose, are deemed to constitute the applicable Division.
+Marginal note:Immunity and no summons
+156 The following rules apply to the Chairperson and the members in respect of the exercise or purported exercise of their functions under this Act:
+(a) no criminal or civil proceedings lie against them for anything done or omitted to be done in good faith; and
+(b) they are not competent or compellable to appear as a witness in any civil proceedings.
+Head Office and Staff
+Marginal note:Head office
+157 (1) The head office of the Board shall be in the National Capital Region as described in the schedule to the National Capital Act.
+Marginal note:Residence — Chairperson
+(2) The Chairperson must live in the National Capital Region or within reasonable commuting distance of it.
+Marginal note:Personnel
+158 The Executive Director and other personnel necessary for the proper conduct of the business of the Board shall be appointed in accordance with the Public Service Employment Act, and the personnel are deemed to be employed in the public service for the purposes of the Public Service Superannuation Act.
+2001, c. 27, s. 158
+2003, c. 22, s. 225(E)
+Duties of Chairperson
+Marginal note:Chairperson
+159 (1) The Chairperson is, by virtue of holding that office, a member of each Division of the Board and is the chief executive officer of the Board. In that capacity, the Chairperson
+(a) has supervision over and direction of the work and staff of the Board;
+(b) may at any time assign a member appointed under paragraph 153(1)(a) to the Refugee Protection Division, the Refugee Appeal Division and the Immigration Appeal Division;
+(c) may at any time, notwithstanding paragraph 153(1)(a), assign a member, other than a member of the Immigration Division, to work in another regional or district office in order to satisfy operational requirements, but an assignment may not exceed 90 days without the approval of the Governor in Council;
+(d) designates from among the full-time members of the Board coordinating members for a Division, other than the Immigration Division;
+(e) assigns administrative functions to the members of the Board;
+(f) apportions work among the members of the Board and fixes the place, date and time of proceedings;
+(g) takes any action that may be necessary to ensure that the members of the Board carry out their duties efficiently and without undue delay;
+(h) may issue guidelines in writing to members of the Board and identify decisions of the Board as jurisprudential guides, after consulting with the Deputy Chairpersons and the Director General of the Immigration Division, to assist members in carrying out their duties; and
+(i) may appoint and, subject to the approval of the Treasury Board, fix the remuneration of experts or persons having special knowledge to assist the Divisions in any matter.
+Marginal note:Delegation
+(2) The Chairperson may delegate any of his or her powers under this Act to a member of the Board, other than a member of the Immigration Division, except that
+(a) powers conferred under subsection 161(1) may not be delegated;
+(b) powers referred to in paragraphs (1)(a) and (i) may be delegated to the Executive Director of the Board; and
+(c) powers in relation to the Immigration Division may only be delegated to the Director General, directors or members of that Division.
+Marginal note:Absence, incapacity or vacancy
+160 In the event of the absence or incapacity of the Chairperson, or if the office of Chairperson is vacant, the Minister may authorize one of the Deputy Chairpersons or any other member of the Board to act as Chairperson.
+Functioning of Board
+Marginal note:Rules
+161 (1) Subject to the approval of the Governor in Council, and in consultation with the Deputy Chairpersons and the Director General of the Immigration Division, the Chairperson may make rules respecting
+(a) the activities, practice and procedure of each of the Divisions of the Board, including the periods for appeal, the priority to be given to proceedings, the notice that is required and the period in which notice must be given;
+(b) the conduct of persons in proceedings before the Board, as well as the consequences of, and sanctions for, the breach of those rules;
+(c) the information that may be required and the manner in which, and the time within which, it must be provided with respect to a proceeding before the Board; and
+(d) any other matter considered by the Chairperson to require rules.
+Marginal note:Tabling in Parliament
+(2) The Minister shall cause a copy of any rule made under subsection (1) to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the approval of the rule by the Governor in Council.
+Provisions that Apply to All Divisions
+Marginal note:Sole and exclusive jurisdiction
+162 (1) Each Division of the Board has, in respect of proceedings brought before it under this Act, sole and exclusive jurisdiction to hear and determine all questions of law and fact, including questions of jurisdiction.
+Marginal note:Procedure
+(2) Each Division shall deal with all proceedings before it as informally and quickly as the circumstances and the considerations of fairness and natural justice permit.
+Marginal note:Composition of panels
+163 Matters before a Division shall be conducted before a single member unless, except for matters before the Immigration Division, the Chairperson is of the opinion that a panel of three members should be constituted.
+Marginal note:Presence of parties
+164 Where a hearing is held by a Division, it may, in the Division’s discretion, be conducted in the presence of, or by a means of live telecommunication with, the person who is the subject of the proceedings.
+Marginal note:Powers of a commissioner
+165 The Refugee Protection Division and the Immigration Division and each member of those Divisions have the powers and authority of a commissioner appointed under Part I of the Inquiries Act and may do any other thing they consider necessary to provide a full and proper hearing.
+Marginal note:Proceedings — all Divisions
+166 Proceedings before a Division are to be conducted as follows:
+(a) subject to the other provisions of this section, proceedings must be held in public;
+(b) on application or on its own initiative, the Division may conduct a proceeding in private, or take any other measure that it considers necessary to ensure the confidentiality of the proceedings, if, after having considered all available alternate measures, the Division is satisfied that there is
+(i) a serious possibility that the life, liberty or security of a person will be endangered if the proceeding is held in public,
+(ii) a real and substantial risk to the fairness of the proceeding such that the need to prevent disclosure outweighs the societal interest that the proceeding be conducted in public, or
+(iii) a real and substantial risk that matters involving public security will be disclosed;
+(c) subject to paragraph (d), proceedings before the Refugee Protection Division and the Immigration Division concerning a claimant of refugee protection, proceedings concerning cessation and vacation applications and proceedings before the Refugee Appeal Division must be held in private;
+(d) on application or on its own initiative, the Division may conduct a proceeding in public, or take any other measure that it considers necessary to ensure the appropriate access to the proceedings if, after having considered all available alternate measures and the factors set out in paragraph (b), the Division is satisfied that it is appropriate to do so;
+(e) despite paragraphs (b) and (c), a representative or agent of the United Nations High Commissioner for Refugees is entitled to observe proceedings concerning a protected person or a person who has made a claim to refugee protection; and
+(f) despite paragraph (e), the representative or agent may not observe any part of the proceedings that deals with information protected under subsection 86(1), or with information in respect of which an application has been made and not rejected under subsection 86(1).
+Marginal note:Right to counsel
+167 (1) Both a person who is the subject of Board proceedings and the Minister may, at their own expense, be represented by a barrister or solicitor or other counsel.
+Marginal note:Representation
+(2) If a person who is the subject of proceedings is under 18 years of age or unable, in the opinion of the applicable Division, to appreciate the nature of the proceedings, the Division shall designate a person to represent the person.
+Marginal note:Abandonment of proceeding
+168 (1) A Division may determine that a proceeding before it has been abandoned if the Division is of the opinion that the applicant is in default in the proceedings, including by failing to appear for a hearing, to provide information required by the Division or to communicate with the Division on being requested to do so.
+Marginal note:Abuse of process
+(2) A Division may refuse to allow an applicant to withdraw from a proceeding if it is of the opinion that the withdrawal would be an abuse of process under its rules.
+Marginal note:Decisions and reasons
+169 In the case of a decision of a Division, other than an interlocutory decision:
+(a) the decision takes effect in accordance with the rules;
+(b) reasons for the decision must be given;
+(c) the decision may be rendered orally or in writing, except a decision of the Refugee Appeal Division, which must be rendered in writing;
+(d) if the Refugee Protection Division rejects a claim, written reasons must be provided to the claimant and the Minister;
+(e) if the person who is the subject of proceedings before the Board or the Minister requests reasons for a decision within 10 days of notification of the decision, or in circumstances set out in the rules of the Board, the Division must provide written reasons; and
+(f) the period in which to apply for judicial review with respect to a decision of the Board is calculated from the giving of notice of the decision or from the sending of written reasons, whichever is later.
+Refugee Protection Division
+Marginal note:Proceedings
+170 The Refugee Protection Division, in any proceeding before it,
+(a) may inquire into any matter that it considers relevant to establishing whether a claim is well-founded;
+(b) must hold a hearing;
+(c) must notify the person who is the subject of the proceeding and the Minister of the hearing;
+(d) must provide the Minister, on request, with the documents and information referred to in subsection 100(4);
+(e) must give the person and the Minister a reasonable opportunity to present evidence, question witnesses and make representations;
+(f) may, despite paragraph (b), allow a claim for refugee protection without a hearing, if the Minister has not notified the Division, within the period set out in the rules of the Board, of the Minister’s intention to intervene;
+(g) is not bound by any legal or technical rules of evidence;
+(h) may receive and base a decision on evidence that is adduced in the proceedings and considered credible or trustworthy in the circumstances; and
+(i) may take notice of any facts that may be judicially noticed, any other generally recognized facts and any information or opinion that is within its specialized knowledge.
+Refugee Appeal Division
+The following provision is not in force.
+Marginal note:Proceedings
+171 In the case of a proceeding of the Refugee Appeal Division,
+(a) the Minister may, after giving notice within the period that is required by the rules, intervene in the appeal, including for the purpose of filing submissions;
+(b) the Division may take notice of any facts that may be judicially noticed and of any other generally recognized facts and any information or opinion that is within its specialized knowledge; and
+(c) a decision of a panel of three members of the Refugee Appeal Division has, for the Refugee Protection Division and for a panel of one member of the Refugee Appeal Division, the same precedential value as a decision of an appeal court has for a trial court.
+Immigration Division
+Marginal note:Composition
+172 (1) The Immigration Division consists of the Director General and other directors and members necessary to carry out its functions and who are employed in accordance with the Public Service Employment Act.
+Marginal note:Powers
+(2) The Director General and the directors of the Immigration Division have all the powers and may carry out the duties and functions of members of the Division.
+Marginal note:Proceedings
+173 The Immigration Division, in any proceeding before it,
+(a) must, where practicable, hold a hearing;
+(b) must give notice of the proceeding to the Minister and to the person who is the subject of the proceeding and hear the matter without delay;
+(c) is not bound by any legal or technical rules of evidence; and
+(d) may receive and base a decision on evidence adduced in the proceedings that it considers credible or trustworthy in the circumstances.
+Immigration Appeal Division
+Marginal note:Court of record
+174 (1) The Immigration Appeal Division is a court of record and shall have an official seal, which shall be judicially noticed.
+Marginal note:Powers
+(2) The Immigration Appeal Division has all the powers, rights and privileges vested in a superior court of record with respect to any matter necessary for the exercise of its jurisdiction, including the swearing and examination of witnesses, the production and inspection of documents and the enforcement of its orders.
+Marginal note:Proceedings
+175 (1) The Immigration Appeal Division, in any proceeding before it,
+(a) must, in the case of an appeal under subsection 63(4), hold a hearing;
+(b) is not bound by any legal or technical rules of evidence; and
+(c) may receive and base a decision on evidence adduced in the proceedings that it considers credible or trustworthy in the circumstances.
+Marginal note:Presence of permanent resident
+(2) In the case of an appeal by a permanent resident under subsection 63(4), the Immigration Appeal Division may, after considering submissions from the Minister and the permanent resident and if satisfied that the presence of the permanent resident at the hearing is necessary, order the permanent resident to physically appear at the hearing, in which case an officer shall issue a travel document for that purpose.
+Remedial and Disciplinary Measures
+Marginal note:Request
+176 (1) The Chairperson may request the Minister to decide whether any member, except a member of the Immigration Division, should be subject to remedial or disciplinary measures for a reason set out in subsection (2).
+Marginal note:Reasons
+(2) The request is to be based on the reason that the member has become incapacitated from the proper execution of that office by reason of infirmity, has been guilty of misconduct, has failed in the proper execution of that office or has been placed, by conduct or otherwise, in a position that is incompatible with due execution of that office.
+Marginal note:Measures
+177 On receipt of the request, the Minister may take one or more of the following measures:
+(a) obtain, in an informal and expeditious manner, any information that the Minister considers necessary;
+(b) refer the matter for mediation, if the Minister is satisfied that the issues in relation to the request may be appropriately resolved by mediation;
+(c) request of the Governor in Council that an inquiry be held under section 178; or
+(d) advise the Chairperson that the Minister considers that it is not necessary to take further measures under this section or sections 178 to 185.
+Marginal note:Appointment of inquirer
+178 On receipt of a request referred to in paragraph 177(c), the Governor in Council may, on the recommendation of the Minister of Justice, appoint a judge of a superior court to conduct an inquiry.
+Marginal note:Powers
+179 The judge has all the powers, rights and privileges that are vested in a superior court, including the power
+(a) to issue a summons requiring any person to appear at the time and place mentioned in the summons to testify about all matters within that person’s knowledge relative to the inquiry and to produce any document or thing relative to the inquiry that the person has or controls; and
+(b) to administer oaths and examine any person on oath.
+Marginal note:Staff
+180 The judge may engage the services of counsel and other persons having technical or specialized knowledge to assist the judge in conducting the inquiry, establish the terms and conditions of their engagement and, with the approval of the Treasury Board, fix and pay their remuneration and expenses.
+Marginal note:Exceptions to public hearing
+181 (1) An inquiry must be held in public. However, the judge may, on application, take any appropriate measures and make any order that the judge considers necessary to ensure the confidentiality of the inquiry if, after having considered all available alternate measures, the judge is satisfied that there is
+(a) a real and substantial risk that matters involving public security will be disclosed;
+(b) a real and substantial risk to the fairness of the inquiry such that the need to prevent disclosure outweighs the societal interest that the inquiry be conducted in public; or
+(c) a serious possibility that the life, liberty or security of a person will be endangered.
+Marginal note:Confidentiality of application
+(2) If the judge considers it appropriate, the judge may take any measures and make any order that the judge considers necessary to ensure the confidentiality of a hearing held in respect of an application under subsection (1).
+Marginal note:Rules of evidence
+182 (1) In conducting an inquiry, the judge is not bound by any legal or technical rules of evidence and may receive, and base a decision on, evidence presented in the proceedings that the judge considers credible or trustworthy in the circumstances of the case.
+Marginal note:Intervenors
+(2) An interested party may, with leave of the judge, intervene in an inquiry on any terms and conditions that the judge considers appropriate.
+Marginal note:Right to be heard
+183 The member who is the subject of the inquiry shall be given reasonable notice of the subject-matter of the inquiry and of the time and place of any hearing and shall be given an opportunity, in person or by counsel, to be heard at the hearing, to cross-examine witnesses and to present evidence.
+Marginal note:Report to Minister
+184 (1) After an inquiry has been completed, the judge must submit a report containing the judge’s findings and recommendations, if any, to the Minister.
+Marginal note:Recommendations
+(2) The judge may, for any of the reasons set out in subsection 176(2), recommend in the report that the member be suspended without pay or removed from office or that any other disciplinary measure or any remedial measure be taken.
+Marginal note:Transmission of report to Governor in Council
+185 If the Minister receives a report of an inquiry in which the judge makes a recommendation, the Minister shall send the report to the Governor in Council who may, if the Governor in Council considers it appropriate, suspend the member without pay, remove the member from office or impose any other disciplinary measure or any remedial measure.
+Marginal note:Rights not affected
+186 Nothing in sections 176 to 185 affects any right or power of the Governor in Council in relation to the removal of a member from office for cause.
+PART 5Transitional Provisions, Consequential and Related Amendments, Coordinating Amendments, Repeals and Coming into Force
+Transitional Provisions
+Marginal note:Definition of former Act
+187 For the purposes of sections 188 to 201, former Act means the Immigration Act, chapter I-2 of the Revised Statutes of Canada, 1985, and, where applicable, the regulations and rules made under it.
+Marginal note:Continuation
+188 (1) The Immigration and Refugee Board continued by section 57 of the former Act is hereby continued.
+Marginal note:Chairperson, Deputy Chairpersons, Assistant Deputy Chairpersons
+(2) The Chairperson, Deputy Chairpersons and Assistant Deputy Chairpersons appointed under the former Act continue in the same capacity with the Board until the expiry or revocation of their respective appointments.
+Marginal note:Continuation — members
+(3) A member appointed under the former Act to the Convention Refugee Determination Division or the Immigration Appeal Division continues in office as a member of the Board until the expiry or revocation of their appointment.
+Marginal note:Executive Director
+Footnote *(4) The person who, on the coming into force of this section, held the office of Executive Director of the Board is deemed to have been appointed to that office under section 158, without prejudice to any salary and benefits he or she may receive by virtue of having held that office before that coming into force.
+Return to footnote *[Note: Section 188 in force June 28, 2002, see SI/2002-97.]
+Marginal note:Powers
+Footnote *189 Sections 94.6, 102.001 to 102.003 and 107.1 of the former Act are, despite paragraph 274(a), deemed not to be repealed and the Minister may exercise any of the powers described in those sections with respect to any business or fund that was approved by the Minister before the coming into force of paragraph 274(a).
+Return to footnote *[Note: Paragraph 274(a) in force June 28, 2002, see SI/2002-97.]
+Marginal note:Application of this Act
+Footnote *190 Every application, proceeding or matter under the former Act that is pending or in progress immediately before the coming into force of this section shall be governed by this Act on that coming into force.
+Return to footnote *[Note: Section 190 in force June 28, 2002, see SI/2002-97.]
+Marginal note:Convention Refugee Determination Division
+Footnote *191 Every application, proceeding or matter before the Convention Refugee Determination Division under the former Act that is pending or in progress immediately before the coming into force of this section, in respect of which substantive evidence has been adduced but no decision has been made, shall be continued under the former Act by the Refugee Protection Division of the Board.
+Return to footnote *[Note: Section 191 in force June 28, 2002, see SI/2002-97.]
+Marginal note:Immigration Appeal Division
+Footnote *192 If a notice of appeal has been filed with the Immigration Appeal Division immediately before the coming into force of this section, the appeal shall be continued under the former Act by the Immigration Appeal Division of the Board.
+Return to footnote *[Note: Section 192 in force June 28, 2002, see SI/2002-97.]
+Marginal note:Continuation by Immigration Division
+Footnote *193 Every application, proceeding or matter before the Adjudication Division under the former Act that is pending or in progress immediately before the coming into force of this section, in respect of which substantive evidence has been adduced but no decision has been made, shall be continued under this Act by the Immigration Division of the Board.
+Return to footnote *[Note: Section 193 in force June 28, 2002, see SI/2002-97.]
+The following provision is not in force.
+Marginal note:Refugee Protection Division
+194 In cases referred to in section 191, a decision by the Refugee Protection Division following a hearing that has been commenced by the Convention Refugee Determination Division is not subject to an appeal under section 110.
+The following provision is not in force.
+Marginal note:Convention Refugee Determination Division
+*195 A decision made by the Convention Refugee Determination Division before the coming into force of this section is not subject to an appeal under section 110.
+Return to footnote *[Note: Section 195 not in force.]
+Marginal note:Appeals
+*196 Despite section 192, an appeal made to the Immigration Appeal Division before the coming into force of this section shall be discontinued if the appellant has not been granted a stay under the former Act and the appeal could not have been made because of section 64 of this Act.
+Return to footnote *[Note: Section 196 in force June 28, 2002, see SI/2002-97.]
+Marginal note:Stays
+197 Despite section 192, if an appellant who has been granted a stay under the former Act breaches a condition of the stay, the appellant shall be subject to the provisions of section 64 and subsection 68(4) of this Act.
+Marginal note:Refugee Protection Division
+198 The Refugee Protection Division has jurisdiction to consider decisions of the Convention Refugee Determination Division that are set aside by the Federal Court, the Federal Court of Appeal or the Supreme Court of Canada, and shall dispose of those matters in accordance with the provisions of this Act.
+2001, c. 27, s. 198
+2002, c. 8, s. 194
+Marginal note:Redetermination
+199 Sections 112 to 114 apply to a redetermination of a decision set aside by the Federal Court with respect to an application for landing as a member of the post-determination refugee claimants in Canada class within the meaning of the Immigration Regulations, 1978.
+Marginal note:Exclusion
+Footnote *200 Subsection 31(1) does not apply with respect to persons who were permanent residents, within the meaning of the former Act, on the coming into force of this section.
+Return to footnote *[Note: Section 200 in force June 28, 2002, see SI/2002-97.]
+Marginal note:Regulations
+201 The regulations may provide for measures regarding the transition between the former Act and this Act, including measures regarding classes of persons who will be subject in whole or in part to this Act or the former Act and measures regarding financial and enforcement matters.
+Consequential and Related Amendments
+Access to Information Act
+202 [Amendment]
+Agricultural Marketing Programs Act
+203 [Amendment]
+Animal Pedigree Act
+204 and 205 [Amendments]
+Bank Act
+206 [Amendment]
+Budget Implementation Act, 1998
+207 [Amendment]
+Business Development Bank of Canada Act
+208 [Amendments]
+Canada Business Corporations Act
+209 [Amendment]
+Canada Customs and Revenue Agency Act
+210 [Amendment]
+Canada Elections Act
+211 to 214 [Amendments]
+Canada Labour Code
+215 [Amendment]
+Canada Shipping Act
+216 to 218 [Amendments]
+Canada Student Financial Assistance Act
+219 [Amendment]
+Canada Student Loans Act
+220 [Amendment]
+Canada Transportation Act
+221 and 222 [Amendments]
+Canadian Security Intelligence Service Act
+223 to 226 [Amendments]
+Chemical Weapons Convention Implementation Act
+227 [Amendment]
+Citizenship Act
+227.1 to 232 [Amendments]
+Comprehensive Nuclear Test-Ban Treaty Implementation Act
+233 [Amendment]
+Cooperative Credit Associations Act
+234 [Amendment]
+Copyright Act
+235 to 241 [Amendments]
+Corrections and Conditional Release Act
+242 and 243 [Amendments]
+Criminal Code
+244 [Amendment]
+245 [Repealed, 2004, c. 15, s. 110]
+246 and 247 [Amendments]
+Emergencies Act
+248 and 249 [Amendments]
+Extradition Act
+250 to 252 [Amendments]
+Foreign Publishers Advertising Services Act
+253 [Amendments]
+Income Tax Act
+254 [Amendment]
+Insurance Companies Act
+255 [Amendment]
+International Centre for Human Rights and Democratic Development Act
+256 to 258 [Amendments]
+Investment Canada Act
+259 [Amendment]
+Labour Adjustment Benefits Act
+260 [Amendment]
+Mutual Legal Assistance in Criminal Matters Act
+261 [Amendments]
+National Energy Board Act
+262 [Amendment]
+Old Age Security Act
+263 to 267 [Amendments]
+Pilotage Act
+268 [Amendment]
+Privacy Act
+269 [Amendment]
+Proceeds of Crime (Money Laundering) Act
+270 [Amendment]
+Trade-marks Act
+271 [Amendment]
+Trust and Loan Companies Act
+272 [Amendment]
+Terminology
+Marginal note:Terminology
+273 Unless the context requires otherwise, “Immigration Act” is replaced by “Immigration and Refugee Protection Act” in
+(a) any regulation, as defined in section 2 of the Statutory Instruments Act; and
+(b) any other instrument made
+(i) in the execution of a power conferred by or under an Act of Parliament, or
+(ii) by or under the authority of the Governor in Council.
+Coordinating Amendments
+273.1 [Amendments]
+Repeals
+274 [Repeals]
+Coming Into Force
+Marginal note:Coming into force
+Footnote *275 The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+Return to footnote *[Note: Sections 1 and 4 in force December 6, 2001, see SI/2001-119; sections 2, 3, 5 to 72, 74 to 109, 112 to 170, 172 to 193, 196 to 244 and 246 to 274 in force June 28, 2002, see SI/2002-97.]
+SCHEDULE(Subsection 2(1))
+Sections E and F of Article 1 of the United Nations Convention Relating to the Status of Refugees
+E This Convention shall not apply to a person who is recognized by the competent authorities of the country in which he has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country.
+F The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+(a) he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+(b) he has committed a serious non-political crime outside the country of refuge prior to his admission to that country as a refugee;
+(c) he has been guilty of acts contrary to the purposes and principles of the United Nations.
+Article 1 of the Convention Against Torture and Other Cruel, Inhuman and Degrading Treatment or Punishment
+1 For the purposes of this Convention, torture means any act by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person for such purposes as obtaining from him or a third person information or a confession, punishing him for an act he or a third person has committed or is suspected of having committed, or intimidating or coercing him or a third person, or for any reason based on discrimination of any kind, when such pain or suffering is inflicted by or at the instigation of or with the consent or acquiescence of a public official or other person acting in an official capacity. It does not include pain or suffering arising only from, inherent in or incidental to lawful sanctions.
+2 This article is without prejudice to any international instrument or national legislation which does or may contain provisions of wider application.
+Page Details

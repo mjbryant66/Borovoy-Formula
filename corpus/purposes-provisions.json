@@ -23,8 +23,8 @@
     "version": "Justice Laws current consolidation (page dated 2026-09-28)",
     "retrieved": "2026-10-09",
     "scope": "Whole Act: ss. 1-101 and Schedules I and II. Related provisions and amendments not in force are left out.",
-    "sha256": "d15d25624546784b40083b77ea38b3a49f8a84a1e5185cb648ad7017c8ee9705",
-    "chars": 188502
+    "sha256": "71570ed26047275770a5cc9f00e92a71ccf854b7b136de51b12993fd1e35c721",
+    "chars": 188566
    },
    "purposes": [
     {
@@ -615,13 +615,23 @@
      "id": "V58"
     },
     {
+     "section": "45",
+     "label": "Hearing in summary way",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "note": "applications are to be heard in a summary way (treated like CSIS Act s. 27 in fed-02)",
+     "id": "V59"
+    },
+    {
      "section": "46",
      "label": "Access to records",
      "label_source": "heading",
      "creates": [
       "power"
      ],
-     "id": "V59"
+     "id": "V60"
     },
     {
      "section": "47",
@@ -629,15 +639,6 @@
      "label_source": "heading",
      "creates": [
       "duty",
-      "power"
-     ],
-     "id": "V60"
-    },
-    {
-     "section": "48",
-     "label": "Burden of proof — subsection 41(1) or (2)",
-     "label_source": "heading",
-     "creates": [
       "power"
      ],
      "id": "V61"
@@ -952,31 +953,13 @@
      "id": "V94"
     },
     {
-     "section": "71.12",
-     "label": "Parliamentary privilege",
-     "label_source": "heading",
-     "creates": [
-      "power"
-     ],
-     "id": "V95"
-    },
-    {
-     "section": "71.14",
-     "label": "Final decision",
-     "label_source": "heading",
-     "creates": [
-      "power"
-     ],
-     "id": "V96"
-    },
-    {
      "section": "73",
      "label": "Mandate letters",
      "label_source": "heading",
      "creates": [
       "duty"
      ],
-     "id": "V97"
+     "id": "V95"
     },
     {
      "section": "74",
@@ -985,7 +968,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V98"
+     "id": "V96"
     },
     {
      "section": "75",
@@ -994,7 +977,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V99"
+     "id": "V97"
     },
     {
      "section": "76",
@@ -1003,7 +986,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V100"
+     "id": "V98"
     },
     {
      "section": "77",
@@ -1012,7 +995,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V101"
+     "id": "V99"
     },
     {
      "section": "78",
@@ -1021,7 +1004,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V102"
+     "id": "V100"
     },
     {
      "section": "79",
@@ -1031,7 +1014,7 @@
       "duty",
       "power"
      ],
-     "id": "V103"
+     "id": "V101"
     },
     {
      "section": "80",
@@ -1040,7 +1023,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V104"
+     "id": "V102"
     },
     {
      "section": "82",
@@ -1049,7 +1032,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V105"
+     "id": "V103"
     },
     {
      "section": "83",
@@ -1058,7 +1041,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V106"
+     "id": "V104"
     },
     {
      "section": "84",
@@ -1067,7 +1050,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V107"
+     "id": "V105"
     },
     {
      "section": "85",
@@ -1076,7 +1059,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V108"
+     "id": "V106"
     },
     {
      "section": "86",
@@ -1085,7 +1068,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V109"
+     "id": "V107"
     },
     {
      "section": "87",
@@ -1094,7 +1077,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V110"
+     "id": "V108"
     },
     {
      "section": "88",
@@ -1103,7 +1086,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V111"
+     "id": "V109"
     },
     {
      "section": "89",
@@ -1113,7 +1096,7 @@
       "duty",
       "power"
      ],
-     "id": "V112"
+     "id": "V110"
     },
     {
      "section": "90",
@@ -1122,7 +1105,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V113"
+     "id": "V111"
     },
     {
      "section": "90.03",
@@ -1131,7 +1114,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V114"
+     "id": "V112"
     },
     {
      "section": "90.04",
@@ -1140,7 +1123,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V115"
+     "id": "V113"
     },
     {
      "section": "90.05",
@@ -1149,7 +1132,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V116"
+     "id": "V114"
     },
     {
      "section": "90.06",
@@ -1158,7 +1141,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V117"
+     "id": "V115"
     },
     {
      "section": "90.07",
@@ -1167,7 +1150,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V118"
+     "id": "V116"
     },
     {
      "section": "90.08",
@@ -1176,7 +1159,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V119"
+     "id": "V117"
     },
     {
      "section": "90.09",
@@ -1185,7 +1168,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V120"
+     "id": "V118"
     },
     {
      "section": "90.11",
@@ -1194,7 +1177,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V121"
+     "id": "V119"
     },
     {
      "section": "90.12",
@@ -1203,7 +1186,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V122"
+     "id": "V120"
     },
     {
      "section": "90.13",
@@ -1212,7 +1195,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V123"
+     "id": "V121"
     },
     {
      "section": "90.15",
@@ -1221,7 +1204,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V124"
+     "id": "V122"
     },
     {
      "section": "90.16",
@@ -1230,7 +1213,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V125"
+     "id": "V123"
     },
     {
      "section": "90.17",
@@ -1239,7 +1222,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V126"
+     "id": "V124"
     },
     {
      "section": "90.18",
@@ -1248,7 +1231,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V127"
+     "id": "V125"
     },
     {
      "section": "90.19",
@@ -1257,7 +1240,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V128"
+     "id": "V126"
     },
     {
      "section": "90.2",
@@ -1266,7 +1249,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V129"
+     "id": "V127"
     },
     {
      "section": "90.21",
@@ -1275,7 +1258,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V130"
+     "id": "V128"
     },
     {
      "section": "90.22",
@@ -1284,7 +1267,7 @@
      "creates": [
       "power"
      ],
-     "id": "V131"
+     "id": "V129"
     },
     {
      "section": "91",
@@ -1293,7 +1276,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V132"
+     "id": "V130"
     },
     {
      "section": "92",
@@ -1302,7 +1285,7 @@
      "creates": [
       "power"
      ],
-     "id": "V133"
+     "id": "V131"
     },
     {
      "section": "93",
@@ -1311,7 +1294,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V134"
+     "id": "V132"
     },
     {
      "section": "94",
@@ -1320,7 +1303,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V135"
+     "id": "V133"
     },
     {
      "section": "95",
@@ -1329,7 +1312,7 @@
      "creates": [
       "power"
      ],
-     "id": "V136"
+     "id": "V134"
     },
     {
      "section": "96",
@@ -1339,7 +1322,7 @@
       "duty",
       "power"
      ],
-     "id": "V137"
+     "id": "V135"
     },
     {
      "section": "99",
@@ -1349,7 +1332,7 @@
       "duty",
       "power"
      ],
-     "id": "V138"
+     "id": "V136"
     },
     {
      "section": "99.1",
@@ -1359,7 +1342,7 @@
       "duty",
       "power"
      ],
-     "id": "V139"
+     "id": "V137"
     },
     {
      "section": "101",
@@ -1368,7 +1351,7 @@
      "creates": [
       "power"
      ],
-     "id": "V140"
+     "id": "V138"
     }
    ],
    "excluded": [
@@ -1418,9 +1401,9 @@
      "reason": "creates no offence, duty, power or right"
     },
     {
-     "section": "45",
-     "heading": "Hearing in summary way",
-     "reason": "creates no offence, duty, power or right"
+     "section": "48",
+     "heading": "Burden of proof — subsection 41(1) or (2)",
+     "reason": "burden of proof (evidence rule)"
     },
     {
      "section": "50.3",
@@ -1468,9 +1451,19 @@
      "reason": "not operative (Definition of head of a parliamentary entity)"
     },
     {
+     "section": "71.12",
+     "heading": "Parliamentary privilege",
+     "reason": "exception to publication duties"
+    },
+    {
      "section": "71.13",
      "heading": "Security of persons, infrastructure and goods",
      "reason": "exception to publication duties"
+    },
+    {
+     "section": "71.14",
+     "heading": "Final decision",
+     "reason": "finality clause"
     },
     {
      "section": "72",
@@ -1548,8 +1541,8 @@
     "version": "As enacted, SC 2015, c 20 (assented to 2015-06-18), Justice Laws annual statutes",
     "retrieved": "2026-10-09",
     "scope": "Whole Act: Parts 1 to 5, including the Security of Canada Information Sharing Act and Secure Air Travel Act as enacted, and the amendments to the Criminal Code, CSIS Act and IRPA.",
-    "sha256": "7019dffe85fbe9be7de84de1efd85a95b479d4ff8cf8aca9d06b91004599ef19",
-    "chars": 110399
+    "sha256": "f926324392274d93493cfff994cf184f9db8d3e637d47d0fec6db46080e1aa14",
+    "chars": 111290
    },
    "purposes": [
     {
@@ -1970,6 +1963,27 @@
      "id": "V43"
     },
     {
+     "section": "Criminal Code s. 810.3 (coordinating, s. 34)",
+     "label": "Samples — designations and specifications",
+     "label_source": "marginal note",
+     "creates": [
+      "power",
+      "duty"
+     ],
+     "note": "coordinating amendment with SC 2011, c 7: designations and the duty to destroy samples (810.3(4))",
+     "id": "V44"
+    },
+    {
+     "section": "Criminal Code s. 810.4 (coordinating, s. 34)",
+     "label": "Prohibition on use of bodily substance",
+     "label_source": "marginal note",
+     "creates": [
+      "duty"
+     ],
+     "note": "coordinating amendment: prohibits use and disclosure of samples and results",
+     "id": "V45"
+    },
+    {
      "section": "CSIS Act s. 6(5)",
      "label": "Measures to reduce threats to the security of Canada",
      "label_source": "marginal note",
@@ -1977,7 +1991,7 @@
       "duty"
      ],
      "note": "reporting duty on threat-reduction measures",
-     "id": "V44"
+     "id": "V46"
     },
     {
      "section": "CSIS Act s. 7(2)",
@@ -1986,7 +2000,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V45"
+     "id": "V47"
     },
     {
      "section": "CSIS Act s. 12.1",
@@ -1995,7 +2009,7 @@
      "creates": [
       "power"
      ],
-     "id": "V46"
+     "id": "V48"
     },
     {
      "section": "CSIS Act s. 12.2",
@@ -2004,7 +2018,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V47"
+     "id": "V49"
     },
     {
      "section": "CSIS Act s. 21.1",
@@ -2013,7 +2027,7 @@
      "creates": [
       "power"
      ],
-     "id": "V48"
+     "id": "V50"
     },
     {
      "section": "CSIS Act s. 22.1",
@@ -2022,7 +2036,7 @@
      "creates": [
       "power"
      ],
-     "id": "V49"
+     "id": "V51"
     },
     {
      "section": "CSIS Act s. 22.2",
@@ -2031,7 +2045,7 @@
      "creates": [
       "power"
      ],
-     "id": "V50"
+     "id": "V52"
     },
     {
      "section": "CSIS Act s. 22.3",
@@ -2040,7 +2054,7 @@
      "creates": [
       "power"
      ],
-     "id": "V51"
+     "id": "V53"
     },
     {
      "section": "CSIS Act s. 23",
@@ -2049,7 +2063,7 @@
      "creates": [
       "power"
      ],
-     "id": "V52"
+     "id": "V54"
     },
     {
      "section": "CSIS Act s. 24.1",
@@ -2058,7 +2072,7 @@
      "creates": [
       "power"
      ],
-     "id": "V53"
+     "id": "V55"
     },
     {
      "section": "CSIS Act s. 27",
@@ -2067,7 +2081,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V54"
+     "id": "V56"
     },
     {
      "section": "CSIS Act s. 28",
@@ -2077,7 +2091,7 @@
       "power"
      ],
      "note": "regulation-making power as amended",
-     "id": "V55"
+     "id": "V57"
     },
     {
      "section": "CSIS Act s. 38(1.1)",
@@ -2086,7 +2100,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V56"
+     "id": "V58"
     },
     {
      "section": "CSIS Act s. 53(2)",
@@ -2095,7 +2109,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V57"
+     "id": "V59"
     },
     {
      "section": "IRPA s. 72(1)",
@@ -2104,7 +2118,17 @@
      "creates": [
       "right"
      ],
-     "id": "V58"
+     "id": "V60"
+    },
+    {
+     "section": "IRPA s. 74(d)",
+     "label": "subject to section 87.01, an appeal to the Federal Court of Appeal may be made only if, in rendering judgment, the judge certifies …",
+     "label_source": "opening words",
+     "creates": [
+      "right"
+     ],
+     "note": "conditioned right of appeal, as replaced by s. 53",
+     "id": "V61"
     },
     {
      "section": "IRPA s. 77(2)",
@@ -2113,7 +2137,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V59"
+     "id": "V62"
     },
     {
      "section": "IRPA s. 79.1",
@@ -2122,7 +2146,7 @@
      "creates": [
       "right"
      ],
-     "id": "V60"
+     "id": "V63"
     },
     {
      "section": "IRPA s. 82.31",
@@ -2131,7 +2155,7 @@
      "creates": [
       "right"
      ],
-     "id": "V61"
+     "id": "V64"
     },
     {
      "section": "IRPA s. 83(1)(c.1)",
@@ -2140,7 +2164,7 @@
      "creates": [
       "power"
      ],
-     "id": "V62"
+     "id": "V65"
     },
     {
      "section": "IRPA s. 85.4(1)",
@@ -2149,7 +2173,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V63"
+     "id": "V66"
     },
     {
      "section": "IRPA s. 86.1",
@@ -2158,7 +2182,7 @@
      "creates": [
       "right"
      ],
-     "id": "V64"
+     "id": "V67"
     },
     {
      "section": "IRPA s. 87",
@@ -2167,7 +2191,7 @@
      "creates": [
       "power"
      ],
-     "id": "V65"
+     "id": "V68"
     },
     {
      "section": "IRPA s. 87.01",
@@ -2176,14 +2200,14 @@
      "creates": [
       "right"
      ],
-     "id": "V66"
+     "id": "V69"
     }
    ],
    "excluded": [
     {
      "section": "various",
      "heading": "",
-     "reason": "definitions, short titles, coming-into-force, coordinating amendments (ss. 34-38), transitional ss. 28 and 61, SCISA s. 9 and SATA ss. 24-27, 29 (immunity, defences, evidence), CC s. 183 and 487.04 definition additions, Customs Tariff item, CSIS s. 26 (exclusion of Part VI)"
+     "reason": "definitions, short titles, coming-into-force, coordinating amendments that only renumber or repeat listed provisions (ss. 35-38, and s. 34 apart from 810.3 and 810.4), transitional ss. 28 and 61, SCISA s. 9 and SATA ss. 24-27, 29 (immunity, defences, evidence), CC s. 183 and 487.04 definition additions, Customs Tariff item, CSIS s. 26 (exclusion of Part VI)"
     }
    ],
    "flags": [
@@ -2206,11 +2230,17 @@
    },
    "purposes": [
     {
-     "text": "to extend the laws in Canada to give effect, within the purview of matters coming within the legislative authority of Parliament, to the principle that all individuals should have an opportunity equal with other individuals to make for themselves the lives that they are able and wish to have and to have their needs accommodated, consistent with their duties and obligations as members of society, without being hindered in or prevented from doing so by discriminatory practices based on race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, disability or conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered",
+     "text": "to extend the laws in Canada to give effect, within the purview of matters coming within the legislative authority of Parliament, to the principle that all individuals should have an opportunity equal with other individuals to make for themselves the lives that they are able and wish to have",
      "pinpoint": "s. 2",
      "source": "verbatim",
-     "note": "Not split. \"and to have their needs accommodated\" sits inside the one principle the Act gives effect to; splitting there would cut the \"without being hindered\" qualifier off the first half.",
+     "note": "Split at \"and to have\", a new verb clause, as the rule is applied elsewhere. The closing qualifier (\"consistent with their duties ... without being hindered ... by discriminatory practices based on ...\") grammatically governs both halves but stays with P2.",
      "id": "P1"
+    },
+    {
+     "text": "to have their needs accommodated, consistent with their duties and obligations as members of society, without being hindered in or prevented from doing so by discriminatory practices based on race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, disability or conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered",
+     "pinpoint": "s. 2",
+     "source": "verbatim",
+     "id": "P2"
     }
    ],
    "provisions": [
@@ -2243,7 +2273,7 @@
     }
    ],
    "flags": [
-    "The entry names one section, so the provision list is s. 13 and the s. 13-only remedy in s. 54. With one purpose and two provisions, MTM-L can only take a few values.",
+    "The entry names one section, so the provision list is s. 13 and the s. 13-only remedy in s. 54. General machinery that also reaches s. 13 complaints (for example s. 57, enforcement of orders as Federal Court orders) is left out because it is not specific to s. 13. With two purposes and two provisions, MTM-L can only take a few values.",
     "The Act has no s. 13-specific purpose. The general equality purpose in s. 2 is the only verbatim candidate."
    ]
   },
@@ -2255,9 +2285,9 @@
     "source_url": "https://laws-lois.justice.gc.ca/eng/acts/I-2.5/20061212/P1TT3xt3.html",
     "version": "Point-in-time consolidation 2006-12-12 to 2008-02-21, the version in force when Charkaoui, 2007 SCC 9 was decided and before SC 2008, c 3",
     "retrieved": "2026-10-09",
-    "scope": "Preliminary provisions (ss. 1-9, including the s. 3 objectives) and the whole of Part 1 (Immigration to Canada), which contains Division 9 (ss. 76-87).",
-    "sha256": "4e9c53c40c75916da0706233f0f7a9b08b8d4b3aa2bee3f62bfa28e1a2c877f6",
-    "chars": 77798
+    "scope": "Whole Act as it stood from 2006-12-12 to 2008-02-21 (Parts 1-5).",
+    "sha256": "4b95f5ba0d2cc49c04e25204c838e2b40c300875034deae9826c981dfc5b46b3",
+    "chars": 159734
    },
    "purposes": [
     {
@@ -2475,24 +2505,6 @@
       "power"
      ],
      "id": "V8"
-    },
-    {
-     "section": "86",
-     "label": "Application for non-disclosure — Immigration Appeal Division",
-     "label_source": "marginal note",
-     "creates": [
-      "power"
-     ],
-     "id": "V9"
-    },
-    {
-     "section": "87",
-     "label": "Application for non-disclosure — Court",
-     "label_source": "marginal note",
-     "creates": [
-      "power"
-     ],
-     "id": "V10"
     }
    ],
    "excluded": [
@@ -2507,6 +2519,11 @@
      "reason": "conflict rule"
     },
     {
+     "section": "86-87",
+     "heading": "",
+     "reason": "Division 9 non-disclosure in other proceedings; outside the ss. 77-85 the entry names"
+    },
+    {
      "section": "rest of Part 1",
      "heading": "",
      "reason": "outside the entry, which names the Division 9 security-certificate regime"
@@ -2515,7 +2532,7 @@
    "flags": [
     "LOOK FIRST. The rule takes the whole objectives clause, s. 3(1) and (2): 22 purposes after splitting. Only four concern security (3(1)(h) second half, 3(1)(i), 3(2)(g) second half, 3(2)(h)). Scoring Division 9 against all 22 will make faithfulness F low for a reason that has nothing to do with the certificate regime. The alternative is to restrict the purposes to the security objectives, which is what the old excerpt did.",
     "s. 3(3) is an interpretation clause (\"This Act is to be construed and applied in a manner that ...\") and is left out of the purposes, though 3(3)(d) (Charter consistency) is the closest text to the Charkaoui problem.",
-    "Corpus text is Part 1 whole, as the rule requires for a named Part; the provisions are Division 9 only."
+    "The entry names ss. 77-85, so the provisions are ss. 77-84 (s. 85 is a conflict rule); the text is the whole Act."
    ]
   },
   {
@@ -2559,8 +2576,9 @@
     }
    ],
    "flags": [
-    "LOOK FIRST. One hand-written purpose and one provision: the matrix is 1 x 1, so MTM-L can only be 0 or 50. It cannot register what Nur found (gross disproportionality of the minimum), because the provision plainly serves a deterrence purpose.",
-    "Listing s. 95(1) (offence) and s. 95(2) (punishment) separately would not change that; both serve deterrence."
+    "LOOK FIRST. One hand-written purpose and one provision: the matrix is 1 x 1, so MTM-L can only be 0 (served) or 100 (not served). It cannot register what Nur found (gross disproportionality of the minimum), because the provision plainly serves a deterrence purpose.",
+    "Listing s. 95(1) (offence) and s. 95(2) (punishment) separately would not change that; both serve deterrence.",
+    "Departure from the text rule: the entry names a section, not a Part, so the rule points to the whole Criminal Code (about 2 million characters at this date). I used Part III, which contains s. 95. Your call."
    ]
   },
   {
@@ -2577,10 +2595,10 @@
    },
    "purposes": [
     {
-     "text": "To regulate aggressive solicitation and to address public-safety concerns associated with squeegee work and highway panhandling.",
+     "text": "To address public-safety concerns associated with aggressive solicitation, squeegee work and highway panhandling.",
      "pinpoint": "hand-written",
      "source": "hand-written",
-     "note": "The Act has no purpose clause or preamble. This is the corpus purpose_stated unchanged; it names no mechanism.",
+     "note": "The Act has no purpose clause or preamble. The corpus purpose_stated began \"To regulate aggressive solicitation\", which is what s. 2 does, so it would be served by definition; reworded to state the safety object.",
      "id": "P1"
     }
    ],
@@ -2645,7 +2663,7 @@
    ],
    "flags": [
     "s. 4 (disposal of condoms, needles and broken glass in outdoor public places) is outside the hand-written purpose, so it will count as excess. That is a real feature of the Act, not an artefact.",
-    "The hand-written purpose is one statement with two objects (\"to regulate ... and to address ...\"). If hand-written purposes should be split like verbatim ones, it becomes two."
+    "Hand-written purposes are not split."
    ]
   },
   {
@@ -2858,14 +2876,24 @@
      "id": "V15"
     },
     {
-     "section": "31",
-     "label": "Section 6 does not apply (1) to persons referred to in any of paragraphs 2, 3 …",
+     "section": "17",
+     "label": "Sections 1 to 3 must not be interpreted as requiring an institution referred to in section …",
      "label_source": "opening words",
      "creates": [
-      "right"
+      "power"
      ],
-     "note": "acquired-rights exemption from s. 6 for incumbents",
+     "note": "second sentence: an institution may remove or alter an immovable or movable property",
      "id": "V16"
+    },
+    {
+     "section": "21",
+     "label": "Section 1 of the Act is amended (1) by replacing the first paragraph by the following …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "note": "amends R-26.2.01 s. 1: imposes a duty of religious neutrality on personnel members",
+     "id": "V17"
     }
    ],
    "excluded": [
@@ -2895,12 +2923,12 @@
      "reason": "nullity rule"
     },
     {
-     "section": "17",
+     "section": "31",
      "heading": "",
-     "reason": "interpretation rule"
+     "reason": "exception: acquired-rights exemption from s. 6 for incumbents"
     },
     {
-     "section": "18, 20-22, 24, 26, 27, 30",
+     "section": "18, 20, 22, 24, 26, 27, 30",
      "heading": "",
      "reason": "amendments that change preambles, scope or administration rather than create one of the four"
     },
@@ -2919,7 +2947,8 @@
     "LOOK FIRST. The Act has no purpose clause, so the rule takes the preamble: eight recitals. Three or four state facts or premises rather than objects (recitals 1-3, arguably 5). No provision can \"serve\" a recital such as \"the Québec State stands on constitutional foundations ...\", so those will register as unserved purposes and lower F. Either drop recitals that state facts, or accept the penalty as the rule's price.",
     "Point in time: this is the Act as enacted in 2019, which is what the entry cites and what Hak v Québec reviewed. The current consolidation is materially different: SQ 2026, c 6 rewrote the preamble (ten recitals) and added Chapters III.1-III.3. The corpus text used until now was the 2026 consolidation.",
     "The notwithstanding clause (s. 34) and the Québec Charter override (s. 33) are excluded by the rule because they create none of the four, though they are the provisions the entry is most about.",
-    "Amending sections are included only where the text they insert creates a duty, power or right (ss. 19, 23, 25, 28, 29)."
+    "Amending sections are included only where the text they insert creates a duty, power or right (ss. 19, 21, 23, 25, 28, 29).",
+    "Exceptions are excluded throughout the table, so the s. 9 health exception and the s. 31 grandfather clause for incumbents are both out."
    ]
   },
   {
@@ -3012,10 +3041,10 @@
    },
    "purposes": [
     {
-     "text": "To provide civil remedies to deprive persons of property that is the proceeds or instruments of unlawful activity.",
+     "text": "To deprive persons of property that is the proceeds or instruments of unlawful activity.",
      "pinpoint": "hand-written",
      "source": "hand-written",
-     "note": "The Act has no purpose clause or preamble. Drawn from the corpus purpose_stated with \", including through unexplained wealth orders\" removed.",
+     "note": "The Act has no purpose clause or preamble. Drawn from the corpus purpose_stated with \"To provide civil remedies\" and \", including through unexplained wealth orders\" removed, since both name the mechanism.",
      "id": "P1"
     }
    ],
@@ -3110,7 +3139,7 @@
    "flags": [
     "LOOK FIRST. s. 56 is excluded by the rule because a presumption is not an offence, duty, power or right. It is the strongest reverse-onus provision in the scheme: on non-compliance with a UWO, the property is presumed to be proceeds of unlawful activity in forfeiture proceedings. Michael may want it in.",
     "ss. 57-58 sit outside the named sections (Part 5) but operate only on UWOs, so they are included.",
-    "The Act has no provision protecting the sworn statement from use in a criminal prosecution (searched the whole text for \"self-incrim\", \"admissib\" and \"criminal proceeding\"; the control term \"admissib\" did hit elsewhere). That matches the reworded design reform."
+    "The Act has no use-immunity for the sworn statement, but s. 68 already limits it: information obtained \"pursuant to an order of the court\" is \"specified information\" that the director \"must not use or disclose\" except to administer the Act, for perjury or contempt proceedings, or under a court order (s. 68(1)(b), (2), (3)). The reworded design reform (protection against criminal use) goes further than s. 68, but the entry should not imply there is no protection at all."
    ]
   },
   {
@@ -3136,13 +3165,22 @@
    ],
    "provisions": [
     {
+     "section": "4.1",
+     "label": "Execution of documents",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V1"
+    },
+    {
      "section": "6",
      "label": "Appointment of Director",
      "label_source": "heading",
      "creates": [
       "duty"
      ],
-     "id": "V1"
+     "id": "V2"
     },
     {
      "section": "7",
@@ -3151,7 +3189,7 @@
      "creates": [
       "power"
      ],
-     "id": "V2"
+     "id": "V3"
     },
     {
      "section": "8",
@@ -3161,7 +3199,7 @@
       "duty",
       "power"
      ],
-     "id": "V3"
+     "id": "V4"
     },
     {
      "section": "9",
@@ -3170,7 +3208,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V4"
+     "id": "V5"
     },
     {
      "section": "10",
@@ -3180,7 +3218,7 @@
       "duty",
       "power"
      ],
-     "id": "V5"
+     "id": "V6"
     },
     {
      "section": "11",
@@ -3189,7 +3227,7 @@
      "creates": [
       "power"
      ],
-     "id": "V6"
+     "id": "V7"
     },
     {
      "section": "12",
@@ -3199,7 +3237,7 @@
       "duty",
       "power"
      ],
-     "id": "V7"
+     "id": "V8"
     },
     {
      "section": "13",
@@ -3208,7 +3246,7 @@
      "creates": [
       "power"
      ],
-     "id": "V8"
+     "id": "V9"
     },
     {
      "section": "14",
@@ -3218,7 +3256,7 @@
       "duty",
       "power"
      ],
-     "id": "V9"
+     "id": "V10"
     },
     {
      "section": "15",
@@ -3227,7 +3265,16 @@
      "creates": [
       "power"
      ],
-     "id": "V10"
+     "id": "V11"
+    },
+    {
+     "section": "16",
+     "label": "By-law not required to confer power",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V12"
     },
     {
      "section": "17",
@@ -3237,7 +3284,7 @@
       "duty",
       "power"
      ],
-     "id": "V11"
+     "id": "V13"
     },
     {
      "section": "18",
@@ -3247,7 +3294,18 @@
       "duty",
       "power"
      ],
-     "id": "V12"
+     "id": "V14"
+    },
+    {
+     "section": "20",
+     "label": "Person who enters contract is bound",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "right",
+      "power"
+     ],
+     "id": "V15"
     },
     {
      "section": "21",
@@ -3256,7 +3314,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V13"
+     "id": "V16"
     },
     {
      "section": "22",
@@ -3265,7 +3323,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V14"
+     "id": "V17"
     },
     {
      "section": "23",
@@ -3275,7 +3333,7 @@
       "duty",
       "power"
      ],
-     "id": "V15"
+     "id": "V18"
     },
     {
      "section": "24",
@@ -3285,7 +3343,7 @@
       "duty",
       "power"
      ],
-     "id": "V16"
+     "id": "V19"
     },
     {
      "section": "26",
@@ -3295,7 +3353,7 @@
       "power",
       "right"
      ],
-     "id": "V17"
+     "id": "V20"
     },
     {
      "section": "27",
@@ -3305,7 +3363,7 @@
       "duty",
       "right"
      ],
-     "id": "V18"
+     "id": "V21"
     },
     {
      "section": "28",
@@ -3316,7 +3374,7 @@
       "power",
       "right"
      ],
-     "id": "V19"
+     "id": "V22"
     },
     {
      "section": "30",
@@ -3326,7 +3384,7 @@
       "duty",
       "power"
      ],
-     "id": "V20"
+     "id": "V23"
     },
     {
      "section": "31",
@@ -3336,7 +3394,7 @@
       "power",
       "right"
      ],
-     "id": "V21"
+     "id": "V24"
     },
     {
      "section": "32",
@@ -3346,7 +3404,7 @@
       "duty",
       "power"
      ],
-     "id": "V22"
+     "id": "V25"
     },
     {
      "section": "33",
@@ -3355,7 +3413,7 @@
      "creates": [
       "right"
      ],
-     "id": "V23"
+     "id": "V26"
     },
     {
      "section": "34",
@@ -3365,7 +3423,7 @@
       "duty",
       "power"
      ],
-     "id": "V24"
+     "id": "V27"
     },
     {
      "section": "35",
@@ -3374,7 +3432,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V25"
+     "id": "V28"
     },
     {
      "section": "36",
@@ -3383,7 +3441,7 @@
      "creates": [
       "power"
      ],
-     "id": "V26"
+     "id": "V29"
     },
     {
      "section": "39",
@@ -3393,7 +3451,7 @@
       "power",
       "right"
      ],
-     "id": "V27"
+     "id": "V30"
     },
     {
      "section": "40",
@@ -3402,7 +3460,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V28"
+     "id": "V31"
     },
     {
      "section": "41",
@@ -3413,7 +3471,7 @@
       "power",
       "right"
      ],
-     "id": "V29"
+     "id": "V32"
     },
     {
      "section": "42",
@@ -3423,7 +3481,7 @@
       "duty",
       "power"
      ],
-     "id": "V30"
+     "id": "V33"
     },
     {
      "section": "43",
@@ -3432,7 +3490,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V31"
+     "id": "V34"
     },
     {
      "section": "46",
@@ -3443,7 +3501,7 @@
       "power",
       "right"
      ],
-     "id": "V32"
+     "id": "V35"
     },
     {
      "section": "47",
@@ -3452,7 +3510,7 @@
      "creates": [
       "power"
      ],
-     "id": "V33"
+     "id": "V36"
     },
     {
      "section": "48",
@@ -3463,7 +3521,7 @@
       "power",
       "right"
      ],
-     "id": "V34"
+     "id": "V37"
     },
     {
      "section": "49",
@@ -3472,7 +3530,7 @@
      "creates": [
       "power"
      ],
-     "id": "V35"
+     "id": "V38"
     },
     {
      "section": "51",
@@ -3483,7 +3541,7 @@
       "power",
       "right"
      ],
-     "id": "V36"
+     "id": "V39"
     },
     {
      "section": "52",
@@ -3493,7 +3551,7 @@
       "duty",
       "power"
      ],
-     "id": "V37"
+     "id": "V40"
     },
     {
      "section": "53",
@@ -3503,7 +3561,7 @@
       "duty",
       "power"
      ],
-     "id": "V38"
+     "id": "V41"
     },
     {
      "section": "54",
@@ -3514,7 +3572,7 @@
       "power",
       "right"
      ],
-     "id": "V39"
+     "id": "V42"
     },
     {
      "section": "55",
@@ -3525,7 +3583,7 @@
       "power",
       "right"
      ],
-     "id": "V40"
+     "id": "V43"
     },
     {
      "section": "56",
@@ -3535,7 +3593,7 @@
       "duty",
       "power"
      ],
-     "id": "V41"
+     "id": "V44"
     },
     {
      "section": "57",
@@ -3544,7 +3602,7 @@
      "creates": [
       "power"
      ],
-     "id": "V42"
+     "id": "V45"
     },
     {
      "section": "58",
@@ -3554,7 +3612,7 @@
       "duty",
       "power"
      ],
-     "id": "V43"
+     "id": "V46"
     },
     {
      "section": "59",
@@ -3564,7 +3622,7 @@
       "duty",
       "power"
      ],
-     "id": "V44"
+     "id": "V47"
     },
     {
      "section": "60",
@@ -3574,7 +3632,7 @@
       "duty",
       "power"
      ],
-     "id": "V45"
+     "id": "V48"
     },
     {
      "section": "61",
@@ -3584,7 +3642,7 @@
       "power",
       "right"
      ],
-     "id": "V46"
+     "id": "V49"
     },
     {
      "section": "64",
@@ -3594,7 +3652,7 @@
       "duty",
       "power"
      ],
-     "id": "V47"
+     "id": "V50"
     },
     {
      "section": "66",
@@ -3604,7 +3662,7 @@
       "duty",
       "power"
      ],
-     "id": "V48"
+     "id": "V51"
     },
     {
      "section": "67",
@@ -3613,7 +3671,7 @@
      "creates": [
       "power"
      ],
-     "id": "V49"
+     "id": "V52"
     },
     {
      "section": "68",
@@ -3623,7 +3681,7 @@
       "duty",
       "power"
      ],
-     "id": "V50"
+     "id": "V53"
     },
     {
      "section": "69",
@@ -3633,7 +3691,7 @@
       "duty",
       "power"
      ],
-     "id": "V51"
+     "id": "V54"
     },
     {
      "section": "71",
@@ -3642,7 +3700,7 @@
      "creates": [
       "power"
      ],
-     "id": "V52"
+     "id": "V55"
     },
     {
      "section": "72",
@@ -3652,7 +3710,7 @@
       "duty",
       "power"
      ],
-     "id": "V53"
+     "id": "V56"
     },
     {
      "section": "73",
@@ -3661,7 +3719,7 @@
      "creates": [
       "power"
      ],
-     "id": "V54"
+     "id": "V57"
     },
     {
      "section": "74",
@@ -3671,7 +3729,7 @@
       "power",
       "right"
      ],
-     "id": "V55"
+     "id": "V58"
     },
     {
      "section": "75",
@@ -3682,7 +3740,7 @@
       "power",
       "right"
      ],
-     "id": "V56"
+     "id": "V59"
     },
     {
      "section": "76",
@@ -3691,7 +3749,7 @@
      "creates": [
       "power"
      ],
-     "id": "V57"
+     "id": "V60"
     },
     {
      "section": "77",
@@ -3701,7 +3759,7 @@
       "duty",
       "power"
      ],
-     "id": "V58"
+     "id": "V61"
     },
     {
      "section": "78",
@@ -3711,7 +3769,7 @@
       "duty",
       "power"
      ],
-     "id": "V59"
+     "id": "V62"
     },
     {
      "section": "79",
@@ -3721,7 +3779,7 @@
       "duty",
       "power"
      ],
-     "id": "V60"
+     "id": "V63"
     },
     {
      "section": "80",
@@ -3732,7 +3790,7 @@
       "power",
       "right"
      ],
-     "id": "V61"
+     "id": "V64"
     },
     {
      "section": "81",
@@ -3741,7 +3799,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V62"
+     "id": "V65"
     },
     {
      "section": "83",
@@ -3750,7 +3808,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V63"
+     "id": "V66"
     },
     {
      "section": "84",
@@ -3760,7 +3818,7 @@
       "duty",
       "power"
      ],
-     "id": "V64"
+     "id": "V67"
     },
     {
      "section": "85",
@@ -3769,7 +3827,7 @@
      "creates": [
       "power"
      ],
-     "id": "V65"
+     "id": "V68"
     },
     {
      "section": "86",
@@ -3778,7 +3836,16 @@
      "creates": [
       "power"
      ],
-     "id": "V66"
+     "id": "V69"
+    },
+    {
+     "section": "87",
+     "label": "Ownership of property",
+     "label_source": "heading",
+     "creates": [
+      "right"
+     ],
+     "id": "V70"
     },
     {
      "section": "88",
@@ -3787,7 +3854,7 @@
      "creates": [
       "power"
      ],
-     "id": "V67"
+     "id": "V71"
     },
     {
      "section": "89",
@@ -3796,7 +3863,7 @@
      "creates": [
       "power"
      ],
-     "id": "V68"
+     "id": "V72"
     },
     {
      "section": "90",
@@ -3805,7 +3872,7 @@
      "creates": [
       "power"
      ],
-     "id": "V69"
+     "id": "V73"
     },
     {
      "section": "91",
@@ -3814,7 +3881,7 @@
      "creates": [
       "right"
      ],
-     "id": "V70"
+     "id": "V74"
     },
     {
      "section": "92",
@@ -3823,7 +3890,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V71"
+     "id": "V75"
     },
     {
      "section": "92.1",
@@ -3832,7 +3899,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V72"
+     "id": "V76"
     },
     {
      "section": "93",
@@ -3842,7 +3909,7 @@
       "duty",
       "power"
      ],
-     "id": "V73"
+     "id": "V77"
     },
     {
      "section": "94",
@@ -3852,7 +3919,7 @@
       "duty",
       "power"
      ],
-     "id": "V74"
+     "id": "V78"
     },
     {
      "section": "95",
@@ -3862,7 +3929,7 @@
       "power",
       "right"
      ],
-     "id": "V75"
+     "id": "V79"
     },
     {
      "section": "96",
@@ -3872,7 +3939,7 @@
       "duty",
       "power"
      ],
-     "id": "V76"
+     "id": "V80"
     },
     {
      "section": "97",
@@ -3882,7 +3949,7 @@
       "duty",
       "power"
      ],
-     "id": "V77"
+     "id": "V81"
     },
     {
      "section": "98",
@@ -3893,7 +3960,7 @@
       "power",
       "right"
      ],
-     "id": "V78"
+     "id": "V82"
     },
     {
      "section": "99",
@@ -3903,7 +3970,16 @@
       "duty",
       "power"
      ],
-     "id": "V79"
+     "id": "V83"
+    },
+    {
+     "section": "100",
+     "label": "Form of records",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V84"
     },
     {
      "section": "103",
@@ -3913,7 +3989,7 @@
       "duty",
       "power"
      ],
-     "id": "V80"
+     "id": "V85"
     },
     {
      "section": "104",
@@ -3924,7 +4000,7 @@
       "power",
       "right"
      ],
-     "id": "V81"
+     "id": "V86"
     },
     {
      "section": "106",
@@ -3933,7 +4009,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V82"
+     "id": "V87"
     },
     {
      "section": "107",
@@ -3942,7 +4018,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V83"
+     "id": "V88"
     },
     {
      "section": "109",
@@ -3952,7 +4028,7 @@
       "duty",
       "power"
      ],
-     "id": "V84"
+     "id": "V89"
     },
     {
      "section": "110",
@@ -3962,7 +4038,7 @@
       "duty",
       "power"
      ],
-     "id": "V85"
+     "id": "V90"
     },
     {
      "section": "111",
@@ -3972,7 +4048,7 @@
       "duty",
       "power"
      ],
-     "id": "V86"
+     "id": "V91"
     },
     {
      "section": "112",
@@ -3982,7 +4058,16 @@
       "duty",
       "power"
      ],
-     "id": "V87"
+     "id": "V92"
+    },
+    {
+     "section": "113",
+     "label": "Effect of amalgamation",
+     "label_source": "heading",
+     "creates": [
+      "right"
+     ],
+     "id": "V93"
     },
     {
      "section": "114",
@@ -3993,7 +4078,7 @@
       "power",
       "right"
      ],
-     "id": "V88"
+     "id": "V94"
     },
     {
      "section": "115",
@@ -4004,7 +4089,7 @@
       "power",
       "right"
      ],
-     "id": "V89"
+     "id": "V95"
     },
     {
      "section": "116",
@@ -4015,7 +4100,7 @@
       "power",
       "right"
      ],
-     "id": "V90"
+     "id": "V96"
     },
     {
      "section": "117",
@@ -4025,7 +4110,7 @@
       "duty",
       "power"
      ],
-     "id": "V91"
+     "id": "V97"
     },
     {
      "section": "118",
@@ -4035,7 +4120,27 @@
       "duty",
       "power"
      ],
-     "id": "V92"
+     "id": "V98"
+    },
+    {
+     "section": "119",
+     "label": "Definition",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "duty"
+     ],
+     "id": "V99"
+    },
+    {
+     "section": "120",
+     "label": "Definition",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V100"
     },
     {
      "section": "123",
@@ -4045,7 +4150,7 @@
       "duty",
       "power"
      ],
-     "id": "V93"
+     "id": "V101"
     },
     {
      "section": "124",
@@ -4054,7 +4159,7 @@
      "creates": [
       "power"
      ],
-     "id": "V94"
+     "id": "V102"
     },
     {
      "section": "125",
@@ -4063,7 +4168,7 @@
      "creates": [
       "power"
      ],
-     "id": "V95"
+     "id": "V103"
     },
     {
      "section": "126",
@@ -4073,7 +4178,7 @@
       "duty",
       "power"
      ],
-     "id": "V96"
+     "id": "V104"
     },
     {
      "section": "128",
@@ -4083,7 +4188,7 @@
       "duty",
       "power"
      ],
-     "id": "V97"
+     "id": "V105"
     },
     {
      "section": "129",
@@ -4092,7 +4197,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V98"
+     "id": "V106"
     },
     {
      "section": "130",
@@ -4102,7 +4207,7 @@
       "duty",
       "power"
      ],
-     "id": "V99"
+     "id": "V107"
     },
     {
      "section": "131",
@@ -4112,7 +4217,7 @@
       "duty",
       "power"
      ],
-     "id": "V100"
+     "id": "V108"
     },
     {
      "section": "132",
@@ -4121,7 +4226,7 @@
      "creates": [
       "power"
      ],
-     "id": "V101"
+     "id": "V109"
     },
     {
      "section": "133",
@@ -4130,7 +4235,7 @@
      "creates": [
       "power"
      ],
-     "id": "V102"
+     "id": "V110"
     },
     {
      "section": "134",
@@ -4140,7 +4245,7 @@
       "duty",
       "power"
      ],
-     "id": "V103"
+     "id": "V111"
     },
     {
      "section": "136",
@@ -4150,7 +4255,7 @@
       "power",
       "right"
      ],
-     "id": "V104"
+     "id": "V112"
     },
     {
      "section": "137",
@@ -4160,7 +4265,7 @@
       "duty",
       "power"
      ],
-     "id": "V105"
+     "id": "V113"
     },
     {
      "section": "138",
@@ -4169,7 +4274,7 @@
      "creates": [
       "power"
      ],
-     "id": "V106"
+     "id": "V114"
     },
     {
      "section": "139",
@@ -4179,7 +4284,7 @@
       "duty",
       "power"
      ],
-     "id": "V107"
+     "id": "V115"
     },
     {
      "section": "140",
@@ -4189,7 +4294,7 @@
       "duty",
       "power"
      ],
-     "id": "V108"
+     "id": "V116"
     },
     {
      "section": "141",
@@ -4198,7 +4303,16 @@
      "creates": [
       "duty"
      ],
-     "id": "V109"
+     "id": "V117"
+    },
+    {
+     "section": "142",
+     "label": "Commencement of winding up",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V118"
     },
     {
      "section": "143",
@@ -4207,7 +4321,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V110"
+     "id": "V119"
     },
     {
      "section": "144",
@@ -4216,7 +4330,7 @@
      "creates": [
       "power"
      ],
-     "id": "V111"
+     "id": "V120"
     },
     {
      "section": "145",
@@ -4225,7 +4339,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V112"
+     "id": "V121"
     },
     {
      "section": "146",
@@ -4235,7 +4349,7 @@
       "duty",
       "power"
      ],
-     "id": "V113"
+     "id": "V122"
     },
     {
      "section": "147",
@@ -4245,7 +4359,7 @@
       "duty",
       "power"
      ],
-     "id": "V114"
+     "id": "V123"
     },
     {
      "section": "149",
@@ -4255,7 +4369,7 @@
       "duty",
       "power"
      ],
-     "id": "V115"
+     "id": "V124"
     },
     {
      "section": "150",
@@ -4266,7 +4380,16 @@
       "power",
       "right"
      ],
-     "id": "V116"
+     "id": "V125"
+    },
+    {
+     "section": "151",
+     "label": "Costs, etc., of winding up",
+     "label_source": "heading",
+     "creates": [
+      "right"
+     ],
+     "id": "V126"
     },
     {
      "section": "152",
@@ -4276,7 +4399,7 @@
       "power",
       "right"
      ],
-     "id": "V117"
+     "id": "V127"
     },
     {
      "section": "153",
@@ -4285,7 +4408,16 @@
      "creates": [
       "power"
      ],
-     "id": "V118"
+     "id": "V128"
+    },
+    {
+     "section": "154",
+     "label": "Nature of liability of contributory",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V129"
     },
     {
      "section": "155",
@@ -4294,7 +4426,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V119"
+     "id": "V130"
     },
     {
      "section": "156",
@@ -4304,7 +4436,7 @@
       "duty",
       "power"
      ],
-     "id": "V120"
+     "id": "V131"
     },
     {
      "section": "158",
@@ -4313,7 +4445,7 @@
      "creates": [
       "power"
      ],
-     "id": "V121"
+     "id": "V132"
     },
     {
      "section": "159",
@@ -4322,7 +4454,7 @@
      "creates": [
       "power"
      ],
-     "id": "V122"
+     "id": "V133"
     },
     {
      "section": "160",
@@ -4332,7 +4464,7 @@
       "duty",
       "power"
      ],
-     "id": "V123"
+     "id": "V134"
     },
     {
      "section": "162",
@@ -4341,7 +4473,7 @@
      "creates": [
       "power"
      ],
-     "id": "V124"
+     "id": "V135"
     },
     {
      "section": "163",
@@ -4350,7 +4482,7 @@
      "creates": [
       "power"
      ],
-     "id": "V125"
+     "id": "V136"
     },
     {
      "section": "164",
@@ -4359,7 +4491,7 @@
      "creates": [
       "power"
      ],
-     "id": "V126"
+     "id": "V137"
     },
     {
      "section": "165",
@@ -4368,7 +4500,7 @@
      "creates": [
       "power"
      ],
-     "id": "V127"
+     "id": "V138"
     },
     {
      "section": "166",
@@ -4377,7 +4509,7 @@
      "creates": [
       "power"
      ],
-     "id": "V128"
+     "id": "V139"
     },
     {
      "section": "167",
@@ -4388,7 +4520,7 @@
       "power",
       "right"
      ],
-     "id": "V129"
+     "id": "V140"
     },
     {
      "section": "168",
@@ -4398,7 +4530,7 @@
       "duty",
       "power"
      ],
-     "id": "V130"
+     "id": "V141"
     },
     {
      "section": "169",
@@ -4408,7 +4540,7 @@
       "duty",
       "power"
      ],
-     "id": "V131"
+     "id": "V142"
     },
     {
      "section": "170",
@@ -4418,7 +4550,7 @@
       "duty",
       "power"
      ],
-     "id": "V132"
+     "id": "V143"
     },
     {
      "section": "171",
@@ -4428,7 +4560,7 @@
       "duty",
       "power"
      ],
-     "id": "V133"
+     "id": "V144"
     },
     {
      "section": "172",
@@ -4438,7 +4570,7 @@
       "duty",
       "power"
      ],
-     "id": "V134"
+     "id": "V145"
     },
     {
      "section": "173",
@@ -4448,7 +4580,7 @@
       "duty",
       "power"
      ],
-     "id": "V135"
+     "id": "V146"
     },
     {
      "section": "174",
@@ -4458,7 +4590,7 @@
       "duty",
       "power"
      ],
-     "id": "V136"
+     "id": "V147"
     },
     {
      "section": "175",
@@ -4467,7 +4599,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V137"
+     "id": "V148"
     },
     {
      "section": "176",
@@ -4476,7 +4608,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V138"
+     "id": "V149"
     },
     {
      "section": "177",
@@ -4487,7 +4619,7 @@
       "power",
       "right"
      ],
-     "id": "V139"
+     "id": "V150"
     },
     {
      "section": "178",
@@ -4496,7 +4628,7 @@
      "creates": [
       "right"
      ],
-     "id": "V140"
+     "id": "V151"
     },
     {
      "section": "179",
@@ -4506,7 +4638,7 @@
       "duty",
       "power"
      ],
-     "id": "V141"
+     "id": "V152"
     },
     {
      "section": "182",
@@ -4515,7 +4647,7 @@
      "creates": [
       "power"
      ],
-     "id": "V142"
+     "id": "V153"
     },
     {
      "section": "183",
@@ -4525,7 +4657,7 @@
       "duty",
       "power"
      ],
-     "id": "V143"
+     "id": "V154"
     },
     {
      "section": "184",
@@ -4535,7 +4667,7 @@
       "duty",
       "power"
      ],
-     "id": "V144"
+     "id": "V155"
     },
     {
      "section": "185",
@@ -4545,7 +4677,7 @@
       "duty",
       "power"
      ],
-     "id": "V145"
+     "id": "V156"
     },
     {
      "section": "186",
@@ -4555,7 +4687,7 @@
       "power",
       "right"
      ],
-     "id": "V146"
+     "id": "V157"
     },
     {
      "section": "187",
@@ -4566,7 +4698,7 @@
       "power",
       "right"
      ],
-     "id": "V147"
+     "id": "V158"
     },
     {
      "section": "188",
@@ -4576,7 +4708,7 @@
       "power",
       "right"
      ],
-     "id": "V148"
+     "id": "V159"
     },
     {
      "section": "188.1",
@@ -4585,7 +4717,7 @@
      "creates": [
       "power"
      ],
-     "id": "V149"
+     "id": "V160"
     },
     {
      "section": "189",
@@ -4594,7 +4726,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V150"
+     "id": "V161"
     },
     {
      "section": "190",
@@ -4605,7 +4737,7 @@
       "power",
       "right"
      ],
-     "id": "V151"
+     "id": "V162"
     },
     {
      "section": "191",
@@ -4614,7 +4746,7 @@
      "creates": [
       "power"
      ],
-     "id": "V152"
+     "id": "V163"
     },
     {
      "section": "192",
@@ -4623,7 +4755,7 @@
      "creates": [
       "right"
      ],
-     "id": "V153"
+     "id": "V164"
     },
     {
      "section": "193",
@@ -4633,7 +4765,7 @@
       "offence",
       "duty"
      ],
-     "id": "V154"
+     "id": "V165"
     },
     {
      "section": "194",
@@ -4643,7 +4775,44 @@
       "offence",
       "power"
      ],
-     "id": "V155"
+     "id": "V166"
+    },
+    {
+     "section": "196",
+     "label": "Notice, etc., given to members and directors",
+     "label_source": "heading",
+     "creates": [
+      "power",
+      "right"
+     ],
+     "id": "V167"
+    },
+    {
+     "section": "197",
+     "label": "Notice, etc., given to corporation",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V168"
+    },
+    {
+     "section": "198",
+     "label": "Waiver of notice and abridgement of times",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V169"
+    },
+    {
+     "section": "199",
+     "label": "Who may sign",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V170"
     },
     {
      "section": "200",
@@ -4653,7 +4822,7 @@
       "duty",
       "right"
      ],
-     "id": "V156"
+     "id": "V171"
     },
     {
      "section": "201",
@@ -4662,7 +4831,37 @@
      "creates": [
       "duty"
      ],
-     "id": "V157"
+     "id": "V172"
+    },
+    {
+     "section": "202",
+     "label": "Errors in certificates, etc.",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V173"
+    },
+    {
+     "section": "203",
+     "label": "Form of Director’s records",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V174"
+    },
+    {
+     "section": "204",
+     "label": "Accepting copy of notice or other document",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V175"
     },
     {
      "section": "204.1",
@@ -4671,16 +4870,7 @@
      "creates": [
       "power"
      ],
-     "id": "V158"
-    },
-    {
-     "section": "204.2",
-     "label": "Electronic version prevails",
-     "label_source": "heading",
-     "creates": [
-      "power"
-     ],
-     "id": "V159"
+     "id": "V176"
     },
     {
      "section": "205",
@@ -4689,7 +4879,7 @@
      "creates": [
       "power"
      ],
-     "id": "V160"
+     "id": "V177"
     },
     {
      "section": "206",
@@ -4698,7 +4888,7 @@
      "creates": [
       "power"
      ],
-     "id": "V161"
+     "id": "V178"
     },
     {
      "section": "206.1",
@@ -4708,7 +4898,7 @@
       "duty",
       "power"
      ],
-     "id": "V162"
+     "id": "V179"
     },
     {
      "section": "206.2",
@@ -4717,7 +4907,26 @@
      "creates": [
       "power"
      ],
-     "id": "V163"
+     "id": "V180"
+    },
+    {
+     "section": "206.3",
+     "label": "Property of Crown",
+     "label_source": "heading",
+     "creates": [
+      "right"
+     ],
+     "id": "V181"
+    },
+    {
+     "section": "207",
+     "label": "Transition",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V182"
     },
     {
      "section": "207.1",
@@ -4726,7 +4935,7 @@
      "creates": [
       "power"
      ],
-     "id": "V164"
+     "id": "V183"
     },
     {
      "section": "208",
@@ -4736,7 +4945,7 @@
       "duty",
       "power"
      ],
-     "id": "V165"
+     "id": "V184"
     },
     {
      "section": "209",
@@ -4745,7 +4954,7 @@
      "creates": [
       "power"
      ],
-     "id": "V166"
+     "id": "V185"
     },
     {
      "section": "210",
@@ -4754,7 +4963,7 @@
      "creates": [
       "power"
      ],
-     "id": "V167"
+     "id": "V186"
     },
     {
      "section": "210.1",
@@ -4763,7 +4972,7 @@
      "creates": [
       "power"
      ],
-     "id": "V168"
+     "id": "V187"
     },
     {
      "section": "210.2",
@@ -4773,7 +4982,7 @@
       "duty",
       "power"
      ],
-     "id": "V169"
+     "id": "V188"
     }
    ],
    "excluded": [
@@ -4798,29 +5007,14 @@
      "reason": "not operative (Application)"
     },
     {
-     "section": "4.1",
-     "heading": "Execution of documents",
-     "reason": "not operative (Execution of documents)"
-    },
-    {
      "section": "5",
      "heading": "Conflict with other law",
      "reason": "not operative (Conflict with other law)"
     },
     {
-     "section": "16",
-     "heading": "By-law not required to confer power",
-     "reason": "not operative (By-law not required to confer power)"
-    },
-    {
      "section": "19",
      "heading": "Indoor management rule",
      "reason": "not operative (Indoor management rule)"
-    },
-    {
-     "section": "20",
-     "heading": "Person who enters contract is bound",
-     "reason": "not operative (Person who enters contract is bound)"
     },
     {
      "section": "25",
@@ -4883,16 +5077,6 @@
      "reason": "privilege"
     },
     {
-     "section": "87",
-     "heading": "Ownership of property",
-     "reason": "not operative (Ownership of property)"
-    },
-    {
-     "section": "100",
-     "heading": "Form of records",
-     "reason": "not operative (Form of records)"
-    },
-    {
      "section": "101",
      "heading": "Validity of unsealed documents",
      "reason": "not operative (Validity of unsealed documents)"
@@ -4904,28 +5088,13 @@
     },
     {
      "section": "105",
-     "heading": "(2) Notice of a meeting of the members at which a proposal to make an amendment referred to in subsection 103 (1) is to be considered must set out the proposed amendment. 2010, c. 15, s. 104 (2).",
+     "heading": "",
      "reason": "repealed or omitted"
     },
     {
      "section": "108",
      "heading": "Effect of certificate",
      "reason": "not operative (Effect of certificate)"
-    },
-    {
-     "section": "113",
-     "heading": "Effect of amalgamation",
-     "reason": "not operative (Effect of amalgamation)"
-    },
-    {
-     "section": "119",
-     "heading": "Definition",
-     "reason": "not operative (Definition)"
-    },
-    {
-     "section": "120",
-     "heading": "Definition",
-     "reason": "not operative (Definition)"
     },
     {
      "section": "121",
@@ -4948,24 +5117,9 @@
      "reason": "not operative (Application of ss. 136 to 147 to court-ordered windings up)"
     },
     {
-     "section": "142",
-     "heading": "Commencement of winding up",
-     "reason": "not operative (Commencement of winding up)"
-    },
-    {
      "section": "148",
      "heading": "Application of ss. 149 to 165 to all windings up",
      "reason": "not operative (Application of ss. 149 to 165 to all windings up)"
-    },
-    {
-     "section": "151",
-     "heading": "Costs, etc., of winding up",
-     "reason": "creates no offence, duty, power or right"
-    },
-    {
-     "section": "154",
-     "heading": "Nature of liability of contributory",
-     "reason": "not operative (Nature of liability of contributory)"
     },
     {
      "section": "157",
@@ -4993,41 +5147,6 @@
      "reason": "not operative (Definitions)"
     },
     {
-     "section": "196",
-     "heading": "Notice, etc., given to members and directors",
-     "reason": "not operative (Notice, etc., given to members and directors)"
-    },
-    {
-     "section": "197",
-     "heading": "Notice, etc., given to corporation",
-     "reason": "not operative (Notice, etc., given to corporation)"
-    },
-    {
-     "section": "198",
-     "heading": "Waiver of notice and abridgement of times",
-     "reason": "not operative (Waiver of notice and abridgement of times)"
-    },
-    {
-     "section": "199",
-     "heading": "Who may sign",
-     "reason": "not operative (Who may sign)"
-    },
-    {
-     "section": "202",
-     "heading": "Errors in certificates, etc.",
-     "reason": "not operative (Errors in certificates, etc.)"
-    },
-    {
-     "section": "203",
-     "heading": "Form of Director’s records",
-     "reason": "not operative (Form of Director’s records)"
-    },
-    {
-     "section": "204",
-     "heading": "Accepting copy of notice or other document",
-     "reason": "not operative (Accepting copy of notice or other document)"
-    },
-    {
      "section": "204.0.1",
      "heading": "Signatures",
      "reason": "not operative (Signatures)"
@@ -5038,14 +5157,9 @@
      "reason": "not operative (Documents filed under Alternative Filing Methods for Business Act, 2020)"
     },
     {
-     "section": "206.3",
-     "heading": "Property of Crown",
-     "reason": "not operative (Property of Crown)"
-    },
-    {
-     "section": "207",
-     "heading": "Transition",
-     "reason": "not operative (Transition)"
+     "section": "204.2",
+     "heading": "Electronic version prevails",
+     "reason": "priority rule (electronic version prevails)"
     },
     {
      "section": "208.1",
@@ -5054,7 +5168,7 @@
     },
     {
      "section": "213",
-     "heading": "Part XVII (S. 213 - 248) Repealed: 2023, c. 9, Sched. 22, s. 17.",
+     "heading": "",
      "reason": "repealed"
     },
     {
@@ -5115,6 +5229,15 @@
      "id": "V2"
     },
     {
+     "section": "608-3.1",
+     "label": "Service animals",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V3"
+    },
+    {
      "section": "608-4",
      "label": "Firearms and offensive weapons",
      "label_source": "heading",
@@ -5122,7 +5245,7 @@
       "duty",
       "power"
      ],
-     "id": "V3"
+     "id": "V4"
     },
     {
      "section": "608-5",
@@ -5131,7 +5254,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V4"
+     "id": "V5"
     },
     {
      "section": "608-6",
@@ -5140,7 +5263,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V5"
+     "id": "V6"
     },
     {
      "section": "608-7",
@@ -5149,7 +5272,16 @@
      "creates": [
       "duty"
      ],
-     "id": "V6"
+     "id": "V7"
+    },
+    {
+     "section": "608-7.1",
+     "label": "Discharge",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V8"
     },
     {
      "section": "608-8",
@@ -5159,7 +5291,16 @@
       "duty",
       "power"
      ],
-     "id": "V7"
+     "id": "V9"
+    },
+    {
+     "section": "608-8.1",
+     "label": "Smoking",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V10"
     },
     {
      "section": "608-9",
@@ -5168,7 +5309,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V8"
+     "id": "V11"
     },
     {
      "section": "608-10",
@@ -5177,7 +5318,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V9"
+     "id": "V12"
     },
     {
      "section": "608-11",
@@ -5186,7 +5327,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V10"
+     "id": "V13"
     },
     {
      "section": "608-12",
@@ -5195,7 +5336,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V11"
+     "id": "V14"
     },
     {
      "section": "608-13",
@@ -5204,7 +5345,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V12"
+     "id": "V15"
     },
     {
      "section": "608-14",
@@ -5213,7 +5354,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V13"
+     "id": "V16"
     },
     {
      "section": "608-15",
@@ -5222,7 +5363,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V14"
+     "id": "V17"
     },
     {
      "section": "608-16",
@@ -5231,7 +5372,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V15"
+     "id": "V18"
     },
     {
      "section": "608-17",
@@ -5240,7 +5381,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V16"
+     "id": "V19"
     },
     {
      "section": "608-18",
@@ -5249,7 +5390,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V17"
+     "id": "V20"
     },
     {
      "section": "608-19",
@@ -5258,7 +5399,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V18"
+     "id": "V21"
     },
     {
      "section": "608-20",
@@ -5267,7 +5408,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V19"
+     "id": "V22"
     },
     {
      "section": "608-21",
@@ -5276,7 +5417,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V20"
+     "id": "V23"
     },
     {
      "section": "608-22",
@@ -5285,7 +5426,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V21"
+     "id": "V24"
     },
     {
      "section": "608-23",
@@ -5294,7 +5435,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V22"
+     "id": "V25"
     },
     {
      "section": "608-24",
@@ -5303,7 +5444,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V23"
+     "id": "V26"
     },
     {
      "section": "608-25",
@@ -5312,7 +5453,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V24"
+     "id": "V27"
     },
     {
      "section": "608-26",
@@ -5322,7 +5463,7 @@
       "duty",
       "power"
      ],
-     "id": "V25"
+     "id": "V28"
     },
     {
      "section": "608-27",
@@ -5331,7 +5472,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V26"
+     "id": "V29"
     },
     {
      "section": "608-28",
@@ -5340,7 +5481,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V27"
+     "id": "V30"
     },
     {
      "section": "608-29",
@@ -5349,7 +5490,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V28"
+     "id": "V31"
     },
     {
      "section": "608-30",
@@ -5358,7 +5499,16 @@
      "creates": [
       "duty"
      ],
-     "id": "V29"
+     "id": "V32"
+    },
+    {
+     "section": "608-30.1",
+     "label": "Parking of motorized recreational vehicles",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V33"
     },
     {
      "section": "608-31",
@@ -5367,7 +5517,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V30"
+     "id": "V34"
     },
     {
      "section": "608-32",
@@ -5377,7 +5527,7 @@
       "duty"
      ],
      "note": "sets a 20 km/h limit; listed as a duty",
-     "id": "V31"
+     "id": "V35"
     },
     {
      "section": "608-33",
@@ -5386,18 +5536,46 @@
      "creates": [
       "duty"
      ],
-     "id": "V32"
+     "id": "V36"
     },
     {
      "section": "608-34",
      "label": "Dogs",
      "label_source": "heading",
      "creates": [
+      "duty"
+     ],
+     "id": "V37"
+    },
+    {
+     "section": "608-34.1",
+     "label": "Commercial dog walkers",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V38"
+    },
+    {
+     "section": "608-34.2",
+     "label": "Suspension of commercial dog walker permit",
+     "label_source": "heading",
+     "creates": [
       "duty",
       "power",
       "right"
      ],
-     "id": "V33"
+     "id": "V39"
+    },
+    {
+     "section": "608-34.3",
+     "label": "Commercial Dog Walker Permit Appeal Committee",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V40"
     },
     {
      "section": "608-35",
@@ -5407,7 +5585,7 @@
       "duty",
       "power"
      ],
-     "id": "V34"
+     "id": "V41"
     },
     {
      "section": "608-36",
@@ -5416,7 +5594,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V35"
+     "id": "V42"
     },
     {
      "section": "608-37",
@@ -5425,7 +5603,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V36"
+     "id": "V43"
     },
     {
      "section": "608-38",
@@ -5435,7 +5613,7 @@
       "duty",
       "power"
      ],
-     "id": "V37"
+     "id": "V44"
     },
     {
      "section": "608-40",
@@ -5445,7 +5623,7 @@
       "duty",
       "power"
      ],
-     "id": "V38"
+     "id": "V45"
     },
     {
      "section": "608-41",
@@ -5455,7 +5633,7 @@
       "duty",
       "power"
      ],
-     "id": "V39"
+     "id": "V46"
     },
     {
      "section": "608-42",
@@ -5464,7 +5642,7 @@
      "creates": [
       "power"
      ],
-     "id": "V40"
+     "id": "V47"
     },
     {
      "section": "608-43",
@@ -5473,7 +5651,7 @@
      "creates": [
       "power"
      ],
-     "id": "V41"
+     "id": "V48"
     },
     {
      "section": "608-44",
@@ -5482,7 +5660,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V42"
+     "id": "V49"
     },
     {
      "section": "608-45",
@@ -5493,7 +5671,7 @@
       "power",
       "right"
      ],
-     "id": "V43"
+     "id": "V50"
     },
     {
      "section": "608-46",
@@ -5502,7 +5680,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V44"
+     "id": "V51"
     },
     {
      "section": "608-47",
@@ -5511,7 +5689,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V45"
+     "id": "V52"
     },
     {
      "section": "608-48",
@@ -5521,7 +5699,7 @@
       "duty",
       "power"
      ],
-     "id": "V46"
+     "id": "V53"
     },
     {
      "section": "608-49",
@@ -5531,7 +5709,7 @@
       "duty",
       "power"
      ],
-     "id": "V47"
+     "id": "V54"
     },
     {
      "section": "608-50",
@@ -5540,7 +5718,7 @@
      "creates": [
       "power"
      ],
-     "id": "V48"
+     "id": "V55"
     },
     {
      "section": "608-51",
@@ -5549,7 +5727,7 @@
      "creates": [
       "power"
      ],
-     "id": "V49"
+     "id": "V56"
     },
     {
      "section": "608-53",
@@ -5559,7 +5737,7 @@
       "duty",
       "power"
      ],
-     "id": "V50"
+     "id": "V57"
     },
     {
      "section": "608-54",
@@ -5569,7 +5747,7 @@
       "offence",
       "duty"
      ],
-     "id": "V51"
+     "id": "V58"
     },
     {
      "section": "608-55",
@@ -5578,7 +5756,7 @@
      "creates": [
       "power"
      ],
-     "id": "V52"
+     "id": "V59"
     },
     {
      "section": "608-56",
@@ -5588,7 +5766,7 @@
       "duty",
       "power"
      ],
-     "id": "V53"
+     "id": "V60"
     }
    ],
    "excluded": [
@@ -5621,9 +5799,9 @@
     "source_url": "https://web.archive.org/web/20260913083926id_/https://bylaws.vancouver.ca/2849c.PDF",
     "version": "Street and Traffic By-law No. 2849, consolidated to 19 May 2026 (By-law No. 14704); fetched through the Wayback Machine because bylaws.vancouver.ca blocks automated requests",
     "retrieved": "2026-10-09",
-    "scope": "Citation and definitions (ss. 1-3), the whole of Part II (Regulating the Use of Streets, ss. 66-88A), and the general offence and penalty sections (ss. 102-103) that make Part II enforceable.",
-    "sha256": "c3b3d16f3e8605fbc41b8da23908dbb3022e5f52cedfa896b858016ffc9a9336",
-    "chars": 76923
+    "scope": "Whole by-law: ss. 1-105, Parts I-III, and the schedules.",
+    "sha256": "30cc5d53f06a077d9f597be45932d1b4a326fe13ef7a7d53bb3d0395c47bbb8e",
+    "chars": 246669
    },
    "purposes": [
     {
@@ -5636,8 +5814,8 @@
    ],
    "provisions": [
     {
-     "section": "66",
-     "label": "MERCHANDISE NOT TO BE DISPLAYED ON STREET OR SIDEWALK",
+     "section": "4",
+     "label": "DELEGATION OF POWERS",
      "label_source": "heading",
      "creates": [
       "duty",
@@ -5646,13 +5824,1012 @@
      "id": "V1"
     },
     {
+     "section": "5",
+     "label": "OBEDIENCE TO POLICE OFFICERS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V2"
+    },
+    {
+     "section": "6",
+     "label": "TRAFFIC SIGNS AND SIGNALS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V3"
+    },
+    {
+     "section": "7",
+     "label": "Traffic-Control Signal Legend. (1) Whenever traffic at any intersection is alternately directed to proceed or to …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power",
+      "right"
+     ],
+     "id": "V4"
+    },
+    {
+     "section": "8",
+     "label": "Unauthorized Signs and Signals Prohibited. No person shall place, maintain or display upon or in view …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V5"
+    },
+    {
+     "section": "9",
+     "label": "Interference with Traffic-Control Devices. No person shall move, remove, deface, damage or alter, nor obstruct the …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V6"
+    },
+    {
+     "section": "10",
+     "label": "School Crossings. (1) The City Engineer is authorized to designate, by way of traffic signs or …",
+     "label_source": "opening words",
+     "creates": [
+      "offence",
+      "duty",
+      "power"
+     ],
+     "id": "V7"
+    },
+    {
+     "section": "11",
+     "label": "PEDESTRIAN'S RIGHTS AND DUTIES",
+     "label_source": "heading",
+     "creates": [
+      "offence",
+      "duty"
+     ],
+     "id": "V8"
+    },
+    {
+     "section": "12",
+     "label": "Crossing at Other Than Crosswalks. (1) Every pedestrian crossing a roadway at any point other than …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V9"
+    },
+    {
+     "section": "14",
+     "label": "Use Right Half of Crosswalks. Pedestrians shall move, whenever practicable, upon the right half of crosswalks.",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V10"
+    },
+    {
+     "section": "15",
+     "label": "Pedestrians Soliciting Rides. No person shall stand in a roadway for the purpose of soliciting a …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V11"
+    },
+    {
+     "section": "16",
+     "label": "Pedestrians Giving Names to Police Officers. (1) [Deleted] (2) Any police officer is authorized to arrest …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V12"
+    },
+    {
+     "section": "17.1",
+     "label": "STOPPING AND PARKING - STREETS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V13"
+    },
+    {
+     "section": "17.2",
+     "label": "An owner, registered owner, lessee or operator of a vehicle must not cause, allow or permit …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V14"
+    },
+    {
+     "section": "17.3",
+     "label": "An owner, registered owner, lessee or operator of a vehicle must not cause, allow or permit …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V15"
+    },
+    {
+     "section": "17.4",
+     "label": "An owner, registered owner, lessee or operator of a vehicle must not cause, allow or permit …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V16"
+    },
+    {
+     "section": "17.5",
+     "label": "An owner, registered owner, lessee or operator of a vehicle must not cause, allow or permit …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V17"
+    },
+    {
+     "section": "17.6",
+     "label": "An owner, registered owner, lessee or operator of a vehicle must not cause, allow or permit …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V18"
+    },
+    {
+     "section": "17.6A",
+     "label": "Despite section 17.6, a person may: (a) park a vehicle, for no more than five minutes …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V19"
+    },
+    {
+     "section": "17.7",
+     "label": "Where a block or a portion of a block is subject to a parking regulation with …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V20"
+    },
+    {
+     "section": "18.1",
+     "label": "Except as provided in section 18.2 of this by-law and section 4 of Parking Meter By-law …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V21"
+    },
+    {
+     "section": "18.2",
+     "label": "Notwithstanding section 18.1 of this by-law and section 4 of Parking Meter By-law 2952, where streets …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V22"
+    },
+    {
+     "section": "18.3",
+     "label": "An owner, registered owner, lessee or operator of a vehicle must not cause, allow or permit …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V23"
+    },
+    {
+     "section": "19.1",
+     "label": "STOPPING AND PARKING - LANES",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V24"
+    },
+    {
+     "section": "19.2",
+     "label": "Notwithstanding the provisions of clauses (h), (i) and (j) of section 19.1, a driver of a …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V25"
+    },
+    {
+     "section": "20.1",
+     "label": "PARKING - LARGE VEHICLES",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V26"
+    },
+    {
+     "section": "20.2",
+     "label": "An owner, registered owner, lessee or operator of a vehicle which: (i) has a height that …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V27"
+    },
+    {
+     "section": "20.3",
+     "label": "An owner, registered owner, lessee or operator of a trailer or semi-trailer must not cause, allow …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V28"
+    },
+    {
+     "section": "21.1",
+     "label": "RESTRICTED STOPPING AND PARKING AREAS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V29"
+    },
+    {
+     "section": "21.2",
+     "label": "Despite section 21.1, the driver of: (a) an armoured vehicle, used to convey cash and other …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V30"
+    },
+    {
+     "section": "21.3",
+     "label": "An owner, registered owner, lessee or operator of a vehicle must not cause, allow or permit …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V31"
+    },
+    {
+     "section": "21.4",
+     "label": "Despite section 21.3, the driver of a custom transit vehicle or a vehicle that displays a …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V32"
+    },
+    {
+     "section": "21.5",
+     "label": "An owner, registered owner, lessee or operator of a vehicle must not cause, allow or permit …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V33"
+    },
+    {
+     "section": "21.6",
+     "label": "If a person does not display the permanent signage referred to in section 19.2, such person …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V34"
+    },
+    {
+     "section": "21.6A",
+     "label": "If a person displays the permanent signage referred to in section 19.2, such person must obtain …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V35"
+    },
+    {
+     "section": "21.7",
+     "label": "An owner, registered owner, lessee or operator of a vehicle other than a tour bus must …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V36"
+    },
+    {
+     "section": "21.7A",
+     "label": "An owner, registered owner, lessee or operator of a tour bus must not cause, allow or …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V37"
+    },
+    {
+     "section": "21.7B",
+     "label": "The City Engineer may issue: a) a one-day permit to a tour bus that allows stopping …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V38"
+    },
+    {
+     "section": "21.8",
+     "label": "Except for accessible passenger directed vehicles, a transportation network services provider must not cause, allow, or …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V39"
+    },
+    {
+     "section": "22.1",
+     "label": "EVENT PERMIT PARKING",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V40"
+    },
+    {
+     "section": "22.2",
+     "label": "Each residence fronting on a street posted as indicated in section 22.1 shall be allotted one …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V41"
+    },
+    {
+     "section": "22.3",
+     "label": "The City Engineer may determine the form of passes, signs and decals, may make regulations as …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V42"
+    },
+    {
+     "section": "22.4",
+     "label": "No holder of a resident decal or visitor pass shall sell, assign or otherwise transfer that …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V43"
+    },
+    {
+     "section": "23.1",
+     "label": "RESIDENTIAL AND SHARED VEHICLE PARKING",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V44"
+    },
+    {
+     "section": "23.1A",
+     "label": "Despite section 23.1, a person driving a vehicle that displays a disabled person’s parking placard authorized …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V45"
+    },
+    {
+     "section": "23.1B",
+     "label": "If: (a) the City Engineer designates any street or part of a street for the reserved …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V46"
+    },
+    {
+     "section": "23.1C",
+     "label": "A person driving a shared vehicle that displays a permit issued under section 23.2 may park …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V47"
+    },
+    {
+     "section": "23.1D",
+     "label": "Despite section 23.1, a person driving a commercial vehicle who obtains a permit under section 21.6 …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V48"
+    },
+    {
+     "section": "23.2",
+     "label": "The City Engineer may; (a) issue any permit required under section 23; (b) determine the form …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V49"
+    },
+    {
+     "section": "23.3",
+     "label": "No holder of a permit issued under section 23 authorizing parking in an area specified in …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V50"
+    },
+    {
+     "section": "23.3A",
+     "label": "No person may: (a) possess or display on a vehicle a copy of a permit issued …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V51"
+    },
+    {
+     "section": "23.3B",
+     "label": "No person may provide false information on an application for a permit issued under section 23.",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V52"
+    },
+    {
+     "section": "23.3C",
+     "label": "Any person who provides false information on an application for a permit under section 23 may …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V53"
+    },
+    {
+     "section": "23.6",
+     "label": "The annual fee for a permit authorizing reserved shared vehicle parking under section 23.1B for each …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V54"
+    },
+    {
+     "section": "23.8",
+     "label": "The City Engineer may issue: (a) a one-week permit for a vehicle operated by a visitor …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V55"
+    },
+    {
+     "section": "23.9",
+     "label": "A permit holder may return a permit issued under sections 23.4, 23.5, or 23.6 prior to …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V56"
+    },
+    {
+     "section": "24.1",
+     "label": "Where an area is subject to two or more parking limitations the more restrictive regulation shall …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V57"
+    },
+    {
+     "section": "30",
+     "label": "TEMPORARY OCCUPANCY OF A STREET",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V58"
+    },
+    {
+     "section": "31",
+     "label": "THROUGH STREETS AND \"STOP\" SIGNS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V59"
+    },
+    {
+     "section": "32",
+     "label": "Stopping at \"Stop\" Signs. The driver of every vehicle shall stop such vehicle immediately before entering …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V60"
+    },
+    {
+     "section": "33",
+     "label": "ONE-WAY STREETS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V61"
+    },
+    {
+     "section": "34",
+     "label": "The driver of every vehicle being driven on a named street consisting of 2 roadways separated …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V62"
+    },
+    {
+     "section": "34A",
+     "label": "PLAZAS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V63"
+    },
+    {
+     "section": "35",
+     "label": "FUNERAL AND OTHER PROCESSIONS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V64"
+    },
+    {
+     "section": "36",
+     "label": "EMERGING FROM LANE OR PRIVATE ROAD",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V65"
+    },
+    {
+     "section": "37",
+     "label": "TURNING AT INTERSECTIONS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V66"
+    },
+    {
+     "section": "38",
+     "label": "LIMITATIONS ON \"U\" OR REVERSE TURNING",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V67"
+    },
+    {
+     "section": "39",
+     "label": "LIMITATIONS ON BACKING",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V68"
+    },
+    {
+     "section": "39A",
+     "label": "No person shall, unless first approved by the City Engineer, drive a vehicle in reverse to …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V69"
+    },
+    {
+     "section": "40",
+     "label": "CONTROL OF VEHICLE IN MOTION",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V70"
+    },
+    {
+     "section": "40A",
+     "label": "OPERATION OF HORSE-DRAWN VEHICLES",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V71"
+    },
+    {
+     "section": "40B",
+     "label": "OPERATION OF QUADRICYCLES",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V72"
+    },
+    {
+     "section": "41",
+     "label": "DRIVER MUST HAVE HAND ON STEERING DEVICE",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V73"
+    },
+    {
+     "section": "42",
+     "label": "TURN AT INTERSECTIONS ONLY",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V74"
+    },
+    {
+     "section": "43",
+     "label": "DRIVING ON STREETS LINED FOR TRAFFIC",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V75"
+    },
+    {
+     "section": "44",
+     "label": "Where traffic signs are located, established or maintained on any street indicating that the rate of …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V76"
+    },
+    {
+     "section": "45",
+     "label": "No person shall drive any motor vehicle upon or along any lane at a rate of …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V77"
+    },
+    {
+     "section": "46",
+     "label": "STOP WHEN TRAFFIC OBSTRUCTED",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V78"
+    },
+    {
+     "section": "47",
+     "label": "SPEED LIMITS ON MINOR STREETS AND OTHER ROADS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V79"
+    },
+    {
+     "section": "47A",
+     "label": "Despite any other provision of this By-law, no person shall operate a vehicle on any street …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V80"
+    },
+    {
+     "section": "48",
+     "label": "VEHICLES FOR HIRE - STOPPING IN DESIGNATED STANDS ONLY",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V81"
+    },
+    {
+     "section": "49",
+     "label": "EMERGENCY AND PUBLIC UTILITY VEHICLES",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V82"
+    },
+    {
+     "section": "50",
+     "label": "Duty of Drivers on Approach of Ambulances and Other Emergency Vehicles. Upon the approach of any …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V83"
+    },
+    {
+     "section": "51",
+     "label": "Emergency Vehicles to Sound Siren. The driver of every emergency vehicle while responding to an emergency …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V84"
+    },
+    {
+     "section": "52",
+     "label": "WARNING BELLS OR SIGNALS ON BRIDGES",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V85"
+    },
+    {
+     "section": "53",
+     "label": "REGULATING SIRENS AND HORNS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V86"
+    },
+    {
+     "section": "54",
+     "label": "Horn for Warning Only. No person shall sound the horn of a vehicle except when necessary …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V87"
+    },
+    {
+     "section": "56",
+     "label": "FOLLOWING FIRE APPARATUS PROHIBITED",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V88"
+    },
+    {
+     "section": "57",
+     "label": "CROSSING FIRE HOSE",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V89"
+    },
+    {
+     "section": "58",
+     "label": "TRAFFIC IN VICINITY OF A FIRE",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V90"
+    },
+    {
+     "section": "59",
+     "label": "SLOW MOVING VEHICLES",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V91"
+    },
+    {
+     "section": "59A",
+     "label": "A person may drive or operate a neighbourhood zero emission vehicle only: (a) on a street …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V92"
+    },
+    {
+     "section": "60",
+     "label": "BICYCLES",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V93"
+    },
+    {
+     "section": "60A",
+     "label": "No person shall ride a bicycle upon a street while wearing headphones, or any other manufactured …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V94"
+    },
+    {
+     "section": "60B",
+     "label": "No person shall ride a bicycle upon a street unless the bicycle is equipped with a …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V95"
+    },
+    {
+     "section": "60D",
+     "label": "No person shall operate or ride as a passenger on a bicycle on any path or …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V96"
+    },
+    {
+     "section": "60E",
+     "label": "No parent or guardian of a person under the age of 16 years shall authorize or …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V97"
+    },
+    {
+     "section": "60F",
+     "label": "A police officer may arrest without warrant any bicyclist whom the officer finds committing a breach …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V98"
+    },
+    {
+     "section": "60G",
+     "label": "No person shall ride a bicycle, skateboard, electric kick scooter or push scooter, or use non-motorized …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V99"
+    },
+    {
+     "section": "60H",
+     "label": "Subject to the provisions of section 60I, a person may ride a bicycle, skateboard, electric kick …",
+     "label_source": "opening words",
+     "creates": [
+      "power"
+     ],
+     "id": "V100"
+    },
+    {
+     "section": "60I",
+     "label": "A person riding a bicycle, skateboard, electric kick scooter or push scooter, or using non-motorized skates …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V101"
+    },
+    {
+     "section": "61",
+     "label": "PASSENGERS IN MOTOR VEHICLES",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V102"
+    },
+    {
+     "section": "62",
+     "label": "No driver of a vehicle primarily intended for carrying passengers shall extend any part of his …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V103"
+    },
+    {
+     "section": "63",
+     "label": "No person while riding in or on any vehicle shall do any act which will interfere …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V104"
+    },
+    {
+     "section": "63A",
+     "label": "ADDITIONAL TRAFFIC REGULATIONS RESPECTING PUBLIC PARKS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V105"
+    },
+    {
+     "section": "64",
+     "label": "TRAFFIC NOTICES",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V106"
+    },
+    {
+     "section": "65",
+     "label": "Once any notice has been placed on or affixed to a vehicle by an employee of …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V107"
+    },
+    {
+     "section": "65A",
+     "label": "EMERGENCY SNOW CLEARING",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V108"
+    },
+    {
+     "section": "66",
+     "label": "MERCHANDISE NOT TO BE DISPLAYED ON STREET OR SIDEWALK",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V109"
+    },
+    {
      "section": "66A",
      "label": "PROHIBITION OF OBSTRUCTIONS",
      "label_source": "heading",
      "creates": [
       "duty"
      ],
-     "id": "V2"
+     "id": "V110"
     },
     {
      "section": "67",
@@ -5661,7 +6838,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V3"
+     "id": "V111"
     },
     {
      "section": "67A",
@@ -5671,7 +6848,7 @@
       "duty",
       "power"
      ],
-     "id": "V4"
+     "id": "V112"
     },
     {
      "section": "68",
@@ -5680,7 +6857,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V5"
+     "id": "V113"
     },
     {
      "section": "68A",
@@ -5689,7 +6866,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V6"
+     "id": "V114"
     },
     {
      "section": "69",
@@ -5698,7 +6875,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V7"
+     "id": "V115"
     },
     {
      "section": "69A",
@@ -5707,7 +6884,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V8"
+     "id": "V116"
     },
     {
      "section": "70",
@@ -5716,7 +6893,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V9"
+     "id": "V117"
     },
     {
      "section": "70A",
@@ -5725,7 +6902,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V10"
+     "id": "V118"
     },
     {
      "section": "71A",
@@ -5735,7 +6912,7 @@
       "duty",
       "power"
      ],
-     "id": "V11"
+     "id": "V119"
     },
     {
      "section": "71B",
@@ -5744,7 +6921,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V12"
+     "id": "V120"
     },
     {
      "section": "71C",
@@ -5753,7 +6930,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V13"
+     "id": "V121"
     },
     {
      "section": "71D",
@@ -5762,7 +6939,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V14"
+     "id": "V122"
     },
     {
      "section": "71F",
@@ -5771,7 +6948,7 @@
      "creates": [
       "power"
      ],
-     "id": "V15"
+     "id": "V123"
     },
     {
      "section": "71G",
@@ -5781,7 +6958,7 @@
       "duty",
       "power"
      ],
-     "id": "V16"
+     "id": "V124"
     },
     {
      "section": "71H",
@@ -5790,18 +6967,36 @@
      "creates": [
       "duty"
      ],
-     "id": "V17"
+     "id": "V125"
     },
     {
      "section": "71I",
      "label": "WATER ON STREETS",
      "label_source": "heading",
      "creates": [
+      "duty"
+     ],
+     "id": "V126"
+    },
+    {
+     "section": "71J",
+     "label": "CONTAINERS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V127"
+    },
+    {
+     "section": "71K",
+     "label": "ELECTRONIC SIGNS",
+     "label_source": "heading",
+     "creates": [
       "duty",
       "power",
       "right"
      ],
-     "id": "V18"
+     "id": "V128"
     },
     {
      "section": "72",
@@ -5811,7 +7006,7 @@
       "duty",
       "power"
      ],
-     "id": "V19"
+     "id": "V129"
     },
     {
      "section": "72A",
@@ -5820,7 +7015,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V20"
+     "id": "V130"
     },
     {
      "section": "73",
@@ -5830,7 +7025,7 @@
       "duty",
       "power"
      ],
-     "id": "V21"
+     "id": "V131"
     },
     {
      "section": "74",
@@ -5839,7 +7034,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V22"
+     "id": "V132"
     },
     {
      "section": "75",
@@ -5848,7 +7043,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V23"
+     "id": "V133"
     },
     {
      "section": "76",
@@ -5857,7 +7052,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V24"
+     "id": "V134"
     },
     {
      "section": "76A",
@@ -5867,7 +7062,7 @@
       "duty",
       "power"
      ],
-     "id": "V25"
+     "id": "V135"
     },
     {
      "section": "76B",
@@ -5876,7 +7071,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V26"
+     "id": "V136"
     },
     {
      "section": "77",
@@ -5886,26 +7081,7 @@
       "duty",
       "power"
      ],
-     "id": "V27"
-    },
-    {
-     "section": "77A",
-     "label": "Despite section 77, but subject to the requirements of this section, a person may ride or …",
-     "label_source": "opening words",
-     "creates": [
-      "duty",
-      "power"
-     ],
-     "id": "V28"
-    },
-    {
-     "section": "77B",
-     "label": "A person may ride an electric kick scooter on any protected bicycle lane or any street …",
-     "label_source": "opening words",
-     "creates": [
-      "power"
-     ],
-     "id": "V29"
+     "id": "V137"
     },
     {
      "section": "78",
@@ -5914,7 +7090,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V30"
+     "id": "V138"
     },
     {
      "section": "79",
@@ -5923,7 +7099,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V31"
+     "id": "V139"
     },
     {
      "section": "80",
@@ -5933,7 +7109,7 @@
       "duty",
       "power"
      ],
-     "id": "V32"
+     "id": "V140"
     },
     {
      "section": "81",
@@ -5942,7 +7118,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V33"
+     "id": "V141"
     },
     {
      "section": "82",
@@ -5951,7 +7127,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V34"
+     "id": "V142"
     },
     {
      "section": "83",
@@ -5961,7 +7137,7 @@
       "duty",
       "power"
      ],
-     "id": "V35"
+     "id": "V143"
     },
     {
      "section": "84",
@@ -5970,7 +7146,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V36"
+     "id": "V144"
     },
     {
      "section": "84A",
@@ -5979,7 +7155,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V37"
+     "id": "V145"
     },
     {
      "section": "85",
@@ -5988,7 +7164,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V38"
+     "id": "V146"
     },
     {
      "section": "85A",
@@ -5997,7 +7173,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V39"
+     "id": "V147"
     },
     {
      "section": "86",
@@ -6007,7 +7183,7 @@
       "duty",
       "power"
      ],
-     "id": "V40"
+     "id": "V148"
     },
     {
      "section": "87",
@@ -6016,7 +7192,7 @@
      "creates": [
       "duty"
      ],
-     "id": "V41"
+     "id": "V149"
     },
     {
      "section": "88",
@@ -6026,7 +7202,7 @@
       "duty",
       "power"
      ],
-     "id": "V42"
+     "id": "V150"
     },
     {
      "section": "88A",
@@ -6037,7 +7213,167 @@
       "power",
       "right"
      ],
-     "id": "V43"
+     "id": "V151"
+    },
+    {
+     "section": "89",
+     "label": "DIMENSIONS OF VEHICLES AND LOADS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V152"
+    },
+    {
+     "section": "89A",
+     "label": "PROHIBITION ON USE OF VEHICLES",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V153"
+    },
+    {
+     "section": "90",
+     "label": "VEHICLE WITH EXCESS WEIGHT",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V154"
+    },
+    {
+     "section": "90A",
+     "label": "TRUCK ROUTES",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V155"
+    },
+    {
+     "section": "90B",
+     "label": "Areas Outside the Area Described in Section 90A: A vehicle or combination of vehicles having a …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V156"
+    },
+    {
+     "section": "90C",
+     "label": "A person must not drive a vehicle or combination of vehicles, having a gross vehicle weight …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V157"
+    },
+    {
+     "section": "91",
+     "label": "TYPES OF VEHICLES AND TIRES",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V158"
+    },
+    {
+     "section": "92",
+     "label": "SPEEDS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V159"
+    },
+    {
+     "section": "93",
+     "label": "EXEMPTIONS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V160"
+    },
+    {
+     "section": "94",
+     "label": "PERMITS",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V161"
+    },
+    {
+     "section": "95",
+     "label": "Before any permit is issued pursuant to section 94 the applicant shall deposit with the City …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V162"
+    },
+    {
+     "section": "96",
+     "label": "PERMIT FEES",
+     "label_source": "heading",
+     "creates": [
+      "power"
+     ],
+     "id": "V163"
+    },
+    {
+     "section": "96A",
+     "label": "If a permit issued pursuant to section 94 has been lost or destroyed before expiring, the …",
+     "label_source": "opening words",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V164"
+    },
+    {
+     "section": "97",
+     "label": "WEIGHING AND INSPECTION OF VEHICLES",
+     "label_source": "heading",
+     "creates": [
+      "duty",
+      "power"
+     ],
+     "id": "V165"
+    },
+    {
+     "section": "99",
+     "label": "SECURING OF LOADS",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V166"
+    },
+    {
+     "section": "100",
+     "label": "Schedules A, B, C, D, E, F, G, and H annexed hereto shall form an integral …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V167"
+    },
+    {
+     "section": "101",
+     "label": "This by-law shall also apply to the passageways and driveways on the real property known and …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V168"
     },
     {
      "section": "102",
@@ -6046,7 +7382,7 @@
      "creates": [
       "offence"
      ],
-     "id": "V44"
+     "id": "V169"
     },
     {
      "section": "103",
@@ -6055,19 +7391,82 @@
      "creates": [
       "offence"
      ],
-     "id": "V45"
+     "id": "V170"
+    },
+    {
+     "section": "105",
+     "label": "This By-law shall come into force and take effect on and after the date of the …",
+     "label_source": "opening words",
+     "creates": [
+      "duty"
+     ],
+     "id": "V171"
     }
    ],
    "excluded": [
     {
+     "section": "13",
+     "heading": "",
+     "reason": "repealed or omitted"
+    },
+    {
+     "section": "23.4",
+     "heading": "",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
+     "section": "23.5",
+     "heading": "",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
+     "section": "23.7",
+     "heading": "",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
+     "section": "25",
+     "heading": "",
+     "reason": "reserved"
+    },
+    {
+     "section": "55",
+     "heading": "",
+     "reason": "repealed or omitted"
+    },
+    {
+     "section": "60C",
+     "heading": "",
+     "reason": "creates no offence, duty, power or right"
+    },
+    {
      "section": "71E",
      "heading": "TABLES CONVEYING POLITICAL EXPRESSION",
      "reason": "exception (tables conveying political expression need no permit)"
+    },
+    {
+     "section": "77A",
+     "heading": "",
+     "reason": "exception (permits riding despite s. 77)"
+    },
+    {
+     "section": "77B",
+     "heading": "",
+     "reason": "exception (permits e-scooters in bicycle lanes)"
+    },
+    {
+     "section": "98",
+     "heading": "",
+     "reason": "repealed or omitted"
+    },
+    {
+     "section": "104",
+     "heading": "",
+     "reason": "creates no offence, duty, power or right"
     }
    ],
    "flags": [
-    "The entry names \"camping/tent provisions\", not a Part. I took Part II, which holds them (s. 71A, structures on streets) together with about 40 other street-use rules.",
-    "ss. 102-103 sit outside Part II but are the only offence and penalty provisions, so they are included."
+    "LOOK FIRST. The entry names the by-law, with \"camping/tent provisions\" as its focus, so the rule takes the whole by-law, as for Toronto Chapter 608. That brings in about 150 traffic and parking rules. The camping provision (s. 71A, structures on streets) is one of them, and against a traffic-and-order purpose nearly all will be served. The alternative is Part II (Regulating the Use of Streets) only."
    ]
   },
   {
@@ -6206,9 +7605,9 @@
     "source_url": "https://web.archive.org/web/20260914125711id_/https://bylaws.vancouver.ca/6555c.PDF",
     "version": "Noise Control By-law No. 6555, consolidated to 14 July 2026 (By-law No. 14786); fetched through the Wayback Machine",
     "retrieved": "2026-10-09",
-    "scope": "Whole by-law, Parts 1-6. Schedules (zone maps and address lists) are left out of the text.",
-    "sha256": "737b12bd0fd1213ed8643daa276df731a2d634fcee2908b6a45be2b759a1a50c",
-    "chars": 30866
+    "scope": "Whole by-law, Parts 1-6 and the schedules (zone descriptions and address lists; the zone maps are images and do not survive as text).",
+    "sha256": "b15ea0fa3a7ac25f2880df4434fbe13e6e4f7098e5ed46d04230f0142860034d",
+    "chars": 50325
    },
    "purposes": [
     {
@@ -6258,6 +7657,24 @@
      "id": "V4"
     },
     {
+     "section": "2.5",
+     "label": "Noise emanating from a street",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V5"
+    },
+    {
+     "section": "2.6",
+     "label": "Noise received on a street",
+     "label_source": "heading",
+     "creates": [
+      "duty"
+     ],
+     "id": "V6"
+    },
+    {
      "section": "3.1",
      "label": "Prohibited noises or sounds",
      "label_source": "heading",
@@ -6265,7 +7682,7 @@
       "duty",
       "power"
      ],
-     "id": "V5"
+     "id": "V7"
     },
     {
      "section": "3.2",
@@ -6275,7 +7692,7 @@
       "duty",
       "power"
      ],
-     "id": "V6"
+     "id": "V8"
     },
     {
      "section": "3.3",
@@ -6285,7 +7702,7 @@
       "duty",
       "power"
      ],
-     "id": "V7"
+     "id": "V9"
     },
     {
      "section": "4.4",
@@ -6294,7 +7711,7 @@
      "creates": [
       "power"
      ],
-     "id": "V8"
+     "id": "V10"
     },
     {
      "section": "5.1",
@@ -6304,7 +7721,7 @@
       "offence",
       "duty"
      ],
-     "id": "V9"
+     "id": "V11"
     },
     {
      "section": "5.2",
@@ -6313,7 +7730,7 @@
      "creates": [
       "offence"
      ],
-     "id": "V10"
+     "id": "V12"
     },
     {
      "section": "5.3",
@@ -6322,7 +7739,7 @@
      "creates": [
       "offence"
      ],
-     "id": "V11"
+     "id": "V13"
     }
    ],
    "excluded": [
@@ -6345,16 +7762,6 @@
      "section": "1.4",
      "heading": "Severability",
      "reason": "not operative (Severability)"
-    },
-    {
-     "section": "2.5",
-     "heading": "Noise emanating from a street",
-     "reason": "deeming rule"
-    },
-    {
-     "section": "2.6",
-     "heading": "Noise received on a street",
-     "reason": "deeming rule"
     },
     {
      "section": "4.1",

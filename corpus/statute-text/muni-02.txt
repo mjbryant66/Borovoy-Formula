@@ -1,12 +1,9 @@
 SOURCE_URL: https://web.archive.org/web/20260913083926id_/https://bylaws.vancouver.ca/2849c.PDF
 VERSION: Street and Traffic By-law No. 2849, consolidated to 19 May 2026 (By-law No. 14704); fetched through the Wayback Machine because bylaws.vancouver.ca blocks automated requests
 RETRIEVED: 2026-10-09
-SCOPE: Citation and definitions (ss. 1-3), the whole of Part II (Regulating the Use of Streets, ss. 66-88A), and the general offence and penalty sections (ss. 102-103) that make Part II enforceable.
+SCOPE: Whole by-law: ss. 1-105, Parts I-III, and the schedules.
 GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
-CITY OF VANCOUVER
-        BRITISH COLUMBIA
-
 STREET AND TRAFFIC BY-LAW NO. 2849
 
          This By-law is printed under and
@@ -445,7 +442,1694 @@ Development By-law.
 
 emission vehicles.
 
-[Part I (Regulating Traffic) omitted: outside the Part the entry names]
+                                         PART I
+
+                               REGULATING TRAFFIC
+                              DELEGATION OF POWERS
+
+4.   (1)   The City Engineer is hereby authorized to:
+
+                  (a) mark traffic lanes on streets and to designate by order streets or
+                      portions of streets on which a distinguishing single line or double line
+                      shall be marked, which lines need not be in the middle of the travelled
+                      portion of the street;
+
+                  (b) designate by order streets or portions of streets upon which no vehicle
+                      shall be stopped or parked, or only such vehicles or classes thereof at
+                      such times and upon such conditions as may be prescribed;
+
+                  (c) locate, establish and maintain upon any streets such traffic signs,
+                      stop-signs, traffic lights or reflectors, traffic discs, markers, blocks,
+                      standards, indicators, traffic-control signals, or other devices or
+                      apparatus, whether automatic or manual, as may be deemed
+                      necessary for the regulation, direction and control of traffic on any
+                      street and at any intersection; and
+
+                  (d) designate by order streets or portions of streets as transit routes and
+                      streets or portions of streets that are to be used exclusively by one or
+                      more class of vehicles or traffic, and to order the installation or
+                      alteration of sidewalks, boulevards, lanes, or other infrastructure or
+                      devices to accommodate or facilitate such traffic or prevent any
+                      prohibited traffic.
+
+     (2)   The Chief Constable is hereby authorized to place or cause to be placed for
+           periods not exceeding 30 days at any one time portable traffic signs:
+
+           (a)    at the entrance to dance halls, funeral parlors or other places of public
+                  assembly during the period of assembly therein;
+
+           (b)    upon either or both sides of any street or portion of street along the route
+                  of any parade or in the vicinity of a large public gathering;
+
+           (c)    at any other location in order to expedite the movement of traffic or to
+                  safeguard pedestrians or property.
+
+     (3)   During the time such portable signs are in place they shall be deemed to
+           supersede any provisions of this by-law or any regulations, warnings or directions
+           displayed by any other traffic sign or traffic control signal.
+
+     (4)   The General Manager of the Park Board is hereby authorized to exercise the
+           same powers with respect to any street within any public park as those granted
+           to the City Engineer under the provisions of subsections (1)(a), (1)(b) and (1)(c).
+
+                            OBEDIENCE TO POLICE OFFICERS
+
+5.   Every person shall at all times comply with any lawful order, direction, signal or
+     command made or given by a police officer in the performance of the officer's duty in
+     directing or regulating traffic. Police officers in order to expedite the movement of traffic
+     or to safeguard pedestrians or property shall have full power to direct and regulate traffic
+     and in doing so may disregard any traffic-control signal or traffic sign.
+
+                              TRAFFIC SIGNS AND SIGNALS
+
+6.   Obedience to Traffic Signs and Signals.
+
+     Every pedestrian and the driver of every vehicle, shall obey the direction, instruction,
+     limitation, restriction or prohibition of any applicable traffic sign or traffic-control signal
+     unless otherwise directed by a police officer, subject to the exceptions contained in this
+     by-law respecting emergency and public utility vehicles.
+
+7.   Traffic-Control Signal Legend.
+
+     (1)    Whenever traffic at any intersection is alternately directed to proceed or to stop
+            by the use of traffic-control signals exhibiting the words "Go", "Caution" or "Stop",
+            or exhibiting coloured lights or arrows, such lights, terms and arrows shall have
+            the following meaning:
+
+            (a)     Green light or "Go", shall mean or indicate that traffic facing such signal
+                    may proceed across the intersection, as herein directed (except vehicular
+                    traffic which shall yield the right-of-way to pedestrians and vehicles
+                    lawfully within the crosswalk or the intersection at the time such signal is
+                    exhibited).
+
+            (aa)    Green Light with Flashing Green Arrow, shall mean or indicate that
+                    vehicular traffic facing such signal may cautiously enter the intersection to
+                    make the movement indicated by such arrow, but shall yield the right-of-
+                    way to pedestrians lawfully within a crosswalk and to other traffic lawfully
+                    using the intersection.
+
+            (b)     Yellow light, or "Caution", when shown following the green "Go", shall
+                    mean or indicate that traffic facing the signal shall stop before entering the
+                    nearest crosswalk at the intersection unless so close to the intersection
+                    that a stop cannot be made in safety.
+
+            (c)     Red light, or "Stop", shall mean and indicate that traffic facing the signal
+                    shall not proceed until the green or "Go" signal is displayed, and moving
+                    traffic facing the signal shall stop before entering the intersection and
+                    remain standing until the green or "Go" signal is displayed. Provided
+                    however, that notwithstanding the meaning ascribed to a "red light" in this
+                    clause, a right turn may be made in accordance with the provisions and
+                    subject to the restrictions contained in the Motor Vehicle Act or its
+                    regulations.
+
+            (d)     Red Light with Green Arrow, shall mean vehicular traffic facing such
+
+             signal may cautiously enter the intersection only to make the movement
+             indicated by such arrow but shall not interfere with other traffic or
+             endanger pedestrians lawfully within a crosswalk.
+
+      (e)    "Flashing Red Light with Green Arrow" shall mean or indicate that
+             vehicular traffic facing such signal may, after having first come to a full
+             stop, cautiously enter the intersection only to make the movement
+             indicated by such arrow, but shall yield the right-of-way to pedestrians
+             lawfully within a crosswalk and to other traffic lawfully using the
+             intersection.
+
+(2)   (a)    Whenever pedestrian-control signals are in place, exhibiting the
+             outline or shape of a walking person, a pedestrian facing such signal may
+             proceed across the roadway in the direction of the signal and shall be
+             given the right-of-way by all drivers.
+
+      (b)    Whenever pedestrian-control signals are in place, exhibiting the outline or
+             shape of a raised hand, no pedestrian shall start to cross the roadway in
+             the direction of such signal but any pedestrian who has commenced
+             crossing the roadway while the outline or shape of a walking person was
+             exhibited, may continue across the roadway and shall be given the right-
+             of-way by all drivers.
+
+(3)   Flashing Signals.
+
+      Whenever flashing red or yellow or green signals are used they shall require
+      obedience by vehicular traffic as follows:
+
+      (a)    Flashing red (Stop signal).
+
+             When a red lens is illuminated by rapid intermittent flashes, drivers of
+             vehicles shall stop before entering the nearest crosswalk at an
+             intersection or at a limit line when marked, and the right to proceed shall
+             be subject to the rules applicable after making a stop at a stop sign.
+
+      (b)    Flashing yellow (Caution signal).
+
+             When a yellow lens is illuminated with rapid intermittent flashes, drivers of
+             vehicles may proceed through the intersection or past such signal only
+             with caution.
+
+      (c)    Flashing green (Alerting signal).
+
+             When a green lens is illuminated by rapid intermittent flashes, drivers of
+             vehicles may proceed through the intersection but must approach the
+             nearest crosswalk in readiness to stop should a yellow light be displayed
+             before the said crosswalk is reached.
+
+(4)   Whenever traffic signals are in place above any street, exhibiting coloured arrows
+      or diagonal crosses, such arrows and crosses shall have the following meaning:
+
+             (a)     downward pointing green arrow shall mean or indicate that vehicular
+                     traffic facing such signal may travel in the traffic lane over which the
+                     signal is placed;
+
+             (b)     red diagonal crosses shall mean or indicate that vehicular traffic facing
+                     such signal shall not travel in the traffic lane over which such signal is
+                     placed.
+
+8.    Unauthorized Signs and Signals Prohibited.
+
+      No person shall place, maintain or display upon or in view of any street any unauthorized
+      sign, signal, marking or device which purports to be, or is in imitation of or resembles
+      any traffic-control signal or traffic sign, or which attempts to direct the movement of traffic
+      or in the parking of vehicles, or which hides from view or interferes with the effectiveness
+      of any authorized traffic-control device.
+
+9.    Interference with Traffic-Control Devices.
+
+      No person shall move, remove, deface, damage or alter, nor obstruct the view of, nor
+      otherwise interfere with any authorized traffic-control signal or traffic sign, nor drive, nor
+      walk on or over any newly painted line, the presence of which is indicated on any
+      roadway by red flags, traffic cones, or other suitable warning devices.
+
+10.   School Crossings.
+
+      (1)    The City Engineer is authorized to designate, by way of traffic signs or other
+             markings, any portion of a street as a school crossing.
+
+      (2)    Whenever any portion of a street has been designated under subsection (1), the
+             driver of every vehicle shall obey the instruction, prohibition or direction indicated
+             on the traffic sign or marking, provided however that wherever the sign or
+             marking is erected on a street containing a central boulevard the sign or marking
+             shall govern only that portion of the school crossing which is on the same side of
+             the street in which the vehicle is lawfully travelling.
+
+      (3)    If any traffic sign placed in advance of a designated school crossing referred to in
+             subsection (1) contains the words "No Passing", no driver of a vehicle shall
+             overtake and pass any moving vehicle while upon that portion of the street
+             between the said sign and the designated school crossing.
+
+      (4)    Every person who is guilty of an offence against subsection (2) hereof shall be
+             liable to a fine of not less than $15.00.
+
+                            PEDESTRIAN'S RIGHTS AND DUTIES
+
+11.          Pedestrian's Right-of-Way at Crosswalks.
+
+      (1)    The driver of a vehicle shall yield the right-of-way, slowing down or stopping if
+             need be to so yield, to a pedestrian crossing the roadway within a crosswalk
+             when the pedestrian:
+
+             (a)     is upon the half of the roadway upon which the vehicle is travelling, or
+
+             (b)     is approaching so closely from the opposite half of the roadway as to be
+                     in danger,
+
+             provided that no pedestrian shall leave a curb or other place of safety and walk
+             or run into the path of a vehicle which is so close that it is impossible for the
+             driver to yield, subject to the provisions contained in this by-law.
+
+      (2)    Notwithstanding the provisions of subsection (1) of this section no driver shall be
+             guilty of an offence where a pedestrian is crossing the roadway within a
+             crosswalk contrary to the lawful order, direction, signal or command made or
+             given by a police officer in the performance of the officer's duty in directing or
+             regulating traffic or contrary to the direction, instruction, limitation, restriction, or
+             prohibition of any applicable traffic sign or traffic-control signal.
+
+      (3)    No person shall start to cross any street in front of a bus which has stopped to
+             load or unload passengers unless such crossing is made in compliance with
+             traffic-control signals or the direction of a police officer. This provision shall not
+             apply where such bus has stopped at its regular terminus.
+
+      (4)    Whenever any vehicle has stopped or slowed down at a marked crosswalk or at
+             any unmarked crosswalk at an intersection, to permit a pedestrian to cross the
+             roadway, the driver of any other vehicle approaching from the rear shall not
+             overtake and pass such vehicle.
+
+12.          Crossing at Other Than Crosswalks.
+
+      (1)    Every pedestrian crossing a roadway at any point other than within a marked
+             crosswalk or within an unmarked crosswalk at an intersection, shall give the
+             right-of-way to all vehicles upon the roadway.
+
+      (2)    No pedestrian shall jaywalk on a roadway.
+
+      (3)    Notwithstanding the provisions of this section, every driver of a vehicle shall
+             exercise due care for the safety of pedestrians and shall give warning by
+             sounding the horn when necessary, and shall exercise proper precaution
+
+             upon observing any child or any confused or incapacitated person upon a
+             roadway.
+
+13.   [Deleted]
+
+14.   Use Right Half of Crosswalks.
+
+      Pedestrians shall move, whenever practicable, upon the right half of crosswalks.
+
+15.   Pedestrians Soliciting Rides.
+
+      No person shall stand in a roadway for the purpose of soliciting a ride from the driver of
+
+       any vehicle except a public passenger conveyance.
+
+16.    Pedestrians Giving Names to Police Officers.
+
+       (1)    [Deleted]
+
+       (2)    Any police officer is authorized to arrest without warrant any pedestrian whom
+              such police officer finds committing a breach of any provisions of this by-law, if
+              such pedestrian shall fail to stop and state correctly his or her name and address
+              when so requested by such police officer.
+
+                            STOPPING AND PARKING - STREETS
+
+17.1   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to stop at any place where a traffic sign prohibits stopping:
+
+              (a) wherever signs are displayed indicating that the zone, place or area is in the
+                  vicinity of a school, between the hours of 8:00 a.m. and 5:00 p.m. of any day
+                  on which school is regularly held; or
+
+              (b) at any other time.
+
+17.2   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to stop:
+
+              (a)    within 6 metres of the approach side of a stop sign:
+
+                     (i)     wherever signs are displayed indicating that the zone, place or
+                             area is in the vicinity of a school, between the hours of 8:00 a.m.
+                             and 5:00 p.m. of any day on which school is regularly held, or
+                     (ii)    at any other time;
+
+              (b)    within 6 metres of a firehall on that side of the street on which the firehall
+                     is located, or within 25 metres of a firehall on the opposite side of the
+                     street on which the firehall is located, unless otherwise restricted by a
+                     traffic sign;
+
+              (c)    within 5 metres of a fire hydrant, measured either side from the point at
+                     the curb or edge of the roadway which is closest to the hydrant;
+
+              (d)    in front of or within 1.5 metres of the nearest side of a private road,
+                     boulevard crossing or sidewalk crossing:
+
+                     (i)     wherever signs are displayed indicating that the zone, place or
+                             area is in the vicinity of a school, between the hours of 8:00 a.m.
+                             and 5:00 p.m. of any day on which school is regularly held, or
+                     (ii)    at any other time;
+
+              (e)    in front of or within 1.5 metres of a garbage container;
+
+              (f)    alongside or opposite a street excavation or obstruction where to do so
+
+                     would obstruct the movement of traffic;
+
+              (g)    on any bridge, viaduct or elevated structure forming part of a street
+                     except:
+
+                     (i)     for the Hastings Viaduct;
+
+                     (ii)    where traffic signs indicate that parking or stopping is permitted; or
+
+                     (iii)   where parking meters indicate that parking is permitted;
+
+              (h)    alongside a median, traffic island or traffic circle;
+
+              (i)    on any roadway bounded by curbs where the roadway is 5 metres or less
+                     in width;
+
+              (j)    on any portion of street indicated by a sign or other marker as reserved
+                     for one or more class of vehicle, except for recognized vehicles of that
+                     class;
+
+              (k)    on any street or portion of a street designated as a priority congestion
+                     management roadway during the times stopping is prohibited, as
+                     indicated on any traffic sign governing that street or portion of the street;
+
+              (l)    on any portion of a street that is designated for use by persons on
+                     bicycles, non-motorized skates, skateboards, or push scooters;
+
+              (m)    on any portion of a street that is designated for parking use by vehicles
+                     displaying a disabled person’s parking placard authorized by the city.
+
+17.3   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to stop on any portion of a street designated as a bus stop unless the
+       vehicle is a BC Transit Bus or a bus operated by a person permitted by the City Engineer
+       to use a bus stop.
+
+17.4   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to stop:
+
+              (a)    on a crosswalk;
+
+              (b)    within 6 metres of either side of a crosswalk, except for the driver of a
+                     motorcycle or motor assisted cycle who is parking in a clearance parking
+                     area or a bicycle rider parking at a bicycle rack;
+
+              (c)    on a sidewalk;
+
+              (d)    on a sidewalk crossing;
+
+              (e)    on a boulevard, traffic island or traffic circle except where specifically
+
+                    designated for the parking of motor vehicles:
+
+                    (i)    wherever signs are displayed indicating that the zone, place or
+                           area is in the vicinity of a school, between the hours of 8:00 a.m.
+                           and 5:00 p.m. of any day on which school is regularly held, or
+                    (ii)   at any other time;
+
+             (f)    within an intersection:
+
+                    (i)    wherever signs are displayed indicating that the zone, place or
+                           area is in the vicinity of a school, between the hours of 8:00 a.m.
+                           and 5:00 p.m. of any day on which school is regularly held, or
+                    (ii)   at any other time.
+
+17.5   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to stop on a street, not being a lane:
+
+             (a)    within 1.5 metres of that portion of an intersecting lane that is useable for
+                    travel:
+
+                    (i)    wherever signs are displayed indicating that the zone, place or
+                           area is in the vicinity of a school, between the hours of 8:00 a.m.
+                           and 5:00 p.m. of any day on which school is regularly held, or
+                    (ii)   at any other time;
+
+             (b)    within 2 metres of the approach side of the nearest edge of the closest
+                    sidewalk on an intersecting street;
+
+             (c)    within 6 metres of the nearest edge of the closest sidewalk on an
+                    intersecting street:
+
+                    (i)    wherever signs are displayed indicating that the zone, place or
+                           area is in the vicinity of a school, between the hours of 8:00 a.m.
+                           and 5:00 p.m. of any day on which school is regularly held, or
+                    (ii)   at any other time;
+
+             (d)    within 9 metres of the nearest edge of the pavement on an intersecting
+                    street where no sidewalk exists:
+
+                    (i)    wherever signs are displayed indicating that the zone, place or
+                           area is in the vicinity of a school, between the hours of 8:00 a.m.
+                           and 5:00 p.m. of any day on which school is regularly held, or
+                    (ii)   at any other time.
+
+17.6   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to park:
+
+             (a)    at any place on a street where a traffic sign prohibits parking;
+
+             (b)    at any place on a street where a traffic sign restricts parking, except in
+                    accordance with such restriction;
+
+             (c)    on the paved portion of any curbless street where the pavement is 6
+                    metres or less in width, so as to leave available less than 3 metres of the
+                    usable paved portion of such street;
+
+             (d)    opposite to or in such close proximity to another vehicle already stopped
+                    on the street as to obstruct or unduly restrict the free movement of
+                    vehicles on the street;
+
+             (e)    on any portion of a street for a longer period of time than indicated on any
+                    traffic sign governing that portion of a street;
+
+             (f)    on a street abutting premises used for residential or commercial purposes
+                    for more than 3 hours between 8:00 a.m. and 6:00 p.m., provided that this
+                    limitation in time shall not apply where:
+
+                    (i)     the premises are on the same block as the property or residence
+                            of the person;
+
+                    (ii)    the person is an employee of the business or other enterprise
+                            operating at the premises;
+
+                    (iii)   the street or portion of street is restricted to the parking of vehicles
+                            of residents of that street;
+
+                    (iv)    the street or portion of street is restricted to the parking of vehicles
+                            of residents bearing a valid decal issued by the City Engineer and
+                            authorizing its parking provided that the vehicle is located within
+                            the area named on the decal and provided further that where the
+                            area is regulated pursuant to section 22.1 this subclause (iii) shall
+                            only apply during the time of the event;
+
+                    (v)     the driver of a motorcycle or motor assisted cycle, or a rider of a
+                            bicycle parks in a clearance parking area, in which case a 24 hour
+                            time limit is to apply; or
+
+                    (vi)    the driver of a shared vehicle displaying a valid permit issued
+                            under section 23.2, in which case no time limit is to apply;
+
+             (g)    on that part of any roadway within a distance of 6 metres on both sides of
+                    the centre of the main entrance or exterior vestibule of any hotel or
+                    theatre, unless otherwise marked by traffic signs.
+
+17.6A Despite section 17.6, a person may:
+
+             (a)    park a vehicle, for no more than five minutes, while loading or unloading
+                    persons or materials; and
+
+             (b)    despite subsection (a), park a custom transit vehicle or a vehicle that
+                    displays a disabled person’s parking placard authorized by the city, for no
+                    more than 30 minutes, while loading or unloading persons or materials.
+
+17.7   Where a block or a portion of a block is subject to a parking regulation with a time limit,
+       an owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to move from one location to another in the same block in an attempt
+       to avoid the time limit.
+
+18.1   Except as provided in section 18.2 of this by-law and section 4 of Parking Meter By-law
+       2952, an owner, registered owner, lessee or operator of a vehicle must not cause, allow
+       or permit that vehicle to stop or park in a roadway other than:
+
+              (a)     parallel with the curb or edge of the roadway;
+
+              (b)     headed in the direction of traffic:
+
+                      (i)     wherever signs are displayed indicating that the zone, place or
+                              area is in the vicinity of a school, between the hours of 8:00 a.m.
+                              and 5:00 p.m. of any day on which school is regularly held, or
+                      (ii)    at any other time; and
+
+              (c)     with the curbside wheels of the vehicle within 30 cm of the curb or edge of
+                      the roadway, except that, where a portion of a street designated by the
+                      City Engineer for the exclusive use of bicycle traffic is adjacent to the
+                      roadway, the curbside wheels of the vehicle are to be within 30 cm of the
+                      edge of the bicycle lane buffer that is furthest away from the nearest curb:
+
+                      (i)     wherever signs are displayed indicating that the zone, place or
+                              area is in the vicinity of a school, between the hours of 8:00 a.m.
+                              and 5:00 p.m. of any day on which school is regularly held, or
+                      (ii)    at any other time.
+
+18.2   Notwithstanding section 18.1 of this by-law and section 4 of Parking Meter By-law 2952,
+       where streets or portions of streets have been marked or signed for angle parking, an
+       owner, registered owner, lessee or operator of a vehicle must not cause, allow or permit
+       that vehicle to park in any manner other than at the angle to the curb indicated by such
+       marks or signs and parallel to and between such marks and with the front of the vehicle
+       as close to the curb as practicable.
+
+18.3   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to stand unattended on any perceptible grade on any street unless
+       the front or rear wheels are turned to the curb or side of the roadway.
+
+                             STOPPING AND PARKING - LANES
+
+19.1   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to stop on a lane:
+
+              (a)     within 2 metres of that portion of an intersecting street or lane that is
+                      useable for travel;
+
+              (b)     within 2 metres of the nearest edge of the closest sidewalk on an
+                      intersecting street;
+
+              (c)    within 5 metres of the nearest edge of the pavement on an intersecting
+                     street where no sidewalk exists;
+
+              (d)    in such a manner or under such conditions as to leave available less than
+                     3 metres of the usable travelled portion of such lane for the free
+                     movement of vehicles;
+
+              (e)    opposite to or in close proximity to another vehicle already stopped in the
+                     lane in such manner as to obstruct the free movement of other vehicles;
+
+              (f)    within a rectangular area extending:
+
+                     (i)     0.5 metres along the lane from either edge of a door, gate or
+                             opening in a wall or other barrier that permits pedestrian access
+                             between public and private property; and
+
+                     (ii)    3 metres into the lane from the front of either edge of a door, gate
+                             or opening in a wall or other barrier that permits pedestrian access
+                             between public and private property;
+
+              (g)    within an area extending 1.5 metres from either side of and 5.5 metres
+                     directly in front of a driveway or private road adjoining such lane or the
+                     vehicular access of a garage abutting such lane;
+
+              (h)    except as provided in clause (j) on either side of a lane which abuts
+                     commercially used property, except that the prohibition does not apply to
+                     lanes located in the area bounded by Burrard Street, English Bay, Stanley
+                     Park and Coal Harbour if the vehicle is otherwise lawfully parked;
+
+              (i)    within the area generally shown within the heavy black outline on the
+                     diagram below, but specifically described as that area bounded on the
+                     north by Burrard Inlet, on the east by Gore Avenue, on the south by Prior
+                     Street, False Creek and Smithe Street, and on the west by Burrard Street;
+
+              (j)    within those areas described as "West End" and "Robson North" in
+                     Schedule D to this By-law, unless the vehicle is permitted to be parked
+                     there pursuant to section 23.1.
+
+19.2   Notwithstanding the provisions of clauses (h), (i) and (j) of section 19.1, a driver of a
+       commercial vehicle which has the name and address of its operator or owner plainly
+       displayed in letters and figures not less than 5 cm high, and permanently
+
+       affixed by means of high performance pressure sensitive vinyl, or reflective sheeting, or
+       lettered with painted enamel, in a conspicuous place on both sides of the vehicle, and
+       who obtains a permit under section 21.6A and displays that permit in accordance with
+       that section, may stop the vehicle in a lane for a period not exceeding 30 minutes while
+       actively engaged in loading or unloading merchandise or other commodities, or
+       passengers.
+
+                                PARKING - LARGE VEHICLES
+
+20.1   An owner, registered owner, lessee or operator of a vehicle which:
+
+       (i)     has a height that exceeds 2.2 metres, or
+
+       (ii)    has an overall length that exceeds 6.4 metres, or
+
+       (iii)   that is designed primarily for the conveyance of passengers and has a seating
+               capacity of more than 9 people
+
+       must not cause, allow or permit that vehicle to park on a street:
+
+       (a)     abutting premises used for business purposes for longer than 3 hours unless the
+               owner, registered owner, lessee or operator of the vehicle owns or leases the
+               premises or is the employee of the owner or lessee of the premises, or
+
+       (b)     between the hours of 10:00 p.m. and 6:00 a.m. of the following day.
+
+20.2   An owner, registered owner, lessee or operator of a vehicle which:
+
+       (i)     has a height that exceeds 2.2 metres, or
+
+       (ii)    has an overall length that exceeds 6.4 metres, or
+
+       (iii)   that is designed primarily for the conveyance of passengers and has a seating
+               capacity of more than 9 people, or
+
+       (iv)    has a licensed gross vehicle weight exceeding 5 500 kg
+
+       must not cause, allow or permit that vehicle to park on a street abutting property used for
+       a public park, school, church or residential purpose for longer than 3 hours between the
+       hours of 6:00 a.m. and 10:00 p.m., unless the vehicle is needed for a service call or the
+       property is a construction site.
+
+20.3   An owner, registered owner, lessee or operator of a trailer or semi-trailer must not cause,
+       allow or permit that vehicle to park on a street without the motive power unit attached in
+       such a manner as to allow the safe transportation of the trailer or semi-trailer in
+       accordance with the standards established in the Motor Vehicle Act.
+
+                      RESTRICTED STOPPING AND PARKING AREAS
+
+21.1   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to stop in a passenger zone except, for no more than three minutes,
+       unless otherwise permitted by a traffic sign, to load or unload passengers.
+
+21.2   Despite section 21.1, the driver of:
+
+       (a)     an armoured vehicle, used to convey cash and other securities, may stop in a
+               passenger zone while picking up or delivering such cash or securities;
+
+       (b)     a commercial vehicle displaying a valid permit obtained under section 21.6 or
+               21.6A may stop in a passenger zone before 12:00 noon on any day, for no more
+               than 30 minutes, while actively engaged in loading or unloading merchandise or
+               other commodities, or passengers; and
+
+       (c)     a custom transit vehicle or a vehicle that displays a disabled person’s parking
+               placard authorized by the city may stop in a passenger zone, for no more than 30
+               minutes, while loading or unloading persons or materials.
+
+21.3   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to stop in a loading zone except, for no more than three minutes, to
+       load or unload passengers, and, for no more than 30 minutes, to load or unload
+       materials.
+
+21.4   Despite section 21.3, the driver of a custom transit vehicle or a vehicle that displays a
+       disabled person’s parking placard authorized by the city may stop in a loading zone, for
+       no more than 30 minutes, while loading or unloading persons or materials.
+
+21.5   An owner, registered owner, lessee or operator of a vehicle must not cause, allow or
+       permit that vehicle to stop in a commercial loading zone except for a commercial vehicle
+       with the name and address of its operator or owner displayed as set out in section 19.2
+       and the permit obtained under section 21.6A and displayed in accordance with that
+       section, which may stop in a commercial loading zone while actively engaged in loading
+       or unloading merchandise or other commodities, or passengers, for a period not
+       exceeding 30 minutes.
+
+21.6   If a person does not display the permanent signage referred to in section 19.2, such
+       person must obtain a permit from the City Engineer for the purposes of sections 19.2,
+       21.5, and 23.1D. The permit will consist of a metal plate and decal that must be kept
+       securely fastened to the front of the vehicle for which it is issued at all times. The annual
+       fee for the permit is $253.10, plus the following, as applicable:
+
+                Gross Vehicle Weight Fee – Except Zero Emission Vehicles
+
+                Up to 5,500 kilograms........................................................$100.00
+                5,500 kilograms and over...................................................$300.00
+
+                Gross Vehicle Weight Fee - Zero Emission Vehicles
+
+                Up to 5,500 kilograms..........................................................$50.00
+                5,500 kilograms and over.....................................................$150.00
+
+       The replacement fee for a lost metal plate is $15.00, and the replacement fee for a lost
+       decal is $8.00.
+
+21.6A If a person displays the permanent signage referred to in section 19.2, such person must
+      obtain a permit from the City Engineer for the purposes of sections 19.2, 21.5, and
+      21.3D. The permit will consist of a decal that must be kept securely fastened to the front
+      of the vehicle for which it is issued at all times. The annual fee for the permit is as
+      follows:
+
+                Gross Vehicle Weight Fee – Except Zero Emission Vehicles
+
+                Up to 5,500 kilograms.......................................................$100.00
+                5,500 kilograms and over..................................................$300.00
+
+                Gross Vehicle Weight Fee - Zero Emission Vehicles
+
+                Up to 5,500 kilograms..........................................................$50.00
+                5,500 kilograms and over.....................................................$150.00
+
+       The replacement fee for a lost decal is $8.00.
+
+21.7   An owner, registered owner, lessee or operator of a vehicle other than a tour bus must
+       not cause, allow or permit that vehicle to stop in a tour bus zone, and a tour bus may
+
+       only stop in a tour bus zone for a maximum duration of 15 minutes, unless otherwise
+       permitted by a traffic sign.
+
+21.7A An owner, registered owner, lessee or operator of a tour bus must not cause, allow or
+      permit that tour bus to stop in the tour bus zone on Canada Place between Burrard
+      Street and Howe Street unless the owner, registered owner, lessee or operator holds a
+      valid Canada Place bus zone permit, in which case the tour bus may stop in the Canada
+      Place tour bus zone for a maximum duration of 15 minutes, unless otherwise permitted
+      by a traffic sign.
+
+21.7B The City Engineer may issue:
+
+       a)     a one-day permit to a tour bus that allows stopping on a day between May 1 and
+              October 15 in the tour bus zone on Canada Place between Burrard Street and
+              Howe Street for a fee of $25; and,
+
+       b)     a seasonal permit to a tour bus that allows stopping on any day between May 1
+              and October 15 in the tour bus zone on Canada Place between Burrard Street
+              and Howe Street for a fee of $2,000.
+
+21.8   (1)    Except for accessible passenger directed vehicles, a transportation network
+              services provider must not cause, allow, or permit any passenger directed
+              vehicles being operated under the license issued to them under the Passenger
+              Transportation Act to stop to pick up or drop off any passengers on any city street
+              within the Metro core between 7:00 a.m. and 10:00 p.m. unless they hold a valid
+              congestion and curbside management permit, in which case the passenger
+              directed vehicles may stop at any place where stopping is permitted within the
+              Metro core between 7:00 a.m. and 10:00 p.m. for the purposes of picking up or
+              dropping off passengers.
+
+       (2)    The City Engineer may issue a congestion and curbside management permit to a
+              transportation network services provider for a fee of $0.25 per pick up or drop off
+              within the Metro core between 7:00 a.m. and 10:00 p.m. for zero-emission
+              vehicles, and $0.50 per pick up or drop off within the Metro core between 7:00
+              a.m. and 10:00 p.m. for all other passenger directed vehicles, payable monthly at
+              the end of each month in a manner satisfactory to the City Engineer.
+
+                                   EVENT PERMIT PARKING
+
+22.1   Where an area of the City has been identified and posted with signs indicating that
+       parking is prohibited during event times, vehicles which display a valid permit authorizing
+       parking in that area, being in the form of either a residential decal or visitor pass, may be
+       parked on streets within the area, provided all other parking restrictions are otherwise
+       complied with.
+
+22.2   Each residence fronting on a street posted as indicated in section 22.1 shall be allotted
+       one resident decal for each vehicle registered to the resident's address and one visitor
+       pass. Where no on-site parking is provided for a residence, an additional visitor pass
+       may be allotted.
+
+22.3   The City Engineer may determine the form of passes, signs and decals, may make
+
+       regulations as to the period for which the permits shall be valid, how they shall be
+       displayed and distributed, and such other miscellaneous regulations as may be required,
+       and may issue other permits which appear appropriate.
+
+22.4   No holder of a resident decal or visitor pass shall sell, assign or otherwise transfer that
+       person's interest in the decal or pass. The bona fide use of a visitor pass shall be
+       deemed not to be a sale, assignment or transfer.
+
+                      RESIDENTIAL AND SHARED VEHICLE PARKING
+
+23.1   If:
+
+       (a)     the City Engineer designates any street or part of a street for the parking only of:
+
+               (i)    vehicles belonging to residents who live in a particular area of the city,
+                      and
+
+               (ii)   shared vehicles,
+
+               or any one or more of such classes of vehicles;
+
+       (b)     the City Engineer identifies any such street or part of a street by posting on it
+               signs indicating a prohibition on parking except for a vehicle that displays a
+               permit authorizing parking in that area; and
+
+       (c)     a person driving a vehicle that displays such a permit complies with all other
+               parking restrictions that apply in that area;
+
+       such a person may park that vehicle on any such street or part of a street.
+
+23.1A Despite section 23.1, a person driving a vehicle that displays a disabled person’s parking
+      placard authorized by the city may park that vehicle on a street or portion of a street
+      referred to in section 23.1 for no more than three hours.
+
+23.1B If:
+
+       (a)     the City Engineer designates any street or part of a street for the reserved
+               parking only of shared vehicles;
+
+       (b)     the City Engineer identifies any such street or part of a street by posting on it
+               signs indicating a prohibition on parking except for a shared vehicle marked as a
+               shared vehicle and bearing the name of the shared vehicle organization that
+               owns it; and
+
+       (c)     a person driving a shared vehicle that displays such a permit complies with all
+               other parking restrictions that apply in that area;
+
+       such a person may park that shared vehicle on any such street or part of a street.
+
+23.1C A person driving a shared vehicle that displays a permit issued under section 23.2 may
+      park that shared vehicle on any such street or part of a street that is restricted to parking
+
+       for residents of a particular area of the City but this By-law does not require those
+       residents to purchase a permit to park there.
+
+23.1D Despite section 23.1, a person driving a commercial vehicle who obtains a permit under
+      section 21.6 or 21.6A and displays that permit in accordance with the section under
+      which it was issued may park that vehicle in areas that are restricted to parking for
+      residents of a particular area of the City for up to 3 hours between the hours of 7:00 a.m.
+      and 6:00 p.m., at a rate of $3.00/hour.
+
+23.2   The City Engineer may;
+
+       (a)    issue any permit required under section 23;
+
+       (b)    determine the form of permit; and
+
+       (c)    impose conditions related to the area and period for which the permit is valid,
+              how the permit shall be displayed and such other safety concerns as may be
+              warranted.
+
+23.3   No holder of a permit issued under section 23 authorizing parking in an area specified in
+       the permit may cause or allow the permit to be:
+
+       (a)    altered, copied, sold, assigned or otherwise transferred;
+
+       (b)    placed on a vehicle other than the vehicle for which the permit was issued; or
+
+       (c)    used or displayed in contravention of the conditions of the permit.
+
+23.3A No person may:
+
+       (a)    possess or display on a vehicle a copy of a permit issued under section 23;
+
+       (b)    display a permit on a vehicle other than the vehicle for which it was issued; or
+
+       (c)    display a permit on a vehicle after the person is no longer eligible to hold the
+              permit.
+
+23.3B No person may provide false information on an application for a permit issued under
+      section 23.
+
+23.3C Any person who provides false information on an application for a permit under section
+      23 may not apply for another permit for a period of 6 months.
+
+23.4   The annual fee for a permit authorizing parking under section 23.1(a)(i) or (ii) is:
+
+       (a)    for parking of each vehicle belonging to an existing West End permit holder or to
+       a long-term West End resident permit holder on streets located in the Denman West,
+       West End Plateau or Davie-Beach areas, as defined in Schedule D to this By-law, up to
+       a maximum of the number of vehicles for which permits were obtained at the time the
+       permit holder became an existing West End permit holder or a long-term West End
+
+       resident                                                           permit                                                holder
+       .........................................................................................................$200.00;
+
+       (b)         for parking of each vehicle belonging to a new permit holder on streets located in
+       the Denman West, West End Plateau or Davie-Beach areas, as defined in Schedule D to
+       this By-law
+       .......................................................................................................$ $474.03;
+
+       (c)         for parking of each vehicle belonging to a resident on streets located in the
+       Robson            North         area,         as        defined          in       Schedule            D    to    this By-law
+       ....................................................................................................... $200.00;
+
+       (d)         for parking of each vehicle belonging to a resident on streets located in the area
+       of the city bounded on the north by 6th Avenue, on the east by Cambie Street, on the
+       south by 19th Avenue from Cambie Street to Oak Street, and by Douglas Crescent,
+       Wolfe Avenue and Marpole Avenue from Oak Street to Granville Street, and on the west
+       by Granville Street, except for the 500 and 600 blocks of West 18th Avenue and West
+       19th Avenue
+       ..........................................................................................................$150.00;
+
+       (e)         for parking of each vehicle belonging to a resident on streets located in
+       all                      other                         areas                         of                 the                city
+       ..................................................................................................$100.00; and
+
+       (f)         for parking of each vehicle belonging to a low income permit holder on streets
+       located in the Denman West, West End Plateau or Davie-Beach areas, as defined in
+       Schedule D to this By-law
+       ....................................................................................................... $200.00
+
+23.5   The annual fee for a permit authorizing parking issued under section 23.2 and additional
+       parking privileges under Parking Meter By-law 2952 for each shared vehicle in all areas
+       of the City is $110.00, except that for zero emission vehicles, the fee will be waived until
+       December 31, 2030.
+
+23.6   The annual fee for a permit authorizing reserved shared vehicle parking under section
+       23.1B for each shared vehicle, payable to the city on May 1, is:
+
+       (a)        Downtown area and Southeast
+                  False Creek as described in the
+                  Parking By-law for non-metered
+                  reserved shared vehicle
+                  parking space                                                                                       $1,772.87
+
+       (b)        Metro Core, except the Downtown
+                  Area and Southeast False Creek for
+                  non-metered reserved shared vehicle
+                  parking space                                                                                       $886.45
+
+       (c)        Remainder of city outside Metro Core
+                  for non-metered reserved shared vehicle
+              parking space                                                       $402.93
+
+       (d)    For reserved shared vehicle parking space that the city would otherwise meter,
+              that sum which is equal to the maximum annual revenue the parking space
+              would have generated if metered during the same calendar year in which the city
+              issues the reserved shared vehicle parking permit, except that in the case of a
+              reserved shared vehicle parking space that the city would otherwise meter to be
+              used exclusively by zero emission vehicles, the annual fee will be held at the
+              following amounts until December 31, 2030 for the first 50 spaces of this type
+              designated prior to December 31, 2030:
+
+              (i)       Downtown area and Southeast False Creek as described in the
+                        Parking By-law                                                      $3000
+
+              (ii)      Metro Core, being the area west of Clark Drive, north of 16th
+                        Avenue, east of Burrard Street, and south of Burrard Inlet,         $1800
+                        except the Downtown Area and Southeast False Creek
+
+              (iii)     Remainder of city outside Metro Core                                $900
+
+23.7   The annual fee for each vehicle set out in each of sections 23.4, 23.5, and 23.6 is
+       exclusive of all sales, goods and services, harmonized, and other taxes imposed from
+       time to time under federal or provincial law.
+
+23.8   The City Engineer may issue:
+
+       (a)    a one-week permit for a vehicle operated by a visitor to an area subject to
+              residential parking permits, other than the West End and Robson North areas as
+              defined in Schedule D to this By-law, for a fee of $16.50;
+
+       (b)    a one-week permit for a vehicle operated by a visitor to the West End and
+              Robson North areas as defined in Schedule D to this By-law, for a fee of $26.37;
+
+       (c)    a daily permit for a vehicle operated by a tradesperson working in an area
+              subject to residential parking permits, for a fee of $7.28.
+
+23.9   A permit holder may return a permit issued under sections 23.4, 23.5, or 23.6 prior to the
+       permit expiry date in a manner satisfactory to the City Engineer, upon which the permit
+       holder shall be given a pro-rated refund of the annual fee paid, calculated daily, less an
+       administrative fee of $6.21.
+
+24.1   Where an area is subject to two or more parking limitations the more restrictive
+       regulation shall apply.
+
+25. to 29. [Reserved]
+
+                           TEMPORARY OCCUPANCY OF A STREET
+
+30.   (1)   A person who wishes to have parking regulations temporarily suspended, or to
+            reserve for temporary occupation any street, portion of a street, or air space
+            above a street for any of the following purposes must apply to the City Engineer
+            for permission to do so:
+
+            (a)    in connection with, or incidental to, the construction, renovation, or
+                   maintenance of any building adjacent to the street;
+
+            (b)    in connection with, or incidental to, the delivery of any equipment, fixtures,
+                   furniture or other items requiring the stopping of a vehicle at a specific
+                   location;
+
+            (c)    in connection with, or incidental to, the drilling or excavation of test holes;
+
+            (d)    in connection with, or incidental to, the construction, installation or
+                   maintenance of infrastructure; and
+
+            (e)    for any other purpose which, in the opinion of the City Engineer, is similar
+                   to the foregoing.
+
+      (2)   A person must not occupy any street, portion of a street, or air space above a
+            street for any of the purposes set out in subsection 30(1) unless permission has
+            been granted by the City Engineer, except that this prohibition does not apply to
+            any occupancies by the City or to any occupancies that result in only momentary
+            interruptions in public use of up to three minutes.
+
+      (3)   The City Engineer may grant permission to occupy a street, portion of a street, or
+            air space above a street in accordance with this section, subject to any
+            conditions the City Engineer considers appropriate, including but not limited to
+            conditions regarding:
+
+            (a)    the number of days that the street may be occupied;
+
+            (b)    the days of the week that the street may be occupied;
+
+            (c)    the start and end times for each day that occupation of the street is
+                   permitted;
+
+            (d)    the placement of signs by the City to reserve the metered parking spaces
+                   or area being occupied, including a requirement to pay to the City the
+                   replacement cost of any signs lost or damaged during the period of
+                   occupancy;
+
+            (e)    the placement of traffic control signs or markers on a street;
+
+            (f)    a traffic management plan or a traffic control plan;
+
+            (g)    reports, plans, specifications, or reviews of any equipment to be used or
+                   work being undertaken on the street as part of the proposed occupancy;
+
+      (h)    proof of commercial general liability insurance, wrap-up liability insurance,
+             or both, to the satisfaction of the Director of Risk Management, naming
+             the City as an additional named insured;
+
+      (i)    a release and indemnity of the City, to the satisfaction of the Director of
+             Legal Services;
+
+      (j)    a deposit with the City of a sum of money as security in a form
+             satisfactory to the City in an amount adequate to guarantee the
+             restoration of the street to its original condition or to repair any City
+             property in case of damage and for any clean up needed as a
+             consequence of the occupancy, including the cost of any inspections
+             required to ensure such work is done to the satisfaction of the City
+             Engineer; and
+
+      (k)    imposing such other conditions as are necessary to prevent damage to
+             the street, to ensure the safety of users of the street, or to respect the
+             owners of adjacent property.
+
+(4)   A person who wishes to obtain permission to occupy a street, portion of a street,
+      or air space above a street in accordance with this section must submit the
+      following:
+
+      (a)    an application in the form prescribed by the City Engineer;
+
+      (b)    any applicable fees as set out in Schedule I; and
+
+      (c)    any additional documentation required by the City Engineer.
+
+(5)   A permit issued under subsection (3):
+
+      (a)    is not transferable;
+
+      (b)    does not authorize the permit holder to require any person lawfully
+             occupying any such location to discontinue their occupancy; and
+
+      (c)    may be temporarily suspended by the City Engineer where its use may
+             conflict with another use of the street.
+
+(6)   The holder of a permit issued under this section must comply with all conditions
+      of the permit, including the terms and conditions of a traffic management plan or
+      a traffic control plan if one is required under the permit.
+
+(7)   The City Engineer may cancel a permit issued under this section immediately,
+      without prior notice, if the holder of the permit fails to comply with any of the
+      conditions of the permit, including the terms and conditions of a traffic
+      management plan or a traffic control plan if one is required under the permit.
+
+                         THROUGH STREETS AND "STOP" SIGNS
+
+31.    The City Engineer Shall Place "Stop" Signs.
+
+       The City Engineer shall place or cause to be placed traffic signs displaying the word
+       "Stop" at through streets.
+
+32.    Stopping at "Stop" Signs.
+
+       The driver of every vehicle shall stop such vehicle immediately before entering any
+       intersection or traversing any level railway crossing where "stop" signs have been
+       placed.
+
+                                     ONE-WAY STREETS
+
+33.    No driver shall operate a vehicle on a one-way street except in the direction indicated by
+       a traffic sign.
+
+34.    The driver of every vehicle being driven on a named street consisting of 2 roadways
+       separated by a boulevard shall keep to the right of such boulevard.
+
+                                            PLAZAS
+
+34A.   (1)    Any street or part of a street identified by heavy black outline in Schedule “G” is a
+              plaza.
+
+       (2)    No person may cause, permit or allow a motor vehicle to enter or remain upon a
+              plaza, unless otherwise authorized under this By-law.
+
+       (3)    No person shall be in or remain in a plaza after 2:00 a.m. and before 6:00 a.m.,
+              except for the purpose of traversing the plaza.
+
+                          FUNERAL AND OTHER PROCESSIONS
+
+35.    (1)    No driver of a vehicle shall drive between the vehicles comprising a funeral or
+              other authorized procession while it is in motion. This provision shall not apply at
+              intersections where traffic is being controlled by traffic-control signals or police
+              officers.
+
+       (2)    Funeral processions shall be identified as such by each vehicle therein having its
+              headlights illuminated.
+
+       (3)    The route taken by any funeral procession consisting of vehicles and persons on
+              foot shall be subject to the written approval of the Chief Constable.
+
+                        EMERGING FROM LANE OR PRIVATE ROAD
+
+36.    The driver of a vehicle emerging from a lane, or from public or private premises shall
+       stop such vehicle immediately prior to driving onto a sidewalk or boulevard or into any
+       lane.
+                               TURNING AT INTERSECTIONS
+
+37.   The driver of a vehicle intending to turn at any intersection shall do so as follows, unless
+      a different method of turning is directed by buttons, markers, or signs, in which event
+      turns shall be made in accordance with the directions of such markers, buttons, or signs.
+
+             Right Turns
+
+             (a)     Both the approach for a right turn and a right turn shall be made as close
+                     as practicable to the right hand curb or edge of the roadway.
+
+             Left Turns
+
+             (a)     The approach for a left turn from a two-way street into a two-way street
+                     shall be made in that portion of the right half of the roadway nearest the
+                     centre line thereof, and the turn shall be completed by the driver keeping
+                     the vehicle to the right of the point of intersection of the centre line of the
+                     street left with its crosswalk, and the point of intersection of the centre line
+                     of the street entered with its crosswalk.
+
+             (b)     The approach for a left from a one-way street shall into a two-way street
+                     shall be made by proceeding on the left side of such one-way street as
+                     close as practicable to the left curb, and when entering the two-way street
+                     the driver shall keep the vehicle to the right of the point of intersection of
+                     the centre line of such two-way street with its crosswalk.
+
+             (c)     The approach for a left turn from a two-way street into a one-way street
+                     shall be made in that portion of the right half of the roadway nearest the
+                     centre line thereof and the turn shall be completed by the driver keeping
+                     the vehicle to the right of the point of intersection of the centre line of such
+                     two-way street with its crosswalk.
+
+             (d)     The approach for a left turn from a one-way street into a one-way street
+                     may be made from the left side of such street and the entry may be made
+                     into the left side of the other one-way street, but the driver, in making the
+                     turn, shall keep the vehicle as close as practicable to the left curbs of both
+                     streets.
+
+                      LIMITATIONS ON "U" OR REVERSE TURNING
+
+38.   (1)    No driver of any vehicle shall turn such vehicle so as to proceed in the opposite
+             direction:
+
+             (a)     On any through street.
+
+             (b)     Within an intersection at any corner of which a "Stop" sign has been
+                     placed, or where a traffic-control signal has been installed.
+
+              (c)    At any other intersection unless such movement can be made in safety,
+                     without backing, and without interfering with other traffic.
+
+              (d)    On any street between intersecting streets.
+
+              (e)    At any lane intersection.
+
+       (2)    The provisions of this section shall not apply to the driver of any bus at a
+              terminus of any route, or at any other location approved by the Council, but such
+              driver in making any "U" turn shall first ascertain whether such movement can be
+              made in safety.
+
+                                 LIMITATIONS ON BACKING
+
+39.    The driver of a vehicle shall not back the same into an intersection or over a crosswalk
+       and shall not in any event or at any place back a vehicle unless such movement can be
+       made in safety.
+
+39A.   No person shall, unless first approved by the City Engineer, drive a vehicle in reverse to
+       enter or leave a roadway except where such action will not obstruct the orderly flow of
+       traffic on the street.
+
+                             CONTROL OF VEHICLE IN MOTION
+
+40.    Every driver or other person in charge of any vehicle conveying goods, wares, or
+       merchandise in or through any of the streets of the City shall remain upon such vehicle,
+       or walk beside the horse or animal drawing the same, so as at all times to control the
+       same while such vehicle is in motion.
+
+                        OPERATION OF HORSE-DRAWN VEHICLES
+
+40A.   No person shall drive or otherwise operate a carriage or other vehicle drawn by a horse
+       anywhere in the City outside of the area zoned RA-1 pursuant to the Zoning and
+       Development By-law unless the person is licensed to operate a Horse-Drawn Carriage
+       pursuant to the Vehicles for Hire By-law or has the written permission of the City
+       Engineer.
+
+                              OPERATION OF QUADRICYCLES
+
+40B.   (1)    No person shall operate a quadricycle on City streets without first obtaining
+              the approval of the City Engineer in writing for the route that the quadricycle will
+              take.
+
+       (2)    The City Engineer may temporarily or permanently modify an approved route at
+              any time if, in the City Engineer’s opinion, it is advisable to do so.
+
+       (3)    The City Engineer may charge a route review fee of $69.40 for their review of the
+              route being proposed.
+
+                    DRIVER MUST HAVE HAND ON STEERING DEVICE
+41.   No person shall drive a vehicle without having at least one hand on the steering device,
+      and no person shall operate a bicycle without having at least one hand on the handle
+      bars.
+
+                             TURN AT INTERSECTIONS ONLY
+
+42.   No driver of a vehicle shall drive such vehicle from one side of a street to the other at
+      any place other than at an intersection or street end, unless such driver shall have first
+      ascertained that such movement can be made without obstructing traffic and can be
+      made in safety having regard to the nature, condition, and use of the roadway, and the
+      traffic which actually is at the time or might reasonably be expected to be on the
+      highway.
+
+                       DRIVING ON STREETS LINED FOR TRAFFIC
+
+43.   The City Engineer is hereby authorized to mark distinguishing single or double lines on
+      any street, which lines may or may not be in the middle of the travelled portion of the
+      street.
+
+      (1)    Double Lines. Where an unbroken double line is marked on the centre or any
+             other portion of the street, no driver of a vehicle shall permit any portion of the
+             vehicle to cross such line.
+
+      (2)    Single Line. Upon any portion of a street marked with a distinguishing single line
+             (whether broken or continuous) a driver of a vehicle while proceeding on such
+             street shall keep the vehicle to the right of such single line so marked, except
+             when turning or when passing an overtaken vehicle.
+
+      (3)    Barrier Line. No driver of a vehicle shall permit any portion of the vehicle to cross
+             a barrier line when proceeding in the direction of traffic on that side of the street
+             contiguous to the continuous line.
+
+      (4)    Traffic Lanes. Driving Within. Where a portion of a street is marked with traffic
+             lanes, the driver of a vehicle shall, as nearly as possible, keep the vehicle entirely
+             within a single lane and shall not move the vehicle from that lane until
+             ascertaining that the movement can be made in safety. Where traffic signs have
+             been placed allocating specified lanes to traffic moving in the same direction,
+             every driver shall obey the direction of every such sign.
+
+      (5)    Traffic Lanes. Passing on the Right. Whenever a roadway has been divided into
+             2 or more marked lanes for traffic moving in the same direction, a driver while
+             proceeding in any of such lanes, may overtake, and allowing sufficient clearance,
+             pass on the right side of another vehicle proceeding in the same direction.
+
+      (6)    Weaving. No driver shall drive a vehicle so that it weaves in and out of traffic in
+             such a manner as to cause unreasonable interference with the movement of
+             other vehicles.
+
+44.    Where traffic signs are located, established or maintained on any street indicating that
+       the rate of speed of all vehicles is regulated or fixed on any such street in any zone,
+       place or area indicated by the location of such signs, no person shall drive such a
+       vehicle at a greater rate of speed than that shown on the sign, provided however, that
+       wherever such signs are displayed indicating that the zone, place or area is in the
+       vicinity of a school, such restriction of speed shall be applicable all times of the day
+       every day of the year; and whenever such signs are displayed indicating that the zone,
+       place or area is in the vicinity of a playground, such restriction of speed shall be
+       applicable all times of the day every day of the year. For the purpose of this section
+       where signs are displayed indicating the zone, place or area is in the vicinity of a school
+       and or playground, where times of day are prominently displayed on any sign with
+       numerals, the maximum speed allowed in the zone shall be that number of kilometres
+       per hour indicated by such numerals and applicable all times of the day every day of the
+       year. For the purpose of this section where numerals alone, are prominently displayed
+       on any sign, the maximum speed allowed in the zone shall be that number of kilometres
+       per hour indicated by such numerals.
+
+45.    No person shall drive any motor vehicle upon or along any lane at a rate of speed in
+       excess of 20 kilometres per hour.
+
+                            STOP WHEN TRAFFIC OBSTRUCTED
+
+46.    No driver of a vehicle shall enter an intersection or a marked crosswalk unless there is
+       sufficient space on the other side of the intersection or crosswalk to accommodate the
+       vehicle without obstructing the passage of other vehicles or pedestrians, notwithstanding
+       any traffic-control signal indication to proceed.
+
+                    SPEED LIMITS ON MINOR STREETS AND OTHER ROADS
+
+47.    No person shall operate a vehicle on a minor street at a speed greater than 30
+       kilometres per hour.
+
+47A.   Despite any other provision of this By-law, no person shall operate a vehicle on any
+       street or part of a street named in the table below at a speed greater than the speed
+       indicated in Column A:
+
+        Corridor                                                        Column A
+
+        East 29th Avenue (Slocan Street to Atlin Street)                  30 km/h
+
+        Yukon Street (West 5th Avenue. to West 12th Avenue)               30 km/h
+
+        Keefer Street (Taylor Street to Carral Street)                    30 km/h
+
+        Victoria Drive (Kitchener Street to Grant Street)                 30 km/h
+
+        Victoria Dr (East 3rd Avenue to East 6th Avenue)                  30 km/h
+
+        Victoria Dr (East 13th Avenue to East 19th Avenue)                30 km/h
+Corridor                                                  Column A
+
+Prior Street (Hawks Avenue to Raymur Avenue)              30 km/h
+
+East Hastings Street and West Hastings Street (Abbott     30 km/h
+Street to Jackson Street)
+
+Beach Avenue (Park Lane to Burrard Street)                30 km/h
+
+Southwest Marine Drive (West 70th Ave to Granville
+Street)                                                   30 km/h
+
+Anderson Street (Lamey's Mill Rd/West 2nd Avenue to
+Granville Island)                                         30 km/h
+
+Champlain Crescent (Matheson Crescent to East 54th
+Avenue)                                                   30 km/h
+
+East 16th Avenue (Midblock 200 East 16th Avenue to        30 km/h
+Sophia Street - Tea Swamp Park)
+Arbutus Street (West 7th Avenue to West 8th Avenue)       30 km/h
+
+West Hastings (Broughton Street to Jervis Street)         30 km/h
+
+Champlain Crescent (Three Cedars Drive to Langford        30 km/h
+Avenue)
+
+Blenheim Street (West 41st Avenue to West 43rd Avenue)    30 km/h
+
+Victoria Drive (East 3rd Avenue to East 4th Avenue)       30 km/h
+
+Elliot Street (East 46th Avenue to Waverley Avenue)       30 km/h
+
+West 57th Avenue (Laurel Street to Heather Street)        30 km/h
+
+East 54th Avenue (Doman Street to Tyne Street)            30 km/h
+
+Argyle Street (East 60th Avenue to East 61st Avenue)      30 km/h
+
+Elliot Street (East 51st Avenue to East 54th Avenue)      30 km/h
+
+East 54th Avenue (Clarendon Street to Elliot Street)      30 km/h
+
+Victoria Drive (Adanac Street to Venables Street)         30 km/h
+
+400 Victoria Drive (East Hastings Street to East Pender   30 km/h
+Street)
+
+West 33rd Avenue (Oak Street to Willow Street)            30 km/h
+Corridor                                                  Column A
+
+East Boulevard (West 37th to West 41st Ave)               30 km/h
+
+Grandview Hwy N (Mclean Drive to Woodland Drive)          30 km/h
+
+Slocan Street (Ward Street to Euclid Street)              30 km/h
+
+West 16th Avenue (Ontario Street to Columbia Street)      30 km/h
+
+West King Edward Avenue (Crown Street to Wallace          30 km/h
+Street)
+
+Cornwall Street (Cypress Street to Trafalgar Street)      40 km/h
+
+Commercial Drive (East 14th Avenue to East 15th Avenue)   40 km/h
+
+Rupert Street (East 44th Avenue to East 45th Avenue)      40 km/h
+
+West 49th Avenue (Ash Street to Tisdall Street)           40 km/h
+
+Cornwall Avenue (Cypress Street to Trafalgar Street)      40 km/h
+
+Expo Boulevard (Carrall Street to Abbott Street)          40 km/h
+
+East 12th Avenue (Guelph Street to St. George Street)     40 km/h
+
+Rupert Street (East 22nd Avenue to Anzio Drive)           40 km/h
+
+East 22nd Avenue (Cassiar Street to Rupert Street)        40 km/h
+
+Renfrew Street (East 17th Avenue to East 19th Avenue)     40 km/h
+
+West 4th Avenue (Trimble Street to Wallace Street)        40 km/h
+
+West King Edward Avenue (Granville Street to Marguerite   40 km/h
+Street)
+
+West King Edward Avenue (Collingwood Street to            40 km/h
+Blenheim Street)
+
+Rupert Street (Price Street to Wellington Street)         40 km/h
+
+Great Northen Way (Brunswick Street to Carolina Street)   40 km/h
+
+West 16th Avenue (Balaclava Street to Mackenzie Street)   40 km/h
+
+Joyce Street (Crowley Street to Euclid Street)            40 km/h
+
+       Corridor                                                       Column A
+
+       West 16th Avenue (Wallace Street to Discovery Street)            40 km/h
+
+       West King Edward Avenue (Oak Street to Laurel Street)            40 km/h
+
+       Beatty Street (Robson Street to West Georgia Street)             40 km/h
+
+       East 49th Avenue (Lanark Street to Knight Street)                40 km/h
+
+       Victoria Drive (Newport Avenue to Brigadoon Avenue)              40 km/h
+
+       Burrard Street (West Broadway to West 10th Avenue)               40 km/h
+
+       Nelson Street (Burrard Street to Hornby Street)                  40 km/h
+
+       Hornby Street (Smithe Street to Nelson Street)                   40 km/h
+
+       Hornby Street (Pacific Street to Drake Street)                   40 km/h
+
+       East 49th Avenue (Lancaster Street to Killarney Street)          40 km/h
+
+       West 49th Avenue (Laburnum Street to Maple Street)               40 km/h
+
+       Renfrew Street (Venables Street to Parker Street)                40 km/h
+
+       West 12th Avenue (Trafalgar Street to Larch Street)              40 km/h
+
+       N Renfrew Street (Oxford Street to Dundas Street)                40 km/h
+
+       East 12th Avenue (Quebec Street to Main Street)                  40 km/h
+
+       Main Street (East 32nd Avenue to East 33rd Avenue)               40 km/h
+
+       East King Edward Avenue (St. George Street to Carolina           40 km/h
+       Street)
+
+       Denman Street (Haro Street to Barclay Street)                    40 km/h
+
+       Fraser Street (East 39th Avenue to East 45th Avenue)             40 km/h
+
+            VEHICLES FOR HIRE - STOPPING IN DESIGNATED STANDS ONLY
+
+48.   (1)    No driver of a vehicle kept, used, or operated for hire, when such vehicle is not
+             engaged and is waiting to be hired, shall stop such vehicle upon any street at any
+             place other than a stand designated and allotted as and for the particular class of
+             vehicle for hire indicated by traffic signs; provided, however, that nothing herein
+             contained shall be deemed to prevent the driver of a taxi cab from stopping in
+             any other place for the purpose of taking on or discharging passengers or goods
+            or from parking at any curb where there are no parking prohibitions or
+            restrictions.
+
+      (2)   Any such driver when arriving at any such stand not already fully occupied by the
+            designated number of vehicles to be accommodated on such stand, shall stand
+            such vehicle in the rear of the other vehicle or vehicles already occupying such
+            stand.
+
+      (3)   When a vehicle shall be called or driven off any such stand, the drivers of each of
+            the other vehicles stationed on such stand in the rear of the vehicle so called or
+            driven off shall cause their respective vehicles to be moved forward so that every
+            vehicle shall in succession fill the place when shall be been previously occupied
+            immediately in advance of such vehicle by the vehicle moved forward in
+            accordance with the provisions of this by-law.
+
+                    EMERGENCY AND PUBLIC UTILITY VEHICLES
+
+49.   (1)   Exemption to Emergency Vehicles.
+
+            The provisions of this by-law regulating the operation, movement, stopping and
+            parking of vehicles shall not apply to any emergency vehicle while it is
+            responding to an emergency call and sounding its siren, exhaust whistle or bell,
+            or while attending any emergency call, but this exemption shall not excuse the
+            driver of any such vehicle from exercising due and proper care for the safety of
+            other traffic.
+
+      (2)   Exemptions to Public Utility Vehicles.
+
+            The provisions of this by-law prohibiting stopping or parking shall not apply to:
+
+            (a)    Municipal or provincial utility vehicles;
+
+            (b)    Vehicles of a public utility corporation;
+
+            (c)    Wrecking vehicles;
+
+            while such vehicles are actually engaged in works of necessity requiring them to
+            be stopped or parked in contravention of any of such provisions.
+
+            This exemption shall not relieve the drivers of such vehicles from taking due
+            precaution to indicate the presence of such vehicle on the street while so parked
+            or stopped.
+
+      (3)   Exemption to Other Vehicles.
+
+            The Council may by resolution exempt any class of vehicles from such provisions
+            of this by-law relating to parking and stopping as the Council may deem fit and
+            under such conditions as the Council may impose, and may provide for the
+            identification of such vehicles so exempted.
+
+             No person shall display on any vehicle any identification card or sticker
+             purporting to provide for such exemption unless such card or sticker has been
+             duly authorized and bears the signature of the Chief Constable or the City
+             Engineer.
+
+50.   Duty of Drivers on Approach of Ambulances and Other Emergency Vehicles.
+
+      Upon the approach of any emergency vehicle when the driver thereof or any other
+      person therein or thereon is giving audible signals by siren, exhaust whistle or bell or on
+      the sounding of any siren or bell placed on any street for the purpose of giving warning
+      of the approach of any emergency vehicle the driver of every other vehicle, unless
+      otherwise directed by a police officer, shall immediately drive to a position parallel and as
+      close as possible to the right hand curb or edge of the roadway, clear of any intersection,
+      and shall stop and remain in such position until such emergency vehicle has passed.
+
+51.   Emergency Vehicles to Sound Siren.
+
+      The driver of every emergency vehicle while responding to an emergency call shall
+      sound or cause to be sounded continuously a siren, horn, exhaust whistle, or bell
+      attached to such vehicle.
+
+                       WARNING BELLS OR SIGNALS ON BRIDGES
+
+52.   Every person operating any vehicle or driving any animal along any bridge where
+      warning bells, signals, gates, or barriers are installed shall immediately on the ringing of
+      such bells or the operating of such signals, come to a full stop clear of any such gates or
+      barriers, and shall remain stationary until such gates or barriers shall have been
+      removed and traffic shall have been permitted to again proceed.
+
+                            REGULATING SIRENS AND HORNS
+
+53.   Other Sirens Prohibited.
+
+      Except as provided in section 51 no person shall use any siren, horn or exhaust whistle,
+      on any vehicle in any street.
+54.   Horn for Warning Only.
+
+      No person shall sound the horn of a vehicle except when necessary to warn a person or
+      animal of danger.
+
+55.   [Deleted]
+
+                       FOLLOWING FIRE APPARATUS PROHIBITED
+
+56.   No driver of any vehicle other than a vehicle of the Fire or Police Department or an
+      ambulance shall follow closer than a city block any fire apparatus travelling in response
+      to a fire alarm, or to drive into or stop any vehicle within the block where fire apparatus
+      has stopped in answer to a fire alarm.
+
+                                    CROSSING FIRE HOSE
+
+57.    No driver of a vehicle shall drive such vehicle on, over, or across any fire hose laid on
+       any street or private road, unless directed so to do by the person in charge of such hose
+       or a police officer.
+
+                               TRAFFIC IN VICINITY OF A FIRE
+
+58.    Any officer or member of the Fire Department may, while in the course of duty in or
+       about any fire, or in order to expedite traffic and safeguard pedestrians, direct traffic on
+       any street in the vicinity of any fire. No person shall fail to comply with the direction of
+       any such officer or member of such Fire Department.
+
+                                  SLOW MOVING VEHICLES
+
+59.    The driver of every slow moving vehicle shall drive such vehicle as close as possible to
+       the right hand edge or curb of any street unless it is impracticable to travel on such side.
+       For the purposes of this section, bicycles, pedicabs, and quadricycles shall be regarded
+       at all times as slow moving vehicles.
+
+59A.   A person may drive or operate a neighbourhood zero emission vehicle only:
+
+       (a)    on a street that has a speed limit of 50 kilometres per hour or less; and
+
+       (b)    in the lane on the street that is closest to the right hand edge or curb of the
+              street, except when a left hand turn is necessary or when passing another
+              vehicle.
+
+                                           BICYCLES
+
+60.    No person shall ride any bicycle upon any sidewalk except where posted by signs.
+
+60A.   No person shall ride a bicycle upon a street while wearing headphones, or any other
+       manufactured device capable of transmitting sound, over or in close proximity to both
+       ears, except that this prohibition shall not apply to the wearing of a device designed and
+       worn for the purpose of improving the wearer's ability to hear sounds emanating from
+       outside of the device.
+
+60B.   No person shall ride a bicycle upon a street unless the bicycle is equipped with a bell
+       capable of being used as a warning.
+
+60C.   The various paths and ways shown and described by either a thick black solid line or a
+       thick black dashed line on the plans attached to this By-law as Schedule C are, pursuant
+       to Section 124(1) of the Motor Vehicle Act, hereby designated for the purposes of
+       sections 60D and 60E.
+
+60D.   No person shall operate or ride as a passenger on a bicycle on any path or way shown
+       on Schedule C unless the person is properly wearing a bicycle safety helmet that has
+       been designated under or complies with the standards and specifications of the Motor
+       Vehicle Act.
+
+60E.   No parent or guardian of a person under the age of 16 years shall authorize or knowingly
+       permit the person to operate or ride as a passenger on a bicycle on any path or way
+       shown on Schedule C unless the person is properly wearing a bicycle safety helmet that
+       has been designated under or complies with the standards and specifications of the
+       Motor Vehicle Act.
+
+60F.   A police officer may arrest without warrant any bicyclist whom the officer finds
+       committing a breach of any provision of this by-law if such person fails to stop and state
+       his or her proper name and address when so requested by the police officer.
+
+60G.   No person shall ride a bicycle, skateboard, electric kick scooter or push scooter, or use
+       non-motorized skates in a marked crosswalk, unless it is also marked by elephants’ feet
+       markings on one or both sides of the crosswalk, or it is otherwise signed to permit
+       cycling.
+
+60H.   Subject to the provisions of section 60I, a person may ride a bicycle, skateboard,
+       electric kick scooter or push scooter, or use non-motorized skates in an unmarked
+       crosswalk.
+
+60I.   A person riding a bicycle, skateboard, electric kick scooter or push scooter, or using
+       non-motorized skates in, through or out of a marked or unmarked crosswalk, must yield
+       the right of way to pedestrians who are entering into, walking in or walking out of the
+       crosswalk. For the purposes of this section, a marked crosswalk includes the area of the
+       crosswalk delineated by elephants’ feet markings.
+
+                            PASSENGERS IN MOTOR VEHICLES
+
+61.    No person shall drive a motor vehicle with more than 3 persons in the front seat,
+       including the driver.
+
+62.    No driver of a vehicle primarily intended for carrying passengers shall extend any part of
+       his or her body, or permit any part of a passenger's body, to extend outside the vehicle,
+       except that the driver may extend a hand to indicate an intention to turn, slow down,
+       stop, or pull out from a curb.
+
+63.    No person while riding in or on any vehicle shall do any act which will interfere with the
+       driver's proper control of such vehicle.
+
+             ADDITIONAL TRAFFIC REGULATIONS RESPECTING PUBLIC PARKS
+
+63A.   No person shall:
+
+       (1)     Ride or drive any horse or other animal or drive or propel any vehicle in any
+               public park except on the bridle paths or roadways provided therein for such
+               purpose; provided however, that wheel chairs and children's carriages may be
+               used on sidewalks where such use will not obstruct the free passage of
+             pedestrians.
+
+      (2)    Ride or drive a horse or other animal, or drive any vehicle in any public park
+             without reasonable consideration of other persons using the public park.
+
+      (3)    Drive any vehicle in any public park in such a manner as would disturb the
+             enjoyment thereof by others, or might cause injury or damage to other persons,
+             animals or property.
+
+      (4)    Drive any vehicle in any public park (except as provided in section 44) at a
+             greater speed than 40 kilometres per hour or such lesser speed as may be
+             directed by traffic signs.
+
+      (5)    Ride or drive any horse or other animal on any roadway in any public park where
+             the direction of traffic is restricted, except in the direction indicated by traffic
+             signs.
+
+      (6)    Drive any vehicle having a gross weight with load of more than 15 tonnes in any
+             public park or deposit or remove any material in or from any public park without
+             the written permission of the Park Board or its General Manager.
+
+      (7)    Operate any vehicle for hire within any public park which takes on or discharges
+             passengers without the written consent of the Park Board.
+
+      (8)    Park any vehicle on any roadway in any public park for a longer period that 15
+             minutes after 6:00 p.m. during the months of November, December and January;
+             after the hour of 8:00 p.m. during the months of February, March, April and
+             October and after the hour of 10:00 p.m. during the months of May, June, July,
+             August and September.
+
+      (9)    Drive over, stop or park any vehicle on any flower bed, or on any grass area in
+             any public park except when directed by a Park Board attendant.
+
+      (10)   Park or stop a vehicle on either a street or any other area within a park that is
+             indicated by signs as reserved for or restricted to service vehicles only unless
+             such vehicle is a service vehicle as defined by this by-law.
+
+                                     TRAFFIC NOTICES
+
+64.   No person other than the owner or operator of a vehicle, an employee or contractor of
+      the City of Vancouver providing towing or parking related services, or a police officer
+      shall remove any notice placed on a vehicle or affixed thereto by an employee of the City
+      of Vancouver or a police officer in the course of their duties in checking violations of this
+      by-law.
+
+65.   Once any notice has been placed on or affixed to a vehicle by an employee of the City of
+      Vancouver or by a police officer in the course of their duties in checking violations of this
+      by-law, it shall be unlawful for any person to alter such notice in such a manner that it
+      may be used or acted upon by any person as if it were genuine.
+                              EMERGENCY SNOW CLEARING
+
+65A   (1)     Where the City Engineer is of the opinion that snow conditions require special
+              clearing operations, the City Engineer may declare a period during which certain
+              sections of this by-law will, to facilitate emergency clearing operations, be
+              temporarily superseded by the provisions of subsection (2) provided that:
+
+              (a)    the declaration includes the commencement and termination time and
+                     date for the period of emergency clearing; and
+
+              (b)    notification of the period is given by way of public advertisement.
+
+      (2)     During the time set by the City Engineer pursuant to subsection (1) the following
+              provisions shall apply and shall, in the case of a conflict with any other section of
+              this by-law, prevail:
+
+              (a)    No person shall park a vehicle or allow the same to remain parked on a
+                     transit route or a one-way street in the Downtown.
+
+              (b)    No person shall stop or park a vehicle or allow the same to remain
+                     stopped or parked on any portion of any street where signs are placed by
+                     direction of the City Engineer indicating that snow clearing operations are
+                     in progress.
 
                                             PART II
 
@@ -1392,7 +3076,437 @@ emission vehicles.
              street use permit holder must pay a further fee of $97.32 on demand for each
              inspection of each site.
 
-[Part III (Regulating Size and Weight of Vehicles) and ss. 99-101 omitted]
+                                           PART III
+
+                REGULATING THE SIZE, WEIGHT AND USE OF VEHICLES
+                      DIMENSIONS OF VEHICLES AND LOADS
+
+89.    (1)   Subject to the provisions of section 94, no person shall drive or operate on any
+             City street:
+
+             (a)     a vehicle having a total outside width, unladen or with load, in excess of
+                     2.6 metres;
+
+             (b)     a vehicle having a height unladen or with load in excess of 3.81 metres;
+                     provided, however, that any vehicle unladen or with load not exceeding
+                     4.15 metres in height may travel on any truck route;
+
+             (c)     a single vehicle having a length inclusive of front and rear bumpers and
+                     load in excess of 12.5 metres;
+
+             (d)     a combination of vehicles having a length, inclusive of front and rear
+                     bumpers and load, in excess of 23.5 metres, except as provided in
+                     subsection (e);
+
+             (e)     an A Train or C train having an overall length, with or without load, in
+                     excess of 26.0m; or
+
+             (f)     a B train having an overall length, with or without load, in excess of
+                     27.5m.
+
+                           PROHIBITION ON USE OF VEHICLES
+
+89A.   (1)   No person shall drive, operate, or propel:
+
+             (a)     on any City street or other public place, any internal combustion motor
+                     vehicle, including any internal combustion motorized push-scooter or
+                     skateboard, except for internal combustion motor vehicles that the Motor
+                     Vehicle Act permits to operate on streets; or
+
+             (b)     despite section 63A.(1), any motor vehicle on any path adjacent to a
+                   seawall or on any seawall, except for a motorized wheelchair, a motor
+                   assisted cycle or an electric kick scooter.
+
+      (2)   Use of any motor vehicle in contravention of section 89A(1) may result in its
+            impoundment under the Impounding By-law.
+
+                         PROHIBITION ON DRIVING OR LOADING
+                            VEHICLE WITH EXCESS WEIGHT
+
+90.   (1)   A person must not:
+
+            (a)    drive a vehicle on a street;
+
+            (b)    suffer or allow or require another person to drive a vehicle on a street;
+
+            (c)    load a vehicle to drive on a street; or
+
+            (d)    suffer or allow or require another person to load a vehicle to drive on a
+                   street;
+
+            unless such person complies with subsection (2) or with section 94.
+
+      (2)   With respect to a vehicle referred to in subsection (1):
+
+            (a)    the gross weight on any axle must not exceed 9,100 kilograms unless
+                   subsection 2(b) applies;
+
+            (b)    the gross weight on any axle to be driven on any transit route as part of
+                   the street passenger transportation system must not exceed 10,000
+                   kilograms;
+
+            (c)    the gross weight of any axle combination must comply with the
+                   requirements stipulated in Appendices “A” to “K” of the Commercial
+                   Transport Regulations as adopted under the Commercial Transport Act
+                   and in effect (date of enactment), and the vehicles subject to the
+                   requirements of Appendices “B”, “E”, “F”, “H” and “I” must also comply
+                   with Schedule “A” to this By-law;
+
+            (d)    the gross weight on any wheel must not exceed 100 kilograms per
+                   centimetre of width of pneumatic tire;
+
+            (e)    the gross weight on any wheel must not exceed 100 kilograms per
+                   centimetre of width of metal or solid rubber tire;
+
+            (f)    the gross weight on any wheel to be driven on any transit route as part of
+                   the street passenger transportation system must not exceed 110
+                   kilograms per centimetre of width of pneumatic, metal, or solid rubber tire;
+
+              (g)    the gross vehicle weight must not exceed the combined maximum legal
+                     weight of all the axles or axle units on a vehicle or combination of
+                     vehicles; and
+
+              (h)    the gross vehicle weight must not exceed the licensed vehicle weight of
+                     the vehicle.
+
+       (3)    In measuring the distance between the centres of any group of axles where the
+              distance is found to be equal to a number in Schedule A, plus exactly 15
+              centimetres, the next highest number shall be used.
+
+       (4)    Nothing contained in this section regarding the weights of vehicles shall relieve
+              the driver or operator of any vehicle from complying with the load limits
+              applicable to or posted on any bridge or elevated structure.
+
+                                       TRUCK ROUTES
+
+90A.   Downtown, but not including the area:
+
+              (a)    bounded by Burrard Street, Nelson Street, Cambie Street, and False
+                     Creek;
+
+              (b)    bounded by Georgia Street, Cardero Street, Pender Street, Burrard
+                     Street, and Burrard Inlet;
+
+              (c)    west of Cardero Street;
+
+              (d)    bounded by Nelson Street, Pacific Boulevard, Quebec Street, and False
+                     Creek; or
+
+              (e)    bounded by Prior Street, Main Street, National Avenue, and Quebec
+                     Street;
+
+       between the hours of 7:00 a.m. and 6:00 p.m., a combination of vehicles over 15.25
+       metres in length may only travel on a designated “Truck Route” as set out in Schedule B.
+
+90B.   Areas Outside the Area Described in Section 90A: A vehicle or combination of vehicles
+       having a gross vehicle weight rating or licensed gross vehicle weight in excess of 11,800
+       kilograms may only travel on designated Truck Routes, as set out in Schedule B of this
+       By-law, and on any other street being the most direct route between a truck route and
+       points of origin or destination. This section 90B shall not apply to transit vehicles when
+       on approved transit routes.
+
+90C.   A person must not drive a vehicle or combination of vehicles, having a gross vehicle
+       weight or licensed gross vehicle weight in excess of 27,000 kilograms, over the Granville
+       Street Bridge.
+
+                           TYPES OF VEHICLES AND TIRES
+
+91.   (1)   Subject to the provisions of section 94 no person shall drive or operate on any
+            City street:
+
+            (a)    [Deleted]
+
+            (b)    a vehicle other than a horse-drawn vehicle the wheels of which are not
+                   equipped with rubber tires in good order. This clause shall not apply to
+                   vehicles used in connection with construction work when drawn by
+                   another vehicle;
+
+            (c)    a vehicle equipped with solid rubber tires, the thickness of which between
+                   the rim of the wheel and the surface of the highway is less than 32
+                   millimetres;
+
+            (d)    a vehicle having wheels, tires or tracks constructed or equipped with
+                   projected spikes, cleats, ribs, clamps, flanges, lugs, studs, or other
+                   attachments or projections which extend beyond the tread or traction
+                   surface of the wheel, tread or track; provided however, that nothing in this
+                   clause is intended to prohibit the use of snow chains during the period
+                   from October 1st to April 30th; and provided further that nothing in this
+                   clause is intended to prohibit the use at any time between October 1st
+                   and April 30th, of studs that do not protrude more than 3 millimetres from
+                   the tread or traction surface of a tire if,
+
+                   (i)    there is not more than a total of 130 studs in the tire if it is a tire for
+                          a motor vehicle having a gross vehicle weight of not more than
+                          4,500 kilograms, or 175 studs in the tire if it is a tire for a motor
+                          vehicle having a greater gross vehicle weight; and
+
+                   (ii)   no studs are used in a tire on the front wheel of a motor vehicle
+                          unless each rear wheel has at least one studded tire.
+
+                   Whenever the Minister of Highways suspends the application of section
+                   19.03 of the Motor Vehicle Act Regulations dealing with the use of tire
+                   studs, the City Engineer is hereby authorized to suspend the use of tire
+                   studs as authorized by this subsection, with respect to any particular
+                   vehicles or class of vehicle, for a similar period of time and shall, upon
+                   taking such action cause notice thereof to be publicly advertised;
+
+            (e)    a straddle truck unless such vehicle conforms to all provincial and City
+                   laws and complies with the following conditions:
+
+                   (i)    the length of load carried shall not exceed 8.6 metres;
+
+                   (ii)   the load carried shall not extend more than 185 centimetres in
+                          front of the vehicle;
+
+                   (iii)   wheels and chains shall be equipped with guards approved by the
+                           Superintendent of the Motor Vehicle Inspection Station for the
+                           City;
+
+                   (iv)    the straddle truck shall be equipped with a single device approved
+                           pursuant to the regulations under the Motor Vehicle Act and
+                           mounted on the vehicle at a height not exceeding 127 centimetres
+                           from the ground and in a manner satisfactory to the
+                           Superintendent of the Motor Vehicle Inspection Station for the
+                           City;
+
+                   (v)     the straddle truck is so designed that the driver has a clear view of
+                           the roadway at and beyond a point 9 metres in front of the vehicle
+                           measured from the foremost portion of the front of the vehicle;
+
+            (f)    a vehicle equipped with a boom, crane or similar projection extending:
+
+                   (i)     a distance greater than 1 metre beyond the foremost portion of the
+                           vehicle when the projection is less than 3 metres above the
+                           ground;
+
+                   (ii)    a distance greater than 3.7 metres beyond the foremost portion of
+                           the vehicle when the projection is more than 3 metres above the
+                           ground; provided however, that such boom or crane projection
+                           shall not be more than 4.3 metres above the ground; and provided
+                           further that a vehicle equipped with such a boom or crane
+                           projection shall not be driven at a greater rate of speed than 30
+                           kilometres per hour;
+
+            (g)    a vehicle with a boom crane or similar projection unless such projection is
+                   equipped with lights that light up the forward end of such projection so
+                   that it may be clearly seen from both the front and side of such vehicle.
+                   Such lights shall be lighted at all times in accordance with regulations
+                   pursuant to the Motor Vehicle Act regarding headlights.
+
+                                         SPEEDS
+
+92.   (1)   No person shall drive or operate on any City street:
+
+            (a)    a solid rubber-tired vehicle at a greater speed than 20 kilometres per
+                   hour;
+
+            (b)    a vehicle having an axle load, tire load or gross load in excess of the
+                   limits prescribed by this by-law at a greater rate of speed than that set out
+                   in the permit authorizing such operation.
+
+      (2)   No person shall drive a vehicle on any City street at such at rate of speed as to
+            impede or block the normal and reasonable movement of traffic except when
+            reduced speed is necessary for safe driving or operation or in compliance with
+             the law.
+
+                                       EXEMPTIONS
+
+93.   The provisions of this by-law governing size, weight, load or speed shall not apply to
+      vehicles operated by the City Fire Department or to vehicles operated by the City and
+      B.C. Electric Company while engaged in snow clearing or road sanding.
+
+                                         PERMITS
+
+94.   (1)    (a)    No person shall drive or operate a vehicle on any City street, either
+                    unladen or with load, exceeding any of the limitations contained in this by-
+                    law unless a permit in writing therefor has been issued pursuant to this
+                    section by the City Engineer;
+
+             (b)    the owner or operator of any vehicle desiring a permit required pursuant
+                    to clause (a) shall make application in writing therefor to the City Engineer
+                    giving such particulars therein as the City Engineer may require;
+
+             (c)    subject to the provisions of subsection (2) hereof the City Engineer may,
+                    notwithstanding the provisions of this by-law, by special permit in writing
+                    authorize the operation and driving of vehicles which are otherwise
+                    prohibited by this by-law from being operated or driven on City streets;
+
+             (d)    the operating and driving of any vehicle for which the permit has been
+                    issued shall at all times be subject to the conditions stated therein;
+
+             (e)    such permit shall be carried in the vehicle whenever it is being driven on
+                    City streets and shall be produced to any police officer for inspection upon
+                    request.
+
+      (2)    The City Engineer may grant:
+
+             (a)    a permit authorizing a single trip for any vehicle which exceeds the
+                    limitations set out in this by-law regarding weights, loads and size. An
+                    application for such permit shall be made not less than 24 hours in
+                    advance of the time the trip is to be made;
+
+             (b)    a permit authorizing more than one trip for any vehicle which exceeds the
+                    limitations of this by-law regarding weights, loads and size, subject
+                    however, to the following conditions:
+
+                    (i)    such permit shall be valid for a period not exceeding 12 months
+                           and in any event shall expire on the last day of February in every
+                           year;
+
+                    (ii)   if the vehicle or the vehicle and load together do not exceed 3.2
+                           metres in width, 4.5 metres in height, or 23 metres in length there
+                           shall be no limitation on the number of trips to be made unless
+                               considered necessary by the City Engineer;
+
+                      (iii)    [Deleted]
+
+                      (iv)     if the trips are confined to a route or routes approved by the City
+                               Engineer.
+
+      (3)    A permit issued pursuant to this section may, in addition to any other limitations,
+             prohibit the operation or driving of the vehicle concerned on any through street or
+             transit route or on any street within the downtown during the periods from 7:00
+             a.m. to 9:30 a.m. and 3:00 p.m. to 6:00 p.m.
+
+      (4)    When a permit is issued for more than one trip with respect to the weight, height
+             or width of a vehicle, such permit may specify the maximum rate of speed at
+             which such vehicle may travel and no driver or operator of a vehicle under permit
+             shall drive such vehicle in excess of the speed specified.
+
+      (5)    When a permit is issued for more than one trip with respect to the width of a
+             vehicle, such vehicle shall be equipped with clearance lights as required by the
+             Motor Vehicle Act and the Regulations made thereunder and red flags to indicate
+             to drivers of approaching and following vehicles the width of the vehicle and the
+             load being carried and such clearance lights shall be lighted at all times in
+             accordance with regulations pursuant to the Motor Vehicle Act regarding
+             headlights.
+
+      (6)    Any permit issued pursuant to this section shall be subject to immediate
+             cancellation in the event of any condition of the said permit being violated or in
+             the event of false information being given by the applicant.
+
+      (7)    If the vehicle or the vehicle and load together exceed 4.3 metres in width, 24.4
+             metres in length or 4.5 metres in height or a straddle truck with load exceeds 8.6
+             metres in length, the City Engineer may require that such vehicle straddle truck
+             be preceded and/or followed by a pilot car suitably identified with red flags and/or
+             flashing lights, satisfactory to the City Engineer and Chief Constable.
+
+95.   Before any permit is issued pursuant to section 94 the applicant shall deposit with the
+      City a bond of indemnity or a copy of an insurance policy to secure payment to the City
+      of the cost of repairing or reconstructing any street or other property of the City damaged
+      by reason of the driving or operating of the vehicle for which the permit is granted. Such
+      bond or insurance policy shall be in the amount prescribed by the City Engineer and
+      shall be in a form satisfactory to the Director of Legal Services.
+
+                                             PERMIT FEES
+
+96.   The City Engineer may charge the following fees, exclusive of a goods and services tax
+      imposed under the Excise Tax Act (Canada), for any permit issued pursuant to section
+      94:
+
+             - For a permit authorizing a single trip ............................................. $39.68
+              - For a permit authorizing more than one trip ................................ $378.44
+
+96A.   If a permit issued pursuant to section 94 has been lost or destroyed before expiring, the
+       holder thereof shall make application for a duplicate permit to replace that which has
+       been lost, and the City Engineer, upon being satisfied as to the circumstances of such
+       loss or destruction, may issue a duplicate permit upon payment by the applicant of the
+       fee of $5.00.
+                         WEIGHING AND INSPECTION OF VEHICLES
+
+97.    (1)    Any person driving or operating a vehicle on any street, when so directed by a
+              police officer or by any person authorized by the City Engineer, shall:
+
+              (a)     stop such vehicle at such time and place as directed for the purpose of
+                      weighing, measuring, or inspecting the vehicle or load carried or for any
+                      other purpose;
+
+              (b)     drive the vehicle to the nearest public scales for the purpose of weighing
+                      such vehicle;
+
+              (c)     re-arrange the load upon the vehicle or remove the whole or any part of
+                      the load from the vehicle as may be necessary to comply with the
+                      provisions of this by-law before continuing to drive or operate such
+                      vehicle.
+
+98.    [Deleted]
+
+                        SPILLING OF VEHICLE LOADS ON STREETS
+                                  SECURING OF LOADS
+
+99.    (1)    (a)     It shall be the duty of the driver of any vehicle and also the duty of the
+                      owner of any commercial vehicle to ensure that any load or covering
+                      thereon is securely fastened so as to prevent such covering or load from
+                      becoming loose, detached, or in any manner a hazard to other users of
+                      the highway.
+
+              (b)     If any article, substance or material blows, drops, spills or falls from a
+                      vehicle onto a street, the driver of the vehicle must immediately take all
+                      reasonable precautions to safeguard traffic and remove the article,
+                      substance or material from the street.
+
+       (2)    (a)     No person shall drive, ride or propel any vehicle containing any sawdust,
+                      solid waste, liquid waste, dirt, gravel, rocks or other loose material, on any
+                      street in the City unless such vehicle shall be kept tightly and securely
+                      covered in such manner as to prevent any of such sawdust, solid waste,
+                      liquid waste, dirt, gravel, rocks or other loose material from being blown,
+                      dropped or spilled from such vehicle.
+
+              (b)     No person shall drive or operate any vehicle loaded with firewood unless
+                      such firewood is contained in a box so designed and constructed that the
+                     said firewood does not protrude more than 30 centimetres above the
+                     lowest point of the top of such box.
+
+       (3)    The driver or operator of any vehicle carrying loads of lumber or other structural
+              materials shall:
+
+              (a)    securely chain the load using at least 2 chains for loads not exceeding 3.2
+                     metres in height measured from the ground and at least 3 chains for
+                     loads exceeding 3.2 metres in height, and one additional chain for every 3
+                     metres of deck space in excess of 6 metres; provided however, that the
+                     driver or operator of a straddle truck shall be deemed to have complied
+                     with the provisions of this clause when the load is mechanically clamped
+                     and secured in position;
+
+              (b)    place the load so that not less than two-thirds of the bulk length thereof
+                     shall be forward of the rear axle and not more than 4.5 metres thereof
+                     shall extend beyond the centre of the last axle of the said vehicle;
+
+              (c)    strip all lumber loads in conformity with the stripping regulations contained
+                     in the General Accident Prevention Regulations of the Provincial Workers'
+                     Compensation Board;
+
+              (d)    not permit such loads to exceed the following height limitations measured
+                     from the ground:
+                     Vehicle Weighing                            Maximum Height of Load
+
+                     2,700 kilograms or less                       2.7 metres
+
+                     more than 2,700 kilograms
+                     but not exceeding 3,600
+                     kilograms                                     3.2 metres
+
+                     over 3,600 kilograms                          3.81metres
+
+       (4)    (a)    Subject to the provisions of Clauses 91(1)(e)(ii) and 91(1)(f)(i) and (ii) the
+                     load upon any vehicle or combination of vehicles shall not exceed more
+                     than 1 metre beyond the front wheels or bumper.
+
+              (b)    The load upon any privately-owned passenger vehicle shall not extend
+                     beyond the line of the fenders on the left side of such vehicle nor more
+                     than 15 centimetres beyond the line of the fenders on the right side
+                     thereof.
+
+              (c)    A red flag not less than 45 centimetres square shall be carried at the
+                     extreme front and extreme rear of any load of logs, poles, or structural
+                     materials in single length exceeding an over-all length, including vehicle
+                     of 20 metres.
+
+100.   Schedules A, B, C, D, E, F, G, and H annexed hereto shall form an integral part of this
+       by-law.
+
+101.   This by-law shall also apply to the passageways and driveways on the real property
+       known and defined as Exhibition Park.
 
                                                VIOLATION OF BY-LAW
 
@@ -1502,3 +3616,807 @@ passing hereof.
 
                                                            (Signed)      “FRED Howlett”
                                                                              City Clerk
+
+                                      SCHEDULE A
+
+Distance Between the Centres of                    Maximum
+the First Axle and Last Axle                       Allowable Gross
+of any Axle Unit of a                              Weight on that
+Vehicle or Combination of Vehicles                 Axle Unit
+
+Centimetres                                        Kilograms
+
+less than 100                                             9 100
+100 and up to but not including 120                      16 500
+120 and up to but not including 190                      17 000
+190 and up to but not including 230                      18 000
+230 and up to but not including 260                      19 000
+260 and up to but not including 300                      20 000
+300 and up to but not including 340                      21 000
+340 and up to but not including 380                      22 000
+380 and up to but not including 420                      23 000
+420 and up to but not including 460                      24 000
+460 and up to but not including 500                      25 000
+500 and up to but not including 530                      26 000
+530 and up to but not including 570                      27 000
+570 and up to but not including 610                      28 000
+610 and up to but not including 650                      29 000
+650 and up to but not including 690                      30 000
+690 and up to but not including 720                      31 000
+720 and up to but not including 760                      32 000
+760 and up to but not including 800                      33 000
+800 and larger                                           34 000
+                                          SCHEDULE B
+
+All streets in and bordering on any industrial district under the Zoning and Development By-law.
+
+   1.      Abbott Street: from Expo Boulevard to Pacific Boulevard.
+
+   2.      Alma Street - Dunbar Diversion - Dunbar Street: from 4th Avenue to South-West
+           Marine Drive.
+
+   3.      Anderson Street (Granville Island).
+
+   4.      Arbutus Street - West Boulevard: from Broadway to 41st Avenue.
+
+   5.      Argyle Drive - Argyle Street: from Victoria Drive to South East Marine Drive.
+
+   6.      Barnard Street: from South-West Marine Drive to 75th Avenue.
+
+   7.      Blanca Street: from 4th Avenue to 10th Avenue.
+
+   8.      Boundary Road: from Hastings Street to Marine Way.
+
+   9.      Broadway - Lougheed Highway: from Alma Street to Boundary Road.
+
+   10.     Burrard Street - Burrard Bridge: from Waterfront Road Access Ramp to Broadway.
+
+   11.     Cambie Street: from Nelson Street to Pacific Boulevard.
+
+   12.     Cambie Street - Cambie Bridge: from Pacific Boulevard to South-West Marine Drive.
+
+   13.     Cartwright Street (Granville Island).
+
+   14.     Clark Drive - Knight Street: from Stewart Street (Vancouver Port Corporation) to
+           Knight Street Bridge.
+
+   15.     Commercial Drive - Victoria Drive: from Broadway to Argyle Drive.
+
+   16.     Cordova Street - Cordova Diversion: from Main Street to Powell Street.
+
+   17.     Davie Street: from Denman Street to Burrard Street.
+
+   18.     Denman Street: from Georgia Street to Davie Street.
+
+   19.     Dundas Street - Powell Street: from Main Street to Nanaimo Street.
+
+   20.     Dunlevy Avenue: from Hastings Street to Alexander Street.
+
+   21.     Dunsmuir Street - Dunsmuir Viaduct: Burrard Street to Gore Avenue.
+
+   22.     Duranleau Street (Granville Island).
+                                                   i
+23.   Expo Boulevard: Pacific Boulevard to Quebec Street.
+
+24.   Fraser Street: from Broadway to South-East Marine Drive.
+
+25.   Georgia Street - Georgia Viaduct: from Burrard Street to Gore Avenue.
+
+26.   Georgia Street: from Denman Street to Burrard Street.
+
+27.   Gore Avenue: from Hastings Street to Alexander Street.
+
+28.   Gore Avenue: from Union Street to Prior Street.
+
+29.   Grandview Highway - Grandview Highway South: from Nanaimo Street to Boundary
+      Road.
+
+30.   Granville Street – Granville Bridge: from north Granville Loops to South-West Marine
+      Drive.
+
+31.   Hastings Street: from Main Street to Boundary Road.
+
+32.   Heatley Avenue: Waterfront Road (Vancouver Port Corporation) to Hastings Street.
+
+33.   Howe Street: from Dunsmuir Street to Howe Street on-ramp.
+
+34.   Jackson Avenue: from Hastings Street to Alexander Street.
+
+35.   Johnston Street (Granville Island).
+
+36.   Joyce Street - 29th Avenue: from 41st Avenue to Boundary Road.
+
+37.   King Edward Avenue: from Macdonald Street to Quesnel Drive.
+
+38.   Kingsway: from Main Street to Boundary Road.
+
+39.   Macdonald Street - from Broadway to King Edward Avenue.
+
+40.   McGill Street: from Nanaimo Street to Highway 1.
+
+41.   Main Street: from Waterfront Road (Vancouver Port Corporation) to South-East
+      Marine Drive.
+
+42.   Nanaimo Street: from McGill Street to Kingsway.
+
+43.   Oak Street: from Broadway to South-West Marine Drive.
+
+44.   Pacific Boulevard - Pacific Street: from Burrard Street to Quebec Street.
+45.   Princess Avenue: from Hastings Street to Alexander Street.
+
+                                            ii
+46.   Prior Street - Venables Street: from Main Street to Clark Drive.
+
+47.   Quebec Street: from 2nd Avenue to Keefer Street.
+
+48.   Quesnel Drive - MacKenzie Street: from King Edward Avenue to 41st Avenue.
+
+49.   Renfrew Street: from McGill Street to Grandview Highway.
+
+50.   Rupert Street: from First Avenue to Kingsway.
+
+51.   Seymour Street: Seymour Street off-ramp to Dunsmuir Street
+
+52.   South-West Marine Drive - 70th Avenue: from Camosun Street to South-West
+      Marine Drive (East of Heather Street).
+
+53.   South-West Marine Drive - South-East Marine Drive - Marine Way: from Granville
+      Street to Boundary Road.
+
+54.   Terminal Avenue: Quebec Street to Clark Drive.
+
+55.   Vancouver Port Corporation Roads: Commissioner Street - Stewart Street -
+      Waterfront Road.
+
+56.   Victoria Drive: Powell Street to Hastings Street.
+
+57.   Waterfront Road Access Ramp: from Burrard Street to Waterfront Road.
+
+58.   1st Avenue: from Rupert Street to Boundary Road.
+
+59.   4th Avenue - 4th Avenue Diversion - 4th Avenue: from Drummond Drive to Burrard
+      Street.
+
+60.   4th Avenue - 6th Avenue - 2nd Avenue - Great Northern Way - 6th Avenue: from
+      Burrard Street to Clarke Drive.
+
+61.   10th Avenue: from Blanca Street to Alma Street.
+
+62.   41st Avenue: from South-West Marine Drive to Joyce Street
+
+                                           iii
+SCHEDULE C
+(see attached)
+                            SCHEDULE D
+
+West End Plateau   means the area bounded by Burrard Street, Davie Street,
+                   Denman Street and Robson Street.
+
+West End           means the area bounded by Burrard Street, English Bay, the
+                   east side of Stanley Park, Alberni Street west of Denman
+                   Street, Denman Street from Alberni Street to Robson Street,
+                   and Robson Street from Denman Street to Burrard Street.
+
+Robson North       means the area bounded by Denman Street from Robson
+                   Street to Georgia Street, Georgia Street from Denman Street
+                   to Nicola Street, Pender Street from Nicola Street to Jervis
+                   Street, Melville Street from Jervis Street to Bute Street, Bute
+                   Street from Melville Street to Alberni Street, Alberni Street
+                   from Bute Street to Burrard Street, Burrard Street from Alberni
+                   Street to Robson Street and Robson Street from Burrard
+                   Street to Denman Street.
+
+Davie-Beach        means the area bounded by Burrard Street, English Bay and
+                   Davie Street.
+
+Denman West        means the area bounded by Denman Street, English Bay, the
+                   east side of Stanley Park and Georgia Street.
+                                      SCHEDULE E
+
+Sidewalk in the 300 block of Georgia St. (adjacent Library Square)
+
+Sidewalk in the 700 block of Homer St. (adjacent Library Square)
+
+Sidewalk on the west side of Quebec St. (adjacent Science World)
+
+Seawall on the east and north side of False Creek (from Science World to the Cambie
+Bridge)
+
+Sidewalk on the 800 block of Robson St. (Adjacent the Art Gallery)
+
+Street allowance adjacent B.C. Transit Sky Train Stations
+
+Sidewalk on 200 Block of Georgia (adjacent QE Theatre)
+
+Sidewalk on 600 Block of Hamilton (adjacent QE Theatre)
+
+Sidewalk on the 700 and 800 Blocks of Beatty Street (Adjacent Terry Fox Plaza)
+
+                                             ii
+            SCHEDULE F
+
+             RA-1 District
+             R1-1 District
+             RT-1 District
+             RT-2 District
+             RT-3 District
+       RT-4 and RT-4A Districts
+             RT-5 District
+             RT-6 District
+             RT-7 District
+             RT-8 District
+             RT-9 District
+            RT-10 District
+             RM-1 District
+             RM-2 District
+             RM-3 District
+            RM-3A District
+             RM-4 District
+RM-5, RM-5A, RM-5B and RM-5C Districts
+             RM-6 District
+             FM-1 District
+             FSD District
+
+                  iii
+                                 SCHEDULE G
+
+Davie Village - Jim Deva Plaza
+
+                                     iv
+                                    Schedule H
+                    Priority Congestion Management Roadways
+
+The streets or portions of streets listed below are hereby designated as priority
+congestion management roadways for the purposes of section 17.2(k) of this by-
+law.
+
+Burrard Bridge.
+
+Cambie Bridge.
+
+Dunsmuir Viaduct.
+
+East 1st Avenue: from Terminal Avenue to Boundary Road.
+
+East 12th Avenue: from Prince Albert Street to Penticton Street.
+
+Georgia Viaduct.
+
+Granville Bridge.
+
+                                      v
+                                     SCHEDULE I
+
+1.   Permit Fees for Temporary Occupancy of a Street under Section 30
+
+     The following fees must be paid prior to issuance of a permit, exclusive of sales tax,
+     except that no fees are payable for any occupancies that result in only momentary
+     interruptions in public use of up to three minutes:
+
+     (a)    for all occupancies of a street, portion of a street, or air space above a street,
+            except for occupancies of less than three days on a minor street with no
+            parking regulations:
+                                                    $3.99 for each 10 m2
+                                                    or portion thereof, per day
+                                                    with a minimum fee of $135.14
+
+     (b)    in addition to the fee set out in section 1(a), for occupancy of a curb lane:
+
+            (i)     if there are metered spaces:
+                                                   $138.46 for the installation and removal
+                                                   of signs by City crews to reserve the
+                                                   space
+
+                                                   plus
+
+                                                   all lost metered space revenue, at the
+                                                   rates set out in the Parking Meter By-
+                                                   law
+
+            (ii)    if there are no metered spaces, but other parking regulations exist:
+
+                                                   $138.46 for the installation and removal
+                                                   of signs by City crews to reserve the
+                                                   space
+
+                                                   plus
+
+                                                   $138.46 per week or portion thereof
+                                                   after the first week
+
+            (iii)   if the curb lane is a priority congestion management roadway, in
+                    addition to the fees in (i) or (ii):
+
+                                                   $138.46 for each 12 hour period or
+                                                   portion thereof
+
+            (iv)    if the curb lane is on a minor street where no parking regulations
+                    exist and the occupancy is less than three days:
+
+                                                   no fee, unless the applicant wants a
+                                                   curb lane reserved for their exclusive
+
+                                            vi
+                                               use, in which case the following fee
+                                               applies: $138.46 for the installation and
+                                               removal of signs by City crews to
+                                               reserve the space
+
+      (v)    if the curb lane is on a minor street where no parking regulations
+             exist and the occupancy is three or more days:
+
+                                               $138.46 for the installation and removal
+                                               of signs by City crews to reserve the
+                                               space
+
+                                               plus
+
+                                               $138.46 per week or portion thereof
+                                               after the first week
+
+(c)   in addition to the fee set out in section 1(a), for occupancy of a travel lane:
+
+                                               $110.77 for each 12 hour period or
+                                               portion thereof
+
+(d)   in addition to the fee set out in section 1(a), for occupancy of a lane:
+
+                                            $110.77 for each 12 hour period or
+                                            portion thereof
+
+(e)   in addition to the fee set out in section 1(a), for occupancy of a sidewalk:
+
+                                            $166.16 for each 12 hour period or
+                                               portion thereof
+
+(f)   in addition to the fee set out in section 1(a), for occupancy of a bike lane:
+
+                                               $138.46 for each 12 hour period or
+                                               portion thereof
+
+(g)   despite any of the foregoing fees, the only fee payable for the placement of a
+      portable toilet on a street is:
+                                        $133.59 per portable toilet
+
+(h)   despite any of the foregoing fees, the only fee payable for the placement of
+      covered walkways used solely for the protection of the public on a sidewalk
+      is:
+                                            $135.14
+
+(i)   inspection fee when a deposit is required for restoration of the street, repair
+      of City property, or clean up:
+                                       $172.09
+
+                                      vii
+(j)   traffic management plan review fee when a traffic management plan or traffic
+      control plan is required:
+                                          $85.59 where the review is less than 1
+                                          hour of staff time
+
+                                          $855.86 where the review is 1 to 15
+                                          hours of staff time
+
+                                          $2,403.50 where the review is over 15
+                                          hours of staff time
+
+                                   viii
+                      STREET AND TRAFFIC BY-LAW
+                       INDEX - AS AT JUNE 16, 1998
+
+                                                                                       SECTION
+Abandoned Vehicles ............................................................... 72A
+Advertising
+      carried by person ..............................................................82
+      distributing handbills ................................................... 84, 85
+      on sidewalks .....................................................................83
+      on vehicles .............................................................. 81(1)(2)
+      vehicle for sale on streets ............................................ 81(3)
+Ambulances (see emergency vehicles)
+      duty of driver on approach of ............................................50
+      following prohibited ...........................................................56
+Angle parking .......................................................................... 18.2
+Animals ...........................................................................................
+      horses not to be frightened ...............................................67
+      must be under control .......................................................40
+      riding or leading on boulevards or sidewalks ............... 80(1)
+      tethering of ................................................................. 74, 75
+Axle Load, defined .......................................................................3
+Backing of vehicle ............................................................. 39, 39A
+BC Transit Bus .................................................................... 3, 17.3
+Begging .................................................................................. 70A
+Bells
+      warning bells on bridges ....................................................52
+      on bicycles .................................................................... 60B
+Bicycles
+      arrest without warrant .................................................... 60F
+      bell required on ............................................................. 60B
+      headphones prohibited .................................................. 60A
+      helmet required ...................................................... 60D, 60E
+      keep close to curb ............................................................59
+      one hand on handle-bars...................................................41
+      pathways designated...................................................... 60C
+      riding on sidewalks prohibited ...........................................60
+Boulevard, defined .......................................................................3
+      riding or driving on ....................................................... 80(1)
+      stopping on ............................................................... 17.4(e)
+      traffic to keep to right of ....................................................34
+Boulevard crossing, defined .........................................................3
+      stopping at ............................................................... 17.2 (d)
+Bridges
+      stopping vehicle on ................................................... 17.2(g)
+      warning bells or signal ......................................................52
+Bus, defined .................................................................................3
+      crossing street in front of ..............................................11(3)
+
+Bus Stop, defined .........................................................................3
+
+                                                   ix
+      parking prohibited .......................................................... 17.3
+Bus Zone, stopping vehicle on .............................................17.2(j)
+Chain, defined...............................................................................3
+Chief Constable, defined ..............................................................3
+      authority to remove obstructions ........................ 72(4), 73(2)
+      powers ................................................................ 4(4), 73(2)
+City Engineer, defined ..................................................................3
+      authority to place traffic markers, etc. ................... 4(1) to (3)
+      authority to remove obstructions ........................ 72(4), 73(2)
+      permission to place obstructions ................................. 73(1)
+      permit for temporary occupation of streets ................... 30(2)
+      may place "Special Zone" signs .............................. 30(3)(4)
+      may remove structures, etc. from streets ..................... 71(4)
+Coasting on ................................................................................77
+Combination of Vehicles, defined .................................................3
+Commercial Loading Zone, defined ..............................................3
+Commercially Used Property, defined ..........................................3
+Commercial Vehicle, defined ........................................................3
+      dimensions .......................................................................89
+      exemptions .............................................................. 19.2, 93
+      permits .................................................................... 21.6, 94
+      speeds .............................................................................92
+      stopping in lane ............................................................. 19.2
+      types of ............................................................................91
+      weighing and inspection ...................................................97
+      weights .............................................................................90
+Construction
+      materials on street ............................................................72
+Council, defined ...........................................................................3
+Crossings, regulated ..................................................................80
+Crosswalk, defined .......................................................................3
+      driver not to pass standing vehicle at ............................11(4)
+      pedestrians to use right half .............................................14
+      right-of-way at ......................................................... 11(1)(4)
+      stopping vehicle on ................................................... 17.4(a)
+      stopping vehicle near ............................................... 17.4(b)
+Crowds, obstructing traffic ..........................................................69
+Custom Transit Vehicle, defined ...................................................3
+      parking in passenger zone ........................................12.2(c)
+Curb
+      driving over .......................................................................79
+      parking or stopping close to .............................. 18.1(a)(b)(c)
+Curbed roadway 5m or less in width, no stopping .................17.2(i)
+Disabled person parking ......................................................... 21.2
+Double parking .................................................................. 19.1(e)
+Downtown, defined ......................................................................3
+      truck routes ............................................................ 90A, 90B
+
+Driver, defined ..............................................................................3
+      care for safety of pedestrian ......................... 11(1)-(4), 12(3)
+      must have control of vehicle .............................................40
+
+                                                 x
+                  must have hand on steering device ..................................41
+                  no part of body extending outside vehicle .........................62
+            Emergency Vehicle, defined .........................................................3
+                  duty of driver on approach of ............................................50
+                  exemptions .................................................................. 49(1)
+                  siren to be sounded ..........................................................51
+                  following prohibited ...........................................................56
+            Encroachments on streets ............................................. 71, 72, 73
+            Entertainment on streets .............................................................67
+            Event parking .............................................................. 22.1 to 22.4
+            Excavation
+                  to be protected .................................................................87
+                  stopping at ................................................................. 17.2(f)
+            Exemptions
+                  emergency vehicles ..................................................... 49(1)
+                  public utility vehicles .................................................... 49(2)
+                  other vehicles .............................................................. 49(3)
+                  from parking prohibitions ............................................... 19.2
+Exhibition Park driveways ........................................................................ 101
+Fire Apparatus (See Emergency Vehicles)
+       following prohibited ...........................................................................56
+       stopping near when at fire ................................................................56
+Fire Department member, may direct traffic at fire ...................................... 58
+Fire door, parking near ........................................................................ 19.1(f)
+Fire Hall, stopping vehicle in vicinity of ............................................... 17.2(b)
+Fire Hose, crossing prohibited ....................................................................57
+Fire Hydrant, stopping near .................................................................17.2(c)
+Flags, displayed in parades ................................................................... 88(5)
+Flashing Signal, regulation of vehicular traffic at ...................................... 7(3)
+Flowers, injury prohibited ...........................................................................78
+Fuel on streets ...................................................................................... 72(3)
+Funeral processions ...................................................................................35
+Garage, parking near ......................................................................... 19.1(g)
+Garbage Container, defined ..........................................................................3
+       stopping at ................................................................................ 17.2(e)
+Handbills, distributing ........................................................................ 84A, 85
+Hastings Viaduct, stopping ................................................................. 17.2(g)
+Holidays, parking rules relaxed .......................................................... 17.6(e)
+Horns (See sirens)
+       for warning only ................................................................................54
+Horses (see animals)
+Hotel lobby, parking near .................................................................... 17.6(g)
+Ice, removal from sidewalks ........................................................................76
+Infraction of by-law ................................................................................... 102
+Intersection, defined .....................................................................................3
+       entering prohibited when traffic obstructed ....................................... 46
+       passing vehicle at .........................................................................11(4)
+       pedestrian's right-of-way ........................................................... 7(2), 11
+       stopping vehicle within ............................................................... 17.4(f)
+       stopping within m.of .................................................................. 17.4(b)
+       turning at .................................................................................... 37, 42
+
+                                                               xi
+Jaywalk, defined ..........................................................................................3
+Lane, defined ...............................................................................................3
+       emerging from ..................................................................................36
+       speed limit ........................................................................................45
+       not considered street for "jaywalking" .................................................3
+       stopping when emerging from ..........................................................36
+       stopping vehicle near lane intersection ..................................... 19.1(a)
+Lights (see traffic-control signals)
+Lines, newly painted, driving on prohibited ...................................................9
+Litter on streets prohibited ..........................................................................84
+Loading Zone, defined .................................................................................3
+       commercial vehicles only ............................................................... 21.5
+       stopping in ............................................................................ 21.3, 21.4
+Loads
+       dimensions .......................................................................................89
+       exemptions .......................................................................................93
+       limits .................................................................................................94
+       securing.............................................................................................99
+       spilling on streets ..............................................................................99
+Loitering prohibited .....................................................................................70
+Median, stopping alongside ................................................................ 17.2(h)
+Merchandise, sale or display prohibited on street ....................................... 66
+Motorcycles (see Vehicles)
+Motor vehicles, defined ................................................................................3
+Movie productions closing street to facilitate ..............................................86
+Moving vehicle to avoid time limit ............................................................ 17.7
+Names on vehicles ......................................................................... 21.5, 21.6
+Obstructions
+       entering intersection when traffic obstructed .....................................46
+       not to be placed on streets or sidewalks ............................... 71, 72, 73
+       persons obstructing traffic .................................................................69
+       sports on streets prohibited ..............................................................67
+Offences .................................................................................................. 102
+One-way Street, defined ...............................................................................3
+       vehicles to move in one direction only ..............................................33
+Operation of Horse-Drawn Vehicles ........................................................ 40A
+Parade, regulation of ..................................................................................88
+Park, parking, parked, defined ............................................................... 3(23)
+       (see also Stopping)
+       areas designated by City Engineer ................................................ 4(2)
+       abutting central boulevard ........................................................ 17.2(h)
+       double parking .................................................................. 18.1(a)(b)(c)
+       general parking prohibitions .................................................. 17.6, 20.2
+       holidays, parking rules relaxed ................................................. 17.6(e)
+       in direction of traffic ........................................................... 18.1(a)(b(c)
+       large vehicles ................................................................................ 20.1
+       more restrictive regulation applies ................................................. 23.1
+       on paved, portion of narrow street .............................................17.6(c)
+       over-parking ............................................................. 20.1, 22.1 to 22.4
+       temporary no parking ..................................................................... 4(4)
+       three-hour limit .......................................................................... 17.6(f)
+
+                                                                 xii
+      time limit ................................................................................ 17.6(e)(f)
+      where traffic signs prohibit ........................................................ 17.6(a)
+Park, traffic regulations in ........................................................................ 63A
+Park Board, defined .....................................................................................3
+      powers of General Manager .......................................................... 4(6)
+Parked vehicle, unattended ..................................................................... 18.3
+Passengers
+      not more than 3 in front seat .............................................................61
+      no part of body to extend outside car ................................................62
+      not to interfere with driver .................................................................63
+Passenger Zone, defined .............................................................................3
+      stopping in ............................................................................ 21.1, 21.3
+Pedestrian, defined ......................................................................................3
+      at other than crosswalks .......................................................... 12(1)(2)
+      crossing in front of bus .................................................................11(3)
+      control signals ............................................................................... 7(2)
+      giving names to police officers ..........................................................16
+      obedience to traffic signs ....................................................................6
+      regulations at traffic-control signals ................................................ 7(2)
+      right-of-way at signals .................................................................... 7(2)
+      right-of-way at crosswalks ....................................................... 11(1)(2)
+      soliciting rides ...................................................................................15
+      use right half of crosswalk ................................................................14
+Penalty clause .......................................................................................... 103
+Permits
+      deposit of bond .................................................................................95
+      fees ..................................................................................................96
+      general provisions ............................................................................94
+      lost or destroyed ............................................................................ 96A
+      resident parking .................................................................. 23.1 to 23.4
+Playing on street prohibited ........................................................................67
+Police Officer, defined ..................................................................................3
+      may direct traffic .................................................................................6
+      obedience to .......................................................................... 5, 16,60F
+Police vehicles (see emergency vehicles)
+      following prohibited ...........................................................................56
+Posters prohibited ................................................................................... 85A
+Private Road, defined ...................................................................................3
+      stop when emerging from .................................................................36
+      stopping vehicle in front or near ................................................ 17.2(d)
+Private Vehicle, defined ................................................................................3
+Processions ...............................................................................................35
+Property Line, defined ..................................................................................3
+      stopping vehicles within 20 feet of ............................................ 17.4(b)
+Public Park, defined .....................................................................................3
+Public Utility Vehicles, exemptions ........................................................ 49(2)
+Railway crossing, stopping at .....................................................................32
+Refrigerating unit on commercial vehicle ............................................ 20.2(d)
+Refuse, depositing on street........................................................................84
+Religious street meetings permitted ...................................................... 69(3)
+Repairing of vehicles on streets prohibited .................................................68
+
+                                                                xiii
+Repeal clause .......................................................................................... 104
+Resident parking privileges ................................................ 22.1 to 22.4, 24.1
+Right-of-Way, defined ...................................................................................3
+       (see Pedestrian)
+Roadway, defined .........................................................................................3
+       16 feet or less between curbs, no stopping .................................17.2(i)
+School crossings, regulations at .................................................................10
+Semi-Trailer, defined ....................................................................................3
+Service Vehicle, defined ...............................................................................3
+       parking by ................................................................................ 63A(10)
+Sidewalk, defined ......................................................................................... 3
+       advertising devices on ......................................................................83
+       driving on ..........................................................................................80
+       entertainment on ...............................................................................67
+       obstruction on ............................................................................. 71, 73
+       parking within 6 m of ................................................................. 17.5(b)
+       parking within 2 m of, lane ........................................................ 19.1(b)
+       riding bicycles prohibited on .............................................................60
+       snow and ice ....................................................................................76
+Sidewalk Crossing, defined ..........................................................................3
+       security for damage by vehicles ................................................... 80(3)
+       stopping at ................................................................... 17.2(d), 17.4(d)
+       vehicles driving over .................................................................... 80(1)
+Sight-seeing bus (see Vehicle for Hire)
+Sign, defined ................................................................................................3
+Signal (see traffic sign, traffic-control signal)
+Siren, emergency vehicle to sound ............................................................51
+       duty of driver on sounding of ............................................................50
+       regulating use of ...............................................................................53
+Skateboards ...............................................................................................77
+Sledding on streets ....................................................................................77
+Slow-moving vehicles to keep close to curb ...............................................59
+Snow or ice, removal from sidewalk .......................................... 76, 76A, 76B
+Snow clearing, emergency ...................................................................... 65A
+Soliciting rides, prohibited ..........................................................................15
+Sound Truck, defined ...................................................................................3
+       regulated ..................................................................................... 81(4)
+Special Zone, temporary use of street ........................................................30
+Speed
+       commercial vehicles .........................................................................92
+       exemptions .......................................................................................93
+       limits in designated areas ........................................................... 44, 45
+
+Stop, Stopping (see also Parking)
+      defined ...............................................................................................3
+      at intersection when traffic obstructed ...............................................46
+      at stop signs .....................................................................................32
+      close to curb ..................................................................... 18.1(a)(b)(c)
+      general stopping prohibitions ............................................. 17.1 to 17.5
+      in lanes .......................................................................................... 19.1
+
+                                                                xiv
+       on bridges ............................................................................... 17.1, 52
+Stop sign
+       placed by City Engineer ........................................................... 4(2), 31
+       stopping at .......................................................................... 17.2(a), 32
+Straddle truck, regulated ................................................................... 91(1)(e)
+Street, defined ..............................................................................................3
+       coasting or sliding on ........................................................................77
+       closing ..............................................................................................86
+       driving on streets laned for traffic ......................................................43
+       encroachments, debris, etc., prohibited ................................ 71, 72, 73
+       entertaining on...................................................................................67
+       loitering on ........................................................................................70
+       merchandise not to be displayed on .................................................66
+       narrow street - parking............................................................... 17.6(c)
+       occupancy for construction .......................................................... 30(7)
+       playing on prohibited .................................................................. 67, 77
+       reservation for class of vehicles ...................................................17.2(j)
+       reservation for temporary occupancy ................................................30
+       reservation for sledding, etc.............................................................. 77
+       through streets .................................................................................31
+Street entertainment permit ...................................................................... 67A
+Street festival, closing street to facilitate......................................................86
+Street Furniture, defined ...............................................................................3
+Street Vending ...........................................................................................66
+Taxi-cabs (See Vehicles for Hire)
+Taxi stands, stopping vehicles in ..........................................................17.2(j)
+Theatre lobby, parking near ................................................................ 17.6(g)
+Through street, stopping at ........................................................................31
+Time Limits - parking ................................................ 17.6(e), 23.1, 20.2(a)(d)
+Tires, types of ............................................................................................. 91
+Tour Bus Zone ..................................................................................... 3, 21.7
+Traffic, defined .............................................................................................3
+       crowds obstructing traffic ..................................................................69
+       impeding traffic prohibited .................................................................72
+       near fires ..........................................................................................58
+Traffic lanes
+       City Engineer to mark .............................................................. 4(1), 43
+       driving within ................................................................................ 43(4)
+       passing on the right ..................................................................... 43(5)
+       types of lines ....................................................................... 43(1)(2)(3)
+       weaving ....................................................................................... 43(6)
+Traffic-control Signal, defined .......................................................................3
+       flashing signal ................................................................................ 7(3)
+       interference with .................................................................................9
+       meaning of .........................................................................................7
+       obedience to .......................................................................................6
+       on bridges ........................................................................................52
+       pedestrian regulations at ............................................................... 7(2)
+       police officer can supersede ...............................................................5
+       unauthorized, prohibited .....................................................................8
+       vehicular regulation at ................................................................... 7(1)
+
+                                                                 xv
+Traffic Sign, defined .....................................................................................3
+       interference with .................................................................................9
+       no parking .......................................................... 17.1, 17.2(b), 17.6(a)
+       obedience to .......................................................................................6
+       placed by City Engineer ....................................................... 4(2)(3), 31
+       placed by Chief Constable ......................................................... 4(4)(5)
+       unauthorized, prohibited .....................................................................8
+Traffic notice, not to be removed ................................................................64
+       not to be altered ...............................................................................65
+Trailer, defined .............................................................................................3
+       parking ................................................................................. 20.2(a)(b)
+Transit Route, defined ..................................................................................3
+Trees, injury prohibited ...............................................................................78
+Trolley: See Bus
+Truck Route
+       defined ...............................................................................................3
+       locations ................................................................................ 90A, 90B
+Truck Tractor, defined ...................................................................................3
+Turning
+       at intersections ........................................................................... 37, 42
+       "U" turns or Reverse Turning ............................................................38
+       across street .....................................................................................42
+Unattended vehicle on grade .................................................................. 18.3
+Vehicle, defined ............................................................................................3
+       abandoned .................................................................................... 72A
+       backing of ................................................................................ 39, 39A
+       driver must have hand on steering device ........................................ 41
+       exemptions: Emergency and Public Utility ........................................49
+       for sale, not to be parked on street .............................................. 81(3)
+       in motion, to be under control ...........................................................40
+       large, parking restricted .................................................................. 20.1
+       private, defined ...................................................................................3
+       not to be drive on sidewalk or boulevard ...................................... 80(1)
+       security for driving over sidewalk ................................................. 80(2)
+       use of horn .......................................................................................54
+       washing or repairing on street ..........................................................68
+       weight limits ......................................................................................94
+       (See also Commercial Vehicle)
+Vehicles for Hire
+       reserved parking .........................................................................17.2(j)
+       stopping at curbs ......................................................................... 48(1)
+       stopping in passenger and loading zones ............................. 21.1, 21.3
+       stopping in a lane .......................................................................... 19.2
+       stopping in designated stands only ...................................................48
+Viaducts, stopping on ......................................................................... 17.2(g)
+Violation of by-law .................................................................................... 102
+Warning bells or signals on bridges ............................................................52
+Washing vehicles on streets prohibited ......................................................68
+Water not to flow over street .................................................................. 71(3)
+Weaving prohibited ............................................................................... 43(6)
+
+                                                                xvi

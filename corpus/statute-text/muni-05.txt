@@ -1,7 +1,7 @@
 SOURCE_URL: https://web.archive.org/web/20260914125711id_/https://bylaws.vancouver.ca/6555c.PDF
 VERSION: Noise Control By-law No. 6555, consolidated to 14 July 2026 (By-law No. 14786); fetched through the Wayback Machine
 RETRIEVED: 2026-10-09
-SCOPE: Whole by-law, Parts 1-6. Schedules (zone maps and address lists) are left out of the text.
+SCOPE: Whole by-law, Parts 1-6 and the schedules (zone descriptions and address lists; the zone maps are images and do not survive as text).
 GAPS: none within the scope stated. Converted from the official HTML or PDF to plain text; web-page controls, running page headers, page numbers and form feeds removed; amendment-history lines and editor notes kept.
 ---
 BY-LAW NO. 6555
@@ -598,3 +598,732 @@ DONE AND PASSED in open Council this 12th day of September, 1989.
 
  (Signed)      “Maria Kinsella”
                      City Clerk
+                                            Schedule A
+
+                                            Activity Zone
+
+The following districts, which are more particularly described in the Zoning and Development By-law
+of the City of Vancouver, constitute part of the Activity Zone:
+
+                                    MC-1 DD         IC-3
+
+                                    MC-2 M-2        I-1
+
+                                    l-1A    l-1B    l-1C
+
+                                    M-1     CWD I-2
+
+                                    M-1A    IC-1    DEOD
+
+                                    M-1B    IC-2    I-3
+
+                                                    I-4
+
+and those CD-1 Districts identified below by the by-law which created them:
+
+                              CD     By-law     Approximate Location
+                              #      #
+
+                              177    5997       1060-80 Alberni
+
+                              200    6263       1308-38 Alberni
+233   6428   1500-20 Alberni
+
+258   6718   Burrard Waterfront
+             - east of Victoria
+
+200   6263   738 Broughton
+
+279   6884   550 Burrard
+
+229   6421   900 Burrard
+
+249   6654   3445-3541 Cornett
+
+182   6057   322-424 Drake
+
+249   6654   3003-3157 Grandview
+
+230   6423   3185-91 Grandview
+
+#3B   3656   3395 E. Hastings
+
+243   6577   757 W. Hastings
+
+164   5810   601 W. Hastings
+
+278   6885   901 W. Hastings
+
+273   6817   833 Helmcken
+
+229   6421   935-53 Hornby
+
+199   6260   1256-62 Howe
+
+265   6747   Int'l Village
+156   3865    Marine Drive
+
+235   6448    131 W. Pender
+
+163   5773    1095 W. Pender
+
+232   6427    758 Prior
+
+237   6475    Riverside East
+
+204   6304    800 Robson
+
+164   5810    333 Seymour
+
+70    4559    415 E. 5th
+
+125   5060    3555 E. 5th (Site B)
+
+198   6254    1700-81 W. 75th
+
+187   6072    2615-85 Cambie
+
+165   5818    3033 Cambie
+
+1     12271   650 West 41st Avenue
+
+113   4940    800 Cassiar
+
+117   4986    Champlain Heights
+
+238   6479    2800-3100 Commercial
+
+248   6564    1523 Davie
+286   6965   430 Dunlevy
+
+142   5411   3243 Findlay
+
+321   7232   1601 West Georgia Street
+             1601-1650 Bayshore Drive
+
+231   6425   2782-96 Grandview
+
+30    4123   5716 Granville
+
+206   6307   8118-8298 Granville
+
+169   5852   1020 Harwood
+
+205   6305   2889 E. Hastings
+
+80    4665   4949-51 Heather
+
+58    4446   900-990 W. King Edward
+
+111   4930   373-75 Kingsway
+
+100   4861   2280 Kingsway
+
+128   5145   2301-07 Kingsway
+
+171   5890   3003 Kingsway
+
+172   5927   3486-88 Kingsway
+
+411   8459   1220 East Pender Street
+
+361   7652   289 Alexander Street
+413   8536   801 West Georgia Street
+
+414   8546   600 Granville Street
+             602 Dunsmuir Street
+
+418   8740   488 Robson Street
+
+419   8819   1201 West Hastings Street
+
+420   8880   1402 – 1436 Kingsway and 4050 Knight Street
+
+422   8896   900 Pacific Boulevard
+
+423   8925   1475 Howe Street
+
+426   8943   1120 West Georgia Street
+
+428   8993   33 West Pender Street
+
+432   9088   950 Quebec Street
+
+435   9116   1380 Hornby Street
+
+443   9184   826 – 848 West Hastings Street
+
+442   9173   898 Seymour Street and
+             887 – 897 Richards Street
+
+439   9165                          rd
+             1752 – 1760 West 3 Avenue
+
+446   9195   1133 West Georgia Street
+
+450   9275   101 and 149 West Hastings Street
+             150 West Cordova Street
+453   9420    2999 Grandview Highway
+
+455   9460    701 Granville Street
+              701 West Georgia Street
+              777 Dunsmuir Street
+              700 West Pender Street
+
+458   9543    1655 – 1675 West 3rd Avenue
+
+484   10062   1372 Seymour Street
+
+491   10127   1142 Granville Street
+
+497   10189   2665 Renfrew Street
+
+502   10248   1304 Hornby Street
+
+509   10310   1025 Robson Street
+
+514   10344   639 Commercial Drive (York Theatre)
+
+517   10391   8495 Granville Street
+
+530   10477   2730 East 41st Avenue (5711 Rhodes Street)
+
+532   10491   1305 – 1335 Burrard Street and
+              1009 Harwood Street
+
+546   10688   960-982 Howe Street
+
+549   10756   1388 Continental Street
+
+551   10754   1265 – 1281 Howe Street and
+              803 – 821 Drake Street
+555   10819   475 Howe Street and
+              819 West Pender Street
+
+557   10829   4320 Slocan Street
+
+561   10872   955 East Hastings Street
+
+562   10870   508 Helmcken Street
+
+563   10874   1396 Richards Street
+
+571   10995   1300-1320 Richards Street
+
+570   10996   1107 Seymour Street
+
+580   11009   1412-1480 Howe Street,
+              1429 Granville Street,
+              and 710 Pacific Street
+
+579   11010   1410 Granville Street
+
+575   11017   2290 Main Street
+
+587   11106   1262 – 1290 Burrard Street
+
+588   11107   1229 – 1281 Hornby Street
+
+608   11244   33-49 East Hastings Street
+
+616   11311   3030 East Broadway
+
+633   11577   1575-1577 West Georgia Street and 620 Cardero
+              Street
+635   11581   468 West 33rd Avenue, and 4956 and 4958 Cambie
+              Street
+
+653   11726   225 Smithe Street
+
+667   11858   753 Seymour Street and 650 West Georgia Street
+
+666   11848   601 West Hastings Street
+
+686   11951   530 Drake Street
+
+683   11952   801 Pacific Street
+
+445   12004   969 Burrard Street and 1019-1045 Nelson Street
+
+699   12153   400 West Georgia Street and
+              725-731 Homer Street
+
+701   12173   575 Drake Street
+
+702   12175   320 Granville Street
+
+705   12176   1500 West Georgia street
+
+709   12241   124 Dunlevy Avenue
+
+714   12298   3681 Victoria Drive and
+              1915 Stainsbury Avenue
+
+722   12354   1133-1155 Melville Street
+
+776   12996   118-150 Robson Street
+
+791   13120   619-685 West Hastings Street
+789   13125   177 West Pender Street
+
+803   13257   150 West 4th Avenue
+
+814   13350   750 Southwest Marine Drive
+
+816   13352   110 West 4th Avenue
+
+818   13399   720 Beatty Street and 701 Expo Boulevard
+
+833   13485   1166 West Pender Street
+
+834   13486   1317 Richards Street and 508 Drake Street
+
+835   13487   443 Seymour Street
+
+837   13489   1190 Burrard Street
+
+883   14218   5-15 West 2nd Avenue and 1751 Ontario Street
+
+887   14237   625-777 Pacific Street and 1390 Granville Street
+
+889   14258   314-328 West Hastings Street
+
+892   14261   1290 Hornby Street
+
+895   14279   848 Seymour Street
+
+905   14398   430-440 West Pender Street
+
+918   14581   2111 Main Street
+
+915   14566   450-496 Prior Street, 550 Malkin Avenue and 1002
+              Station Street
+921   14647   414-420 West Pender Street
+                                            Schedule B
+
+                                        Intermediate Zone
+
+The following Districts, which are more particularly described in the Zoning and Development By-law
+of the City of Vancouver, constitute part of the Intermediate Zone:
+
+                                     C-1       C-5       HA-4
+
+                                     C-2       C-6
+
+                                     C-2A
+
+                                     C-2B      FC-1   FCCDD
+
+                                     C-2C      FC-2   BCPED
+
+                                    C-2C1      HA-1
+
+                                     C-3A      HA-2
+
+                                    HA-1A      HA-3
+
+                                     R3-1      R3-2      R3-3
+
+                                     R4-1
+
+                                     R5-1      R5-2      R5-3
+                                     R5-4
+
+                                    RR-3A RR-3B          RR-3C
+
+                                     C-5A
+
+                                     C-7
+
+                                     C- 8
+and those CD-1 Districts identified below by the by-law which created them:
+
+              CD #    By-law # Approximate Location
+
+              27      4085       4226 Arbutus
+
+              78      4634       4255-75 Arbutus
+
+              26      4078       4615-75 Arbutus
+
+              251     6676       888 Beach
+
+              106     4918       3606-30 Bering
+
+              141     5407       1155 E. Broadway
+
+              250     6663       1701-49 E. Broadway
+
+              167     5836       2402-2598 E. Broadway
+
+              186     6070       777 W. Broadway
+
+              158     5705       2676-96 W. Broadway
+
+              228     6420       891-901 Burrard
+
+              287     7006       1255 Burrard
+
+              239     6486       1275 Burrard
+
+              70      4559       400 Great Northern Way
+245   6597   3490 Kingsway
+
+162   5762   3496-3578 Kingsway
+
+194   6180   3551-71 Kingsway
+
+25    4076   3215 MacDonald
+
+272   6819   1152 Mainland
+
+136   5270   3350-80 Maquinna
+
+38    4238   671-95 S.E. Marine
+
+247   6533   2700-3000 S.E. Marine
+
+66    4539   688 S.W. Marine
+
+276   6876   1041 S.W. Marine
+
+140   5383   3600 Marine Way
+
+210   6313   4080-4190 Nanaimo
+
+268   6760   North Fraser Landing
+
+170   5863   2675 Oak
+
+266   6757   1100-1300 Pacific Blvd.
+
+125   5060   1890 Skeena
+
+180   4954   3075 Slocan
+219   6322   3206-54 Vanness
+
+201   6272   3352 Vanness
+
+131   5222   5660 Yew
+
+132   5224   5670 Yew
+
+183   6064   2800 E. 1st
+
+504   379    3282-98 E. 1st
+
+63    4510   1750 E. 10th
+
+137   5373   835-65 W. 10th
+
+196   6245   1096 W. 10th
+
+234   6429   2040-80 W. 10th
+
+158   5705   2657-93 W. 10th
+
+29    4104   2105 E. 12th
+
+46    4356   453 W. 12th
+
+62    4497   500 W. 12th
+
+284   6962   1630 W. 15th
+
+148   5510   176 E. 18th
+190   6155   2908 W. 33rd
+
+34    4159   809 W. 41st
+
+14    3963   1576 W. 41st
+
+189   6117   2149-89 W. 42nd
+
+55    4412   100 W. 49th
+
+103   4900   282-444 W. 49th
+
+68    4550   3150-80 E. 58th
+
+47    4358   601-99 W. 57th
+
+51    4384   750-52 W. 70th
+
+410   8457   7250 Oak Street
+
+59    4472   855 West 12th Avenue
+
+415   8587   651 Expo Boulevard
+
+41A   4296   1966 East 19th Avenue
+
+424   8926   745 – 749 West 42
+                                  nd
+                                       Avenue and 5816 – 5818
+             Tisdall Street
+
+425   8927   5312 – 5392 Oak Street
+
+427   8978   1001 – 1015 Denman Street
+429   9029   3704 – 3720 Welwyn Street
+
+430   9086                   nd
+             755 West 42 Avenue
+
+433   9113   1885 – 1895 Venables Street
+
+449   9230   Hillcrest Park and Nat Bailey Stadium Park
+
+454   9454                                st
+             51, 85, 199 and 215 West 1 Avenue
+             1599 – 1651 Ontario Street
+             1598 – 1650 Columbia Street
+
+456   9463              st
+             360 West 1 Avenue
+
+460   9573              st
+             388 West 1 Avenue
+
+462   9594              st
+             140 West 1 Avenue
+
+464   9600                    st
+             2 – 88 West 1 Avenue
+                             st
+             2 – 26 East 1 Avenue
+                                   nd
+             27 – 99 West 2 Avenue
+
+468   9665   1409 – 1477 West Pender Street
+
+471   9707              nd
+             311 West 2 Avenue
+
+478   9850             st
+             188 East 1 Avenue
+
+479   9972   2960 – 2990 Nanaimo Street
+
+358   7648                                      th
+             711 West Broadway and 700 West 8 Avenue
+482   10029   1300 – 1336 Granville
+
+483   10033                   st
+              236 – 298 West 1 Avenue
+487   10094                                      th
+              2330 – 2372 Kingsway and 2319 East 30 Avenue
+
+489   10101   1201-1215 Bidwell Street and 1702-1726 Davie
+              Street
+493   10131   745 Thurlow Street
+494   10132   538-560 West Broadway
+495   10134   3333 Main Street
+501   10241             nd
+              215 West 2 Avenue
+503   10249   1304 Howe Street
+496   10260   2250 Commercial Drive
+504   10273   1553 – 1577 Main Street
+506   10307   15 and 97 East 2nd Avenue
+508   10308   1569 West 6th Avenue
+510   10327   1134 Burrard Street
+511   10328   138 East 7th Avenue
+512   10331   1850 Victoria Diversion
+516   10348   1650 Quebec Street
+515   10349   999 Seymour Street
+513   10382   2402 East Broadway
+518   10392   428 Terminal Avenue
+522   10425   104 – 150 East 1st Avenue
+523   10432   8440 Cambie Street
+524   10431   1880 Renfrew Street
+525   10433   555 Robson Street,
+              775 Richards Street and
+              520 West Georgia Street
+526   10457   606 Powell Street
+527   10458   6311 Cambie Street
+529   10472   2667 – 2703 Kingsway
+531   10482   105 - 167 West 2nd Avenue
+533   10500   111 Princess Avenue
+534   10543   1695 Main Street
+535   10547   8018 – 8150 Cambie Street
+536   10548   675 – 691 East Broadway
+537   10566   1030 Denman Street
+544   10653   1077 Great Northern Way
+547   10737   611 Main Street
+548   10760   6361 – 6385 Cambie Street
+553   10787   633 Main Street
+556   10827   2220 Kingsway
+558   10841   3002 – 3036 West Broadway
+572   10998   1568 East King Edward Avenue
+              (formerly 1526-1560 Kingsway)
+577   11020   8175 Cambie Street, 519 Southwest Marine Drive
+              and 8180-8192 Lord Street
+565   10942   Park Precinct
+566   10941   Town Square Precinct
+567   10943   Waterfront Precinct
+582   11069   201 West 2nd Avenue
+584   11074   7249 Cypress Street
+590   11110   4099 Cambie Street
+591   11124   228 – 246 East Broadway and 180 Kingsway
+596   11159   960 – 968 Kingsway and 955 East 19th Avenue
+602   11199   2806 Cambie Street, 2850 Cambie Street, 454 West
+              12th Avenue and 465 West 13th Aveune
+607   11243   1155 Thurlow Street
+610   11292   3501 – 3523 East Hastings Street and
+              394 – 398 Skeena Street
+614   11294   275 Kingsway (333 East 11th Avenue)
+618   11317   984 West Broadway
+620   11374   1412-1424 East 41st Avenue
+626   11487   450 Gore Avenue
+627   11486   7510-7554 Cambie Street
+630   11525   1600-1620 West 6th Avenue
+637   11622   3063-3091 West Broadway
+638   11623   5648-5678 Victoria Drive
+642   11664   4375 Arbutus Street
+643   11661   1335 Howe Street
+647   11707   2805 East Hastings Street
+648   11712   6318-6340 Cambie Street
+658   11754   2308 East 34th Avenue
+662   11784   5050-5080 Joyce Street
+663   11792   1070-1090 West Pender Street
+665   11801   585 West 41st Avenue (5688 Ash Street)
+328   11805   4066 Macdonald Street and 2785 Alamein Avenue
+659   11770   6505-6541 Main Street
+668   11864   101 East 2nd Avenue
+672   11888   2106-2138 Main Street
+671   11893   2894 East Broadway
+677   11900   3068 Kingsway
+682   11933   1495 West 8th Avenue
+684   11944   1837-1847 Main Street and
+              180 East 2nd Avenue and
+              157-185 East 3rd Avenue
+685   11950   2395-2469 Kingsway
+694   12073   371 West 2nd Avenue
+700   12157   3868-3898 Rupert Street and
+              3304-3308 East 22nd Avenue
+679   11930   725-747 Southeast Marine Drive
+60    11899   3595 Kingsway
+704   12195   155 East 37th Avenue (Little Mountain)
+706   12177   8242 Oak Street
+707   12178   2109 East Hastings Street
+708   12179   1296 West Broadway
+715   12299   1619-1651 East Broadway
+717   12306   454 West Pender Street
+718   12305   424-428 West Pender Street
+719   12304   2221-2223 Main Street
+720   12326   1715 Cook Street
+716   12300   2075 West 12th Avenue
+723   12363   5679 Main Street
+728   12425   3070 Kingsway
+730   12464   478-496 West 48th Avenue
+731   12496   425 West 6th Avenue
+732   12497   61-95 West Hastings Street
+734   12509   1906-1918 West 4th Avenue
+733   12498   2153-2199 Kingsway
+735   12522   58 West Hastings Street
+741   12665   1303 Kingsway and 3728 Clark Drive
+742   12666   3510 Fraser Street
+743   12675   3281-3295 East 22nd Avenue
+745   12726   686-688 East 22nd Avenue, 3811-3891 Fraser
+              Street and 679 East 23rd Avenue
+746   12744   3429-3469 Fraser Street
+756   12861   3435 East Hastings Street
+761   12883   1002 Station Street and 250-310 Prior Street
+759   12870   3600 East Hastings Street
+760   12871   2601-2619 East Hastings Street
+768   12940   5055 Joyce Street
+772   12962   1102-1138 East Georgia Street
+770   12946   6161 Cambie Street
+775   12995   4506 Rupert Street and 3309 Price Street
+749   12762   420 Hawks Avenue
+779   13061   203-263 West 49th Avenue
+780   13062   2406-2488 Garden Drive
+781   13082   1111-1123 Kingsway
+782   13083   2543-2583 Renfrew Street and
+              2895 East 10th Avenue
+783   13804   2603-2655 Renfrew Street
+790   13114   105-125 West 49th Avenue
+784   13107   2735 East Hastings Street
+787   13108   835-837 East Hastings Street
+786   13104   4745-4795 Main Street
+785   13103   3701-3743 West Broadway
+792   13144   445 Kingsway and 2935 St. George Street
+794   13147   815-825 Commercial Drive and 1680 Adanac Street
+793   13154   3220 Cambie Street
+796   13177   5740 Cambie Street
+801   13221   1636 Clark Drive and 1321-1395 East 1st Avenue
+806   13286   2725-2751 Kingsway
+809   13302   810 Kingsway
+813   13329   1650 East 12th Avenue
+817   13353   1265-1281 Kingsway
+820   13416   3532 East Hastings Street
+819   13415   1015 East Hastings Street
+826   13478   24 East Broadway and 2520 Ontario Street
+830   13482   7280 Fraser Street
+832   13484   319-359 West 49th Avenue
+839   13493   5590 Victoria Drive
+842   13558   1477 West Broadway
+843   13588   878-898 West Broadway
+844   13589   2202-2218 Main Street and 206 East 6th Avenue
+845   13614   728-796 Main Street
+846   13625   2406-2484 Renfrew Street
+847   13626   131-163 West 49th Avenue
+              4408-4488 Fraser Street and
+850   13662   707-709 East 29th Avenue
+851   13696   6409-6461 Cambie Street and
+              505 West 49th Avenue
+854   13700    3304 Kingsway
+855   13744   5670 Cambie Street
+              (formerly 495 West 41st Avenue)
+859   13776   3970-3998 Main Street
+
+858   13764   427-477 West 49th Avenue
+862   13928   1247 Kingsway
+865   13966   3205 Arbutus Street
+870   14096   1943-1999 East Hastings Street
+871     14118   3231-3245 Fraser Street and
+                675 East 17th Avenue
+874     14120   5755-5791 Oak Street and
+                1008 West 41st Avenue
+876     14147   1961–1995 East Broadway and
+                2465 Semlin Drive
+877     14149   1040-1080 Barclay Street
+878     14166   357-475 West 41st Avenue
+881     14247   657 West 37th Avenue
+896     14320   5630, 5650, and 5668-5678 Heather Street
+899     14333   3352-3386 Vanness Avenue and 3347 Clive Avenue
+902     14348   3353 Cambie Street
+903     14385   523-549 East 10th Avenue
+(285)   6963    950 West 41st Avenue
+905     14397   701 Kingsway
+909     14499   1434-1456 West 8th Avenue
+910     14500   208 East 54th Avenue, 7018-7078 Main Street and
+                211 East 55th Avenue
+912     14505   1726 West 11th Avenue
+917     14580   4001-4009 Knight Street and
+                1348 East 24th Avenue
+919     14625   800 Commercial Drive
+                2096 West Broadway and
+914     14564   2560-2576 Arbutus Street
+924     14665   1710-1730 East Pender Street
+922     14663   1302-1318 East 12th Avenue
+Schedule B.1
+Schedule C
+                      Schedule D
+
+{MANUFACTURER=S MODEL NUMBER}
+      MAXIMUM SOUND LEVEL 65 dB(A)
+      Measured at 50 ft (15m) Per ANSI B175.2-2000
+                          Schedule G
+
+                          Event Zone
+
+        The following CD-1 Districts constitute part of the Event Zone:
+
+CD-1#                 By-law #                Approximate location
+ 520                   10403                    10 Terry Fox Way
+ 519                   10404                  777 Pacific Boulevard
+ 311                    7201                    800 Griffiths Way
+ 593                   11125                   998 Expo Boulevard
+                                             (Concord Area 5B West)
+Schedule G.1
